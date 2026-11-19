@@ -1,0 +1,3249 @@
+{
+  "table": "dialogue",
+  "entries": {
+    "OP2_Independent_Andrew_Q_Auftragsmord_Auswahl1": {
+      "text": "暗殺",
+      "source": "727eeac801afb1b1"
+    },
+    "OP2_Independent_Andrew_Q_Auftragsmord_Auswahl1_1": {
+      "text": "南の橋を修理していたら、雇われた殺し屋どもに襲われたんです。「L」と名乗る女が黒幕でした。",
+      "source": "be50cb7354e5f549"
+    },
+    "OP2_Independent_Andrew_Q_Auftragsmord_Auswahl1_2": {
+      "text": "ここまで来るのは大変だったでしょう。申し訳ありません。「L」という名の女性ですか？\u3000少し考えさせてください。うーん……私が何か言う前に、まずはジョセフ殺害事件を解決したほうがいいでしょう。そこでわかることが、この件にとって重要になるかもしれません。",
+      "source": "3efb77ae64d45d99"
+    },
+    "OP2_Independent_Andrew_Q_Auftragsmord_Auswahl2": {
+      "text": "ジョセフ殺害事件",
+      "source": "c34a6677d63575f6"
+    },
+    "OP2_Independent_Andrew_Q_Auftragsmord_Auswahl2_1": {
+      "text": "ジョセフが冷酷に殺された件は聞きましたか？\u3000見張りたちは、何も気づかなかったと言っています。保安官と話して、どうやら「L」が殺しの黒幕らしいとわかりました。その手がかりを追って、ここまで来たんです。",
+      "source": "f8b939780949288b"
+    },
+    "OP2_Independent_Andrew_Q_Auftragsmord_Auswahl2_2": {
+      "text": "ここまで来るのは大変だったでしょう。申し訳ありません。それから、お悔やみを申し上げます。ジョセフは良い指導者でした。あそこまで堕ちてしまったのが残念です。",
+      "source": "a982ee5d08b38036"
+    },
+    "OP2_Independent_Andrew_Q_Auftragsmord_Auswahl2_3": {
+      "text": "俺たちは、ジョセフが本当にあれだけのことをやったとは思っていません。真犯人が真相を隠すために、彼の口を封じたのかもしれない。手がかりは、「L」という名の女につながっています。俺たちにも、何度か殺し屋を差し向けてきた女です。",
+      "source": "bd5ae0c5ad876c6f"
+    },
+    "OP2_Independent_Andrew_Q_Auftragsmord_Auswahl2_4A_1": {
+      "text": "ふむ、もしそうだとすると……。つまり、ジョセフの手紙は偽物だったとお考えなんですね？\u3000だとしたら、ジョセフはなんとも悲劇的な最期を遂げたことになります……「L」という名の女性ですか？\u3000少し考えさせてください。うーん……思い当たるのは、テレンスの奥さんのラリッサくらいですね。",
+      "source": "800d4b7e5a3bb89f"
+    },
+    "OP2_Independent_Andrew_Q_Auftragsmord_Auswahl2_4A_2": {
+      "text": "ラリッサ？\u3000前に聞いたことのある名前です。たしか、ジャックの古い友人だったはずです。",
+      "source": "eed0d4cb4ad9405a"
+    },
+    "OP2_Independent_Andrew_Q_Auftragsmord_Auswahl2_4A_3": {
+      "text": "そのとおりです。彼女はジャックのキャンプの一員でした。今、ラリッサはここで商人をしているのですが、最近いなくなってしまいまして。夫の死を知ってから、すっかり心を閉ざしてしまったんです。",
+      "source": "10b6d8966622c395"
+    },
+    "OP2_Independent_Andrew_Q_Auftragsmord_Auswahl2_4A_4": {
+      "text": "砂漠のこのあたりに、隠れ家があるかもしれません。地図を見てください。そこで彼女が見つかるかもしれません。ですが、気をつけてください。危険な地域ですから。",
+      "source": "c07f493a530163d9"
+    },
+    "OP2_Independent_Andrew_Q_Auftragsmord_Auswahl2_4B_1": {
+      "text": "彼女はテレンスと一緒に働いています。テレンスはいい人ですよ。最近、ここでバーテンダーとして働き始めたんです。彼がここにいられるのはあなたのおかげだそうですね。ありがとうございます！\u3000彼に会いに行ってみてください。",
+      "source": "74d128ceabbd0c4f"
+    },
+    "OP2_Independent_Jamal": {
+      "text": "よう、[Player]！\u3000よく来てくれたな！\u3000眺めは最高とは言えないが、ここなら安心していられる！\u3000チャールズ将軍に俺のことを密告しないでくれて、ありがとな。ジャックにくれぐれもよろしく伝えてくれ。ほら、感謝の印に徹甲弾を持っていってくれ！",
+      "source": "d9bd2a0f294b9617"
+    },
+    "OP2_Independent_Larissa_Auswahl1": {
+      "text": "暮らし",
+      "source": "52d46ffedcf86c4d"
+    },
+    "OP2_Independent_Larissa_Auswahl1_1": {
+      "text": "調子はどうだ？",
+      "source": "0ed2cf47bfb03e54"
+    },
+    "OP2_Independent_Larissa_Auswahl1_2": {
+      "text": "戻ってきて、ここの商人をやってるよ。ちょっと退屈だけど、昔みたいにジャックと一緒に血と泥にまみれてるより、ずっとましさ。",
+      "source": "ffd89a223c3fe2a9"
+    },
+    "OP2_Independent_Larissa_Auswahl1_3A": {
+      "text": "テレンスがいなくても何とかやれてるけど、やっぱりすごく恋しいよ。あんたがあのとき引き金を引いてなかったら、どうなってたんだろうって、いつも考えちゃうんだ。",
+      "source": "43d2aca7251a067d"
+    },
+    "OP2_Independent_Larissa_Auswahl1_3B": {
+      "text": "テレンスとまた一緒になれて、本当にうれしいよ。あの人がいろいろ心配してくれるのが、なんだかかわいくてさ。",
+      "source": "9e4ee4b48db26a3f"
+    },
+    "OP2_Independent_Larissa_Auswahl2": {
+      "text": "テレンスの隠し財産",
+      "source": "e6c4c51ebd519c95"
+    },
+    "OP2_Independent_Larissa_Auswahl2_1": {
+      "text": "何を持ってきたと思う？",
+      "source": "afb1619b2242e344"
+    },
+    "OP2_Independent_Larissa_Auswahl2_2": {
+      "text": "やった！\u3000お宝を取り戻してくれたんだね！\u3000債券と証券はあたしがもらうよ。代わりに、武器を最大まで強化できる、このとびきりの強化キットをあげる。いい取引でしょ？",
+      "source": "abde17339d1bd02f"
+    },
+    "OP2_Independent_Larissa_SubAuswahl1A": {
+      "text": "はい。",
+      "source": "5f9a2b795615ba6a"
+    },
+    "OP2_Independent_Larissa_SubAuswahl1A_1": {
+      "text": "あはは、最高！\u3000これを鍛冶場に持っていきな！",
+      "source": "88aa9b7b4d77d484"
+    },
+    "OP2_Independent_Larissa_SubAuswahl1B": {
+      "text": "いいえ。",
+      "source": "38178a20b470cfd1"
+    },
+    "OP2_Independent_Larissa_SubAuswahl1B_1": {
+      "text": "ふん、勝手にしな。損するのはそっちだよ！",
+      "source": "05b281b7b9b69d6d"
+    },
+    "OP2_Independent_Terence_Auswahl1": {
+      "text": "テレンス",
+      "source": "10ff985cae895047"
+    },
+    "OP2_Independent_Terence_Auswahl1_1": {
+      "text": "おや、バーテンダーのテレンスじゃないか！\u3000無事にたどり着けたようで何よりだ。",
+      "source": "1f0d8544c1bb5ad2"
+    },
+    "OP2_Independent_Terence_Auswahl1_2": {
+      "text": "おお、我が友[Player]！\u3000あのとき見逃してくれたことには、でかい借りがあるな。何もかもひどい状況だった。今じゃ、この酒場を切り盛りして、いい暮らしをしてるよ。きついサイドジョブは、ほかのやつらに任せてな。ははっ！",
+      "source": "76c3ca3c791688b7"
+    },
+    "OP2_Independent_Terence_Auswahl3": {
+      "text": "暮らし",
+      "source": "52d46ffedcf86c4d"
+    },
+    "OP2_Independent_Terence_Auswahl3_1": {
+      "text": "ここでの暮らしはどうだ？",
+      "source": "b0f5209efcb5a7ac"
+    },
+    "OP2_Independent_Terence_Auswahl3_2": {
+      "text": "ラリッサがまたここで暮らすと決めてくれて、本当にうれしいよ。あいつのおかげで、生きてる甲斐があるってもんだ。パンクスにいた頃のことは、もう過去のことにしたいんだ。",
+      "source": "9c3364af0c85ae8c"
+    },
+    "OP2_Independent_Terence_Q_Auftragsmord_Auswahl2": {
+      "text": "「L」という女",
+      "source": "524c31387dc1d0c4"
+    },
+    "OP2_Independent_Terence_Q_Auftragsmord_Auswahl2_1": {
+      "text": "パンクスに待ち伏せされたんだ。わかってるのは、「L」という女が襲撃の黒幕だってことだけだ。何か知らないか？",
+      "source": "36d85d7115b896e3"
+    },
+    "OP2_Independent_Terence_Q_Auftragsmord_Auswahl2_2A": {
+      "text": "それ、俺が答えなきゃいけないのか？\u3000アンドリューと話したほうがいいと思うぜ。ここの責任者はあの人だからな。",
+      "source": "df6acab473d5c047"
+    },
+    "OP2_Independent_Terence_Q_Auftragsmord_Auswahl2_2B": {
+      "text": "アンドリューから、あんたの奥さんの名前はラリッサだと聞いた。彼女が襲撃の黒幕だって可能性はあるか？",
+      "source": "c6277c7b41969e89"
+    },
+    "OP2_Independent_Terence_Q_Auftragsmord_Auswahl2_2B1": {
+      "text": "ラリッサがそこまで落ちぶれるとは、とても信じられないな。たしかに、あいつはパンクスと関わってる。俺たちは揉めて、あいつは出ていっちまったんだ。できるなら、あいつをそこから連れ出してやってくれ。ここに行けば会えるかもしれない。",
+      "source": "5cb7970ff07eb90e"
+    },
+    "OP_Schmuggler_Arenameister_Ablehnen": {
+      "text": "断る",
+      "source": "2631349bff4daf19"
+    },
+    "OP_Schmuggler_Arenameister_Ablehnen_1": {
+      "text": "先に戦いの準備をしておくよ。",
+      "source": "70ec4033dc98663e"
+    },
+    "OP_Schmuggler_Arenameister_Annehmen": {
+      "text": "受ける（参加費: [@ArenaCost]ドル、所持金: [Inventory_Resource_0]ドル）",
+      "source": "78ecdfc1c65a499a"
+    },
+    "OP_Schmuggler_Arenameister_Auswahl1": {
+      "text": "闘技場",
+      "source": "77d7cd99073bd654"
+    },
+    "OP_Schmuggler_Arenameister_Auswahl1_1": {
+      "text": "ここには金を稼げる闘技場があるって聞いたんだが？",
+      "source": "06e9af33a8175d32"
+    },
+    "OP_Schmuggler_Arenameister_Auswahl1_2": {
+      "text": "おめでとう。ちゃんと目がついてるじゃないか！\u3000俺の後ろのリングと観客席は、ただの飾りじゃない。血と汗と涙にまみれた、正真正銘の闘技場だ！",
+      "source": "194c58d1657cc386"
+    },
+    "OP_Schmuggler_Arenameister_Auswahl1_3": {
+      "text": "参加費はドルで払ってもらう。試合に勝てば、倍にして返してやる。",
+      "source": "e9d4aaf7eff76902"
+    },
+    "OP_Schmuggler_Arenameister_Auswahl1_4": {
+      "text": "言っとくが、死ぬまで戦うわけじゃない。最悪でも、殴られて気を失うくらいで済むはずだ。失うのは金だけさ。なにしろ、あんたらにはまた賭けて、また負けてもらわなきゃならないからな。",
+      "source": "017075f7fb266f80"
+    },
+    "OP_Schmuggler_Arenameister_Auswahl2": {
+      "text": "闘技場の王者",
+      "source": "909a74af73e731fa"
+    },
+    "OP_Schmuggler_Arenameister_Auswahl2_1": {
+      "text": "俺たちが新しい王者だ！",
+      "source": "ce811a63fd88419e"
+    },
+    "OP_Schmuggler_Arenameister_Auswahl2_2a": {
+      "text": "それでいいんだ！\u3000なにせ俺たちは密輸業者だからな。これが俺たちのやり方さ！\u3000王座獲得おめでとう。キラもさぞ感心するだろうよ！",
+      "source": "0af485a4d4275c92"
+    },
+    "OP_Schmuggler_Arenameister_Auswahl2_2b": {
+      "text": "正直言うと、あんたらが負けるほうに賭けてたんだ。だが、見せつけてくれたな！\u3000大したもんだ！",
+      "source": "96e409cdf544dbe2"
+    },
+    "OP_Schmuggler_Arenameister_Auswahl2_3a": {
+      "text": "あんたらの噂でもちきりだぞ。本部でも王者になったんだってな！\u3000まったく恐れ入ったよ！",
+      "source": "124d2118efa748a9"
+    },
+    "OP_Schmuggler_Arenameister_Auswahl2_3b": {
+      "text": "おっと、忘れないうちに言っとく。本部の闘技場でも試合が待ってるぞ。あっちでも王者になれたら、密輸業者の間で伝説になれるぜ！",
+      "source": "fe6343f0a546a295"
+    },
+    "OP_Schmuggler_Arenameister_Auswahl3": {
+      "text": "ルール",
+      "source": "4228aeb07c410ffc"
+    },
+    "OP_Schmuggler_Arenameister_Auswahl3_1": {
+      "text": "ルールをもう一度教えてくれ。",
+      "source": "d7ca31441f50eedd"
+    },
+    "OP_Schmuggler_Arenameister_Kampf1": {
+      "text": "第1試合（推奨レベル2）",
+      "source": "abf425192868f93b"
+    },
+    "OP_Schmuggler_Arenameister_Kampf1_1": {
+      "text": "戦わせてくれ！",
+      "source": "845d4b73de3283a6"
+    },
+    "OP_Schmuggler_Arenameister_Kampf1_2": {
+      "text": "いいね。最初の試合はただの肩慣らしだ。なんたって新入りだからな。相手は略奪者の野営地のひとつから連れてきたチンピラ4人。あいつらは……好きでここにいるわけじゃなくてな。自由をかけて戦うチャンスってわけだ。",
+      "source": "2cf65f912e2fb3df"
+    },
+    "OP_Schmuggler_Arenameister_Kampf1_3": {
+      "text": "頭の出来がいまいちな連中だから、まだまだ当分は楽しませてくれるだろうよ。最初の試合の参加費は25ドルだ。仲間はそろってるか？",
+      "source": "dc06da828c8cd835"
+    },
+    "OP_Schmuggler_Arenameister_Kampf1_Arena": {
+      "text": "闘技場へようこそ！\u3000新たなキャンプが名乗りを上げたぞ。さあ賭けてくれ、ジャックのキャンプの勇敢なる闘士、[Player]に！\u3000対するコーナーは、みんな大好き、薄汚いろくでなしども――略奪者だ！",
+      "source": "ec47a7247d3c8d9b"
+    },
+    "OP_Schmuggler_Arenameister_Kampf1_Gewonnen": {
+      "text": "略奪者どもは、またしても土をなめたーっ！\u3000勝者は、ジャーーーックのキャーーーンプ！",
+      "source": "83697ace183b81fb"
+    },
+    "OP_Schmuggler_Arenameister_Kampf1_Verloren": {
+      "text": "勝者は……まさかの、略奪者だ！\u3000奴らは本当に自由を勝ち取ってしまうのか？\u3000なんというシンデレラストーリー！",
+      "source": "78860131478b99c7"
+    },
+    "OP_Schmuggler_Arenameister_Kampf2": {
+      "text": "第2試合（推奨レベル3）",
+      "source": "61320930582e8737"
+    },
+    "OP_Schmuggler_Arenameister_Kampf2_1": {
+      "text": "また戦う準備はできてる。",
+      "source": "9521aef9a5efcdcb"
+    },
+    "OP_Schmuggler_Arenameister_Kampf2_2": {
+      "text": "あの略奪者どもの中に、感染してたやつはいなかったか？\u3000調べておいたほうがいいな。あの馬鹿どもに疫病をこれ以上広められちゃたまらない。感染といえば……次の試合の相手はアンデッド6体だ。守りには木のバリケードを用意してやる。あとはあんたら次第だ。",
+      "source": "25c5c57540309653"
+    },
+    "OP_Schmuggler_Arenameister_Kampf2_3": {
+      "text": "アンデッドだって？\u3000死ぬまで戦わせないって話はどうなったんだ？",
+      "source": "a8b0d3655d9895d6"
+    },
+    "OP_Schmuggler_Arenameister_Kampf2_4": {
+      "text": "ビビってちびるなよ。歯は抜いてある。感染させられる心配はないし、最悪でもめった打ちにされて倒れるくらいだ。気を失ったら、こっちで引きはがしてやる。参加費35ドルで出場できるぞ。",
+      "source": "ea12241dd2aee90a"
+    },
+    "OP_Schmuggler_Arenameister_Kampf2_Arena": {
+      "text": "新たな試合が始まるぞ！\u3000ジャックのキャンプは前回その実力を見せつけてくれたが、今日もまた見せてくれるそうだ！\u3000対戦相手探しには金に糸目をつけなかった。かつては誰かの息子や娘だった者たち。今日はよろめき歩く死者だ！\u3000さあ賭けた賭けた！\u3000ジャックのキャンプ対ゾンビ！",
+      "source": "cf7199ea72325056"
+    },
+    "OP_Schmuggler_Arenameister_Kampf2_Gewonnen": {
+      "text": "勝者は……ジャーーーーックのキャーーンプ！\u3000アンデッドでさえ、このしぶとい生存者たちには歯が立たなかった！\u3000人類1、黙示録0！",
+      "source": "1249fec2553c4b63"
+    },
+    "OP_Schmuggler_Arenameister_Kampf2_Verloren": {
+      "text": "信じられない！\u3000ゾンビの勝利だ！\u3000ああ、なんとも気が滅入る。ジャックのキャンプの皆さんがゾンビにならないことを祈ろう。どっちに転んでも、また闘技場でお目にかかれるのは間違いなしだ！",
+      "source": "e15537922325750b"
+    },
+    "OP_Schmuggler_Arenameister_Kampf3": {
+      "text": "第3試合（推奨レベル5）",
+      "source": "fba90e7152a82542"
+    },
+    "OP_Schmuggler_Arenameister_Kampf3_1": {
+      "text": "また戦う準備はできてる。",
+      "source": "9521aef9a5efcdcb"
+    },
+    "OP_Schmuggler_Arenameister_Kampf3_2": {
+      "text": "あのゾンビどもじゃ相手にならなかったな。今回は少し条件を五分に近づけてやろう。筋金入りのパンクスを4人捕まえたんだ。どうやら一人はエンジニアらしいから、タレットや罠を相手にすることになるぞ。",
+      "source": "9fe440b5491703e2"
+    },
+    "OP_Schmuggler_Arenameister_Kampf3_3": {
+      "text": "この試合の参加費は50ドルだ。危ない橋だが、渡る価値はあるぞ。",
+      "source": "e252dc2854855250"
+    },
+    "OP_Schmuggler_Arenameister_Kampf3_Arena": {
+      "text": "次の試合、心の準備はいいか！\u3000ジャックのキャンプはアンデッドの大群にも一歩も引かなかった。略奪者どもも打ち負かした！\u3000そして今、これまでで最大の試練に挑む。フリーダムシティ西部の下水道でとっ捕まえてきたばかり、びしょ濡れで臭っさいパンクス4人だ！",
+      "source": "3c8c9807b2bad0a8"
+    },
+    "OP_Schmuggler_Arenameister_Kampf3_Gewonnen": {
+      "text": "またしても勝者は、ジャーーーックのキャーーンプ！\u3000臭えパンクスどもは当然の報いを受けた。これで自分たちの生き方をじっくり見つめ直せるだろうよ！",
+      "source": "3d1f43566bd4c783"
+    },
+    "OP_Schmuggler_Arenameister_Kampf3_Verloren": {
+      "text": "すばらしい試合だった！\u3000残念ながら、勝っちゃいけないほうが勝っちまったがな、ハハハ！\u3000あの汚らしいパンクスどもが、相手に痛みってものを教えてやった。ジャックのキャンプはこれからどうなるのか？\u3000また会えるのか？\u3000答えが知りたきゃ、またのお越しを！",
+      "source": "ff74d742ddc86d46"
+    },
+    "OP_Schmuggler_Arenameister_Kampf4": {
+      "text": "王座決定戦（推奨レベル6）",
+      "source": "0f047412dac466df"
+    },
+    "OP_Schmuggler_Arenameister_Kampf4_1": {
+      "text": "ジャックのキャンプを闘技場の王者にする準備はできてる。",
+      "source": "55b6d5c5021e1afe"
+    },
+    "OP_Schmuggler_Arenameister_Kampf4_2": {
+      "text": "ここまでよく勝ち上がってきたな。すっかり名を上げたじゃないか。次の試合に勝てば、あんたらがてっぺんだ！\u3000ただ、今の王者は本当に手強いぞ。元は歴戦の兵士だった密輸業者たちだ。参加費は50ドル。",
+      "source": "50ade11af5b7635c"
+    },
+    "OP_Schmuggler_Arenameister_Kampf4_3": {
+      "text": "あんたらにこいつの相手が務まるかね。いや、この先も無理かもな。ハハハ！",
+      "source": "a9a1e76177f02f55"
+    },
+    "OP_Schmuggler_Arenameister_Kampf4_4": {
+      "text": "脅して試合から手を引かせるつもりか？",
+      "source": "8ce0a1e4f4356d1b"
+    },
+    "OP_Schmuggler_Arenameister_Kampf4_5": {
+      "text": "忠告してるだけさ。あんたらのことは気に入ってるし、腕も立つ。だから参加費も50ドルで勘弁してやってるんだ。有り金を一度に全部すっちまわれたら困るからな！",
+      "source": "51ec1059c876dd34"
+    },
+    "OP_Schmuggler_Arenameister_Kampf4_6": {
+      "text": "別の手もあるにはある。酒場の主人のトリクシーは、俺に借りがあってな。あいつなら……ちょっと説得すれば、試合前に王者たちの酒に何か……特別なものを混ぜてくれるかもしれない。誰にもバレやしないさ。",
+      "source": "6a4ba6ea024be199"
+    },
+    "OP_Schmuggler_Arenameister_Kampf4_7": {
+      "text": "イカサマをしろってのか？",
+      "source": "82ba5f65430e5cc2"
+    },
+    "OP_Schmuggler_Arenameister_Kampf4_8": {
+      "text": "友達同士の取引だと思えばいい。俺たちは友達だろ？\u3000こっちは闘技場を盛り上げてくれる新しい王者が欲しいし、あんたらは箔が欲しい。もちろん、賞金は山分けだ。よく考えてみな！",
+      "source": "887cb295bc901342"
+    },
+    "OP_Schmuggler_Arenameister_Kampf4_Arena_a": {
+      "text": "紳士淑女の皆さま！\u3000王座をかけたタイトルマッチだ！\u3000ジャックのキャンプが、我らが愛する王者に挑戦状を叩きつけた。彼らのリーダーは病に倒れたが、この生存者たちはその名誉のために戦う！\u3000さあ皆さん、賭けてくれ！\u3000この一戦には大金がかかってるぞ！",
+      "source": "a3e60d5b882aca4d"
+    },
+    "OP_Schmuggler_Arenameister_Kampf4_Arena_b": {
+      "text": "紳士淑女の皆さま！\u3000王座をかけたタイトルマッチだ！\u3000ジャックのキャンプが、我らが愛する王者に挑戦状を叩きつけた。うちのトップの密輸業者たちに話を聞いたら、挑戦者の首を引っこ抜いてやると約束してくれたぞ！\u3000こいつは見ものだ！\u3000さあ皆さん、賭けてくれ！\u3000この一戦には大金がかかってるぞ！",
+      "source": "917109a4132657f1"
+    },
+    "OP_Schmuggler_Arenameister_Kampf4_Auswahl1": {
+      "text": "イカサマをする（参加費: [@ArenaCost]ドル、所持金: [Inventory_Resource_0]ドル）",
+      "source": "2726b8590be74da5"
+    },
+    "OP_Schmuggler_Arenameister_Kampf4_Auswahl1_1": {
+      "text": "わかった。賞金は山分けでいい。トリクシーに、話に乗ったと伝えてくれ。",
+      "source": "18cb95f317907cc8"
+    },
+    "OP_Schmuggler_Arenameister_Kampf4_Auswahl1_2": {
+      "text": "そうこなくちゃ。商売の話ならいつでも大歓迎だ。これで勝ったも同然だぞ。",
+      "source": "1a0135148518ed56"
+    },
+    "OP_Schmuggler_Arenameister_Kampf4_Auswahl2": {
+      "text": "正々堂々と戦う（参加費: [@ArenaCost]ドル、所持金: [Inventory_Resource_0]ドル）",
+      "source": "ab32d9f76df1f561"
+    },
+    "OP_Schmuggler_Arenameister_Kampf4_Auswahl2_1": {
+      "text": "勝つなら、正々堂々と勝ち取る。中身のない王座になんて興味はない。",
+      "source": "cf822b61da4875ef"
+    },
+    "OP_Schmuggler_Arenameister_Kampf4_Auswahl2_2": {
+      "text": "そのプライドが命取りになるぞ。だが、こんなご時世でも誠実さってやつがまだ残ってるのを見るのは悪くない。ただ、あとで一文無しのあざだらけになって闘技場から這い出してきても、文句は言うなよ。",
+      "source": "bada3dabae7ebd38"
+    },
+    "OP_Schmuggler_Arenameister_Kampf4_Gewonnen": {
+      "text": "信じられない！\u3000皆さん、新王者の誕生だ！\u3000ジャーーーーックのキャーーーーーンプに盛大な拍手を！\u3000我らが密輸業者の友はこっぴどくやられたが、永遠に王者でいられる者はいないのだ！",
+      "source": "323a5652b2972def"
+    },
+    "OP_Schmuggler_Arenameister_Kampf4_Verloren": {
+      "text": "予想どおりだ！\u3000王者の座を守ったのは、我らが精鋭の密輸業者たち。その座にふさわしいことを、またしても証明してみせた！\u3000ジャックのキャンプの皆さんにも拍手を。あの悪ガキどもも、精一杯がんばったぞ！",
+      "source": "8fe4237d9e4750f0"
+    },
+    "OP_Schmuggler_Arenameister_NoMoney": {
+      "text": "まずは金をかき集めてくるんだな。参加費が払えなきゃ、戦わせるわけにはいかない。",
+      "source": "6ecad66144f70bb2"
+    },
+    "OP_Schmuggler_Arenameister_Start": {
+      "text": "よう、兄弟！",
+      "source": "7877f419e26c3025"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_1": {
+      "text": "ねえ、ひとつ忠告してあげる。ここはどこもかしこもろくでなしだらけ。あたしから離れないでね。",
+      "source": "8f4433175b45ef10"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_10": {
+      "text": "ああ、聞いたことある！\u3000まあ、せっかく来てくれたんだし、あんたにプレゼントがあるの！\u3000誰にも見られないように気をつけてね。密輸業者らしい品なら、ここの商人のところで買えるわよ。ねえ、そのうちあんたのところに遊びに行っちゃおうかな！",
+      "source": "68ce8d47ba80d2aa"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_11": {
+      "text": "いいね。じゃあ、またな！",
+      "source": "a09e718d567f375d"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_12a": {
+      "text": "めちゃくちゃかわいい子だな！",
+      "source": "8f07a99a68118a6d"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_12b": {
+      "text": "[Player]、もしかして赤くなってる？",
+      "source": "dbdb04043b0b8b0a"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_2": {
+      "text": "このあたりはただでさえゾンビがうじゃうじゃいるのに、近くで群れを見たって報告まであるの。引き金から指を離さないで。",
+      "source": "0170ae1d17d64886"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_3": {
+      "text": "あんたは誰だ？",
+      "source": "80495816f7f22157"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_4": {
+      "text": "あたしはイサ。このあたりを照らすお日さまみたいな存在で、たぶんここでウイスキー臭くないのはあたしくらいのもの。あたしからは香水の香りしかしないでしょ。",
+      "source": "6e6e1f7313049311"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_5": {
+      "text": "香水なんて、まだあったのか。",
+      "source": "88f473eb5c419093"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_6": {
+      "text": "要はコネよ、坊や。",
+      "source": "ce4edf233934b93e"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_7": {
+      "text": "ここでは本当に気をつけたほうがいいよ。お人好しに見えたら、ここの連中に骨までしゃぶられちゃう。優しすぎるのはダメよ。",
+      "source": "ec3c92fbd249d1ce"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_8": {
+      "text": "あたし、まだやることがあるの。あんたのキャンプはどこ？",
+      "source": "81eb0a4af14c0530"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_9": {
+      "text": "ジャックのキャンプから来た。",
+      "source": "0473f53b8d513a3c"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_Auswahl1": {
+      "text": "スティーブン",
+      "source": "8360721f93d2e7e2"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_Auswahl1_1": {
+      "text": "スティーブンって男を探してるんだ。知らないか？",
+      "source": "df7b27b22446ca67"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_Auswahl1_2": {
+      "text": "それっぽい人なら、この辺で見かけた気がする。誰かれ構わず自己紹介して回ってたっけ。ちょっとかわいかったな！\u3000キラのところをうろついてたと思うよ。キラに聞いてみたら？\u3000ただ、ちょっとした問題があるのよね。",
+      "source": "5edaff9153f89924"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_Auswahl2": {
+      "text": "イサ",
+      "source": "90a9b7f3f645aaf4"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_Auswahl2_1": {
+      "text": "あんたは何者で、ここで何をしてるんだ？",
+      "source": "845d482255962e0f"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_Auswahl2_2": {
+      "text": "密輸業者の一員だけど、独り立ちしようとしてるところ。酒場で稼いだり、ちょっと商売したりね……",
+      "source": "3b8ca11fb220212d"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_Auswahl3": {
+      "text": "問題",
+      "source": "5b4cd3a7f0698daf"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_Auswahl3_1": {
+      "text": "問題って？",
+      "source": "4ada4c6be8fb9af8"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_Auswahl3_2": {
+      "text": "ここで名を上げるまで、ボスはあんたなんか相手にもしてくれないってこと。",
+      "source": "5ff819426af7a81e"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_Auswahl3_3": {
+      "text": "この酒場で密輸業者のサイドジョブをこなしてもいいし、なんなら……ジャジャジャーン……闘技場で戦うって手もあるわよ！",
+      "source": "6fcf0a6f558923b1"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_Auswahl4": {
+      "text": "闘技場",
+      "source": "77d7cd99073bd654"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_Auswahl4_1": {
+      "text": "闘技場？",
+      "source": "69402117c9037012"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_Auswahl4_2": {
+      "text": "あんた、どこの岩の下から這い出してきたの？\u3000うちの闘技場を聞いたこともないなんて。ここフォレストグレイブにひとつと、本部にもひとつあるのよ。",
+      "source": "d620dc449271dc36"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_Auswahl4_3": {
+      "text": "闘技場で勝てば、うちのボスのキラもきっと会ってくれるわ。でも、簡単だなんて思わないでね。それに、あたしならひとりでは挑まない。自殺行為よ！",
+      "source": "b47e702176969bcc"
+    },
+    "OP_Schmuggler_Quest_Steven1_Isa1_Auswahl4_4": {
+      "text": "ここじゃ剣闘の見世物用にゾンビを閉じ込めてるんだけど、それだけじゃないの。捕まった略奪者や、密輸業者まで何人か戦わされてるのよ。それに、軍や独立派と違って、うちにはちゃんと訓練を受けた医師がいないの。だから中でケガしても、自分で何とかするしかないってわけ。",
+      "source": "28454af6444aa4d3"
+    },
+    "OP_USArmy_Jane_1_1": {
+      "text": "ねえ、みんなに挨拶して回る前に、うちのお店を紹介させて。アメリカ軍へようこそ！\u3000ジャックのキャンプから来たのは知ってるわ。噂はすぐ広まるのよ！\u3000ちなみに、私はジェーン。",
+      "source": "4315f4a65e97090a"
+    },
+    "OP_USArmy_Jane_1_2": {
+      "text": "外でも、私たちのことはいろいろ聞いてるんじゃない？",
+      "source": "17f197b1724472d1"
+    },
+    "OP_USArmy_Jane_1_2_Auswahl1": {
+      "text": "はい",
+      "source": "85a39ab345d672ff"
+    },
+    "OP_USArmy_Jane_1_2_Auswahl1_1": {
+      "text": "ああ、聞いてるよ。",
+      "source": "a7700a56086f0544"
+    },
+    "OP_USArmy_Jane_1_2_Auswahl2": {
+      "text": "いいえ",
+      "source": "1ea442a134b2a184"
+    },
+    "OP_USArmy_Jane_1_2_Auswahl2_1": {
+      "text": "実は、聞いたことがないんだ。",
+      "source": "c91bc85ca645ba8b"
+    },
+    "OP_USArmy_Jane_1_2_a": {
+      "text": "やっぱりね！",
+      "source": "59fda374d19039c8"
+    },
+    "OP_USArmy_Jane_1_2_b": {
+      "text": "私たちの悪口があんなに出回ってるのに？\u3000あんまり出歩かないのかしらね。",
+      "source": "de5f5c1aeffd12a3"
+    },
+    "OP_USArmy_Jane_1_3": {
+      "text": "軍の一員になるってどういうことか、気になってるでしょ。たいていの民間人にとっては、安心感と、導いてくれる存在がいるってこと。チャールズ将軍のおかげで、私たちの暮らしには秩序があるの。私は、自分よりも大きな何かの一部になりたくて、ここに来たのよ。",
+      "source": "dbbf45be28c2cef5"
+    },
+    "OP_USArmy_Jane_1_3_Auswahl1": {
+      "text": "リーダー",
+      "source": "3f53871b0838bdf3"
+    },
+    "OP_USArmy_Jane_1_3_Auswahl1_1": {
+      "text": "ここを仕切ってる人について教えてくれ。",
+      "source": "429a15ee49a6c58e"
+    },
+    "OP_USArmy_Jane_1_3_Auswahl1_2": {
+      "text": "フリーダムシティ西部の前哨基地はリズ中尉が指揮してるけど、本当のリーダーは北の本部にいるチャールズ将軍よ。ほら、地図に印をつけてあげる。",
+      "source": "0fe7b39dbc6f73e0"
+    },
+    "OP_USArmy_Jane_1_3_Auswahl1_3": {
+      "text": "世界が終わる前、チャールズは現職の下院議員だったの。感染爆発が起きて、大統領がホワイトハウスの芝生の上でアンデッドに引き裂かれたとき、チャールズが指揮を執ったのよ。兵士や民間人をかき集めて踏みとどまり、最初の襲撃の波を押し返したの。",
+      "source": "fe9091e55c0f2202"
+    },
+    "OP_USArmy_Jane_1_3_Auswahl1_4": {
+      "text": "いつか銃が禁止されるだろうって、みんなが思ってた頃を覚えてるよ。感染爆発さえなけりゃ、それも進歩だったんだろうな。だが今となっては……",
+      "source": "5d2851b1b16d6bbf"
+    },
+    "OP_USArmy_Jane_1_3_Auswahl1_5": {
+      "text": "とにかく、チャールズ将軍はもともと軍の経歴があって、その英雄的な行動で一躍有名になったの。残念なことに、その後の混乱の中でいくつか誤解があって、軍と民間人の間に溝ができちゃった。それが独立派の始まりよ。",
+      "source": "03e400efb09fdbbb"
+    },
+    "OP_USArmy_Jane_1_3_Auswahl2": {
+      "text": "協力",
+      "source": "c1e36331e262b72e"
+    },
+    "OP_USArmy_Jane_1_3_Auswahl2_1": {
+      "text": "軍と手を組んで、俺たちに何の得があるんだ？",
+      "source": "4d44de4fa9198ce4"
+    },
+    "OP_USArmy_Jane_1_3_Auswahl2_2": {
+      "text": "ほかの勢力は、外でクソみたいな目にあってる。でも、うちは違う。銃も弾薬も防具も、お望みのものは何だってそろってるわ。",
+      "source": "cd8ba50a9c58dbed"
+    },
+    "OP_USArmy_Jane_1_3_Auswahl2_3": {
+      "text": "キャンプのみんなに伝えていいわよ。私たちは人類のために最善のことしか望んでないって。本当にそうなんだから。いつもちゃんとわかってもらえるわけじゃないけど、私たちは本当に正義の味方なの。",
+      "source": "a7ea0afc934bf1da"
+    },
+    "OP_USArmy_Jane_1_3_Auswahl2_4": {
+      "text": "うちの人たちはしっかり訓練されてるし、守られてもいる。だから、みんなここに来るのよ。私たちが怖いからじゃなくて、安全と導き手を求めてね。このめちゃくちゃな世界を導いてくれる、力強い手を。",
+      "source": "0d586c84e43acba1"
+    },
+    "OP_USArmy_Jane_1_3_Auswahl2_5": {
+      "text": "そろそろ行くわね。でも、リズ中尉には会っておいたほうがいいわよ。うちの医師のナタリーがいなくなっちゃったの。手を貸してもらえると助かるし、ジャックのキャンプにとっても、私たちといい関係を築くきっかけになるはずよ。じゃあね！",
+      "source": "6a3a2e0263e43874"
+    },
+    "OP_USArmy_Jane_2_1": {
+      "text": "行方不明の医師を見つけたの？",
+      "source": "2ec1cbd3daeadb8e"
+    },
+    "OP_USArmy_Jane_2_2": {
+      "text": "誘拐事件の黒幕はイーサンだった。",
+      "source": "f18dfa917293f021"
+    },
+    "OP_USArmy_Jane_2_3": {
+      "text": "うわあ。すぐには飲み込めない話ね。きっと、彼女に代わってこの前哨基地の主任医師になりたかったのよ。",
+      "source": "bd14cee2903a12ee"
+    },
+    "OP_USArmy_Jane_2_4": {
+      "text": "これはフリーダムシティで大騒ぎになるわよ。報酬のことはリズ中尉に会いに行って。私はナタリーに会ってくるわ。",
+      "source": "16d982a7de333587"
+    },
+    "OP_USArmy_Jane_2_5_NPC_Female": {
+      "text": "正しいことをしたのよ、[Player]。あなたを誇りに思う。",
+      "source": "2789817e2edacef0"
+    },
+    "OP_USArmy_Jane_2_5_NPC_Male": {
+      "text": "イーサンにはもう二度と会えないだろうな。軍は裏切り者に容赦しない。",
+      "source": "b8712a09d292c138"
+    },
+    "OP_USArmy_Jane_Q_1_1": {
+      "text": "ほかにも頼みたいことがあるの。大事な話かもしれないわ。この前哨基地から、ある人を護送してほしいのよ。その人を、アメリカ軍の刑務所まで連れていかなきゃならないの。",
+      "source": "c0715d3997c541d6"
+    },
+    "OP_USArmy_Jane_Q_1_2": {
+      "text": "ここのバーテンダーに声をかけて、囚人に関するサイドジョブを引き受けて。ほかのことは、そのあとで片付けましょう。",
+      "source": "0bc134eb54ec94a5"
+    },
+    "OP_USArmy_Jane_Q_1_3": {
+      "text": "よし、こいつを本部の刑務所まで連れていこう。",
+      "source": "9e43ff014e031c09"
+    },
+    "OP_USArmy_Jane_Q_1_4_1": {
+      "text": "この人を逃がしてあげて。もう十分つらい目にあってきたのよ。引き渡されたら、いずれ処刑されてしまうわ。",
+      "source": "5daf8c631922744a"
+    },
+    "OP_USArmy_Jane_Q_1_4_10": {
+      "text": "感情に任せて動くのは、感心しないんじゃなかったのか？",
+      "source": "e93b57d0d32b330e"
+    },
+    "OP_USArmy_Jane_Q_1_4_11": {
+      "text": "私も、いろいろ考え込むようになってきたのよ。決めるのはあなた……リズ中尉とアメリカ軍を信じてついていく？\u3000そうすれば、資源も評判も確実に手に入るわ。それとも、この気の毒な野郎を助ける？\u3000友好度は少し下がるかもしれないけど、良心は少し楽になるかもね。",
+      "source": "94711cc2663c2ffc"
+    },
+    "OP_USArmy_Jane_Q_1_4_2": {
+      "text": "この人たちは、彼のために戦ってる民間人よ。彼を捜しに現れるんじゃないかって、うすうす思ってたの。",
+      "source": "c99fb0699ef6de9f"
+    },
+    "OP_USArmy_Jane_Q_1_4_3": {
+      "text": "この男を知ってるのか？\u3000こいつに何の用だ？",
+      "source": "9533c24eb3381776"
+    },
+    "OP_USArmy_Jane_Q_1_4_4": {
+      "text": "彼のことを少し話してあげる。私がいてよかったわね。でなきゃ、何もわからないままだったわよ。この人ほど運命にひどい仕打ちを受けて、それでも生きていく道を選べる人なんて、そうはいないわ。",
+      "source": "e1bf51b2011d262a"
+    },
+    "OP_USArmy_Jane_Q_1_4_5": {
+      "text": "彼に何があったんだ？",
+      "source": "a6fa2223c38ffa12"
+    },
+    "OP_USArmy_Jane_Q_1_4_6": {
+      "text": "娘さんが感染したの。だから、クソみたいな仕事を引き受けたのよ。ラナからね。覚えてるでしょ？\u3000テレンスの件よ。で、そのラナはリズ中尉から命令を受けてたの。",
+      "source": "5614e80e16a4e261"
+    },
+    "OP_USArmy_Jane_Q_1_4_7": {
+      "text": "ラナの依頼は、相当汚い仕事になることもあるからな……",
+      "source": "fd2eb5b7460f5e8a"
+    },
+    "OP_USArmy_Jane_Q_1_4_8": {
+      "text": "あいにく、娘さんは治療できないって言われたの。アメリカ軍にね。自分の小さな娘が病気なのに、薬がすぐそこにあって手が届かなかったら、あなただって正気じゃいられなかったはずよ。軍はリズ中尉の命令で、ゾムデックスを溜め込んでたの。",
+      "source": "33529c9bc8d4336b"
+    },
+    "OP_USArmy_Jane_Q_1_4_9": {
+      "text": "彼には、もう戦う理由が何も残ってなかった。行く手を阻んだ兵士を撃って、リズに銃を突きつけたところで、武器を取り上げられて逮捕されたのよ。",
+      "source": "69421243517ac07a"
+    },
+    "OP_USArmy_Jane_Q_1_4_AuswahlA": {
+      "text": "囚人を本部へ連れていく（戦闘）",
+      "source": "1b7558a0ac2e8c4f"
+    },
+    "OP_USArmy_Jane_Q_1_4_AuswahlA_1": {
+      "text": "わかったわ。悲しみのあまり人を殺した男をめぐって、あえて戦いを選ぶっていうなら、それはあなたが決めることよ。",
+      "source": "098319bf99f034bb"
+    },
+    "OP_USArmy_Jane_Q_1_4_AuswahlB": {
+      "text": "囚人を解放する",
+      "source": "862ed448ca62a907"
+    },
+    "OP_USArmy_Jane_Q_1_4_AuswahlB_1": {
+      "text": "悲しみか絶望のせいとはいえ、人を殺した囚人よ。それでもチャンスをあげたいって気持ちはわかるわ。アメリカ軍に引き渡されたら、せいぜい望めるのは、ひと思いに処刑されることくらいだもの。",
+      "source": "723b958bd0ab1bc9"
+    },
+    "OP_USArmy_Jane_Q_1_4_AuswahlB_2": {
+      "text": "情けをかけてくれてありがとう。このご恩には、きっと報いるわ。ほら、この強化キットを受け取って。",
+      "source": "a92091d276c43fdc"
+    },
+    "OP_USArmy_Jane_Q_1_5_A_1": {
+      "text": "こちらはフリーダムシティ西部、アメリカ軍前哨基地のリズ中尉だ。囚人の移送中に障害に見舞われたと報告を受けた。その勇敢な働きに、私から直接礼を言わせてもらう、[Player]！",
+      "source": "2fbfd421ee27f714"
+    },
+    "OP_USArmy_Jane_Q_1_5_A_2": {
+      "text": "私だったら、あの決断にはすごく悩んだと思う、[Player]。個人的な考えを押しつけるつもりはないけど、私なら違う道を選んでたかもしれない。今は少し、一人になる時間が欲しいわ。",
+      "source": "afd6dccdb295b27b"
+    },
+    "OP_USArmy_Jane_Q_1_5_B_1": {
+      "text": "こちらはフリーダムシティ西部、アメリカ軍前哨基地のリズ中尉だ。囚人の移送中に問題が起き、囚人が逃亡したと報告を受けた。相応の報いは覚悟してもらうぞ！",
+      "source": "d7b29ba8a86145c6"
+    },
+    "OP_USArmy_Jane_Q_1_5_B_2": {
+      "text": "私だったら、あの決断にはすごく悩んだと思う、[Player]。一人で決めずに済むように、あなたにいてほしかったの。でも、あなたの選択には賛成よ。この新しいキャンプに、私も影響されてきたみたい。",
+      "source": "ccb1fed0ebae8870"
+    },
+    "OP_USArmy_Jane_Q_1_Jane_missing": {
+      "text": "すみません。囚人の移送には、ジェーン二等兵が立ち会いたいとのことです。",
+      "source": "366b73d485f9ef2e"
+    },
+    "OP_USArmy_Jennifer_Auswahl1": {
+      "text": "弟",
+      "source": "88489947456611b0"
+    },
+    "OP_USArmy_Jennifer_Auswahl1_1": {
+      "text": "弟がどうかしたのか、ジェニファー？",
+      "source": "9c2a19d50abb4558"
+    },
+    "OP_USArmy_Jennifer_Auswahl1_2": {
+      "text": "ジェームズがさらわれたんだと思う。幸い、エイプリル中尉は真剣に取り合ってくれてる。あんた、あの子を探してくれない？",
+      "source": "619d763513e256f8"
+    },
+    "OP_USArmy_Jennifer_Auswahl2": {
+      "text": "誘拐",
+      "source": "0a20f5df563a334b"
+    },
+    "OP_USArmy_Jennifer_Auswahl2_1": {
+      "text": "誰にさらわれたと思う？",
+      "source": "0f03c0caa86a8c75"
+    },
+    "OP_USArmy_Jennifer_Auswahl2_2": {
+      "text": "パンクスか、ほかの犯罪者どもの仕業に決まってる。弟をさらうってことは、あたしを怒らせるってこと。で、パンクスほどあたしを怒らせたがってる連中がいる？",
+      "source": "962e57360239c774"
+    },
+    "OP_USArmy_Jennifer_Auswahl2_3": {
+      "text": "なんでパンクスなんだ？",
+      "source": "fd5f4345caa16725"
+    },
+    "OP_USArmy_Jennifer_Auswahl2_4": {
+      "text": "あたしが昔、デクスターの女だったからよ。覚えてるでしょうけど、もうずいぶん前の話。あたしはジャックについて、デクスターを倒したの。ジェームズもその場にいたわ。",
+      "source": "f8a1e79f57d551ac"
+    },
+    "OP_USArmy_Jennifer_Auswahl2_5": {
+      "text": "そのあと、俺たちはまたデクスターに出くわしたんだ。その間に、新しい、その……奥さんたちを作ってたよ。そのときは、なんとかやつを仕留めた。",
+      "source": "e56e4dec0b5bcca9"
+    },
+    "OP_USArmy_Jennifer_Auswahl2_6": {
+      "text": "まだ生きてたの？\u3000まあ、死んで惜しいやつじゃないけど。ほかに言うことなんてないわ。男ってほんとクズばっかり！",
+      "source": "ce748fd9d9e1f382"
+    },
+    "OP_USArmy_Jennifer_Auswahl3": {
+      "text": "捜索",
+      "source": "49c266baaaa70981"
+    },
+    "OP_USArmy_Jennifer_Auswahl3_1": {
+      "text": "ジェームズを探すとしたら、どこから当たればいいと思う？",
+      "source": "b2cf1151e4e1accd"
+    },
+    "OP_USArmy_Jennifer_Auswahl3_2": {
+      "text": "連中がボスを待ってる、どこかのバンカーに閉じ込められてるのかもしれない。このあたりの誰かが、連中とつながってるはずよ。",
+      "source": "2a932c8d4350c54d"
+    },
+    "OP_USArmy_Jennifer_Auswahl3_3": {
+      "text": "うーん、後ろ暗い連中か。一人心当たりがあるな。あの密輸業者の商人、トレバーはどうだ？",
+      "source": "61ec9a8d0293e510"
+    },
+    "OP_USArmy_Jennifer_Auswahl3_4A": {
+      "text": "そうかもね。しかも、あいつはここ、アメリカ軍の前哨基地にいる。あのネズミ野郎、軍と手を組んだのよ。とにかく話してみて。",
+      "source": "d4db2426919ff62e"
+    },
+    "OP_USArmy_Jennifer_Auswahl3_4B": {
+      "text": "そうね、ありえるわ。このあたりの「ウィスパーウィンド街道」にある、密輸業者の前哨基地にいるって聞いた。とにかく話してみて。",
+      "source": "772c18e411fc483b"
+    },
+    "OP_USArmy_Jennifer_Auswahl4": {
+      "text": "ジェームズ",
+      "source": "9345a35a6fdf174d"
+    },
+    "OP_USArmy_Jennifer_Auswahl4_1": {
+      "text": "ジェームズのしたことを、どう思う？",
+      "source": "83cbb586a107f1d3"
+    },
+    "OP_USArmy_Jennifer_Auswahl4_2A": {
+      "text": "ジェームズが戻ってきてくれてよかった。本当に心配したんだから。これで全部元どおりね！",
+      "source": "4c79d6a43979061e"
+    },
+    "OP_USArmy_Jennifer_Auswahl4_2B": {
+      "text": "あんたがジェームズを説得して、寝返りを思いとどまらせてくれればよかったのに。あの子、何を考えてたんだか。会いたいな……",
+      "source": "98dc06938048275d"
+    },
+    "OP_USArmy_Leader_April_Auswahl1": {
+      "text": "現状",
+      "source": "f730613be1309e5c"
+    },
+    "OP_USArmy_Leader_April_Auswahl1_1": {
+      "text": "ここの状況はどうなっていますか？",
+      "source": "a3d309a705384ebf"
+    },
+    "OP_USArmy_Leader_April_Auswahl1_1A": {
+      "text": "門がまた開いたから、交易ができるようになった。酒場でサイドジョブを引き受けてもらっても構わない。",
+      "source": "0d0aa5ca8b97d2d3"
+    },
+    "OP_USArmy_Leader_April_Auswahl1_1C": {
+      "text": "ジェニファーも今の状況に満足しているし、私もようやく落ち着けた。",
+      "source": "a74460aae4621d1d"
+    },
+    "OP_USArmy_Leader_April_Auswahl1_2A": {
+      "text": "ただ、まだひとつ問題が残っている。",
+      "source": "0e519251256f0a9e"
+    },
+    "OP_USArmy_Leader_April_Auswahl1_C": {
+      "text": "ジェニファーはこの状況を喜んではいないかもしれないが、弟自身が決めたことだ。チャールズ将軍には知られないほうがいい。さもないと、面倒なことになる。",
+      "source": "f512ecc6140ad2cd"
+    },
+    "OP_USArmy_Leader_April_Auswahl2": {
+      "text": "問題",
+      "source": "a1c5ae7bcb34bbf4"
+    },
+    "OP_USArmy_Leader_April_Auswahl2_1": {
+      "text": "問題とは何ですか、エイプリル中尉？",
+      "source": "e2b7f0d957748daa"
+    },
+    "OP_USArmy_Leader_April_Auswahl2_2": {
+      "text": "ここを元どおり落ち着かせたいんだが、ジェニファーが弟のことでいきり立っていてね。彼女と話してみてくれ。",
+      "source": "e853ecacb073c100"
+    },
+    "OP_USArmy_Leader_Liz_CharlesQ1_1": {
+      "text": "もう気づいているだろうが、ミュータントが深刻な問題になりつつある。このまま広がり続け、いずれはどの地域でもミュータントを見かけるようになると考えるだけの根拠がある。我々は戦力を集中させなければならない。南に鉱山があるのだが、今のところ南へ向かうのは困難な状況だ。",
+      "source": "781a8fdf1f357c10"
+    },
+    "OP_USArmy_Leader_Liz_CharlesQ1_2": {
+      "text": "この問題を解決するには、腕の立つ人材が必要だ。グランドウィンド峡谷はすでに知っているな。ならば、我々の指導者と直接話すことを任せてもいいだろう。チャールズ将軍はアメリカ軍本部にいる。地図に場所を示しておく。",
+      "source": "5b5ee375f8cef36f"
+    },
+    "OP_USArmy_Leader_Liz_CharlesQ1_3": {
+      "text": "ただし、徒歩では1日でたどり着けない距離だ。",
+      "source": "f8fc32be1160bff9"
+    },
+    "OP_USArmy_Leader_Liz_CharlesQ1_4": {
+      "text": "それは困ります。キャンプから目を離すわけにはいきません。そんなに長く留守にはできないんです。",
+      "source": "b3e5f11103f232dd"
+    },
+    "OP_USArmy_Leader_Liz_CharlesQ1_5": {
+      "text": "あと数日もすれば、驚くべき発表があるだろう。街の地下を走る地下鉄網が、再び動き出すのだ。そうなったら、チャールズ将軍に会いに行け。",
+      "source": "907a982521f5d9a7"
+    },
+    "OP_USArmy_Leader_Liz_CharlesQ1_5_b": {
+      "text": "知ってのとおり、地下鉄網は再び動き出した。それを使って、チャールズ将軍に会いに行け。",
+      "source": "a2be7da6e2d02c7d"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Auswahl2": {
+      "text": "医師の人柄",
+      "source": "ded34134cdc46847"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Auswahl2_1": {
+      "text": "中尉、行方不明の医師はどんな人柄なんですか？",
+      "source": "56d32c5a5d073569"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Auswahl2_2": {
+      "text": "ナタリーは誇り高い女性で、軍人の鑑だ。私の部下を何十人も感染から救ってくれた。",
+      "source": "2cfc2dab78a53f27"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Auswahl3": {
+      "text": "詳しい情報",
+      "source": "09f6242266631e82"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Auswahl3_1": {
+      "text": "どこから探せばいいでしょうか？",
+      "source": "f59d3d0a06c7fa1d"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Auswahl3_2": {
+      "text": "代理の医師のイーサンなら、彼女の習慣について何か知っているかもしれない。さらわれたのか、自分から出ていったのかすらわかっていない。彼女が脱走したとは思えない。そういう人間ではないのだ。彼女の理想は、我々の理想とぴったり重なっているのだから。",
+      "source": "ed8917c2e3f49d8a"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Auswahl4": {
+      "text": "許可",
+      "source": "229efc8f526335f1"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Auswahl4_1": {
+      "text": "本格的に調査するなら、本部へ続く橋を渡れるようにしてもらう必要があります。",
+      "source": "da5d0ac066be1507"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Auswahl4_2": {
+      "text": "ほう、手がかりがあるのか？\u3000聞かせてもらおう！",
+      "source": "289e0a9136a31d4f"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Auswahl4_3": {
+      "text": "イーサンから、北の橋を渡った先を探すように言われました。だから橋を通る許可が必要なんです。",
+      "source": "80e66c3e7d170b19"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Auswahl4_3denied": {
+      "text": "うーん、そういうわけでは……ただ、北の橋を渡りたかっただけです。",
+      "source": "53265cc2819fb7d7"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Auswahl4_4": {
+      "text": "いいだろう、許可する。橋の通行を認めよう。だが、気をつけることだ！\u3000北西のグランドウィンド峡谷に近づくほど、危険な土地になる。軍も今は手一杯なのだ。",
+      "source": "1602982c1d83b2a5"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Auswahl4_4denied": {
+      "text": "だめだ。あの一帯は現在封鎖中だ。危険すぎる。通行を許可してほしければ、もっとまともな理由を持ってこい。",
+      "source": "e9f19c2ee324c6ab"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Complete": {
+      "text": "ナタリーがいるはずの場所を突き止めて、行ってきました。確かに見つけました。危うくミュータントに引き裂かれるところでしたが、なんとか救い出せました。",
+      "source": "54777a2c409c97d0"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Complete_1": {
+      "text": "よくやった。軍によく尽くしてくれた。これが報酬だ。イーサンのほうは、もう終わりだがな。",
+      "source": "3905ed1f7e5e6cb7"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Failed": {
+      "text": "ナタリーがいるはずの場所を突き止めて、行ってきました。確かに見つけましたが、ミュータントに引き裂かれていました。残念です。",
+      "source": "0a1a60be05d0ff69"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Failed_1": {
+      "text": "痛ましいことだ。だが、少なくとも真相はわかった。報酬は一切期待するな。軍が報いるのは成功だけだ。",
+      "source": "d7c3b44f4e867cb9"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Pre": {
+      "text": "行方不明の医師",
+      "source": "a0fecb2830a563ef"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Pre1": {
+      "text": "リズ中尉、ジェーンに言われて来ました。行方不明の医師の捜索に協力させてください。",
+      "source": "830efda9b6b4bda6"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Pre2": {
+      "text": "いいだろう。お手並み拝見といこう。普段なら素性の知れない者に任務など与えないが、今回は特別な事情がある。どんな助けでも借りたい。",
+      "source": "3b871510bec3ecf6"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Running": {
+      "text": "行方不明の医師",
+      "source": "a0fecb2830a563ef"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Running1": {
+      "text": "医師の件ですが……",
+      "source": "d7a621853442e78c"
+    },
+    "OP_USArmy_Leader_Liz_LizQ1_Running2": {
+      "text": "彼女はまだ行方不明のままだ。何が知りたい？",
+      "source": "f3f8a15a25f954f1"
+    },
+    "OP_USArmy_Merchant_ArmorHint_1": {
+      "text": "すまないが、アーマーの件はラナと話してくれ。",
+      "source": "4a8875a0ab25af23"
+    },
+    "OP_USArmy_Trevor_Auswahl_1": {
+      "text": "ジェームズ",
+      "source": "9345a35a6fdf174d"
+    },
+    "OP_USArmy_Trevor_Auswahl_1_1": {
+      "text": "ジェニファーの弟のジェームズ二等兵がさらわれた。何か聞いてないか？",
+      "source": "f82e77d13abaf529"
+    },
+    "OP_USArmy_Trevor_Auswahl_1_2": {
+      "text": "元密輸業者の商人、このトレバー様が何も知らないと、本気で思ってるのかい？",
+      "source": "32bbd418b8163cf0"
+    },
+    "OP_USArmy_Trevor_Auswahl_1_3": {
+      "text": "なら、聞かせてもらおうか、密輸業者の商人様。",
+      "source": "a9ea8765671fc327"
+    },
+    "OP_USArmy_Trevor_Auswahl_1_4": {
+      "text": "ジェームズが何人かの連中と一緒にいるのを見かけたんだ。そのときは大して気にも留めなかったが、誘拐と聞くとな……まあ、いいさ。あんただから、特別にこいつはタダにしといてやるよ。",
+      "source": "ee24e14c93ded4ba"
+    },
+    "OP_USArmy_Trevor_Auswahl_1_5": {
+      "text": "俺なら、アメリカ軍の拠点の近くにあるこの洞窟を探すね。たぶん、連中はそこに身を隠したんだろう。",
+      "source": "925b46f8dc8f64ba"
+    },
+    "OP_USArmy_Trevor_Pre1": {
+      "text": "おお、ジャックのキャンプの栄えあるリーダーにして、我らが闘技場の王者じゃないか！",
+      "source": "6d4ad272a5ccdc71"
+    },
+    "Op2_Independent_Start": {
+      "text": "ここは初めてか？\u3000スネーク砂漠へようこそ！",
+      "source": "de8401d8c715ef8a"
+    },
+    "Op2_Smuggler_Start": {
+      "text": "やっと見ない顔が来たか！\u3000密輸業者の縄張り、ウィスパーウィンド街道へようこそ。",
+      "source": "17318545bcfc830c"
+    },
+    "Op2_USArmy_Start": {
+      "text": "おや、初めての方ですね！\u3000南部の森へようこそ！",
+      "source": "1a00a2c326a8a0e1"
+    },
+    "Op_Bar_Choice_jobs_Auswahl_Nebenjobs": {
+      "text": "サイドジョブ",
+      "source": "9771a3a56bbb4604"
+    },
+    "Op_Bar_Choice_jobs_jobshint": {
+      "text": "サイドジョブについて聞く",
+      "source": "c23ed0335b16de01"
+    },
+    "Op_Bar_Choice_jobshint": {
+      "text": "サイドジョブについて教えてくれないか？",
+      "source": "7dbbdb4d6246278e"
+    },
+    "Op_Bar_Choice_jobshint_1": {
+      "text": "サイドジョブは、勢力との友好度を上げるのにうってつけだ。友好度を「支持者」（60%）まで上げれば、ずっと報酬のいいサイドジョブを紹介してもらえるようになる。",
+      "source": "a79c3b5b727cdcc4"
+    },
+    "Op_Bar_Choice_jobshint_2": {
+      "text": "ただし、気をつけることだ。そういう仕事は[T@LocalFactionAcc]によく思われないことがあって、そうなると友好度が下がる。",
+      "source": "776837d10b36d0ee"
+    },
+    "Op_Bar_NotEnoughMoney": {
+      "text": "悪いけど、仲介料を払うだけの金がないみたいだね。",
+      "source": "5e634d00afed418c"
+    },
+    "Op_Bar_NotEnoughReputation": {
+      "text": "悪いけど、あんたの友好度じゃ、そんな重要な任務は任せられない。（友好度60「支持者」が必要）",
+      "source": "0a485c1723df29a1"
+    },
+    "Op_Bar_Start": {
+      "text": "何の用でここへ？",
+      "source": "7cdf02f8996b4870"
+    },
+    "Op_Fac_3_AggroChoice_1": {
+      "text": "攻撃する（友好度-10）",
+      "source": "31f31dc547e16056"
+    },
+    "Op_Fac_3_AggroChoice_1_1": {
+      "text": "やろうってのか？\u3000いいだろう、相手になってやる！",
+      "source": "b6cca2138c6418f7"
+    },
+    "Op_Fac_3_AggroChoice_2": {
+      "text": "賄賂を渡す（所持金: [Inventory_Resource_0]ドル）（友好度40「中立」）",
+      "source": "4930f03b54b9f7ff"
+    },
+    "Op_Fac_3_AggroChoice_2_1": {
+      "text": "見張りに賄賂を渡そうとする……",
+      "source": "ca1655f75fd07f7d"
+    },
+    "Op_Fac_3_AggroChoice_2_2a": {
+      "text": "ほう、過去の過ちを償おうってわけか。今回だけは通してやる。",
+      "source": "41b8fd8b1cb8b7d1"
+    },
+    "Op_Fac_3_AggroChoice_2_2b": {
+      "text": "何だ、これは？\u3000やましさを金で埋め合わせようってのか？\u3000こんなはした金じゃ足りないし、もう手遅れだ！",
+      "source": "800cca37eb503591"
+    },
+    "Op_Fac_3_AggroChoice_2_2c": {
+      "text": "何のつもりだ？\u3000そんな大金、持ってもいないくせに！\u3000野郎ども、かかれ！",
+      "source": "782d60b333685d65"
+    },
+    "Op_Fac_3_AggroChoice_2_Bribe_1": {
+      "text": "[@BribeValue]ドルの賄賂を渡す（成功率50%）",
+      "source": "942c320f80275760"
+    },
+    "Op_Fac_3_AggroChoice_2_Bribe_2": {
+      "text": "[@BribeValue2]ドルの賄賂を渡す（成功率80%）",
+      "source": "60e965b956d512b0"
+    },
+    "Op_Fac_3_AggroChoice_2_Bribe_3": {
+      "text": "[@BribeValue3]ドルの賄賂を渡す（成功率100%）",
+      "source": "cf1ab3e4e1bd237f"
+    },
+    "Op_Fac_3_AggroChoice_3": {
+      "text": "撤退する",
+      "source": "e6e5c4f19dfe34b9"
+    },
+    "Op_Fac_3_AggroChoice_3_1": {
+      "text": "そうだ、逃げろ！\u3000次は逃がさんぞ！",
+      "source": "585708d751b59c6b"
+    },
+    "Op_Fac_3_AggroVictory": {
+      "text": "待て、待ってくれ！\u3000ひとまず休戦にしよう。",
+      "source": "1c1a39fbb13ce174"
+    },
+    "Op_Fac_3_NormalChoice_1": {
+      "text": "中に入る",
+      "source": "dc8659db6d416dc3"
+    },
+    "Op_Fac_3_NormalChoice_1_1": {
+      "text": "[T@LocalBaseName]へようこそ！",
+      "source": "4fa32ae1744e5f30"
+    },
+    "Op_Fac_3_NormalChoice_2": {
+      "text": "この場を離れる",
+      "source": "da623ba332216376"
+    },
+    "Op_Fac_3_NormalChoice_2_1": {
+      "text": "そうか。じゃあ、またな。",
+      "source": "22e19c23bd5332ef"
+    },
+    "Op_Fac_3_Rank_0_Guards_1": {
+      "text": "お前が例の裏切り者か！\u3000我々の理念を尊重できない者に、容赦はしない！",
+      "source": "be937eae0d9f7b50"
+    },
+    "Op_Fac_3_Rank_1_Guards_1": {
+      "text": "お前たちが例のお尋ね者どもか。ここには一歩も入れんぞ！",
+      "source": "c3c2491b166c7938"
+    },
+    "Op_Fac_3_Rank_2_Guards_1": {
+      "text": "規則を守るなら、中に入れてやろう。",
+      "source": "7c56b963e7bd87fb"
+    },
+    "Op_Fac_3_Rank_3_Guards_1": {
+      "text": "おや、またあんたたちか。よし、入っていいぞ。",
+      "source": "3a485fbe511854e3"
+    },
+    "Op_Fac_3_Rank_4_Guards_1": {
+      "text": "やあ、友よ。さあ、入ってくれ。",
+      "source": "ca97a775608699c5"
+    },
+    "Op_Fac_3_Rank_5_Guards_1": {
+      "text": "見ろよ、我らが栄えある同盟者のお通りだ。さあ、入ってくれ。旅の話を聞かせてもらうのが待ちきれないよ！",
+      "source": "160bf3ab965664ec"
+    },
+    "Op_Guard_Choice_1": {
+      "text": "状況について話す",
+      "source": "9691aca50b83b651"
+    },
+    "Op_Guard_Choice_1_1": {
+      "text": "状況はどうだ？",
+      "source": "c144600b53904a84"
+    },
+    "Op_Guard_Choice_1_2a": {
+      "text": "あのクソ野郎ども、この前哨基地を乗っ取ろうとしてやがる！\u3000もう長くはもちこたえられない！",
+      "source": "6493c87c3c5233dd"
+    },
+    "Op_Guard_Choice_1_2b": {
+      "text": "順調だ。辺りは静かなもんだよ。",
+      "source": "ed365b0dd50e3037"
+    },
+    "Op_Guard_Choice_2": {
+      "text": "クエストについて聞く",
+      "source": "e920d0f27a8249f1"
+    },
+    "Op_Guard_Start": {
+      "text": "どうした？",
+      "source": "834032dfb827138e"
+    },
+    "Op_Independent_Start": {
+      "text": "ここは初めてか？\u3000フリーダムシティ東部へようこそ！",
+      "source": "0d7d2356231f94df"
+    },
+    "Op_Leader_Choice_Fac": {
+      "text": "友好度",
+      "source": "e4b35726fbafe7f9"
+    },
+    "Op_Leader_Choice_Fac_1": {
+      "text": "うちのキャンプとの関係は、どうなってる？",
+      "source": "5ba9bd7d2137e9e6"
+    },
+    "Op_Leader_Rank_0_1": {
+      "text": "お前が例の裏切り者か！\u3000我々の理念を尊重できない者に、容赦はしない！",
+      "source": "be937eae0d9f7b50"
+    },
+    "Op_Leader_Rank_1_1": {
+      "text": "お前たちが例のお尋ね者どもか。ここには一歩も入れんぞ！",
+      "source": "c3c2491b166c7938"
+    },
+    "Op_Leader_Rank_2_1": {
+      "text": "良くも悪くもない。改善の余地ありといったところだ。",
+      "source": "c7413a21b1634c74"
+    },
+    "Op_Leader_Rank_3_1": {
+      "text": "あんたたちを信頼している。ここでは客人だ。酒場で、報酬の高い難しい仕事も受けられるだろう。",
+      "source": "3c0f648d96a43452"
+    },
+    "Op_Leader_Rank_4_1": {
+      "text": "やあ、友よ。さあ、入ってくれ。軽装アーマーが要るなら、商人のところへ行くといい。",
+      "source": "586f613955fc1404"
+    },
+    "Op_Leader_Rank_5_1": {
+      "text": "最高だ！\u3000あんたたちは我々の英雄だ！\u3000望むなら、商人が重装アーマーを売ってくれるぞ。",
+      "source": "4960c5414ac8e418"
+    },
+    "Op_Leader_Rank_6": {
+      "text": "まあ、100ドルのささやかな寄付をしてくれるなら、最悪の揉め事くらいは水に流してやろう（友好度40「中立」）",
+      "source": "ab3121f24cbf4ba3"
+    },
+    "Op_Leader_Rank_6_Accept": {
+      "text": "応じる（所持金: [Inventory_Resource_0]ドル）",
+      "source": "95973bdd0ba2a2d6"
+    },
+    "Op_Leader_Rank_6_Fail": {
+      "text": "悪いが、金が足りないようだな。それでは話はまとまらん。",
+      "source": "8832d38e6794c44e"
+    },
+    "Op_Leader_Rank_7_Deny": {
+      "text": "断る",
+      "source": "2631349bff4daf19"
+    },
+    "Op_Leader_Start": {
+      "text": "どうした？",
+      "source": "91c063b961c86912"
+    },
+    "Op_Medic_Choice_heal": {
+      "text": "治療",
+      "source": "44bc3799892c50fa"
+    },
+    "Op_Medic_Choice_heal_1": {
+      "text": "誰を全快させますか？\u3000（費用: [@MedicPrice]ドル、所持金: [Inventory_Resource_0]ドル）",
+      "source": "4268195a26625ed8"
+    },
+    "Op_Medic_Choice_heal_back": {
+      "text": "戻る",
+      "source": "76900f1bfd16c8d4"
+    },
+    "Op_Medic_Choice_heal_char1": {
+      "text": "[Party_0_Name]: HP [Party_0_Hp]",
+      "source": "308dc91af8cd6cf1"
+    },
+    "Op_Medic_Choice_heal_char2": {
+      "text": "[Party_1_Name]: HP [Party_1_Hp]",
+      "source": "96e4a0693fad20f6"
+    },
+    "Op_Medic_Choice_heal_char3": {
+      "text": "[Party_2_Name]: HP [Party_2_Hp]",
+      "source": "8bc04728cdee732e"
+    },
+    "Op_Medic_Choice_heal_fail": {
+      "text": "ああ、すみません。それだとお金が足りませんね。",
+      "source": "215dda2904239f26"
+    },
+    "Op_Medic_Choice_heal_reduction": {
+      "text": "あなたたちはもう[T@LocalFactionPos]の同盟者ですからね。[@MedicReduction]%割り引きましょう。",
+      "source": "10ec12c50919fd0b"
+    },
+    "Op_Medic_Choice_info": {
+      "text": "治療について知りたい。",
+      "source": "ddfc75d626a401f9"
+    },
+    "Op_Medic_Choice_info_1": {
+      "text": "具体的には、何を治してもらえるんだ？",
+      "source": "26c1c9f3e62d9dd7"
+    },
+    "Op_Medic_Choice_info_2": {
+      "text": "患者は完全に回復します。ただし感染している場合は、ゾムデックスを買わなければなりません。安くはないし、簡単に手に入る物でもありませんよ。たまたま知っているんですが、独立派のキャンプで売っています。",
+      "source": "09cc02b4086175c6"
+    },
+    "Op_Medic_Mary_MaryQ1_1_1": {
+      "text": "デニースに会えるよう、力を貸してほしいんだ！",
+      "source": "9e7997309f9e6483"
+    },
+    "Op_Medic_Mary_MaryQ1_1_2": {
+      "text": "相手にしてもらえなかったのね？\u3000まあ、いつもどおり忙しいんでしょう。そうねえ。あなたとキャンプのために口添えしてあげてもいいけど、デニース知事は、あなたが私の信頼を得るために何をしたのか知りたがるはずよ。",
+      "source": "5a200c85ace8c120"
+    },
+    "Op_Medic_Mary_MaryQ1_1_3": {
+      "text": "俺に何かできることはあるか？",
+      "source": "12a109e734fbf8fc"
+    },
+    "Op_Medic_Mary_MaryQ1_1_4": {
+      "text": "独立派のために、できるかぎり務めは果たしているつもりよ。でも最近は、よく眠れないし集中もできないの。医者としては、それじゃ困るのよ。ジャックから聞いているかもしれないけど、彼のキャンプを手伝っていた頃から、もう体調を崩していたの。",
+      "source": "32270136c19c6925"
+    },
+    "Op_Medic_Mary_MaryQ1_1_5": {
+      "text": "詳しくは聞いてない。薬が必要だとか、そんなことを言ってただけだ。",
+      "source": "a8cb7361651b2c34"
+    },
+    "Op_Medic_Mary_MaryQ1_1_6": {
+      "text": "始まりは夫の死だった。本当につらくて、心が折れてしまったの。しかも、もっと悪いことに……あの人が戻ってきたのよ！",
+      "source": "c8ec3fd8b9b4b0f7"
+    },
+    "Op_Medic_Mary_MaryQ1_1_7": {
+      "text": "何だって？",
+      "source": "444dfbc70a0f53b4"
+    },
+    "Op_Medic_Mary_MaryQ1_1_8": {
+      "text": "外にいるのよ。夜になると。この拠点のそばを通り過ぎることもあれば、北のほうへさまよっていくように見えることもある。昔、二人で田舎に住んでいたから、あの人の一部がそこへ引き寄せられているのかもしれない。まだ魂のようなものが残っているのかも。わからないけど……",
+      "source": "70428a0092a9281e"
+    },
+    "Op_Medic_Mary_MaryQ1_2_Auswahl1": {
+      "text": "捜索",
+      "source": "49c266baaaa70981"
+    },
+    "Op_Medic_Mary_MaryQ1_2_Auswahl1_1": {
+      "text": "どこを探せばいい？",
+      "source": "46d4557a03287cb3"
+    },
+    "Op_Medic_Mary_MaryQ1_2_Auswahl1_2": {
+      "text": "地図で教えるわ。ジャックのキャンプの近くで見つかるはずよ。もちろん、どこをうろついているのか正確にはわからないけど、いそうな場所に3か所、印をつけておいた。夜に行って。確実に外にいるのは夜だけだから。",
+      "source": "34d4c6e9ecc940b8"
+    },
+    "Op_Medic_Mary_MaryQ1_2_Auswahl2": {
+      "text": "アンデッドになった夫",
+      "source": "9f1811dcc6d4f16e"
+    },
+    "Op_Medic_Mary_MaryQ1_2_Auswahl2_1": {
+      "text": "念のため聞くけど……俺たちに、彼を楽にしてやってほしいってことか？",
+      "source": "91978ad5fc932eb5"
+    },
+    "Op_Medic_Mary_MaryQ1_2_Auswahl2_2": {
+      "text": "昔みたいに戻れたらって思うこともある。こんなクソみたいなことは全部忘れて、またあの人と一緒にいたい。でも、そんなの無理に決まってる。夜になると、外であの人が叫んでいるのが聞こえるの。あの人だってわかるから、仕事が手につかない。それほど私たちは、今もつながっているのよ。胸が張り裂けそう。だから、もう終わりにしないと。",
+      "source": "c7706617e2c9e303"
+    },
+    "Op_Medic_Mary_MaryQ1_2_Auswahl3": {
+      "text": "ほかの手がかり",
+      "source": "27b25f44e1f06dbb"
+    },
+    "Op_Medic_Mary_MaryQ1_2_Auswahl3_1": {
+      "text": "ほかに気をつけることはあるか？",
+      "source": "23c738080a87b78f"
+    },
+    "Op_Medic_Mary_MaryQ1_2_Auswahl3_2": {
+      "text": "いい、探すのは夜よ。大柄で、がっしりした体つきをしているわ。整備士だったの。作業着を着ているはずよ。あの人が……死んだときの。これをやってくれたら、デニースに口添えしてあげる。",
+      "source": "9ffbae4e7d2d4dcb"
+    },
+    "Op_Medic_Mary_MaryQ1_2_Auswahl3_NPC_female": {
+      "text": "つまり、メアリーの旦那さんを探せばいいのね。かわいそうな人。気持ちはわかる。きっと、ひどくつらいはずよ。",
+      "source": "a733f631fda0a8b2"
+    },
+    "Op_Medic_Mary_MaryQ1_2_Auswahl3_NPC_male": {
+      "text": "メアリーの旦那を片付けに行こう。ゾンビ専門の賞金稼ぎか。こいつは新しいな。",
+      "source": "a39fb9199d5039d8"
+    },
+    "Op_Medic_Mary_MaryQ1_Auswahl1": {
+      "text": "デニース知事への取り次ぎ",
+      "source": "0c9f581e008d355b"
+    },
+    "Op_Medic_Mary_MaryQ1_Complete": {
+      "text": "アンデッドになった夫の件",
+      "source": "c87099f9e118e226"
+    },
+    "Op_Medic_Mary_MaryQ1_Complete_1": {
+      "text": "彼を安らかに眠らせてやった。これで少しはよく眠れるはずだ。",
+      "source": "80a67a458360cca1"
+    },
+    "Op_Medic_Mary_MaryQ1_Complete_2": {
+      "text": "どんなふうだったの？\u3000いえ、やっぱり詳しいことは聞きたくない。ただでさえつらいんだもの。",
+      "source": "f3afabe1df312ab9"
+    },
+    "Op_Medic_Mary_MaryQ1_Complete_3": {
+      "text": "……",
+      "source": "ab5df625bc76dbd4"
+    },
+    "Op_Medic_Mary_MaryQ1_Complete_4": {
+      "text": "ありがとう。私も約束は守るわ。私の票はあなたたちに入れる。ジャックのキャンプの力になりたいの。",
+      "source": "f4cea3ae636a4238"
+    },
+    "Op_Medic_Mary_MaryQ1_Complete_4b": {
+      "text": "治療が必要なときは、いつでも来て。ほかの医師だと、最大で20ドルは取られるわよ。",
+      "source": "3259be530edc794c"
+    },
+    "Op_Medic_Mary_MaryQ1_Complete_5": {
+      "text": "あなたたちには20%割り引いてあげる。",
+      "source": "4572a30a8024487a"
+    },
+    "Op_Medic_Mary_MaryQ1_Start": {
+      "text": "頼みごと",
+      "source": "153cdaaec56103da"
+    },
+    "Op_Medic_Start": {
+      "text": "どうしました？",
+      "source": "52c6a4f68307d05b"
+    },
+    "Op_Merchant_Auswahl_armor": {
+      "text": "防具",
+      "source": "a592855d0508d161"
+    },
+    "Op_Merchant_Auswahl_armor_independent": {
+      "text": "防具は売ってるか？",
+      "source": "0c68d374e40e0118"
+    },
+    "Op_Merchant_Auswahl_armor_independent_1": {
+      "text": "うちには独立派の軽装アーマーと重装アーマーがある。",
+      "source": "b645a05866fd2311"
+    },
+    "Op_Merchant_Auswahl_armor_independent_2": {
+      "text": "独立派の防具は一番頑丈とは言えないが、腕や首を自由に動かせるから、遠距離で戦う者にはうってつけだ。身に着けているあいだは、知覚とクリティカル率が上がる。",
+      "source": "1d01d600eec46808"
+    },
+    "Op_Merchant_Auswahl_armor_independent_3": {
+      "text": "ただし、うちとの友好度が高くないと売れないよ。（軽装アーマーには友好度70「同盟者」、重装アーマーには友好度100「英雄」が必要）",
+      "source": "c0a2011d74b6ef1a"
+    },
+    "Op_Merchant_Auswahl_armor_smuggler": {
+      "text": "防具は売ってるか？",
+      "source": "0c68d374e40e0118"
+    },
+    "Op_Merchant_Auswahl_armor_smuggler_1": {
+      "text": "うちには密輸業者の軽装アーマーと重装アーマーがある。",
+      "source": "bb5da81c3919cd11"
+    },
+    "Op_Merchant_Auswahl_armor_smuggler_2": {
+      "text": "密輸業者の防具には、パワーと筋力を高められるという利点がある。",
+      "source": "3d637210f695ad10"
+    },
+    "Op_Merchant_Auswahl_armor_smuggler_3": {
+      "text": "ただし、うちとの友好度が高くないと売れないよ。（軽装アーマーには友好度70「同盟者」、重装アーマーには友好度100「英雄」が必要）",
+      "source": "c0a2011d74b6ef1a"
+    },
+    "Op_Merchant_Auswahl_armor_usarmy": {
+      "text": "防具は売ってるか？",
+      "source": "0c68d374e40e0118"
+    },
+    "Op_Merchant_Auswahl_armor_usarmy_1": {
+      "text": "うちには軍用軽装アーマーと軍用重装アーマーがある。",
+      "source": "2739fc9e6588aa52"
+    },
+    "Op_Merchant_Auswahl_armor_usarmy_2": {
+      "text": "軍の防具は、全勢力の防具の中で一番頑丈だ。身に着けているあいだは、ブロック率と抵抗力が上がる。",
+      "source": "7ab8937bb547910f"
+    },
+    "Op_Merchant_Auswahl_armor_usarmy_3": {
+      "text": "ただし、うちとの友好度が高くないと売れないよ。（軽装アーマーには友好度70「同盟者」、重装アーマーには友好度100「英雄」が必要）",
+      "source": "c0a2011d74b6ef1a"
+    },
+    "Op_Merchant_Choice_NewGoods": {
+      "text": "新しい品物",
+      "source": "f5004c5de9a23d6f"
+    },
+    "Op_Merchant_Choice_trade": {
+      "text": "取引する",
+      "source": "9709653fc80ceb83"
+    },
+    "Op_Merchant_NewGoods_1": {
+      "text": "新しい品物はいつ入るんだ？",
+      "source": "52844fa3a1fcccc1"
+    },
+    "Op_Merchant_NewGoods_2": {
+      "text": "このご時世だから配達はあまり当てにならないが、少なくとも5日ごとに新しい品は入る。次の入荷は[MerchantNextGoods]だ。",
+      "source": "504f5e64946279bf"
+    },
+    "Op_Merchant_Start": {
+      "text": "何をお求めで？",
+      "source": "3438c4da90d8c5ad"
+    },
+    "Op_Merchant_Start_1": {
+      "text": "新しい品を入荷したよ。5日ごとに新しく仕入れてるんだ。",
+      "source": "1f3a299edd540906"
+    },
+    "Op_Merchant_Start_2": {
+      "text": "明日には品物を補充するよ。また近いうちに来てくれ。",
+      "source": "48e75dca9c62a2df"
+    },
+    "Op_Merchant_Start_3": {
+      "text": "あんたもだいぶ顔が売れてきたな。これで軽装アーマーを売ってやれるよ。",
+      "source": "9c508703d326d16e"
+    },
+    "Op_Merchant_Start_4": {
+      "text": "うちの連中は、あんたをほとんど英雄扱いしてるよ。これで重装アーマーを売ってやれる。",
+      "source": "ec8068c6ade0e9e4"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Auswahl1": {
+      "text": "友人",
+      "source": "acd8f66440162511"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Auswahl1_1": {
+      "text": "トリクシー、行方不明の友達のことをもっと詳しく聞かせてくれ。",
+      "source": "ead3090cc01cc340"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Auswahl1_2": {
+      "text": "サマンサは優秀な兵士よ。このへんの他のチンピラどもみたいに、自分勝手でも強欲でもない。軍の抑圧から逃れるってことの意味も、理想ばかり追いかける独立派の連中より現実的でいなきゃいけないってことも、ちゃんとわかってる。本当のお手本みたいな人よ。ここの連中は馬鹿だから気づいてないけど、この場所にはあの子が必要なの。",
+      "source": "812547352d952f0e"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Auswahl2": {
+      "text": "鉱山",
+      "source": "dd4add0cdd92f13c"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Auswahl2_1": {
+      "text": "彼女は鉱山に何の用があったんだ？",
+      "source": "1419a59243bff5e8"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Auswahl2_2": {
+      "text": "パトロール隊を連れて鉱山を抜けて、南の前哨基地まで行くつもりだったの。知ってると思うけど、南西へは鉱山を通らないと行けないのよ。そのルートで何か問題があったみたい。",
+      "source": "ea703fddafe682f6"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Auswahl2_3": {
+      "text": "お願い、何が起きてるのか確かめてきて。あの子が無事かどうか知りたいの。たとえ無事じゃなかったとしてもね。大切な友達なのよ。",
+      "source": "1dfdf9237921a305"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Auswahl3": {
+      "text": "報酬",
+      "source": "55ac8cbae095aacc"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Auswahl3_1": {
+      "text": "喜んで手を貸すが、こっちも何かと物入りでね。引き受けるからには、キラに口添えしてもらえるとありがたい。",
+      "source": "3e4ef832adeda5bb"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Auswahl3_2": {
+      "text": "もちろんよ！\u3000手を貸してくれるだけでうれしいわ。そうね、酒場の稼ぎが少しはあるの。サマンサに何があったのか突き止めてくれたら、お金を払う。スクラップも少し出せるわ。",
+      "source": "3ddc4568a971a304"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Complete": {
+      "text": "ああ。残念だが、悪い知らせがある。",
+      "source": "44803311e1af05fb"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Complete_1": {
+      "text": "サマンサは助からなかった。俺たちが駆けつける前に、ミュータントにやられたんだ。回収できたのは彼女の手紙だけだった。",
+      "source": "042558b0e6b76990"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Complete_2": {
+      "text": "奇跡なんて望むべきじゃなかったのね。このみじめな終末の世界じゃ、ありふれた一日ってわけ。その手紙、もらってもいい？\u3000あの子の形見にしたいの。",
+      "source": "bbd82df118347946"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Complete_3": {
+      "text": "ああ、もちろんだ。受け取ってくれ。",
+      "source": "5e14a92514fdcf3f"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Complete_4": {
+      "text": "これが報酬よ。あんたたちが私のためにしてくれたこと、密輸業者のみんなにちゃんと伝えておくわ。ありがとう。",
+      "source": "f6daaa4fef7732e7"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Complete_5": {
+      "text": "キラに会いに行くといいわ。パトロール隊の生存者たちが戻ってきて、南への通路のことで話があるそうよ。",
+      "source": "7ec10c951ccb1a3e"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Pre1": {
+      "text": "仕事",
+      "source": "153cdaaec56103da"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Pre1_1": {
+      "text": "仕事を探してるんだ。何か頼みたいことはないか？",
+      "source": "d5e6f2cd50c467aa"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Pre1_2": {
+      "text": "実はあるのよ。友達のサマンサがいなくなったの。ここじゃみんなに好かれてるけど、このろくでもない密輸業者どもは、お世辞にも情に厚いとは言えなくてね。おまけに、あの子が向かったのは鉱山。あそこには誰も行きたがらないのよ。",
+      "source": "0be28e0aeb732357"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Running": {
+      "text": "トリクシーの友人",
+      "source": "9e38a4ccad100a5d"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Running_1": {
+      "text": "あんたの友達のことなんだが……",
+      "source": "f9765598d54997aa"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Running_2": {
+      "text": "何かわかった？",
+      "source": "cd30f31a95970f8d"
+    },
+    "Op_Schmuggler_Barkeeper_TrixyQ1_Running_3": {
+      "text": "まだだ。だが、いくつか聞きたいことがある。",
+      "source": "9e138250581dd79f"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswah3_1": {
+      "text": "あんたたちの本部はどこにあるんだ？",
+      "source": "b9823414f407ae6b"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl1": {
+      "text": "スティーブン",
+      "source": "8360721f93d2e7e2"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl1_1": {
+      "text": "聞きたいことがある。スティーブンって男を知らないか？\u3000俺の親友なんだ。",
+      "source": "b1d962386aa7fa95"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl1_2": {
+      "text": "いきなり押しかけてきて、あたしと話そうなんて、いい度胸じゃないか。あたしが誰だか分かってんのかい？",
+      "source": "49fd87186060879d"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl1_3": {
+      "text": "昔だったら、あんたみたいな連中は、口をきく前にまずあたしの前にひざまずいたもんさ。でも、何言ってんだか。今の時代なんて、ほとんど中世みたいなもんじゃないか。",
+      "source": "e5f13263126f9c48"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl1_4": {
+      "text": "俺はジャックのキャンプの者だ。あんたは俺たちをだましたな！\u3000あんたのせいで、みんな死ぬかもしれないんだぞ！",
+      "source": "34bcddfb7187c28a"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl1_5": {
+      "text": "ああ、あんた、「あの」バカどもの一人かい。それであたしが特別扱いしてやるとでも思ってるんなら、頭がどうかしてるよ。",
+      "source": "3e427db1c3548982"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl1_6a": {
+      "text": "みかじめ料は払ったみたいだけど、あんたはまだ役立たずのままだよ。ちゃんと貢献してから出直しな。",
+      "source": "4f2ff02af368c095"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl1_6b": {
+      "text": "あたしらの寛大な保護の申し出を断っておいて、よくもまあ、のこのこ顔を出せたもんだね。何か貢献してから出直しな！",
+      "source": "e7ef7a128d3c5560"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl1_7": {
+      "text": "大人の言うことを聞きな。そしたら、ご褒美に相手してやるよ。",
+      "source": "cd600b9485686d3e"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl2": {
+      "text": "スティーブン",
+      "source": "8360721f93d2e7e2"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl2_1": {
+      "text": "スティーブンのことだ。あいつは俺の友達なんだ。",
+      "source": "0613ac378c1c1556"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl2_2": {
+      "text": "初めてここに顔を出したときの、何者でもないあんたとは違うみたいだね。ジャックもようやく正気に戻って、お利口な坊やみたいにお辞儀する気になったのかい？",
+      "source": "dd32365985b6a582"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl2_2_false": {
+      "text": "冗談だろ？\u3000あんたなんか、あたしがわざわざ相手してやるほどの大物じゃないよ。せいぜい役に立って、密輸業者との友好度を「支持者」まで上げな。話はそれからだよ。",
+      "source": "fb60653e5619b2c0"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl2_2_false_2": {
+      "text": "それと、酒場にいるうちのトリクシーの仕事も片付けてやりな。何を頼みたいのかは知らないけど、あの子がずっとあたしの耳元で泣きついてきて、いい加減イライラしてるんだよ！",
+      "source": "22fe23670d8ab1b7"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl2_2_false_3": {
+      "text": "そろそろ密輸業者のボスのジミーと話をさせてくれないか？\u3000ほら、持ちつ持たれつって言うだろ……",
+      "source": "442ffd35dd7b1f80"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl2_2_false_4": {
+      "text": "笑っちまうような友好度のくせに、取引しようってのかい？\u3000いい考えがあるよ！\u3000黙って言われたとおりにしな！",
+      "source": "c20f366f2ac44737"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl2_2_false_5": {
+      "text": "いくら払えばいいのか、教えてくれよ……",
+      "source": "1454f717b9556389"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl2_2_false_6": {
+      "text": "まあ、あんたにはボスのジミーと話してもらいたいからね。そのみじめでちっぽけな評判には目をつぶってやるよ。こうしよう！\u3000200ドル払いな。そしたら、あんたの友好度を必要なところまで上げてやる（友好度60）。どうする？\u3000（所持金: [Inventory_Resource_0]ドル）",
+      "source": "a0acb98fe249fa99"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl2_2_false_6_Fail": {
+      "text": "ふざけてんのかい？\u3000金が足りないじゃないか！",
+      "source": "cfc4c141e194deb1"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl2_2_false_6_Success": {
+      "text": "あんたのためにアヴェ・マリアを3回唱えてやるよ、坊や。密輸業者の友は幸いなり。これであんたも「支持者」だ。おめでとさん！",
+      "source": "946940457d79eee4"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl2_3": {
+      "text": "あたしが頼んだことは全部やったみたいだね。かわいいとこあるじゃないか。ああ、そうだよ。スティーブンなら知ってる。なにしろ、あんたたちをはめる仕事に、あいつを雇ったのはこのあたしだからね。最初は渋ってたけど、話はついたよ。どういう意味か、分かるだろ？",
+      "source": "f97e3854056d08b9"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl2_4a": {
+      "text": "いかにもあいつらしいな。で、それから？",
+      "source": "0eebddd6f55f3728"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl2_4a_Auswahl": {
+      "text": "皮肉る",
+      "source": "06a98affcdae7352"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl2_4b": {
+      "text": "あいつらしいな。昔から、髪のきれいな美人には弱いやつだったから。",
+      "source": "55d1c056cacf48db"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl2_4b_Auswahl": {
+      "text": "口説く",
+      "source": "a79333aaff64e84b"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl2_5a": {
+      "text": "口の利き方に気をつけな！\u3000あいつは独立派ともめててね。連中に追い詰められてたのさ。あんたたちを裏切るほうが、まだましだったってわけ。はっ！",
+      "source": "afade28659c2236e"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl2_5b": {
+      "text": "調子に乗るんじゃないよ、坊や！\u3000あたしにとっちゃ、あいつはただの手下にすぎないんだ。あいつは独立派ともめててね。連中に追い詰められてたのさ。あんたたちを裏切るほうが、まだましだったってわけ。はっ！",
+      "source": "3464a706c4757bc7"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl2_6": {
+      "text": "あははっ、顔が真っ赤だよ。怒っちゃった？\u3000まあ、少なくとも自分の立場ってもんは分かったみたいだね。ここで一番偉いのはあたしらなんだよ。さて、ずいぶんいい子にしてたから、ご褒美をあげようかね。",
+      "source": "38f841c3322f71e2"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl2_7": {
+      "text": "スティーブンは密輸業者本部にいるよ。探すならそこだね。",
+      "source": "76affdb87c982013"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl3": {
+      "text": "密輸業者本部",
+      "source": "638a17ce03a8e1d3"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl3_2": {
+      "text": "あんまり頭は良くないみたいだね。なりふり構わずあたしらの靴をなめてるくせに、基本中の基本も知らないなんて。うちのボス、ジミーの本部は、ここから北の山の中さ。それと、あたしならそんな格好じゃ行かないね。危ないからさ。もっとましな防具を手に入れな。",
+      "source": "266ffe2f0c5ad09a"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl4": {
+      "text": "崩れたトンネル",
+      "source": "c2222a577a744336"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl4_1": {
+      "text": "鉱山で気味の悪いものを見たんだ。分厚い錠前が3つも付いた、厳重な扉とかな。そこらじゅうゾンビだらけで、でかくておぞましい化け物までいた。",
+      "source": "f3011a7a514e8f4a"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl4_2": {
+      "text": "なるほどね。ミュータントの話は聞いてるけど、うちの連中はまだ出くわしてない。軍や独立派のあいだで噂になってるだけさ。",
+      "source": "31977ce5589c7646"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl4_3": {
+      "text": "ついてなかったね。でも、それが人生ってもんさ。ほかに何か話はあるかい？",
+      "source": "5a7e8008c3dda8c2"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl4_4": {
+      "text": "南へ続く崩れたトンネルを見つけたんだ。",
+      "source": "845e201337d7e600"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl4_5": {
+      "text": "ああ、そいつはまずいね。まずいなんてもんじゃないよ！\u3000ちょっと考えさせておくれ……",
+      "source": "51afb72639287133"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl4_6": {
+      "text": "そんなにうろたえることですか、賢明なる女王キラ様？",
+      "source": "6c8ed175235c962c"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl4_7": {
+      "text": "黙りな！\u3000本当にまずい知らせなんだよ。この件を今すぐジミーに伝えておくれ！\u3000何としても南部に行かなきゃならない。うちの前哨基地が完全に孤立しちまってるんだ。",
+      "source": "07aa02a3ca97c25a"
+    },
+    "Op_Schmuggler_Leader_Kira_Auswahl4_8": {
+      "text": "でも、気をつけな！\u3000北の本部に行くなら、手に入るかぎり最高の防具を身に着けていくんだね。評判が足りてりゃ、トレバーが密輸業者のアーマーを売ってくれるよ。",
+      "source": "3eb569f1008285e6"
+    },
+    "Op_Schmuggler_Leader_Kira_Start": {
+      "text": "何の用だい？",
+      "source": "3e17dbf90bd4ae6b"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_1": {
+      "text": "メイソン",
+      "source": "9e00106e1ab0502f"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_1_1": {
+      "text": "メイソンのことを教えてくれ。",
+      "source": "19172601da547083"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_1_10": {
+      "text": "脅迫なんて、密輸業者の間じゃ珍しくもないわ。でも今回は、じわじわ深刻になっていく自分の問題を、私に手伝わせるために使ってるの。彼は感染していて、その感染が広がってる。それが……普通とは違うのよ。",
+      "source": "e8339e13e4d9d9c7"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_1_11": {
+      "text": "妙だな。ジャックも似たような問題を抱えてる。前に噛まれたんだが、ゾムデックスをいくら使っても治らなかった。解決策は、とうとう見つからずじまいだ。手がかりがあるなら、この件は俺が引き受けてもいい。",
+      "source": "3b54bfadf276e285"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_1_12": {
+      "text": "それも、ジミーと同じウイルスの変異みたいね！\u3000わかったことはあるけど、うまくいくかどうかはわからない。この近くに、変異したオオカミがすみついてる洞窟があるの。",
+      "source": "2886eb27f8208e9c"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_1_13": {
+      "text": "スティーブンが言ってたオオカミか？\u3000そいつらがこの件と何の関係があるんだ？",
+      "source": "7df52273bdc8dbd8"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_1_14": {
+      "text": "その変異オオカミにかかったら、フォレストグレイブにいるキラのオオカミなんて、朝食代わりにぺろりと平らげられちゃうわ。詳しく分析するには、組織サンプルが必要なの。",
+      "source": "6b8e894761b98566"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_1_15": {
+      "text": "その獣のことは、まずトレバーに聞いてみるのが一番ね。もう会った？\u3000トレバーもここにいるのよ。南への道が開けたときにやって来たの。",
+      "source": "29cb346bb8204e3e"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_1_2": {
+      "text": "彼がどうかしたの？",
+      "source": "5fa52d31a39bfa4d"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_1_3": {
+      "text": "あいつは牢屋に入れられてる。俺なら出してやれるかもしれない……",
+      "source": "b3425c05b4a170a6"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_1_4A": {
+      "text": "ぜひそうして。また彼がそばにいてくれたら心強いわ。密輸業者本部へ行って、彼を脱獄させてちょうだい！",
+      "source": "6a42a8e0b3cd63ab"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_1_5B": {
+      "text": "念のため言っておくが、俺が身代金を払ったってのに、メイソンはまだ囚人のままだ。何かがおかしい。あいつはあんたの友達だと思ってたんだが。どうなってるんだ？",
+      "source": "6ee1254d4aae6731"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_1_6": {
+      "text": "うーん、それは……",
+      "source": "d473e6ff78b32f5a"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_1_7": {
+      "text": "もったいぶらずに話してくれ！\u3000俺たちになら言えるだろう。あんたもメイソンと同じで、ジャックのキャンプの古参の生き残りだったんだから。",
+      "source": "adafae72feddd686"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_1_8": {
+      "text": "そこまで彼が心配なら、話してあげる。知ってのとおり、密輸業者のボスは私とキラを入れて3人。でも、その上に立つのはジミーで、彼は私たちのことを「俺の雌犬ども」なんて呼んで、がっちり押さえつけてるの。で、ほかにましな手を思いつかなかったんでしょうね。我らが愛しのボスは、私を脅迫しようとしてるのよ。",
+      "source": "1e6eac9fee93fe76"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_1_9": {
+      "text": "脅迫か。円満な職場とは言いがたいな。",
+      "source": "ba63927013209434"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_2": {
+      "text": "組織サンプル",
+      "source": "a2704954b8643412"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_2_1": {
+      "text": "変異オオカミの組織サンプルを手に入れたぞ。あんたの見込みどおり、役に立つといいんだが。",
+      "source": "3d8492b6ae391227"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_2_2": {
+      "text": "このサンプルは間違いなく役に立つわ。でも、まずは調べてみないと。何かわかったら、すぐに無線で連絡するわね。",
+      "source": "56f2579637ea2a4e"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_2_Running": {
+      "text": "その件は、まだ片付いてないんだ。",
+      "source": "a1791f6fa614b249"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_3": {
+      "text": "メイソン",
+      "source": "9e00106e1ab0502f"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_3_1A": {
+      "text": "悲劇だわ。本当に愛していたのに。確かに欠点はあったけど、欠点のない人なんていないでしょう？\u3000死んでいい人じゃなかった……",
+      "source": "09e54c9896c0c364"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_3_1B": {
+      "text": "メイソンが打ち明けてくれたわ。あの計画はうまくいかないって。どうやら、ジミーも最初はうまくいくと思ってたみたい。期待できるのは、せいぜいプラシーボ効果くらいね。",
+      "source": "882015ba2bb57329"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_3_1B_2": {
+      "text": "あの薬で正しい方向に進んでるって、本気で思ってたのよ。私が甘かったのかもしれないわね。キラも私の研究に興味を示してたけど、結局、何も得られなかったみたい。",
+      "source": "52778368a28ab4cc"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_3_1B_3": {
+      "text": "これからどうするんだ？",
+      "source": "c32197f54c5007bf"
+    },
+    "Op_Schmuggler_Leader_Sharon_Auswahl_3_1B_4": {
+      "text": "ジミーには、もう私を脅す材料がない。私たちはここで持ちこたえて、ミュータントに飲み込まれないよう祈るだけ。今の私に示せる未来としては、それが精いっぱいよ。",
+      "source": "afc23b6eb9f397be"
+    },
+    "Op_Schmuggler_Leader_Sharon_Pre_1_1": {
+      "text": "地下鉄で長い道のりを旅してきたよ。あれがまだ動くなんて驚きだ。そこから鉱山と野原を抜けて、ここまで来たんだ。パンクスの卑怯な襲撃も切り抜けて、今じゃあんたたち密輸業者と同盟まで組んでる。",
+      "source": "25f4a2dd6cb483bc"
+    },
+    "Op_Schmuggler_Leader_Sharon_Pre_1_2A": {
+      "text": "自由がどうのとさんざん泣き言を並べておきながら、独立派はパンクスとつるんでるのよ。こんな同盟、たちの悪い冗談だわ。何の役に立つっていうの？",
+      "source": "79d1e4a7d5f1f2f8"
+    },
+    "Op_Schmuggler_Leader_Sharon_Pre_1_2B": {
+      "text": "つまり、アメリカ軍は私たちと手を組みたいと言いながら、北でやったあの小細工で、私たち密輸業者を締め出そうとしてるってわけね。こんな同盟、たちの悪い冗談だわ。何の役に立つっていうの？",
+      "source": "5a74d876d822dd7a"
+    },
+    "Op_Schmuggler_Leader_Sharon_Pre_1_3": {
+      "text": "確かに、いろいろ因縁はあるだろう。互いに殺し合ってきたんだからな。だが、俺たちには共通の敵がいるんだ。",
+      "source": "76827325d2ee05a6"
+    },
+    "Op_Schmuggler_Leader_Sharon_Pre_1_4": {
+      "text": "まあ、アンデッドが増えてるのは確かだけど、私たちの手に負えないほどじゃないわ。",
+      "source": "0acda8078da0e256"
+    },
+    "Op_Schmuggler_Leader_Sharon_Pre_1_5": {
+      "text": "一番の問題は、変異したアンデッドだ。ミュータントはすべての勢力にとって脅威だが、同盟のおかげで最悪の事態は防げた。だが、やつらはまた戻ってきて、遅かれ早かれ、ここにだって攻めてくる。信じてくれ、そんな光景は見たくないはずだ……",
+      "source": "6a609c30ae303023"
+    },
+    "Op_Schmuggler_Leader_Sharon_Pre_1_6": {
+      "text": "（ため息）わかったわ。それなら、せめてジャックのキャンプを救う手助けくらいはさせて。何が知りたいの？",
+      "source": "27001f9d69a66f5f"
+    },
+    "Op_Schmuggler_Merchant_Auswahl_BillQ1": {
+      "text": "ビルが「よろしく」ってさ",
+      "source": "38bd5c91319f4e79"
+    },
+    "Op_Schmuggler_Merchant_Auswahl_FerndandoQ1": {
+      "text": "フェルナンドが「よろしく」ってさ",
+      "source": "ef0c4218354bd611"
+    },
+    "Op_Schmuggler_Merchant_Auswahl_LizQ1": {
+      "text": "行方不明の医師",
+      "source": "a0fecb2830a563ef"
+    },
+    "Op_Schmuggler_Merchant_BillQ1_1": {
+      "text": "独立派の前哨基地にいるビルに言われて来た。",
+      "source": "c6f811f04dbbbd25"
+    },
+    "Op_Schmuggler_Merchant_BillQ1_2": {
+      "text": "おお、懐かしのビルか。元気にしてるか？",
+      "source": "4849cb1337d3ec5a"
+    },
+    "Op_Schmuggler_Merchant_BillQ1_3": {
+      "text": "届かなかった積み荷がどうなったのか、気にしてるよ。",
+      "source": "cbc32a0974d62e03"
+    },
+    "Op_Schmuggler_Merchant_BillQ1_4": {
+      "text": "うちの運び屋は、もう荷を運べない。ゾンビにやられちまってね。文明が立ち直りかけたと思った矢先に、世の中まだクソだって思い知らされるんだからな。ともかく、俺はこの壁の内側で安全な仕事にありつけてよかったよ。",
+      "source": "8158b30ddda5795b"
+    },
+    "Op_Schmuggler_Merchant_BillQ1_5": {
+      "text": "代わりに俺が届けよう。",
+      "source": "2780d606c86ba4ea"
+    },
+    "Op_Schmuggler_Merchant_BillQ1_6": {
+      "text": "まあ、ビルの紹介なら……信用できるかどうかのお試しってことにしよう。ほら、積み荷だ。こいつを無事にビルのところへ届けられたら、また顔を出してくれ。あんたに仕事を回せるかもしれない。",
+      "source": "600d5b187dcb2700"
+    },
+    "Op_Schmuggler_Merchant_BillQ1_7": {
+      "text": "密輸品か……そんなことだろうと思ったよ。",
+      "source": "b4140bed49059ddf"
+    },
+    "Op_Schmuggler_Merchant_FerndandoQ1_1": {
+      "text": "フェルナンドに頼まれて、借金を取り立てに来た。あんた、まだあいつに借りがあるそうだな。",
+      "source": "d821acb902555fee"
+    },
+    "Op_Schmuggler_Merchant_FerndandoQ1_10": {
+      "text": "取引だからこそ教えてやったまでさ。商売の話なら、いつだって乗るぜ。",
+      "source": "b497b8e704196b55"
+    },
+    "Op_Schmuggler_Merchant_FerndandoQ1_2": {
+      "text": "おっと！\u3000じゃあ、フェルナンドは……まだ生きてるってわけか。",
+      "source": "5051709b896aceec"
+    },
+    "Op_Schmuggler_Merchant_FerndandoQ1_3": {
+      "text": "あいつはクソ野郎かもしれないが、生き延びる術は心得てる。",
+      "source": "7b7cb64bec9348ed"
+    },
+    "Op_Schmuggler_Merchant_FerndandoQ1_4": {
+      "text": "ゾンビの疫病とあのメキシコ野郎、どっちがタチが悪いんだか。例の壁も、世界の終わりやら何やらで、結局完成しなかったしな。",
+      "source": "6299ee2ccf59db66"
+    },
+    "Op_Schmuggler_Merchant_FerndandoQ1_5": {
+      "text": "今のこの世の中で、人種差別なんてちょっと時代遅れだと思うがな。そうだろ？\u3000で、金はどこだ？",
+      "source": "4decb0c3ec7d7cb5"
+    },
+    "Op_Schmuggler_Merchant_FerndandoQ1_6": {
+      "text": "おっと、民主主義かぶれの一人か。恐れてたとおりだ。独立派じゃジョセフに投票したんだろ？\u3000密輸業者のところにいられて、ほんとによかったよ。こっちじゃ、そんなくだらないことには付き合ってられないんでね。",
+      "source": "16a904f3b3a2e669"
+    },
+    "Op_Schmuggler_Merchant_FerndandoQ1_7": {
+      "text": "さっさと本題に入って、金を渡してもらおうか。",
+      "source": "644aff06c5f84020"
+    },
+    "Op_Schmuggler_Merchant_FerndandoQ1_8": {
+      "text": "はいはい。俺の地図を見てくれ。そこに洞窟があるだろ？\u3000あいつとの取引で出た儲けの一部を、あそこに埋めておいた。フェルナンドのやつ、喉に詰まらせりゃいいんだ。せいぜい楽しく回収してくれ！",
+      "source": "9ec306b9810069f3"
+    },
+    "Op_Schmuggler_Merchant_FerndandoQ1_9": {
+      "text": "いい取引だったな。",
+      "source": "bdf5c5b3d327ea9a"
+    },
+    "Op_Schmuggler_Merchant_LizQ1_1": {
+      "text": "アメリカ軍の前哨基地にいた行方不明の医師について、ほかに何か教えてもらえないか？",
+      "source": "1044ca67835dcc43"
+    },
+    "Op_Schmuggler_Merchant_LizQ1_2": {
+      "text": "ああ、いいとも。ほかにやることもないしな。なんなら、プレゼント用に包んでやろうか？\u3000てっぺんにリボンでも付けてさ。",
+      "source": "4415e0096538a3d6"
+    },
+    "Op_Schmuggler_Merchant_LizQ1_3": {
+      "text": "じゃあ、誘拐事件は密輸業者の仕業だと認めるんだな？",
+      "source": "2baa1ded5125ab00"
+    },
+    "Op_Schmuggler_Merchant_LizQ1_4": {
+      "text": "さあ、どうだかな。この仕事をやってくれたら、ちょっとだけヒントをやるよ。",
+      "source": "d288a779f5b7fb72"
+    },
+    "Op_Schmuggler_Merchant_LizQ1_5": {
+      "text": "それと、まだ会ってないなら、フリーダムシティ東部にいる俺の商売仲間とも話してみてくれ。",
+      "source": "2f2cdb7ea6e24bab"
+    },
+    "Op_Schmuggler_Merchant_LydiaQ1_Auswahl1": {
+      "text": "商人ギルドへの票",
+      "source": "4e1660143aa7136f"
+    },
+    "Op_Schmuggler_Merchant_LydiaQ1_Auswahl1_1": {
+      "text": "トレバー、商人ギルドに入るには、あんたの票が必要なんだ。",
+      "source": "2f2a4dbb315331dc"
+    },
+    "Op_Schmuggler_Merchant_LydiaQ1_Auswahl1_2": {
+      "text": "ほう、新入りか。ふむ、どうしたもんかな。これまで俺たちのために何をしてくれたっけ、ん？",
+      "source": "adb84b4587245900"
+    },
+    "Op_Schmuggler_Merchant_LydiaQ1_Auswahl1_2a": {
+      "text": "まずは、あの可愛い医師の姉ちゃんを連れてきてくれたな。だが、あれはここだけの話だ。いいな？",
+      "source": "68fb6b9488bc02a3"
+    },
+    "Op_Schmuggler_Merchant_LydiaQ1_Auswahl1_2b": {
+      "text": "テレンスの手紙を持ってきてくれたな。役に立つのはまだ先の話だが、間違いなく価値のある情報だ。",
+      "source": "2997fa98c5a46bdc"
+    },
+    "Op_Schmuggler_Merchant_LydiaQ1_Auswahl1_3": {
+      "text": "あんたの働きには満足してる。寄付も遠慮しておこう。おめでとう、相棒！",
+      "source": "200d76d63584fa73"
+    },
+    "Op_Schmuggler_Merchant_LydiaQ1_Auswahl1_3a": {
+      "text": "あんたは俺のために、何ひとつ仕事をしてくれてない。少なくとも、俺が満足するような仕事はな。俺の票が欲しけりゃ、何か価値のあるものを考えるんだな。",
+      "source": "03e1488175830a50"
+    },
+    "Op_Schmuggler_Merchant_LydiaQ1_Subauswahl_1": {
+      "text": "50ドル渡す",
+      "source": "9653d08c68d7af41"
+    },
+    "Op_Schmuggler_Merchant_LydiaQ1_Subauswahl_1_1a": {
+      "text": "俺をバカだと思ってるのか？\u3000そんな金、持ってすらいないじゃないか！",
+      "source": "97994a0a4133f27d"
+    },
+    "Op_Schmuggler_Merchant_LydiaQ1_Subauswahl_1_1b": {
+      "text": "いいだろう、今回だけは目をつぶってやる。俺の票はあんたのものだ。",
+      "source": "6226a565243110b2"
+    },
+    "Op_Schmuggler_Merchant_LydiaQ1_Subauswahl_2": {
+      "text": "断る",
+      "source": "2631349bff4daf19"
+    },
+    "Op_Schmuggler_Merchant_Sueden2": {
+      "text": "パンクスの首領",
+      "source": "2a1d3a663c81eaa3"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_1": {
+      "text": "あんたなら、パンクスの首領を探す手助けをしてくれると聞いたんだが。",
+      "source": "0e5008a007b89c71"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_10": {
+      "text": "選択の余地はあまりなさそうだな。山へ行くとするか。",
+      "source": "6bd6d580c82dbda3"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_2": {
+      "text": "その情報は、とびきり値打ちのあるお宝でね。その手のものは高くつくんだ。だが、あんたはついてる！\u3000いい考えがあるんだよ！",
+      "source": "a7398505e486776e"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_3": {
+      "text": "なぜだか、あまり期待しないほうがよさそうな気がする。",
+      "source": "a12be05f56ff6ec1"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_4a": {
+      "text": "テレンスのことなんだがね。風の噂で聞いたんだが、あんたはチャールズ将軍に取り入るためだけに、あいつを冷酷に殺したそうじゃないか。そいつは、どう考えても文明人のやることじゃないねえ。",
+      "source": "cb70dea49c0bb9ad"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_4a_2": {
+      "text": "知ってたのか？\u3000いいか、何でも白黒つけられるわけじゃない。俺たちは追い詰められてたんだ。",
+      "source": "934845d5a26caf23"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_4b": {
+      "text": "テレンスのことなんだがね。風の噂で聞いたんだが、軍をだますために、あいつを砂漠へ逃がしてやったそうじゃないか。言わせてもらえば、悪くない手だ。",
+      "source": "32e84d2108eef0da"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_4b_2": {
+      "text": "知ってたのか。まあ、ほかに選択肢がなかったんだ。俺たちなりに最善を尽くしたさ。",
+      "source": "c4dc635096e1f646"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_5": {
+      "text": "生きてようが死んでようが、俺にはどうでもいい。問題は、テレンスが俺にたんまり借金を残したまま消えたってことだ。俺にとって大事なのはそれだけさ。あいつの隠し財産を掘り出してきたら、誰に会えばいいか教えてやるよ。",
+      "source": "a8faae590b64a7b9"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_6": {
+      "text": "場所はよく知らないが、あいつが小さな洞窟に目がないのは知ってる。パンクス時代からの癖でね。連中はよくそうやって盗品を隠すんだ。",
+      "source": "fc2769f4d31c31b0"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_7": {
+      "text": "そんな顔するなって！\u3000大丈夫さ。まあ、ちょっとした問題はいくつかあるかもしれないが……",
+      "source": "e7907cce1fe5f1b8"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_8": {
+      "text": "そんなことだろうと思った。で、何なんだ？",
+      "source": "371c335527f76753"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_9": {
+      "text": "問題その1、場所は山の中だ。空気はきれいかもしれないが、野生動物はずっと危険だ。問題その2、そこへ行くには、北の橋の先にあるヨットに乗らなきゃならない。ちょっと値が張るが、情報にはそれだけの価値があるはずさ。",
+      "source": "3a049247ac51b74d"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_Auswahl1": {
+      "text": "テレンスの手紙",
+      "source": "f7f9033c5a6a2b93"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_Auswahl1_1": {
+      "text": "テレンスの隠し財産は手に入ったか？\u3000見せてくれたら取引といこう。",
+      "source": "704145fe28c35cf2"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_Auswahl1_2": {
+      "text": "手紙を渡す",
+      "source": "58a61b9cdb4ef1b5"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_Auswahl1_3": {
+      "text": "隠し財産は見つからなかったが、それについて書かれた手紙ならある。あいつの奥さんって誰なんだ？",
+      "source": "a9ede2b58fb3f69c"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_Auswahl1_4": {
+      "text": "素晴らしい！\u3000あいつがどこの野良猫を拾ってきたのかなんて知らないね。俺が興味あるのは手紙だけさ。ふむ……くそっ、南部のどこかに埋まってるのか。あそこにはまだ行けない。お預けってことになりそうだな。とりあえず、せめて情報で報いてやろう。",
+      "source": "b6a93addf6b3cda5"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_Auswahl1_5": {
+      "text": "手短に言おう。うちのボスのジミーと話してくれ。情報は全部ボスに渡してある。パンクスのことも、連中の居場所も教えてくれるはずだ。",
+      "source": "97cb10253d415459"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_Auswahl1_6": {
+      "text": "あんたが教えてくれればいいだろう？",
+      "source": "7a4947e9fbc3ca68"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_Auswahl1_7": {
+      "text": "まあ、教えられなくはないんだが、この件はジミーが自分で仕切りたがっててね。たぶん、あんたと直接話したいんだろう。幸運を祈るよ。また商売の用があったら、ぜひ寄ってくれ。",
+      "source": "b287c1f8a55c3750"
+    },
+    "Op_Schmuggler_Merchant_Sueden2_Auswahl1_false": {
+      "text": "山の中の場所は、まだ見つけてない。見つけたらまた来る。",
+      "source": "ae9f68b0afd22bf2"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1": {
+      "text": "仕事",
+      "source": "153cdaaec56103da"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_1": {
+      "text": "何か仕事はないか？\u3000このあたりで評判を上げておきたいんだ。",
+      "source": "db049e12e2b34a40"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_2a": {
+      "text": "おお、俺の一番のお気に入りのお出ましだ。やっと頼りになるやつが来てくれた！\u3000このご時世、誰も信用できないが、あんたは数少ないまともなやつだよ！",
+      "source": "b70d3006497e4bf6"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_2b": {
+      "text": "あんたのことは知らないな。俺の取引仲間と話してから出直してくれ。",
+      "source": "0ce5b0797e308ce0"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_3a": {
+      "text": "あんたがそう言うなら……で、何か仕事はあるのか？",
+      "source": "2b4312f33e5d95d9"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_3b": {
+      "text": "取引仲間って誰のことだ？",
+      "source": "7e2ca3117cf81201"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_4a": {
+      "text": "あんたも気づいてるだろうが、独立派の連中は、俺たちの生き方ってもんをちっとも評価してくれなくてね。",
+      "source": "89583545f414a182"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_4b": {
+      "text": "そいつは自分で突き止めるんだな。ただ、密輸業者の中にはいないってことだけは教えてやるよ。腕のいい商人ってのは、あちこちにつてがあるもんさ。",
+      "source": "592aa6ef92efc2e1"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_5a": {
+      "text": "次の荷は軍の前哨基地にある。そこにいる医師と話してくれ。",
+      "source": "901e7da90af23e9f"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Auswahl1_1": {
+      "text": "詳しい話",
+      "source": "09f6242266631e82"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Auswahl1_1_1": {
+      "text": "どうして、向こうの商人とは話すなって言ったんだ？",
+      "source": "c53b46c3e431c96a"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Auswahl1_1_2": {
+      "text": "こう言っておこうか。俺たちは、あの商人とは何のつながりもない。だから、もっと目立たないルートを通さなきゃならないってだけのことさ。",
+      "source": "90f30878792617ad"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Auswahl1_2": {
+      "text": "仕事の場所",
+      "source": "d356d5ae8b558907"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Auswahl1_2_1": {
+      "text": "その前哨基地はどこにあるんだ？",
+      "source": "65281cf2018c9a7c"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Auswahl1_2_2": {
+      "text": "軍の前哨基地はフリーダムシティ西部、独立派のビルの拠点の真西だ。そこにいるのろまどもには気をつけろよ。いつもより危険なんだ。どういうわけか、変異し始めたって話だ。",
+      "source": "9bc496936c135eaf"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Auswahl1_3": {
+      "text": "仕事を引き受ける",
+      "source": "c358b33cc58cf8aa"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Auswahl1_3_1": {
+      "text": "わかった、やるよ。",
+      "source": "896c9c065d835058"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Auswahl1_3_2": {
+      "text": "いい知らせを持って戻ってきてくれ。頼りにしてるぞ！",
+      "source": "3e15a9808d828dc6"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Auswahl2": {
+      "text": "賄賂を渡す（-50ドル）",
+      "source": "66fd4a277515deed"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Auswahl2_1": {
+      "text": "なあ、この大統領の顔入りのお札をここに置いとくからさ、あの件はなかったことにして、また仲良くやろうぜ。どうだい？",
+      "source": "7c032cf527c5eb81"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Auswahl2_failed": {
+      "text": "俺をからかってるのか？\u300050ドルも持ってないじゃないか！",
+      "source": "b1f6749862045b50"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Complete_1": {
+      "text": "全部ここにある。積み荷が何なのか、ひと言くらい言ってくれてもよかっただろう。",
+      "source": "857ed555099f483b"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Complete_2": {
+      "text": "言ってたら、あんたが俺たちとの仕事に耐えられるかどうか、試せなかっただろ。結果には満足してるよ。おめでとう！",
+      "source": "64fd9584f97bfce1"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Complete_3": {
+      "text": "彼女はこれからどうなるんだ？",
+      "source": "1629e18243bfcf35"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Complete_4": {
+      "text": "まあ、いろいろさ。この手の品に興味を持つ客は大勢いるんでね。あんたが気にすることじゃない。もう二度と会うこともないだろうよ。",
+      "source": "f0ece46c548b3ce1"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Failed": {
+      "text": "はっ、面白いやつだな！\u3000この前の仕事がどうなったか、忘れたのか？\u3000あんたにはもう用はないよ。",
+      "source": "1650b34ba683501d"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Failed_2_1": {
+      "text": "残念だが、積み荷は失ってしまった。",
+      "source": "900e5dc3b6f991e4"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Failed_2_2": {
+      "text": "で？\u3000これじゃ、ここでのあんたの評判はちっとも上がらないだろうな。むしろ逆だ。あんたみたいなバカは、いないほうがせいせいする！",
+      "source": "00bfb4b41dfa83a8"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Running": {
+      "text": "俺の積み荷はどうなった？",
+      "source": "5d491834a5fd7a3c"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Running1": {
+      "text": "まだ取りかかってないんだ。",
+      "source": "6b60be00ce3e46a4"
+    },
+    "Op_Schmuggler_Merchant_TrevorQ1_Running2": {
+      "text": "傷んじまう前に急いだほうがいいぞ。",
+      "source": "2b7f7e139a7a7a0c"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2": {
+      "text": "テレンスの隠し財産",
+      "source": "d7ebd7047be36887"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_1": {
+      "text": "南部まで来られたわけだが、あれはどうなったんだ？",
+      "source": "70ac41a6e12de634"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_10": {
+      "text": "お偉方も承知のうえさ。あんたは橋を直して、変異ゾンビどもを片付けて、それから隠し財産の始末をつける。",
+      "source": "82ffddb19975ec70"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_11": {
+      "text": "……で、最後のところは、お偉方も知らないんだろうな。",
+      "source": "d2196313141d4186"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_12": {
+      "text": "伊達に頭がついてるわけじゃないってことか。わかったよ、口止め料として隠し財産の半分をやろう。",
+      "source": "a1aafb2c544026c4"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_2": {
+      "text": "テレンスの隠し財産なら、いただきに行くさ。今がその時だ。ただ、ひとつだけ問題があってね。",
+      "source": "772719d753a1630e"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_3": {
+      "text": "また問題か。あんたの話には、いつも何かしら落とし穴があるな！",
+      "source": "88cbd4c6da01d6bb"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_4": {
+      "text": "今回は俺のせいじゃないぞ。ついさっき、無線でこんな通信を拾ったんだ……",
+      "source": "f450b0b5168816d6"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_5": {
+      "text": "どなたか、助けていただける方はいませんか！\u3000緊急事態です！\u3000我々の前哨基地がミュータントに包囲されています！",
+      "source": "b229c287f48f7e8e"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_6A": {
+      "text": "この件には、俺の目が必要になるぞ。なにせ、独立派とは同盟を組んでるからな。",
+      "source": "1c8cd4a7dcbd97f4"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_6B": {
+      "text": "この件には、俺の目が必要になるぞ。なにせ、独立派とは敵同士だからな。",
+      "source": "f256adf90ea33199"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_7": {
+      "text": "テレンスとくっついたのがどこのアバズレか、突き止めなきゃならない。",
+      "source": "c8ea2e157fff7c13"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_8A": {
+      "text": "前哨基地で聞き込みをして、テレンスの女房が誰なのか知ってるやつがいないか探ってくれ。",
+      "source": "cf011b1898b577ed"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_8B": {
+      "text": "相手は敵なんだぞ。どうやって聞き込みしろって言うんだ？",
+      "source": "813fd53571a2bb08"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_8B_1": {
+      "text": "どうやら、また俺の出番らしいな。俺の知恵がなかったら、あんたはどうするつもりだったんだ？\u3000ほら、見てみな。",
+      "source": "3e1d24bddc87acd9"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_8B_2": {
+      "text": "ここに野営地がある。偵察役の報告じゃ、黒髪の女がパンクスの何人かと一緒にいるところを目撃されたそうだ。あんたの探してる女じゃないか？",
+      "source": "326ad5942673a3c3"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_9": {
+      "text": "物事には順序ってものがある。今一番差し迫ってるのは、ミュータントの脅威だ。",
+      "source": "286c0ed41945a0a6"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_Quest_Running": {
+      "text": "テレンスの隠し財産のことなんだが……",
+      "source": "461dd4c8ef93fe7f"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_Quest_Running_false": {
+      "text": "何か渡せるものができたら、また来てくれ。手ぶらなのは見りゃわかる。",
+      "source": "a313fddb70068109"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_Quest_Todo_4": {
+      "text": "[Player]！\u3000待ちかねたぜ！\u3000お宝は見つかったか？",
+      "source": "b28f2e3fa1870595"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_Quest_Todo_4_1": {
+      "text": "この書類、何かの役に立つか？",
+      "source": "1a83b632219a727e"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_Quest_Todo_4_2": {
+      "text": "もちろんだとも！\u3000で、あんたの取り分は300ドル。それでいいか？",
+      "source": "eb84df9ae5e6d7de"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_Quest_Todo_4_Auswahl1": {
+      "text": "はい",
+      "source": "85a39ab345d672ff"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_Quest_Todo_4_Auswahl1_1": {
+      "text": "あんたとの取引は、いつだって楽しいね！",
+      "source": "253e6f8838946c8e"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_Quest_Todo_4_Auswahl2": {
+      "text": "いいえ",
+      "source": "1ea442a134b2a184"
+    },
+    "Op_Schmuggler_Trevor_Quest_2_Auswahl2_Quest_Todo_4_Auswahl2_1": {
+      "text": "ラリッサなら、もっといい条件を出してくれると思う。",
+      "source": "92faf7c75b8cba27"
+    },
+    "Op_Schmuggler_Trevor_Quest_Sharon_Auswahl1": {
+      "text": "洞窟",
+      "source": "9530bfe0e8d8b573"
+    },
+    "Op_Schmuggler_Trevor_Quest_Sharon_Auswahl1_1": {
+      "text": "シャロンに、あんたのところへ戻るよう言われてな。ある洞窟を探すことになってるんだが、あんたが知ってるって話なんだ。",
+      "source": "e833ee14b87c53ed"
+    },
+    "Op_Schmuggler_Trevor_Quest_Sharon_Auswahl1_2": {
+      "text": "いきなりそれかい？\u3000寄付も何もなしに、頼み事だけってわけか？",
+      "source": "1ead043409f0ec83"
+    },
+    "Op_Schmuggler_Trevor_Quest_Sharon_Auswahl1_3": {
+      "text": "駆け引きはなしだ……",
+      "source": "4b703a955762ec90"
+    },
+    "Op_Schmuggler_Trevor_Quest_Sharon_Auswahl1_4": {
+      "text": "ちぇっ……正確な場所は知らないんだ。だが、地図を見てくれ。候補は3か所ある。探し物は、そのどれかで見つかるはずさ。",
+      "source": "00b38fb42633f524"
+    },
+    "Op_Schmuggler_Trevor_Quest_Sharon_Auswahl1_Reminder": {
+      "text": "待ってくれ。大事な話があるんだ。",
+      "source": "cd53fc81c14f3887"
+    },
+    "Op_Schmuggler_Trevor_Start": {
+      "text": "おやおや、これはこれは。俺のささやかな商売のオアシスを見つけたか。南部は新しい取引の宝の山でね。あんたも来たからには、頼るなら俺だぜ！",
+      "source": "90d815069505611f"
+    },
+    "Op_Smuggler_Start": {
+      "text": "おっ、新顔か！\u3000フォレストグレイブにある密輸業者の前哨基地へようこそ。武器はこっちで預からせてもらうぜ。ここじゃ、よそ者は信用しないんでな。",
+      "source": "cc15353e60fbc215"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl3": {
+      "text": "割のいい仕事",
+      "source": "11b255ab39f17bf2"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl3_1": {
+      "text": "本部の前にいた見張りの兵士に、あんたを訪ねるよう勧められたんだ。",
+      "source": "03c63d0cb5b1f400"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl3_2": {
+      "text": "いい人たちよ。本部に入りたいんでしょう？\u3000実は、あなたにうってつけの仕事があるの。それに、私たちとの友好度が足りなくて自分では買えないなら、軍用軽装アーマーを手に入れる手伝いもしてあげられるわ。",
+      "source": "f67275c8c3fa7b53"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl3_3": {
+      "text": "最初の仕事は見事にこなしてくれたわね。おかげで信頼してるわ。ただ、念のためにもう一度だけ試させてちょうだい。",
+      "source": "a2dc1ba904d59a3c"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl3_4": {
+      "text": "最初の仕事でのあなたの働きのおかげで、私は今ひとり身よ……意外かもしれないけど、あなたを信用していいのかわからないの。",
+      "source": "8f774cc5bbe3233e"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl3_5": {
+      "text": "あなたとは知り合ってまだ日が浅いし、信用していいのかわからないわ。",
+      "source": "b6e9dbe746c6cd54"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl3_5a": {
+      "text": "酒場の仕事を2件こなしてくれたら、取引しましょう。",
+      "source": "3ab730101bd864e2"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl3_5b": {
+      "text": "普通なら私のサイドジョブを2件こなしてもらうところだけど、友人を救ってくれたから、1件でいいわ。",
+      "source": "8213f40793486ed3"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl4": {
+      "text": "割のいい仕事",
+      "source": "11b255ab39f17bf2"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl4_1": {
+      "text": "まだ必要なサイドジョブが終わってないわよ。本腰を入れてちょうだい！",
+      "source": "54e0d48ef6ea6923"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl4_1b": {
+      "text": "いずれにしても、うちの医師はまだ行方不明だし、依頼人もしびれを切らしかけてるわ。早く取りかかってちょうだい。",
+      "source": "beae4b955ed700b3"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl4_2": {
+      "text": "私の信頼を得るには、もう十分働いてくれたと思うわ。今回の仕事はちょっと特別よ。あなたにそれだけの度胸があるといいんだけど。",
+      "source": "3f936d12783ef427"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl4_3": {
+      "text": "この任務の依頼人は、軍のお偉方の中でもかなり上の人物よ。取り繕っても仕方ないから、はっきり言うわ。これは暗殺の任務なの。",
+      "source": "e65d7d7e47c6547b"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl4_4": {
+      "text": "標的はテレンス。独立派本部にいるわ。地図に印をつけておくわね。",
+      "source": "2a8352341fa0c637"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl4_5": {
+      "text": "ふむ……独立派の人間、か。",
+      "source": "9e436f5991ce5d27"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl4_6": {
+      "text": "怖気づいた？\u3000アメリカ軍本部に入りたいなら、これは避けて通れないわよ。あなたにはうちの防具が必要だし、私ならここでのあなたの評判をうんと上げてあげられる。それがなきゃ、グランドウィンド峡谷では一日だってもたないわよ。",
+      "source": "4d3bdb540fdae6dd"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl4_7": {
+      "text": "この任務について、ほかに何が知りたいの？",
+      "source": "ae7b695450418267"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl4_Complete": {
+      "text": "任務は成功だ。もうテレンスのことで心配する必要はない。証拠に、やつの首を持ってきた。",
+      "source": "dd52c8bba4ecbee4"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl4_Complete1": {
+      "text": "悪くないじゃない！\u3000軍ではこうやって仕事をするのよ。ためらいも後悔もなく、プロらしくね。これで私たちの間でのあなたの評判は大いに上がるわ。それでもまだ友好度が足りないなら、あなた専用の軍用軽装アーマーを手配してあげる。お代はいただくけどね。",
+      "source": "8b357c9895c299fa"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl4_Complete2": {
+      "text": "で、この任務を命じたのが誰か、そろそろ教えてもらえるか？",
+      "source": "197d361bb8914e29"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl4_Complete3": {
+      "text": "そのうちわかるわ。向こうからすぐに連絡が来るはずよ。",
+      "source": "2540fb5b0e1b5e9a"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl4_Completeb": {
+      "text": "任務は成功だ。もうテレンスのことで心配する必要はない。あいにく、首は持ってこられなかった。体ごと燃えちまったんでね。",
+      "source": "625e526640ab1479"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl4_Completeb1": {
+      "text": "証拠がないと、上を納得させるのは難しいわね。残念だけど、これで私たちとの友好度は上がらないわ。でも、まだ自分の軍用軽装アーマーが欲しいなら、手配してあげられる。お代はいただくけどね。",
+      "source": "8d99e02f2f54f2e1"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl5": {
+      "text": "詳細",
+      "source": "45989de49fb7f66d"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl5_1": {
+      "text": "標的とやり合うとき、何に気をつければいい？",
+      "source": "8177a35d58d8b53b"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl5_2": {
+      "text": "甘く見ないことね。昔は名の知れた冒険者だったのよ。パンクスと組んでいたこともあるわ。",
+      "source": "6fc61d2158aa75bb"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl5_3": {
+      "text": "感傷的な男だから、過去をネタに揺さぶってやりなさい。混乱させて、油断しきったところを突くのよ。",
+      "source": "e2b5a6fe168423b6"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl6": {
+      "text": "依頼人",
+      "source": "0c77fe09ab336a3e"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl6_1": {
+      "text": "依頼人について、何か教えてもらえないか？",
+      "source": "475cfbcc7f16b598"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl6_2": {
+      "text": "それは知る必要のある者にだけ教える情報よ。そして、あなたには知る必要がないの。",
+      "source": "5615db333d814af7"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl7": {
+      "text": "交渉する",
+      "source": "60f367aa399b48ea"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl7_1": {
+      "text": "こいつは本当にひどい仕事だ。独立派に嗅ぎつけられたら、俺の首が飛びかねない。少し色をつけてくれないか？",
+      "source": "a575c358a6dba529"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl7_2": {
+      "text": "調子に乗らないで……",
+      "source": "7d18b289dee23951"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl8": {
+      "text": "軍用軽装アーマー",
+      "source": "1ccce7c339789885"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl8_1": {
+      "text": "軽装アーマーのことだが……",
+      "source": "84ab9d506fc57cf0"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl8_2": {
+      "text": "あなたはまだここで十分に認められてないの。あれを買うには、「同盟者」と見なされる必要があるわ。",
+      "source": "3ed253541c777d10"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl8_2_1": {
+      "text": "別の方法があるって言ってたよな？",
+      "source": "6c060bfdf969ca63"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl8_2_2": {
+      "text": "口利き料100ドルで、商人と話をつけてあげる。そうすれば、あの人もそんなに……出し惜しみしなくなるわ。",
+      "source": "1990f92ab6b18ac0"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl8_2_3": {
+      "text": "その値段、交渉の余地はあるか？",
+      "source": "b81bda64a8ba31bf"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl8_2_4": {
+      "text": "冗談でしょ？\u3000100ドルよ。おだてたって負けないわ。",
+      "source": "8253d3aae82a5d13"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Auswahl8_2a": {
+      "text": "あなたはもうここで十分認められてるから、自分で買えるわよ。商人のところへ行くといいわ。",
+      "source": "acef3f01b0fbd6ad"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Subauswahl1": {
+      "text": "口説く",
+      "source": "1339504105ef8e83"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Subauswahl1_1": {
+      "text": "あんたの笑顔がどれだけ魅力的か、もう言ったっけ？\u3000本当にきれいだ……",
+      "source": "535f13ef89249097"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Subauswahl1_2": {
+      "text": "あはは、口がうまいのね。脈はないけど、頑張ったところはかわいいわよ。この任務をやり遂げたら、スクラップを3つおまけしてあげる。",
+      "source": "2aa64907433feb02"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Subauswahl2": {
+      "text": "良心に訴える",
+      "source": "2e50c4caefecf545"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Subauswahl2_1": {
+      "text": "兵士としての義務じゃないのか？\u3000いつだって人々の幸せを第一に考えるべきだろう。",
+      "source": "bac2b04808406e69"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Subauswahl2_2": {
+      "text": "ずいぶん苦しい言い分ね。仕事をやるか、出ていって二度と来ないか、どっちかにして。",
+      "source": "69aa8a01d05d332b"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Subauswahl3": {
+      "text": "100ドル払う（所持金: [Inventory_Resource_0]ドル）",
+      "source": "41ec3ec22cdf89a5"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Subauswahl3_1": {
+      "text": "わかった。じゃあ、よろしく頼む。",
+      "source": "c809387c254332f5"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Subauswahl3_2": {
+      "text": "あなたとの取引はいつも楽しいわ。買ったら、忘れずに身に着けてね。きっと似合うわよ、兵隊さん。",
+      "source": "e3fd28727f4ce424"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Subauswahl4": {
+      "text": "後で払う",
+      "source": "c7f3b00f63885f89"
+    },
+    "Op_USArmy_Barkeeper_Lana_LanaQ1_Subauswahl4_1": {
+      "text": "考えておくよ……",
+      "source": "fd0aeb323e89002e"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl1": {
+      "text": "テッサへの恩返し",
+      "source": "7ddbbf3d4aa1dd67"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl1_1": {
+      "text": "手短に言う。テッサが死にかけてるんだ。感染してる。テッサは前にあんたを助けたことがあるだろう。今度はあんたがその恩を返してくれないか。",
+      "source": "c2cb9796141a0312"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl1_10": {
+      "text": "友人を連れ戻して。それができたら、テッサを救うための解毒剤をあげるわ。",
+      "source": "02447dcb22ff172b"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl1_11a": {
+      "text": "引き受ける",
+      "source": "89713b9c9c1b8f65"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl1_11a_2": {
+      "text": "わかった、やろう。",
+      "source": "896c9c065d835058"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl1_11b": {
+      "text": "交渉する",
+      "source": "60f367aa399b48ea"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl1_11b_2": {
+      "text": "これじゃほとんど脅迫だな。テッサを見殺しにするつもりか？",
+      "source": "b820c0c8eb142678"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl1_11b_3": {
+      "text": "何のつもり？\u3000罪悪感に訴えようってわけ？",
+      "source": "e24cb21d788928ea"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl1_12": {
+      "text": "行ってくる。",
+      "source": "c01f27af13242d4e"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl1_2": {
+      "text": "独立派からゾムデックスを手に入れようとはしてみた？",
+      "source": "874202205808627f"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl1_3": {
+      "text": "俺たちには手が出ない値段なんだ。",
+      "source": "b1eff7548ad2e4ef"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl1_4": {
+      "text": "ただで渡すわけにはいかないのよ。ごめんなさいね。",
+      "source": "bea3c9bb762bce72"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl1_5": {
+      "text": "おい、頼むよ！\u3000何か打つ手があるはずだ！",
+      "source": "276a650ce6ecd7c1"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl1_6": {
+      "text": "なくはないわ。でも、誰にも一言も漏らさないって約束して。ここの人たちは噂話が好きすぎるのよ。",
+      "source": "64caf1b5ef90bff0"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl1_7": {
+      "text": "軍には秘密なんてないと思ってたけどな。",
+      "source": "0bbc984ed0f33764"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl1_8": {
+      "text": "今回は例外よ……友人が困ってるの。ちょっとした……ヘマがあって、独立派への潜入がばれてしまったのよ。それで投獄されたわ。場所に印をつけておくわね。",
+      "source": "bbed5408ae30f6c7"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl1_9": {
+      "text": "正規のルートは使えないの。そんなことをしたら、今の地位を失いかねないから。そこで、あなたの出番ってわけ。",
+      "source": "b709c925a591e43b"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl2": {
+      "text": "あんたの友人のことだが……",
+      "source": "f9765598d54997aa"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl2_a1": {
+      "text": "あんたの友人を助け出したぞ。今度はそっちが約束を守る番だ。",
+      "source": "bfa9eb76d5b0e9ed"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl2_a2": {
+      "text": "あなたには一生感謝するわ。彼を生きて連れ帰ってくれて、本当にうれしい。このゾムデックスを持っていって。テッサが早くよくなるといいわね。",
+      "source": "4add6f474b59b0f7"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl2_b1": {
+      "text": "残念な知らせだ。あんたの友人のもとへ間に合わなかった。助からなかったよ。",
+      "source": "a64e7ab5d4909357"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Auswahl2_b2": {
+      "text": "どうしてこんなことに！？\u3000私……何て言えばいいのか。あなたたちはしくじったのよ！\u3000ゾムデックスは渡さない！\u3000私の前から消えて！",
+      "source": "c947fdd4519cae32"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Handel1": {
+      "text": "口説く",
+      "source": "1339504105ef8e83"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Handel1_1": {
+      "text": "こんなに美しい外見の奥に、そんな冷たい心が隠れてるなんて信じられないな。俺としては、むしろ……",
+      "source": "9fe34de704db5b61"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Handel1_2": {
+      "text": "むしろ、何？\u3000捕まった友人より大事なことなんてないわ。あなたのキャンプにこんな機会をあげてるだけでも、運がいいと思いなさい。",
+      "source": "522c058ce869658b"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Handel2": {
+      "text": "情に訴える",
+      "source": "23d65e6f2d909b9f"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Handel2_1": {
+      "text": "困ってる友人が二人いるんだ。俺なら二人とも救える。だから、ここは歩み寄ってくれないか。",
+      "source": "0fe54a600b09b114"
+    },
+    "Op_USArmy_Barkeeper_Lana_TessaQ1_Handel2_2": {
+      "text": "じゃあ、こうしましょう。友人を連れ戻してくれたら、おまけにスクラップを2つつけてあげる。",
+      "source": "25cf6b90efa97e32"
+    },
+    "Op_USArmy_Medic_Abraham_Auswahl0": {
+      "text": "エイブラハム",
+      "source": "78a8ebdcc101b021"
+    },
+    "Op_USArmy_Medic_Abraham_Auswahl0_1": {
+      "text": "患者の一人と少し話をさせてほしいんだが。",
+      "source": "587527da6ba591b4"
+    },
+    "Op_USArmy_Medic_Abraham_Auswahl0_2": {
+      "text": "抱きしめたいくらいですよ！\u3000でも、これ以上人目を引きたくないんです。",
+      "source": "090df7b053f59300"
+    },
+    "Op_USArmy_Medic_Abraham_Auswahl0_3": {
+      "text": "その必要はない。トラの情報だけ教えてくれ。",
+      "source": "336ccd1afdd611f9"
+    },
+    "Op_USArmy_Medic_Abraham_Auswahl0_4": {
+      "text": "ええ、もちろん。これはパンクスの一人が書いた手紙で、きっと役に立つはずです。治療費にと、商人の友人から数ドル借りたばかりでしてね。大した額じゃありませんが、命を助けてもらったお礼だと思ってください。幸運を！",
+      "source": "09bf94fe4c33cf2b"
+    },
+    "Op_USArmy_Medic_EthanQ1_1": {
+      "text": "何か取ってきてほしい物はないか？\u3000報酬を出す気になるような物とか。",
+      "source": "cf82c4f27dddf310"
+    },
+    "Op_USArmy_Medic_EthanQ1_2": {
+      "text": "最近、感染が増えているのには気づいているだろう。襲撃が増えれば、噛まれる者が増える。噛まれる者が増えれば、感染が増える。感染が増えれば、襲撃が増える。悪循環だよ。",
+      "source": "2281b3207f5a5de6"
+    },
+    "Op_USArmy_Medic_EthanQ1_3": {
+      "text": "地図を見てくれ。ゾムデックスが見つかる場所に印をつけておいた。感染には何よりも効く解毒剤だ。",
+      "source": "2540320e346568a4"
+    },
+    "Op_USArmy_Medic_EthanQ1_Auswah4_1": {
+      "text": "幸運を祈る！\u3000そのゾムデックスがあれば本当に助かるんだ。",
+      "source": "a5df2614223e0407"
+    },
+    "Op_USArmy_Medic_EthanQ1_Auswahl1": {
+      "text": "現地",
+      "source": "024dc204d7ba77a8"
+    },
+    "Op_USArmy_Medic_EthanQ1_Auswahl1_1": {
+      "text": "そこはどのくらい危険なんだ？",
+      "source": "f7c1b56f6c07428b"
+    },
+    "Op_USArmy_Medic_EthanQ1_Auswahl1_2": {
+      "text": "病院はフリーダムシティ西部の中でも特に危険な地区にある。しっかりした防具を身に着けていくことだ。",
+      "source": "ef70d11cac96e895"
+    },
+    "Op_USArmy_Medic_EthanQ1_Auswahl2": {
+      "text": "薬を手元に残す",
+      "source": "f4ff5bd36d9f8144"
+    },
+    "Op_USArmy_Medic_EthanQ1_Auswahl2_1": {
+      "text": "薬を俺たちのキャンプ用に取っておいたら、どうなる？",
+      "source": "0b54750aef322a0b"
+    },
+    "Op_USArmy_Medic_EthanQ1_Auswahl2_2": {
+      "text": "そこまで必要なら、もちろん君たちの自由だ。当然、私からの報酬はふいになるがね。",
+      "source": "3f271f53fc45ed2d"
+    },
+    "Op_USArmy_Medic_EthanQ1_Auswahl3": {
+      "text": "報酬",
+      "source": "55ac8cbae095aacc"
+    },
+    "Op_USArmy_Medic_EthanQ1_Auswahl3_1": {
+      "text": "報酬は何をもらえるんだ？",
+      "source": "93aa105ce530734e"
+    },
+    "Op_USArmy_Medic_EthanQ1_Auswahl3_2": {
+      "text": "何ドルかなら出せる。それにもちろん、軍の中で君たちの名が売れるだろう。",
+      "source": "0d8aa65367d4fd4e"
+    },
+    "Op_USArmy_Medic_EthanQ1_Auswahl4": {
+      "text": "引き受ける",
+      "source": "89713b9c9c1b8f65"
+    },
+    "Op_USArmy_Medic_EthanQ1_Auswahl_Complete": {
+      "text": "ゾムデックスを渡す",
+      "source": "c64589df72e8325f"
+    },
+    "Op_USArmy_Medic_EthanQ1_Auswahl_Complete_1": {
+      "text": "ほら、頼まれてたゾムデックス3つだ。",
+      "source": "bdd1cbc448ef0dc7"
+    },
+    "Op_USArmy_Medic_EthanQ1_Auswahl_Failed": {
+      "text": "仕事を断る",
+      "source": "ad9c97aed91321bb"
+    },
+    "Op_USArmy_Medic_EthanQ1_Auswahl_Failed_1": {
+      "text": "ただ、あれは俺たちで使うことにした。このことは内緒にしておいてくれないか？",
+      "source": "2a01853e816ff5cd"
+    },
+    "Op_USArmy_Medic_EthanQ1_Completed_2": {
+      "text": "これはうれしい驚きだ！\u3000このキャンプにとって大きな助けになるし、間違いなく命が救われる。医者冥利に尽きるよ！",
+      "source": "90c072a55147eacc"
+    },
+    "Op_USArmy_Medic_EthanQ1_Failed_2": {
+      "text": "いいだろう、持ちつ持たれつだ。リズには知られずに済む。ただし、当然ながら報酬はなしだ。",
+      "source": "75e3e6fcecdb4468"
+    },
+    "Op_USArmy_Medic_EthanQ1_Running": {
+      "text": "ゾムデックス",
+      "source": "646326011d0d6218"
+    },
+    "Op_USArmy_Medic_EthanQ1_Running_1": {
+      "text": "ゾムデックスのことだが……",
+      "source": "4972c1a5eb7baa31"
+    },
+    "Op_USArmy_Medic_EthanQ1_Running_2": {
+      "text": "ゾムデックスを3つ、持ってきてくれたか？",
+      "source": "ce3c85eff200bf33"
+    },
+    "Op_USArmy_Medic_EthanQ1_Running_3": {
+      "text": "今はまだない。",
+      "source": "973dff76d4cdf9e7"
+    },
+    "Op_USArmy_Medic_EthanQ1_Running_4": {
+      "text": "なら、私の時間を無駄にしないでくれ。どこで見つかるかは教えただろう。手に入れてから来てくれ！",
+      "source": "3cc5fb9c60641c17"
+    },
+    "Op_USArmy_Medic_EthanQ1_Running_Success": {
+      "text": "ゾムデックスを3つ持ってきた。",
+      "source": "53877958d88b90d3"
+    },
+    "Op_USArmy_Medic_EthanQ1_Start": {
+      "text": "仕事の内容",
+      "source": "153cdaaec56103da"
+    },
+    "Op_USArmy_Medic_LizQ1_Auswahl5": {
+      "text": "行方不明の医師",
+      "source": "a0fecb2830a563ef"
+    },
+    "Op_USArmy_Medic_LizQ1_Auswahl5_1": {
+      "text": "行方不明の医師について、何か知ってるか？",
+      "source": "89e138f60e1c4d85"
+    },
+    "Op_USArmy_Medic_LizQ1_Auswahl5_2": {
+      "text": "あいにく、大したことは。彼女の身に何かあったんじゃないかと心配でね。",
+      "source": "2b0eae94b6ff6dbf"
+    },
+    "Op_USArmy_Medic_LizQ1_Auswahl5_3": {
+      "text": "どこから探せばいいか、心当たりもないのか？",
+      "source": "9f23cec4462d117f"
+    },
+    "Op_USArmy_Medic_LizQ1_Auswahl5_4": {
+      "text": "捕らえられたのかもしれない。密輸業者は残忍な誘拐で知られているからな。",
+      "source": "df7916273378df3b"
+    },
+    "Op_USArmy_Medic_Nathalie_Auswahl1": {
+      "text": "ナタリー",
+      "source": "a2be475368d91806"
+    },
+    "Op_USArmy_Medic_Nathalie_Auswahl1_1": {
+      "text": "もう大丈夫なのか？",
+      "source": "51062fd0ab951342"
+    },
+    "Op_USArmy_Medic_Nathalie_Auswahl1_2": {
+      "text": "あら、命の恩人じゃない！\u3000もうすっかり元の調子に戻ったわ。これからはまた私が治療を担当するわね。",
+      "source": "e9408072bc09451e"
+    },
+    "Op_USArmy_Medic_Nathalie_Auswahl1_3": {
+      "text": "イーサンは当然の報いを受けたと思うわ。さっさと処刑するほうが面倒も少ないしね。あ、ナタリー。[Player]に何か渡すものがあったんじゃない？",
+      "source": "286df8d540fa511e"
+    },
+    "Op_USArmy_Medic_Nathalie_Auswahl1_4": {
+      "text": "あら、うっかり忘れるところだった。ささやかだけど、これを受け取って。この薬箱は、本当に必要になるときまで取っておいてね。",
+      "source": "a5b3c8b45a66903e"
+    },
+    "Op_USArmy_Medic_Nathalie_Auswahl1_5": {
+      "text": "ありがとう。本当に助かるよ。",
+      "source": "028a2e59d158906a"
+    },
+    "Op_USArmy_Medic_Nathalie_Auswahl1_6": {
+      "text": "さてと、仕事に戻らなきゃ。治療が必要になったら、私の居場所はわかってるわよね。",
+      "source": "7cb928897e9ab046"
+    },
+    "Op_USArmy_Medic_TrevorQ1_Auswahl6": {
+      "text": "積み荷",
+      "source": "f303ae692515eeaa"
+    },
+    "Op_USArmy_Medic_TrevorQ1_Auswahl6_1": {
+      "text": "密輸業者のトレバーに、荷物を受け取ってくるよう頼まれた。ひょっとして、行方不明の医師と何か関係があるのか？",
+      "source": "a87d2d42bcc54126"
+    },
+    "Op_USArmy_Medic_TrevorQ1_Auswahl6_10": {
+      "text": "ああ。リズに会って、「荷物」を受け取って、トレバーのところまで護送する。",
+      "source": "f2471d9fae411e8c"
+    },
+    "Op_USArmy_Medic_TrevorQ1_Auswahl6_11": {
+      "text": "よし。いい取引ができたよ。おっと、そうだ。これが積み荷を置いてある小屋の鍵だ。",
+      "source": "f9e796ddcf9a6b04"
+    },
+    "Op_USArmy_Medic_TrevorQ1_Auswahl6_2": {
+      "text": "はっ！\u3000言わずもがなだろう。だが、口外はするなよ！\u3000誰にも聞かれる必要のない話だ。",
+      "source": "325c69c651dc62ce"
+    },
+    "Op_USArmy_Medic_TrevorQ1_Auswahl6_3": {
+      "text": "つまり人身売買ってことか？\u3000奴隷か？\u3000あんたは何も学ばなかったのか？",
+      "source": "3ceb11fd05aa7865"
+    },
+    "Op_USArmy_Medic_TrevorQ1_Auswahl6_4": {
+      "text": "おいおい、善人ぶるのはよせ。この世界じゃ、生き延びるためなら何だってやるしかないんだ。彼女は売られ、私は競争相手を厄介払いできる。後悔なんかしていないさ。",
+      "source": "9e2c922c0375da76"
+    },
+    "Op_USArmy_Medic_TrevorQ1_Auswahl6_5": {
+      "text": "どうして彼女を直接、密輸業者のところへ連れていかなかったんだ？",
+      "source": "970b682d1e9dd78f"
+    },
+    "Op_USArmy_Medic_TrevorQ1_Auswahl6_6": {
+      "text": "その道筋だと、この近くの橋を渡らなきゃならない。あいにく、最近はミュータントの襲撃が多くて、橋は厳重に警備されている。おかげで計画がふいになるところだった。だが、こうして君が来て、悩みの種を片付けてくれるというわけだ。",
+      "source": "2692a8d7aef14834"
+    },
+    "Op_USArmy_Medic_TrevorQ1_Auswahl6_7": {
+      "text": "リズ中尉と話すといい。橋を渡る許可をもらうんだ。その先に手がかりがあるとでも言っておけばいい。報酬にはそれだけの価値が間違いなくある。尻込みするなよ！",
+      "source": "c38dcf52db7c4ff4"
+    },
+    "Op_USArmy_Medic_TrevorQ1_Auswahl6_8": {
+      "text": "彼女がまだ生きてるといいんだが……",
+      "source": "300e67ad9bbefa5d"
+    },
+    "Op_USArmy_Medic_TrevorQ1_Auswahl6_9": {
+      "text": "生きているとも、心配はいらない。閉じ込めてある場所は安全だ。地図に印をつけておこう。全部わかったか？",
+      "source": "309b104135dec42f"
+    },
+    "Op_USArmy_QuestTrevor_1_1": {
+      "text": "ありがとう！\u3000帰ってこられてうれしいわ。",
+      "source": "46273584626fd54d"
+    },
+    "Op_USArmy_QuestTrevor_1_2": {
+      "text": "彼女をどこで見つけたんですか？",
+      "source": "384edc9f74d65cc7"
+    },
+    "Op_USArmy_QuestTrevor_1_3": {
+      "text": "小屋の中だ。たまたま近くにいたんでね。ここの人間だと言ってた。",
+      "source": "54bad16258585d09"
+    },
+    "Op_USArmy_QuestTrevor_1_4": {
+      "text": "あんたたちの医師のイーサンが、彼女をさらわせて小屋に隠してたんだ。密輸業者に売られるところだったんだぞ。",
+      "source": "1e3eeacb7e34d827"
+    },
+    "Op_USArmy_QuestTrevor_1_5": {
+      "text": "イーサンが密輸業者の一味？\u3000それは重大な告発ですね。こちらで対処します。",
+      "source": "377c0c9f6c304730"
+    },
+    "Op_USArmy_Start": {
+      "text": "おや、初めての方ですね！\u3000フリーダムシティ西部へようこそ！",
+      "source": "d047ee1724e64056"
+    },
+    "Op_USArmy_Trevor_Start": {
+      "text": "しかも、今度はアメリカ軍に忠誠を誓ったってわけか。まるで風見鶏だな。",
+      "source": "6bbe3c5c4d5d23cb"
+    },
+    "Op_USArmy_Trevor_Start_2": {
+      "text": "そう皮肉るなって。同盟は大事なんだ。密輸業者はすっかり落ち目でね、そろそろ鞍替えの潮時だったのさ。チャールズ将軍と新生アメリカに神のご加護を！",
+      "source": "ccb560448140c080"
+    },
+    "Op_Unabhaengige_Bar_DeanQ1_1_1": {
+      "text": "あんたらには会うだけの価値があるって、ボスに口をきいてほしいってわけか。だが、話をでっち上げて自分の首を危うくする気はないぜ。",
+      "source": "766906f3f914bcf7"
+    },
+    "Op_Unabhaengige_Bar_DeanQ1_1_2": {
+      "text": "別の案がある。持ちつ持たれつでいこう。俺はバーテンダーとして、サイドジョブの仲介もしてる。それを2件こなせば、いい方向に進むはずだ。",
+      "source": "ef81559756e5082d"
+    },
+    "Op_Unabhaengige_Bar_DeanQ1_1_3": {
+      "text": "サイドジョブを？",
+      "source": "be9bc0047dac7bf0"
+    },
+    "Op_Unabhaengige_Bar_DeanQ1_1_4": {
+      "text": "ああ。ここじゃ、いつだって何かしら仕事がある。払いはいいし、うまくやれば俺たちとの友好度も上がるぜ。",
+      "source": "82c72b686adb69b5"
+    },
+    "Op_Unabhaengige_Bar_DeanQ1_1_Complete_2": {
+      "text": "で、デニースには会わせてもらえるのか？",
+      "source": "8bb1f0f391067518"
+    },
+    "Op_Unabhaengige_Bar_DeanQ1_1_Complete_3": {
+      "text": "まあ、少なくとも俺の票はあんたのものだ。",
+      "source": "e590de1c4a6b8b50"
+    },
+    "Op_Unabhaengige_Bar_DeanQ1_Complete_1": {
+      "text": "やったな。仕事は完了だ！\u3000あんたみたいなやつがいてくれると助かるよ。",
+      "source": "083db28c7543d707"
+    },
+    "Op_Unabhaengige_Bar_DeanQ1_Pre": {
+      "text": "デニースとの友好度",
+      "source": "2c22aa073c1561cd"
+    },
+    "Op_Unabhaengige_Bar_DeanQ1_Pre_1": {
+      "text": "俺たちはジャックのキャンプの者だ。急いでデニースの信用を得なきゃならないんだが、このままじゃ話もしてもらえないんだ。",
+      "source": "a6c9a4f8dfaee71f"
+    },
+    "Op_Unabhaengige_Bar_DeanQ1_Running": {
+      "text": "デニースとの友好度",
+      "source": "2c22aa073c1561cd"
+    },
+    "Op_Unabhaengige_Bar_DeanQ1_Running_1": {
+      "text": "あんたのボスのことなんだが……",
+      "source": "6ab332cd9691dd6a"
+    },
+    "Op_Unabhaengige_Bar_DeanQ1_Running_2": {
+      "text": "まだサイドジョブを2件こなしてないだろ。片付いたらまた来てくれ。",
+      "source": "0aaa8cb8c1585d94"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_Complete": {
+      "text": "……ですから、我々の立場を考え直す必要があるのです。ジョセフを信用できるかどうかわかりません。覚えておいででしょうが、彼は以前、激昂して手を上げたこともあるのですから。",
+      "source": "cc1ca7db70413698"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_Complete1": {
+      "text": "何週間も前の話でしょう。意見の対立は水に流したわ。",
+      "source": "6fe5a32166fa5fb7"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_Complete10": {
+      "text": "いいわ。資源をいくらか届けさせましょう。ここではずいぶん役に立ってくれたことだしね。アンドリュー、こちらは[Player]。ジャックの体調が悪化し始めたから、今は彼がジャックのキャンプを率いているの。",
+      "source": "2b663e10fe1c6e1a"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_Complete11": {
+      "text": "なんとも悲しい知らせですね。私はアンドリュー、スネーク砂漠の前哨基地の知事です。美しい場所ではありませんが、辺境にあることには利点もあります。もっとも、南の橋が破壊された今となっては別ですが。",
+      "source": "8d53b5f415e48478"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_Complete12": {
+      "text": "本当にありがとうございます。みんな、このご厚意に感謝するはずです。それで、橋の件というのは？\u3000何かお役に立てるかもしれません。",
+      "source": "958fde9af642e2fb"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_Complete13": {
+      "text": "あなたたちのキャンプには助けられたから、信用はするわ。でも、これほどの大事となると、本部を通さないといけない。本部にはもう行った？",
+      "source": "e74bd06ae93146e8"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_Complete13a_1": {
+      "text": "いえ、独立派本部にはまだ行っていません。",
+      "source": "ca6cd48d809586a9"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_Complete13b_1": {
+      "text": "北の本部なら知っています。まずはあなた方三人と話をつけるよう言われました。",
+      "source": "0cb882c5b2df5fc7"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_Complete14": {
+      "text": "独立派本部は、地図のここよ。",
+      "source": "90af396a102cf17b"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_Complete15": {
+      "text": "本部に着いたら、ジョセフと話してこの手紙を渡しなさい。私たちの計画には、彼の承認が必要なの。",
+      "source": "526b8edd9c360e4a"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_Complete16": {
+      "text": "承認してくれるといいのですが。あの橋を再建しなければ、我々は南から切り離されたままです。誰が破壊工作をしたのかも、突き止めなければなりません。もし彼が同意しなければ、票の過半数はこちらにあると伝えてください。デニースと私の意見は一致していますから。",
+      "source": "9245362f1aacca00"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_Complete17": {
+      "text": "知事方には、またやることができたってわけだ。噛まれるなよ。使い走りの仕事、せいぜい頑張りな。",
+      "source": "086587f8bece7814"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_Complete2": {
+      "text": "お言葉ですが、ジョセフが身内にまでそんなことをするなら、ひどい結果になりかねません。我々がどれほどの重圧にさらされているか、ご存じでしょう。橋が破壊工作に遭いました。もう、そちらへ行く手段がないのです。",
+      "source": "b97959b451896416"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_Complete3": {
+      "text": "その話は聞いたわ。アメリカ軍の仕業でしょうね。民間人の受け入れで私たちが成果を上げているのを、妬んでいたもの。",
+      "source": "095aa4a30d597502"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_Complete4": {
+      "text": "かもしれません。ですが、密輸業者の可能性も十分にあります。得をするとなれば、あのろくでなしどもは何をしでかしてもおかしくない。",
+      "source": "1ccccf4709fa1f96"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_Complete5": {
+      "text": "自分たちの南への道までふさいで？\u3000よしてちょうだい……この件は、いつもどおり民主的に進めるべきよ。私たち知事三人で投票する。言っておくけど、ジョセフに最終決定権はないわ。",
+      "source": "f152147ce86dbadd"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_Complete6": {
+      "text": "あら、そちらは？\u3000この前哨基地のために、ずいぶん働いてくれたそうね。話を聞いてあげるわ。それだけのことはしたものね。",
+      "source": "522df357719261eb"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_Complete7": {
+      "text": "トリッシュに頼まれて、外からの攻撃に対する支援をお願いしに来ました。ゾンビの群れに飲み込まれそうなうえに、最近は密輸業者に根こそぎ奪われてしまって。ほとんど一からやり直しなんです。",
+      "source": "cc58d47fe090bff6"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_Complete8": {
+      "text": "また密輸業者ですか……キラが絡んでいるに違いありません。彼女は我々にも喧嘩を売ってきましたから。",
+      "source": "6548fc81d7764a86"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_Complete9": {
+      "text": "だからこそ、ジャックとトリッシュはいつでも私たちに加われたのよ。この過酷な世界では、頼れる同盟者が必要なの。なのに、あの二人は自分たちのやり方を通したがった。",
+      "source": "f49db200da1442d3"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_female": {
+      "text": "知事たちは、また意見がまとまらないみたい。民主主義の欠点ね。",
+      "source": "750efb2dd22275c8"
+    },
+    "Op_Unabhaengige_Leader_DeniseQ1_male": {
+      "text": "ジョセフ知事は、きっと面白くないだろうな。",
+      "source": "06810e634dce5006"
+    },
+    "Op_Unabhaengige_Leader_Denise_Auswahl1": {
+      "text": "キャンプへの支援",
+      "source": "08cb94f2fb8756a6"
+    },
+    "Op_Unabhaengige_Leader_Denise_Auswahl1_1": {
+      "text": "ジャックのキャンプから来ました。助けが必要なんです！\u3000密輸業者に、資源をほとんど奪われてしまって！",
+      "source": "872f3da6d8c0ae8e"
+    },
+    "Op_Unabhaengige_Leader_Denise_Auswahl1_2": {
+      "text": "招かれもしないのに、いきなりここへ押しかけてくるやつはそういない。赤の他人を助けてやる商売はしてないんでな。",
+      "source": "fc583800dfad8abc"
+    },
+    "Op_Unabhaengige_Leader_Denise_Auswahl1_3": {
+      "text": "悪いけど、今は手一杯なの。やることが山ほどあるのよ。うちの者たちと話しなさい。それで十分な手助けはできるはずよ。",
+      "source": "e1a5d3bb930de725"
+    },
+    "Op_Unabhaengige_Leader_Denise_Auswahl1_4": {
+      "text": "たらい回しにするつもりですか？\u3000事態は一刻を争うんです。",
+      "source": "e4511fba17407532"
+    },
+    "Op_Unabhaengige_Leader_Denise_Auswahl1_5": {
+      "text": "ボスの言葉を聞いただろう。うちの連中の何人かに、お前らにはそれだけの価値があると認めさせられたら、また来ればいい。だが今は、とっとと出ていけ！",
+      "source": "ccad2c67c975af3f"
+    },
+    "Op_Unabhaengige_Leader_Denise_Auswahl2": {
+      "text": "キャンプへの支援",
+      "source": "08cb94f2fb8756a6"
+    },
+    "Op_Unabhaengige_Leader_Denise_Auswahl2_1": {
+      "text": "まだお話があるんです。",
+      "source": "0d91c495e3566da2"
+    },
+    "Op_Unabhaengige_Leader_Denise_Auswahl2_1_false": {
+      "text": "こっちはまだ話す気はないわ。あなたが誰なのかもろくに知らないのよ。誰もね。だから、私の時間を無駄にしないでちょうだい！",
+      "source": "45482a5257f4543b"
+    },
+    "Op_Unabhaengige_Leader_Sheriff_Auswahl1": {
+      "text": "新しい知事",
+      "source": "2bd7ac47b144e91e"
+    },
+    "Op_Unabhaengige_Leader_Sheriff_Auswahl1_1": {
+      "text": "保安官、あんたなのか？",
+      "source": "844a5e4d447b2c15"
+    },
+    "Op_Unabhaengige_Leader_Sheriff_Auswahl1_2": {
+      "text": "やあ、[Player]。うむ、お前さんの目は確かじゃよ。この老骨には、もう戦いはこたえる。だが、どうやらまとめ役はなかなか性に合っとったらしい。",
+      "source": "406e09d02a197ff9"
+    },
+    "Op_Unabhaengige_Leader_Sheriff_Auswahl2": {
+      "text": "ジョセフ知事",
+      "source": "5f62d5b1c27c2af6"
+    },
+    "Op_Unabhaengige_Leader_Sheriff_Auswahl2_1": {
+      "text": "ジョセフ知事のこと、聞いたか？",
+      "source": "d779de76cf7455f7"
+    },
+    "Op_Unabhaengige_Leader_Sheriff_Auswahl2_2": {
+      "text": "ひどい話じゃ！\u3000あんな裏切り者は誰も要らん。だが、わしのことは頼りにしてくれていいぞ、[Player]！",
+      "source": "154c5626dc081352"
+    },
+    "Op_Unabhaengige_Leader_Sheriff_Auswahl3": {
+      "text": "ジャックのキャンプ",
+      "source": "86bbe4d9b9116786"
+    },
+    "Op_Unabhaengige_Leader_Sheriff_Auswahl3_1": {
+      "text": "ジャックのキャンプが今どうなってるか、知りたいか？",
+      "source": "d53f983bc6450e73"
+    },
+    "Op_Unabhaengige_Leader_Sheriff_Auswahl3_2": {
+      "text": "正直、もうパンクスや略奪者の相手をせんで済むのはありがたい。ひっきりなしの襲撃なんぞ、ちっとも恋しくないわい、はっはっは！",
+      "source": "7ca2821e2e4f5f22"
+    },
+    "Op_Unabhaengige_Leader_Sheriff_Auswahl3_3": {
+      "text": "今じゃ、まさに俺たちがその立場さ。資源を守るために見張りを置いたりしてな。",
+      "source": "ed66cfcd8b50d6b9"
+    },
+    "Op_Unabhaengige_Leader_Sheriff_Auswahl3_4": {
+      "text": "世の中ってのは、そう簡単には変わらんもんじゃ。トリッシュとジャックによろしくな。それと、外では気をつけるんじゃぞ！",
+      "source": "385d9282ea893e91"
+    },
+    "Op_Unabhaengige_Merchant_Auswahl_BillQ1": {
+      "text": "知事に会うには……",
+      "source": "72aa6dc3159fe7ed"
+    },
+    "Op_Unabhaengige_Merchant_Auswahl_Bill_2": {
+      "text": "ビルの過去",
+      "source": "69df4c7eef3daa37"
+    },
+    "Op_Unabhaengige_Merchant_Auswahl_Bill_2_1": {
+      "text": "あんたは何年も前、ジャックのキャンプにいたんだろ？",
+      "source": "8c7262060e6f15b8"
+    },
+    "Op_Unabhaengige_Merchant_Bill_2_1": {
+      "text": "そのとおりだ。君は彼とどういう知り合いなんだ？",
+      "source": "56c303917593c98a"
+    },
+    "Op_Unabhaengige_Merchant_Bill_2_2": {
+      "text": "あいつは病気でな。今は俺が後継者みたいなもんだ。新しく来た難民たちの面倒は俺が見てる。",
+      "source": "427f36887f00c54f"
+    },
+    "Op_Unabhaengige_Merchant_Bill_2_3": {
+      "text": "彼の新しいキャンプの話は聞いている。正直、そこに加わらずに済んでよかったと思っているよ。荒野でのサバイバル暮らしなんてのは、どうも性に合わなくてね。",
+      "source": "4f1b462889fd370c"
+    },
+    "Op_Unabhaengige_Merchant_Bill_2_4": {
+      "text": "ここは居心地がいい。仕事はあるし、悩みといえば商人につきものの心配事くらいだ。食べる物には困らないし、私の脳みそをかじろうとしたやつもいない。",
+      "source": "e455c9372424784c"
+    },
+    "Op_Unabhaengige_Merchant_Bill_BillQ1_1_1": {
+      "text": "デニース知事に会うにはどうすればいい？\u3000この前哨基地で一番影響力のある人たちの票が欲しいそうなんだ。",
+      "source": "fc42442b1584b615"
+    },
+    "Op_Unabhaengige_Merchant_Bill_BillQ1_1_2": {
+      "text": "私もその一人だ。君のために口添えしてやってもいい。そうすれば、知事も時間を割いてくれるかもしれない。だがその前に、ちょっと手を貸してもらいたいことがある。",
+      "source": "9d6b30f0f754d988"
+    },
+    "Op_Unabhaengige_Merchant_Bill_BillQ1_1_3": {
+      "text": "品物の配達で少々困っていてね。今度の客は……そうだな、「大胆」とでも言っておこうか。",
+      "source": "85a42e8081195909"
+    },
+    "Op_Unabhaengige_Merchant_Bill_BillQ1_1_4": {
+      "text": "当ててやろうか。密輸業者がらみだろ？\u3000俺たちも、あいつらには手を焼いてるんだ。",
+      "source": "a9100f63b4ee60cc"
+    },
+    "Op_Unabhaengige_Merchant_Bill_BillQ1_1_5": {
+      "text": "なら話は早い。私たちの苦労もわかるだろう。この仕事には君がうってつけだ。密輸業者の前哨基地にいる商人のトレバーに、私の品物がどうなったのか聞いてきてくれ。",
+      "source": "4b231dd11a09685c"
+    },
+    "Op_Unabhaengige_Merchant_Bill_BillQ1_Complete": {
+      "text": "品物を持ってきたぞ。",
+      "source": "5aa3aefda6b58cf7"
+    },
+    "Op_Unabhaengige_Merchant_Bill_BillQ1_Complete1": {
+      "text": "無事に戻ってきてくれて何よりだ。何か面倒はなかったかね？",
+      "source": "e3d3c2039c2d47a6"
+    },
+    "Op_Unabhaengige_Merchant_Bill_BillQ1_Complete2": {
+      "text": "密輸品を取りに行かされてたって、先に知っておきたかったよ。",
+      "source": "b3b09f90a069cc6f"
+    },
+    "Op_Unabhaengige_Merchant_Bill_BillQ1_Complete3": {
+      "text": "わかった、わかった。詳しいことは知りたくない。これが報酬だ。",
+      "source": "e18d3b8860548db4"
+    },
+    "Op_Unabhaengige_Merchant_Bill_BillQ1_Complete4": {
+      "text": "それと、デニースの件では君に一票入れておこう。",
+      "source": "95d2363cf6090673"
+    },
+    "Op_Unabhaengige_Merchant_Bill_BillQ1_Failed1": {
+      "text": "見張りにあんたの品物を没収されたよ。密輸品だなんて知らなかった。",
+      "source": "054bc5fd8396246f"
+    },
+    "Op_Unabhaengige_Merchant_Bill_BillQ1_Failed2": {
+      "text": "こっちこそ、君がたかが数人の見張りを見ただけで小便をちびるとは知らなかったよ。私の票はあきらめるんだな！",
+      "source": "3dfaec2b1404bf7d"
+    },
+    "Op_Unabhaengige_Merchant_Bill_BillQ1_Failed3": {
+      "text": "俺たちは法に従っただけだ。",
+      "source": "131defd0752aea59"
+    },
+    "Op_Unabhaengige_Merchant_Bill_BillQ1_Running": {
+      "text": "品物はどうなった？",
+      "source": "ac004d936684b21e"
+    },
+    "Op_Unabhaengige_Merchant_Bill_BillQ1_Running1": {
+      "text": "まだ手が回ってないんだ。",
+      "source": "3ba8a6091f8a413f"
+    },
+    "Op_Unabhaengige_Merchant_Bill_BillQ1_Running2": {
+      "text": "時は金なりだ。あまり時間をかけるようなら、報酬を差し引かせてもらうぞ。",
+      "source": "7eff027b989c826d"
+    },
+    "Op_Unabhaengige_Merchant_Bill_BillQ1_Start": {
+      "text": "頼みごと",
+      "source": "153cdaaec56103da"
+    },
+    "Op_Unabhaengige_Merchant_Bill_LydiaQ1_Auswahl_1": {
+      "text": "商人ギルドへの票",
+      "source": "11fb67e606579c0b"
+    },
+    "Op_Unabhaengige_Merchant_Bill_LydiaQ1_Auswahl_1_1": {
+      "text": "ビル、俺たちが商人ギルドに入るには、まだあんたの票が必要なんだ。",
+      "source": "7ef26b18479d20a2"
+    },
+    "Op_Unabhaengige_Merchant_Bill_LydiaQ1_Auswahl_1_2": {
+      "text": "我々の秘密組織のことを知ったようだね。まあ、いいだろう。（咳払い）",
+      "source": "c11a6854ba76995a"
+    },
+    "Op_Unabhaengige_Merchant_Bill_LydiaQ1_Auswahl_1_3": {
+      "text": "運命の女神が君に微笑んでいるようだ。持ちつ持たれつというやつだよ。君は私のために大事な仕事をしてくれた。だから、私の票は君のものだ。",
+      "source": "ffb284b23bd60f50"
+    },
+    "Op_Unabhaengige_Merchant_Bill_LydiaQ1_Auswahl_1_3a": {
+      "text": "君は、私が満足するような仕事を何ひとつしてくれていないからね。便宜を図る気にはなれないな。ただし……",
+      "source": "a536078b85eb8b1f"
+    },
+    "Op_Unabhaengige_Merchant_Bill_LydiaQ1_Auswahl_1_3a_2": {
+      "text": "ただし、何だ？",
+      "source": "d2fc549927114f23"
+    },
+    "Op_Unabhaengige_Merchant_Bill_LydiaQ1_Auswahl_1_3a_3": {
+      "text": "金を払ってくれるなら話は別だ。もちろん、このことは内密にしておく。それでも私の票が欲しいかね？",
+      "source": "f0c0de8d5a7c8f3b"
+    },
+    "Op_Unabhaengige_Merchant_Bill_LydiaQ1_Auswahl_Bestechung": {
+      "text": "50ドル渡す",
+      "source": "9653d08c68d7af41"
+    },
+    "Op_Unabhaengige_Merchant_Bill_LydiaQ1_Auswahl_Bestechung1": {
+      "text": "おやおや、話がわかるじゃないか。私の票は君のものだ！\u3000近いうちに君をギルドへ迎え入れるのを楽しみにしているよ。",
+      "source": "f9105d4345d80179"
+    },
+    "Op_Unabhaengige_Merchant_Bill_LydiaQ1_Auswahl_zurueck": {
+      "text": "あとにする",
+      "source": "fd9b6df3cdbc3d35"
+    },
+    "Op_Unabhaengige_Merchant_Bill_LydiaQ1_Bestechung_failed": {
+      "text": "ちょっとした袖の下を払う金すらないのか？\u3000それで商人ギルドに入れると思っているのかね？\u3000どうかしているぞ。",
+      "source": "598b18ddc7b07251"
+    }
+  }
+}

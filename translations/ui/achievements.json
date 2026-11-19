@@ -1,0 +1,981 @@
+{
+  "table": "ui",
+  "entries": {
+    "Achievement_AnimalLover_1": {
+      "text": "動物の友",
+      "source": "727f0c8c03229e78"
+    },
+    "Achievement_AnimalLover_1_desc": {
+      "text": "動物を助ける",
+      "source": "7ba240e093432713"
+    },
+    "Achievement_AnimalLover_2": {
+      "text": "羊飼い",
+      "source": "fe806cf166eb6ab1"
+    },
+    "Achievement_AnimalLover_2_desc": {
+      "text": "異なる動物を3匹助ける",
+      "source": "197758c1af9aa45f"
+    },
+    "Achievement_ArenaLoss": {
+      "text": "仕切り直し",
+      "source": "8fe4d2322d8f2287"
+    },
+    "Achievement_ArenaLoss_desc": {
+      "text": "剣闘士の試合で負ける",
+      "source": "05d20dca2ca5925d"
+    },
+    "Achievement_ArenaWin_1": {
+      "text": "剣闘士",
+      "source": "1f0cc9c91ce64379"
+    },
+    "Achievement_ArenaWin_1_desc": {
+      "text": "闘技場の試合で3回勝つ",
+      "source": "39ca6451a097389b"
+    },
+    "Achievement_ArenaWin_2": {
+      "text": "闘技場の主",
+      "source": "f8ffa246bb1b6e8d"
+    },
+    "Achievement_ArenaWin_2_desc": {
+      "text": "闘技場の試合にすべて勝つ",
+      "source": "8881b5621e3a2e44"
+    },
+    "Achievement_Arzt_Bekaempfer": {
+      "text": "医師退治",
+      "source": "0814686a4fa90d60"
+    },
+    "Achievement_Arzt_Bekaempfer_desc": {
+      "text": "アンデッドの医師を3体倒す",
+      "source": "e143cdeb74904d65"
+    },
+    "Achievement_Arzt_Toeter": {
+      "text": "医師殺し",
+      "source": "1d8dbe59708a0e07"
+    },
+    "Achievement_Arzt_Toeter_desc": {
+      "text": "アンデッドの医師を10体倒す",
+      "source": "5687be6381bf1db1"
+    },
+    "Achievement_BadDeed_1": {
+      "text": "冷血漢",
+      "source": "1c5942835507441b"
+    },
+    "Achievement_BadDeed_1_desc": {
+      "text": "悪行を1回行う",
+      "source": "c66c1bd732eedd30"
+    },
+    "Achievement_BadDeed_2": {
+      "text": "クソ野郎",
+      "source": "01bf6ff0d2d9f98d"
+    },
+    "Achievement_BadDeed_2_desc": {
+      "text": "悪行を3回行う",
+      "source": "e1809eb7406ac6be"
+    },
+    "Achievement_BadEnd_1": {
+      "text": "バッドエンド1",
+      "source": "ee9c1bcf5b42d4aa"
+    },
+    "Achievement_BadEnd_1_desc": {
+      "text": "ジャックのキャンプは期限内に同盟を結べなかった。",
+      "source": "a77a245f37e6a02c"
+    },
+    "Achievement_Bargain_1": {
+      "text": "値切り屋",
+      "source": "6c2bc722cf6592b0"
+    },
+    "Achievement_Bargain_1_desc": {
+      "text": "値切りに成功する",
+      "source": "a9811421843fe51e"
+    },
+    "Achievement_Bargain_2": {
+      "text": "駆け引き上手",
+      "source": "63d7ecc6d253198b"
+    },
+    "Achievement_Bargain_2_desc": {
+      "text": "値切りに3回成功する",
+      "source": "8b91affe00cf6030"
+    },
+    "Achievement_Bargain_3": {
+      "text": "商売人",
+      "source": "5e7461474e870ab9"
+    },
+    "Achievement_Bargain_3_desc": {
+      "text": "値切りに6回成功する",
+      "source": "64fceb8888e4bae6"
+    },
+    "Achievement_Blade_Adept": {
+      "text": "刃物の使い手",
+      "source": "50b7d7ac385b1a5d"
+    },
+    "Achievement_Blade_Adept_desc": {
+      "text": "刃物の2APスキルをすべて解放する",
+      "source": "cd2c568b3714b26f"
+    },
+    "Achievement_Blade_Expert": {
+      "text": "刃物の達人",
+      "source": "7bc8aa06018125f8"
+    },
+    "Achievement_Blade_Expert_desc": {
+      "text": "刃物の3APスキルをすべて解放する",
+      "source": "a00860a6457db3e7"
+    },
+    "Achievement_Blunt_Adept": {
+      "text": "打撃武器の使い手",
+      "source": "6229a838d2bd71fe"
+    },
+    "Achievement_Blunt_Adept_desc": {
+      "text": "打撃武器の2APスキルをすべて解放する",
+      "source": "7ac1e24cec0cf600"
+    },
+    "Achievement_Blunt_Expert": {
+      "text": "打撃武器の達人",
+      "source": "02ab180969a06844"
+    },
+    "Achievement_Blunt_Expert_desc": {
+      "text": "打撃武器の3APスキルをすべて解放する",
+      "source": "6b8deea4d41a5b48"
+    },
+    "Achievement_Boss_Bekaempfer": {
+      "text": "ボス退治",
+      "source": "7e95fdd477e47ef4"
+    },
+    "Achievement_Boss_Bekaempfer_desc": {
+      "text": "ボスを3体倒す",
+      "source": "e8928639069163b8"
+    },
+    "Achievement_Brawler_Bekaempfer": {
+      "text": "格闘家退治",
+      "source": "2d17ff0029fb1522"
+    },
+    "Achievement_Brawler_Bekaempfer_desc": {
+      "text": "格闘家を3体倒す",
+      "source": "3c928cdbf274da1a"
+    },
+    "Achievement_Brawler_Toeter": {
+      "text": "格闘家殺し",
+      "source": "0587a9a839b3d1dc"
+    },
+    "Achievement_Brawler_Toeter_desc": {
+      "text": "格闘家を10体倒す",
+      "source": "38d411f185fd58b7"
+    },
+    "Achievement_Cheerleader_Bekaempfer": {
+      "text": "チアリーダー退治",
+      "source": "1f5093b124a27d2f"
+    },
+    "Achievement_Cheerleader_Bekaempfer_desc": {
+      "text": "アンデッドのチアリーダーを3体倒す",
+      "source": "c3eec9486c999ee0"
+    },
+    "Achievement_Cheerleader_Toeter": {
+      "text": "チアリーダーキラー",
+      "source": "4361a8fa213c8dfe"
+    },
+    "Achievement_Cheerleader_Toeter_desc": {
+      "text": "アンデッドのチアリーダーを10体倒す",
+      "source": "2ed058dece00e185"
+    },
+    "Achievement_Cowboys_Bekaempfer": {
+      "text": "カウボーイ退治",
+      "source": "efaf835852644ec5"
+    },
+    "Achievement_Cowboys_Bekaempfer_desc": {
+      "text": "アンデッドのカウボーイを3体倒す",
+      "source": "7a518dffb166be6f"
+    },
+    "Achievement_Cowboys_Toeter": {
+      "text": "カウボーイキラー",
+      "source": "745324896e21146b"
+    },
+    "Achievement_Cowboys_Toeter_desc": {
+      "text": "アンデッドのカウボーイを10体倒す",
+      "source": "60ba8b83326a5ae7"
+    },
+    "Achievement_Crawler_Bekaempfer": {
+      "text": "這いずるゾンビ退治",
+      "source": "07c9b8982b849b08"
+    },
+    "Achievement_Crawler_Bekaempfer_desc": {
+      "text": "這いずるゾンビを3体倒す",
+      "source": "82544138bad08e5d"
+    },
+    "Achievement_Crawler_Toeter": {
+      "text": "這いずるゾンビ殺し",
+      "source": "04116963efa6ce4d"
+    },
+    "Achievement_Crawler_Toeter_desc": {
+      "text": "這いずるゾンビを10体倒す",
+      "source": "60916445b60b6635"
+    },
+    "Achievement_Died_1": {
+      "text": "死は始まりにすぎない",
+      "source": "45829946480d7f7c"
+    },
+    "Achievement_Died_1_desc": {
+      "text": "主人公で初めて死を経験する",
+      "source": "98f1ed49d1c901c8"
+    },
+    "Achievement_Died_2": {
+      "text": "生まれ変わり",
+      "source": "ed4aa84145a24476"
+    },
+    "Achievement_Died_2_desc": {
+      "text": "主人公が3回死ぬ",
+      "source": "279f60a3a4670e16"
+    },
+    "Achievement_Dog_Bekaempfer": {
+      "text": "野良犬退治",
+      "source": "ca46a468231c8a73"
+    },
+    "Achievement_Dog_Bekaempfer_desc": {
+      "text": "犬を3匹倒す",
+      "source": "59977b0d40d9747b"
+    },
+    "Achievement_Dog_Toeter": {
+      "text": "野良犬殺し",
+      "source": "4f2004d89581cb0c"
+    },
+    "Achievement_Dog_Toeter_desc": {
+      "text": "犬を10匹倒す",
+      "source": "f2d79e1eed0c8663"
+    },
+    "Achievement_Ende_Mittel": {
+      "text": "因果応報",
+      "source": "3a4f52ec1f7f4cff"
+    },
+    "Achievement_Ende_Mittel_desc": {
+      "text": "終わりの時が来たが、悪党の何人かは逃げおおせた",
+      "source": "98beeae31c53425e"
+    },
+    "Achievement_Ende_PerfectEnd": {
+      "text": "完璧な結末",
+      "source": "94604aca752be724"
+    },
+    "Achievement_Ende_PerfectEnd_desc": {
+      "text": "終わりの時が来た。逃げおおせた者は一人もいない",
+      "source": "77c8d64808923c5c"
+    },
+    "Achievement_Ende_Romance": {
+      "text": "エンディング: ロマンス",
+      "source": "fb18ebafe37451fb"
+    },
+    "Achievement_Ende_Romance_desc": {
+      "text": "恋人と共にエンディングを迎えた",
+      "source": "09cd8a3b85971d40"
+    },
+    "Achievement_Ende_Schmuggler": {
+      "text": "エンディング: 密輸業者",
+      "source": "e873944625dd1beb"
+    },
+    "Achievement_Ende_Schmuggler_desc": {
+      "text": "密輸業者の同盟者としてエンディングを迎えた",
+      "source": "280a62cae362003b"
+    },
+    "Achievement_Ende_Single": {
+      "text": "エンディング: 独り身",
+      "source": "f8e57264ae0bf863"
+    },
+    "Achievement_Ende_Single_desc": {
+      "text": "孤独な男としてエンディングを迎えた",
+      "source": "7a56f06993a06b8f"
+    },
+    "Achievement_Ende_USArmy": {
+      "text": "エンディング: アメリカ軍",
+      "source": "42db696aa329a63c"
+    },
+    "Achievement_Ende_USArmy_desc": {
+      "text": "アメリカ軍の同盟者としてエンディングを迎えた",
+      "source": "fc6b4c0e0f21bee6"
+    },
+    "Achievement_Ende_Unabhaengige": {
+      "text": "エンディング: 独立派",
+      "source": "f20ef35d1f58f33d"
+    },
+    "Achievement_Ende_Unabhaengige_desc": {
+      "text": "独立派の同盟者としてエンディングを迎えた",
+      "source": "7c277647b7934452"
+    },
+    "Achievement_Engineer_Adept": {
+      "text": "機械技術の使い手",
+      "source": "15adb6f657ebd72d"
+    },
+    "Achievement_Engineer_Adept_desc": {
+      "text": "エンジニアの2APスキルをすべて解放する",
+      "source": "1859fa19b020f05a"
+    },
+    "Achievement_Engineer_Expert": {
+      "text": "機械技術の達人",
+      "source": "f1f306258f846d28"
+    },
+    "Achievement_Engineer_Expert_desc": {
+      "text": "エンジニアの3APスキルをすべて解放する",
+      "source": "aa776135c03f53a1"
+    },
+    "Achievement_Farmer_Bekaempfer": {
+      "text": "農夫退治",
+      "source": "f94b2814c9fa0ff3"
+    },
+    "Achievement_Farmer_Bekaempfer_desc": {
+      "text": "アンデッドの農夫を3体倒す",
+      "source": "8f1dbed6cf865671"
+    },
+    "Achievement_Farmer_Toeter": {
+      "text": "農夫殺し",
+      "source": "b9b041fbac8f61ed"
+    },
+    "Achievement_Farmer_Toeter_desc": {
+      "text": "アンデッドの農夫を10体倒す",
+      "source": "e52f98faa454500f"
+    },
+    "Achievement_FirstExperience": {
+      "text": "基礎固め",
+      "source": "99cffe7eb78033a8"
+    },
+    "Achievement_FirstExperience_desc": {
+      "text": "チュートリアルをクリアする",
+      "source": "6b92b6b982c17841"
+    },
+    "Achievement_First_Blood": {
+      "text": "ファーストブラッド",
+      "source": "edf058e9e30ce3b5"
+    },
+    "Achievement_First_Blood_desc": {
+      "text": "ゾンビを1体倒す",
+      "source": "a93ca1b8bc5c588b"
+    },
+    "Achievement_Gambler": {
+      "text": "流しのギャンブラー",
+      "source": "d5dac0ffd943680e"
+    },
+    "Achievement_Gambler_desc": {
+      "text": "荒野で自分に賭けて勝つ",
+      "source": "b842872e4be33e64"
+    },
+    "Achievement_GoodDeed_1": {
+      "text": "善行",
+      "source": "f3361f1ba447fbe3"
+    },
+    "Achievement_GoodDeed_1_desc": {
+      "text": "善行を1回行う",
+      "source": "01e9c8da2c22ffa5"
+    },
+    "Achievement_GoodDeed_2": {
+      "text": "善きサマリア人",
+      "source": "0c8a5d8095980c0f"
+    },
+    "Achievement_GoodDeed_2_desc": {
+      "text": "善行を3回行う",
+      "source": "b7f921a81588ba82"
+    },
+    "Achievement_Heroic": {
+      "text": "英雄の資質",
+      "source": "4d9a10c23241d941"
+    },
+    "Achievement_HeroicHc": {
+      "text": "ハードコアの英雄",
+      "source": "c502640aca601fee"
+    },
+    "Achievement_HeroicHc_desc": {
+      "text": "ハードコアモードで、10日目まで生存者を一人も失わない",
+      "source": "f6ec7e3f228db152"
+    },
+    "Achievement_Heroic_desc": {
+      "text": "10日目まで生存者を一人も失わない",
+      "source": "cfc92a76f8b4b1dc"
+    },
+    "Achievement_Hunting_Adept": {
+      "text": "狩猟の使い手",
+      "source": "42c418144e43d184"
+    },
+    "Achievement_Hunting_Adept_desc": {
+      "text": "狩猟の2APスキルをすべて解放する",
+      "source": "3ce0194cec8a57a1"
+    },
+    "Achievement_Hunting_Expert": {
+      "text": "狩猟の達人",
+      "source": "f6cfcadbaae06fcf"
+    },
+    "Achievement_Hunting_Expert_desc": {
+      "text": "狩猟の3APスキルをすべて解放する",
+      "source": "c2d0f53a5208ddbd"
+    },
+    "Achievement_LifeThreatening_1": {
+      "text": "命がけ",
+      "source": "70d7f892b46f16c2"
+    },
+    "Achievement_LifeThreatening_1_desc": {
+      "text": "パーティメンバーが瀕死状態のまま戦闘に勝利する",
+      "source": "b7ca8f3914c9c6f0"
+    },
+    "Achievement_LifeThreatening_2": {
+      "text": "火遊び",
+      "source": "c7e3d03f82ab97ad"
+    },
+    "Achievement_LifeThreatening_2_desc": {
+      "text": "パーティメンバーが瀕死状態のまま戦闘に6回勝利する",
+      "source": "983bcb9ae05d3445"
+    },
+    "Achievement_Lifeguard_1": {
+      "text": "ライフガード",
+      "source": "38eb64c4f228b341"
+    },
+    "Achievement_Lifeguard_1_desc": {
+      "text": "民間人を3人守る",
+      "source": "f770315f76dabeb1"
+    },
+    "Achievement_Lifeguard_2": {
+      "text": "ボディガード",
+      "source": "998e41b432f4d199"
+    },
+    "Achievement_Lifeguard_2_desc": {
+      "text": "民間人を10人守る",
+      "source": "30a3b47dd21c458f"
+    },
+    "Achievement_LootLocations_1": {
+      "text": "道を照らす者",
+      "source": "106a52d05c0d9930"
+    },
+    "Achievement_LootLocations_1_desc": {
+      "text": "物資を漁れる場所を10か所発見する",
+      "source": "74a251b8339a5009"
+    },
+    "Achievement_LootLocations_2": {
+      "text": "発見者",
+      "source": "a9e5dafd62c56e8c"
+    },
+    "Achievement_LootLocations_2_desc": {
+      "text": "物資を漁れる場所を30か所発見する",
+      "source": "2bc600b0a539788f"
+    },
+    "Achievement_LootLocations_3": {
+      "text": "探検家",
+      "source": "c39d646f10769b07"
+    },
+    "Achievement_LootLocations_3_desc": {
+      "text": "物資を漁れる場所を50か所発見する",
+      "source": "9ac19d3fe5c4fbaf"
+    },
+    "Achievement_LuckyNPC": {
+      "text": "命拾い",
+      "source": "eb0e456e72beb89a"
+    },
+    "Achievement_LuckyNPC_desc": {
+      "text": "人を冷酷に殺そうにも、まともに使える武器が手元になかった",
+      "source": "3603315ad71514be"
+    },
+    "Achievement_MapThreatQuest_1": {
+      "text": "脅威を減らす者",
+      "source": "aa0f3b24adb6286b"
+    },
+    "Achievement_MapThreatQuest_1_desc": {
+      "text": "1つの地域の危険度を下げる",
+      "source": "fa9ddf18ef4d31fd"
+    },
+    "Achievement_MapThreatQuest_2": {
+      "text": "脅威対策の専門家",
+      "source": "c8dddaa1f47c7a94"
+    },
+    "Achievement_MapThreatQuest_2_desc": {
+      "text": "3つの地域の危険度を下げる",
+      "source": "003f8a4f9c2659ed"
+    },
+    "Achievement_MutantWolf_Bekaempfer": {
+      "text": "ミュータントオオカミ退治",
+      "source": "7aa79817fb960a14"
+    },
+    "Achievement_MutantWolf_Bekaempfer_desc": {
+      "text": "ミュータントオオカミを3匹倒す",
+      "source": "edb953b6e9b2521e"
+    },
+    "Achievement_MutantWolf_Toeter": {
+      "text": "ミュータントオオカミ殺し",
+      "source": "90ac9843b0324694"
+    },
+    "Achievement_MutantWolf_Toeter_desc": {
+      "text": "ミュータントオオカミを10匹倒す",
+      "source": "96c17f05301fff4e"
+    },
+    "Achievement_Mutation_Bekaempfer": {
+      "text": "ミュータント退治",
+      "source": "14bbfa72c25aa8af"
+    },
+    "Achievement_Mutation_Bekaempfer_desc": {
+      "text": "変異ゾンビを3体倒す",
+      "source": "10384e98f1a50dc2"
+    },
+    "Achievement_Mutation_Toeter": {
+      "text": "ミュータント殺し",
+      "source": "1e8e4f2b8876ca09"
+    },
+    "Achievement_Mutation_Toeter_desc": {
+      "text": "変異ゾンビを10体倒す",
+      "source": "848c8e53e1658e46"
+    },
+    "Achievement_NightOwl": {
+      "text": "夜更かし",
+      "source": "6b9164eea389ba8e"
+    },
+    "Achievement_NightOwl_desc": {
+      "text": "夜にたき火で暖を取る",
+      "source": "1741863491f1a253"
+    },
+    "Achievement_Nonnen_Bekaempfer": {
+      "text": "修道女退治",
+      "source": "a2522af6251088eb"
+    },
+    "Achievement_Nonnen_Bekaempfer_desc": {
+      "text": "アンデッドの修道女を3体倒す",
+      "source": "c36176c0c63a5f99"
+    },
+    "Achievement_Nurse_Bekaempfer": {
+      "text": "看護師退治",
+      "source": "011d61b9f5987c58"
+    },
+    "Achievement_Nurse_Bekaempfer_desc": {
+      "text": "アンデッドの看護師を3体倒す",
+      "source": "4a1c3843747cb1c6"
+    },
+    "Achievement_Nurse_Toeter": {
+      "text": "看護師殺し",
+      "source": "1f7173a8add7a29b"
+    },
+    "Achievement_Nurse_Toeter_desc": {
+      "text": "アンデッドの看護師を10体倒す",
+      "source": "10c6526c1bc2e62f"
+    },
+    "Achievement_OldFriend_1": {
+      "text": "懐かしい顔",
+      "source": "9e8e92d72f1f17dd"
+    },
+    "Achievement_OldFriend_1_desc": {
+      "text": "かつての仲間と話す",
+      "source": "c64ad25f1c5111e1"
+    },
+    "Achievement_OldFriend_2": {
+      "text": "旧友たち",
+      "source": "86e37afb55ff8476"
+    },
+    "Achievement_OldFriend_2_desc": {
+      "text": "かつての仲間6人と話す",
+      "source": "027c2f4af6d2e2c3"
+    },
+    "Achievement_OldFriend_3": {
+      "text": "旧友勢ぞろい",
+      "source": "5f77fc915cb32d51"
+    },
+    "Achievement_OldFriend_3_desc": {
+      "text": "かつての仲間全員と話す",
+      "source": "41a7e941e22baa5b"
+    },
+    "Achievement_Passanten_Bekaempfer": {
+      "text": "噛まれた通行人退治 <unused>",
+      "source": "fc4813c47cf5a654"
+    },
+    "Achievement_Passanten_Bekaempfer_desc": {
+      "text": "アンデッドの通行人を3体倒す <unused>",
+      "source": "bfdf33c1a23acda5"
+    },
+    "Achievement_Passanten_Toeter": {
+      "text": "噛まれた通行人キラー <unused>",
+      "source": "66027b146c714be2"
+    },
+    "Achievement_Passanten_Toeter_desc": {
+      "text": "アンデッドの通行人を10体倒す <unused>",
+      "source": "e042e275d9dca3ec"
+    },
+    "Achievement_Patienten_Bekaempfer": {
+      "text": "患者退治",
+      "source": "0c2cd48054e30c95"
+    },
+    "Achievement_Patienten_Bekaempfer_desc": {
+      "text": "アンデッドの患者を3体倒す",
+      "source": "f9dfcf92f525a720"
+    },
+    "Achievement_Patienten_Toeter": {
+      "text": "患者キラー",
+      "source": "b11c4d24b66cc12c"
+    },
+    "Achievement_Patienten_Toeter_desc": {
+      "text": "アンデッドの患者を10体倒す",
+      "source": "fcfa4b3949605299"
+    },
+    "Achievement_Pistol_Adept": {
+      "text": "拳銃の使い手",
+      "source": "67e525adf002c560"
+    },
+    "Achievement_Pistol_Adept_desc": {
+      "text": "拳銃の2APスキルをすべて解放する",
+      "source": "c9abb2a331da4dc7"
+    },
+    "Achievement_Pistol_Expert": {
+      "text": "拳銃の達人",
+      "source": "00c773c254e0221f"
+    },
+    "Achievement_Pistol_Expert_desc": {
+      "text": "拳銃の3APスキルをすべて解放する",
+      "source": "e4a4dcf2d4dd021b"
+    },
+    "Achievement_Polizist_Bekaempfer": {
+      "text": "警官退治",
+      "source": "abbd3e2434654fa1"
+    },
+    "Achievement_Polizist_Bekaempfer_desc": {
+      "text": "アンデッドの警官を3体倒す",
+      "source": "1078324d1a004d00"
+    },
+    "Achievement_Polizist_Toeter": {
+      "text": "警官殺し",
+      "source": "acfef3136400e961"
+    },
+    "Achievement_Polizist_Toeter_desc": {
+      "text": "アンデッドの警官を10体倒す",
+      "source": "b85f83d50d2c06b7"
+    },
+    "Achievement_Prisoners_Bekaempfer": {
+      "text": "囚人退治",
+      "source": "01853101ff877707"
+    },
+    "Achievement_Prisoners_Bekaempfer_desc": {
+      "text": "アンデッドの囚人を3体倒す",
+      "source": "f8c1b1ec49872f8b"
+    },
+    "Achievement_Prisoners_Toeter": {
+      "text": "囚人キラー",
+      "source": "b7ec38e92a4a93ce"
+    },
+    "Achievement_Prisoners_Toeter_desc": {
+      "text": "アンデッドの囚人を10体倒す",
+      "source": "66058df0d25f2227"
+    },
+    "Achievement_Punk_Bekaempfer": {
+      "text": "パンクス退治",
+      "source": "83a99bc4e0476d82"
+    },
+    "Achievement_Punk_Bekaempfer_desc": {
+      "text": "パンクスを3人倒す",
+      "source": "28c826f0b89980fd"
+    },
+    "Achievement_Punk_Toeter": {
+      "text": "パンクス殺し",
+      "source": "c5b4e7a3bcc43b1d"
+    },
+    "Achievement_Punk_Toeter_desc": {
+      "text": "パンクスを10人倒す",
+      "source": "0db0dbf9844f5df1"
+    },
+    "Achievement_Quest_Hank": {
+      "text": "痕跡",
+      "source": "af0c53be720ea091"
+    },
+    "Achievement_Quest_Hank_desc": {
+      "text": "ハンクの依頼",
+      "source": "d8487b449de0da13"
+    },
+    "Achievement_Quest_Jane": {
+      "text": "囚人",
+      "source": "a8bd81b81c28444f"
+    },
+    "Achievement_Quest_Jane_desc": {
+      "text": "ジェーンの依頼",
+      "source": "164bc9bf198297c5"
+    },
+    "Achievement_Quest_Steven2": {
+      "text": "奴隷",
+      "source": "6e34331a47436bab"
+    },
+    "Achievement_Quest_Steven2_desc": {
+      "text": "スティーブンの依頼",
+      "source": "9d3f13f4c8fe2015"
+    },
+    "Achievement_Revenge": {
+      "text": "復讐",
+      "source": "631cb8a984d071a3"
+    },
+    "Achievement_Revenge_desc": {
+      "text": "ボディガードが名誉を取り戻す手助けをする",
+      "source": "3586211cd4ce6bb8"
+    },
+    "Achievement_Rifle_Adept": {
+      "text": "アサルトライフルの使い手",
+      "source": "a2751339e86dcb76"
+    },
+    "Achievement_Rifle_Adept_desc": {
+      "text": "アサルトライフルの2APスキルをすべて解放する",
+      "source": "390aca147fcbe0a5"
+    },
+    "Achievement_Rifle_Expert": {
+      "text": "アサルトライフルの達人",
+      "source": "ca5cea8938fea8d3"
+    },
+    "Achievement_Rifle_Expert_desc": {
+      "text": "アサルトライフルの3APスキルをすべて解放する",
+      "source": "1aceff2704634ba8"
+    },
+    "Achievement_Savings_1": {
+      "text": "しがない貧乏人",
+      "source": "db4046587d0ec731"
+    },
+    "Achievement_Savings_1_desc": {
+      "text": "100ドル貯める",
+      "source": "0e3e198aa1266a61"
+    },
+    "Achievement_Savings_2": {
+      "text": "倹約家",
+      "source": "4b41d44a971341f9"
+    },
+    "Achievement_Savings_2_desc": {
+      "text": "250ドル貯める",
+      "source": "8e6398e05ba344fa"
+    },
+    "Achievement_Savings_3": {
+      "text": "ロックフェラー",
+      "source": "a95bf4216646894e"
+    },
+    "Achievement_Savings_3_desc": {
+      "text": "500ドル貯める",
+      "source": "5939d4781fe81f03"
+    },
+    "Achievement_Scavenger_Bekaempfer": {
+      "text": "略奪者退治",
+      "source": "7593168d07a46ee1"
+    },
+    "Achievement_Scavenger_Bekaempfer_desc": {
+      "text": "略奪者を3人倒す",
+      "source": "030cfa997c2d196b"
+    },
+    "Achievement_Scavenger_Toeter": {
+      "text": "略奪者殺し",
+      "source": "81e979a412df4899"
+    },
+    "Achievement_Scavenger_Toeter_desc": {
+      "text": "略奪者を10人倒す",
+      "source": "8b8f940fee926e4f"
+    },
+    "Achievement_Schlaeger_Bekaempfer": {
+      "text": "ごろつき退治",
+      "source": "96daf7176d951092"
+    },
+    "Achievement_Schlaeger_Bekaempfer_desc": {
+      "text": "アンデッドのごろつきを3体倒す",
+      "source": "b11ef7f8ce2529f4"
+    },
+    "Achievement_Schlaeger_Toeter": {
+      "text": "ごろつき殺し",
+      "source": "3ee19a846318d071"
+    },
+    "Achievement_Schlaeger_Toeter_desc": {
+      "text": "アンデッドのごろつきを10体倒す",
+      "source": "d75f7f90d74ce8be"
+    },
+    "Achievement_Shotgun_Adept": {
+      "text": "ショットガンの使い手",
+      "source": "8d5046b253825218"
+    },
+    "Achievement_Shotgun_Adept_desc": {
+      "text": "ショットガンの2APスキルをすべて解放する",
+      "source": "c344120d24c5c924"
+    },
+    "Achievement_Shotgun_Expert": {
+      "text": "ショットガンの達人",
+      "source": "47ab480baac7c7fd"
+    },
+    "Achievement_Shotgun_Expert_desc": {
+      "text": "ショットガンの3APスキルをすべて解放する",
+      "source": "a9422570b28ef895"
+    },
+    "Achievement_SideQuests_1": {
+      "text": "副業",
+      "source": "fee3bbcff7cb3f9f"
+    },
+    "Achievement_SideQuests_1_desc": {
+      "text": "酒場のサイドジョブを2件完了する",
+      "source": "ad1a3ac53a84a19f"
+    },
+    "Achievement_SideQuests_2": {
+      "text": "常連客",
+      "source": "b455784ab5307277"
+    },
+    "Achievement_SideQuests_2_desc": {
+      "text": "酒場のサイドジョブを6件完了する",
+      "source": "87ed39b7ecb304c4"
+    },
+    "Achievement_StevenEnd": {
+      "text": "真の友",
+      "source": "d5bd8b317037578a"
+    },
+    "Achievement_StevenEnd_desc": {
+      "text": "最後に友だと分かったのは誰か？",
+      "source": "602c77831223dabd"
+    },
+    "Achievement_SummonDog": {
+      "text": "猟犬使い",
+      "source": "7c9ab9289cd0d625"
+    },
+    "Achievement_SummonDog_desc": {
+      "text": "テッサの猟犬を10回召喚する",
+      "source": "3ce3e35afc20e0b2"
+    },
+    "Achievement_SummonTiger": {
+      "text": "トラの王",
+      "source": "9e9fe9c0bec58ad8"
+    },
+    "Achievement_SummonTiger_desc": {
+      "text": "トラを10回召喚する",
+      "source": "fcb600099ae78b34"
+    },
+    "Achievement_Survival_Expert": {
+      "text": "サバイバルの達人",
+      "source": "259eaf56f7451a3b"
+    },
+    "Achievement_Survival_Expert_desc": {
+      "text": "最後の任務まで、ジャックのキャンプのメンバーを一人も失わない",
+      "source": "7ddfcb137b0bed4e"
+    },
+    "Achievement_UndeadDog_Bekaempfer": {
+      "text": "アンデッド野良犬退治",
+      "source": "e7e5cb1d8da6d8d4"
+    },
+    "Achievement_UndeadDog_Bekaempfer_desc": {
+      "text": "アンデッドの犬を3匹倒す",
+      "source": "f3a8742cc57b4581"
+    },
+    "Achievement_UndeadDog_Toeter": {
+      "text": "アンデッド野良犬殺し",
+      "source": "d1259d369e943240"
+    },
+    "Achievement_UndeadDog_Toeter_desc": {
+      "text": "アンデッドの犬を10匹倒す",
+      "source": "ba89a1f279b28688"
+    },
+    "Achievement_UndeadWolf_Bekaempfer": {
+      "text": "アンデッドオオカミ退治",
+      "source": "5ce9f8785d6aac9c"
+    },
+    "Achievement_UndeadWolf_Bekaempfer_desc": {
+      "text": "アンデッドオオカミを3匹倒す",
+      "source": "e571e3af76c6800e"
+    },
+    "Achievement_UndeadWolf_Toeter": {
+      "text": "アンデッドオオカミ殺し",
+      "source": "c58c537810062a64"
+    },
+    "Achievement_UndeadWolf_Toeter_desc": {
+      "text": "アンデッドオオカミを10匹倒す",
+      "source": "9a4237933622457a"
+    },
+    "Achievement_Underdog_1": {
+      "text": "少数精鋭",
+      "source": "6ea9c57bfd645e07"
+    },
+    "Achievement_Underdog_1_desc": {
+      "text": "2人パーティで戦闘に3回勝利する",
+      "source": "02ec10a8f1e00771"
+    },
+    "Achievement_Underdog_2": {
+      "text": "究極の少数精鋭",
+      "source": "cd688169bde06193"
+    },
+    "Achievement_Underdog_2_desc": {
+      "text": "2人パーティで戦闘に10回勝利する",
+      "source": "8e95b58061d608a2"
+    },
+    "Achievement_VillaOwner": {
+      "text": "邸宅の入手",
+      "source": "6764dca60d865289"
+    },
+    "Achievement_VillaOwner_desc": {
+      "text": "南にある邸宅の場所を突き止める",
+      "source": "3d2dfbedddeb956e"
+    },
+    "Achievement_VisitHq_1": {
+      "text": "本部の客",
+      "source": "066fa82e6aee439f"
+    },
+    "Achievement_VisitHq_1_desc": {
+      "text": "本部を訪れる",
+      "source": "ab45b54f76aae6be"
+    },
+    "Achievement_VisitHq_2": {
+      "text": "本部の観光客",
+      "source": "33f4d2b3a8ed8efe"
+    },
+    "Achievement_VisitHq_2_desc": {
+      "text": "3つの本部をすべて訪れる",
+      "source": "05b7334c8e5b8607"
+    },
+    "Achievement_VisitOp_1": {
+      "text": "前哨基地の客",
+      "source": "e71c2609dea27a2d"
+    },
+    "Achievement_VisitOp_1_desc": {
+      "text": "前哨基地を訪れる",
+      "source": "1a8254fe2c7323a4"
+    },
+    "Achievement_VisitOp_2": {
+      "text": "前哨基地の観光客",
+      "source": "35ce1c24f7be09b8"
+    },
+    "Achievement_VisitOp_2_desc": {
+      "text": "前哨基地を3か所訪れる",
+      "source": "14be9b8a7dd68b22"
+    },
+    "Achievement_VoodooWitch_Bekaempfer": {
+      "text": "魔女退治",
+      "source": "9559cf11f503cf51"
+    },
+    "Achievement_VoodooWitch_Bekaempfer_desc": {
+      "text": "ブードゥーの魔女を3体倒す",
+      "source": "a2c9855d13fd82bb"
+    },
+    "Achievement_WeaponTest": {
+      "text": "試作兵器",
+      "source": "e0cb8d904c6286a1"
+    },
+    "Achievement_WeaponTest_desc": {
+      "text": "砂漠で兵士たちの兵器の試験を成功させる",
+      "source": "a4717401a6d12708"
+    },
+    "Achievement_Wolf_Bekaempfer": {
+      "text": "オオカミ退治",
+      "source": "4d43039b30d027ea"
+    },
+    "Achievement_Wolf_Bekaempfer_desc": {
+      "text": "オオカミを3匹倒す",
+      "source": "bbb1db22d249cf1e"
+    },
+    "Achievement_Wolf_Toeter": {
+      "text": "オオカミ殺し",
+      "source": "7129cff876990022"
+    },
+    "Achievement_Wolf_Toeter_desc": {
+      "text": "オオカミを10匹倒す",
+      "source": "739e56e1e43812f1"
+    },
+    "Achievement_X": {
+      "text": "ダミー",
+      "source": "d2607ab3cd54242c"
+    },
+    "Achievement_X_desc": {
+      "text": "ダミーの説明",
+      "source": "15419226035bffd6"
+    },
+    "Achievement_Zombie_Bekaempfer": {
+      "text": "ゾンビ退治",
+      "source": "43cbfc7dd576ff7f"
+    },
+    "Achievement_Zombie_Bekaempfer_desc": {
+      "text": "ゾンビを3体倒す",
+      "source": "824e58cfd95ba64d"
+    },
+    "Achievement_Zombie_Toeter": {
+      "text": "ゾンビキラー",
+      "source": "94419225c51ce16f"
+    },
+    "Achievement_Zombie_Toeter_desc": {
+      "text": "ゾンビを50体倒す",
+      "source": "3294b581e7735ab6"
+    }
+  }
+}

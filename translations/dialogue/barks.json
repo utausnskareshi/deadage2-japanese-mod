@@ -1,0 +1,837 @@
+{
+  "table": "dialogue",
+  "entries": {
+    "SpeechBubble_AmmoGrenadier": {
+      "text": "技術弾薬がもっと必要になりそうだ。",
+      "source": "1725cfde58ebd711"
+    },
+    "SpeechBubble_AmmoHunter": {
+      "text": "狩猟用弾薬をもう少し補充したい。",
+      "source": "7e6f49341f34846f"
+    },
+    "SpeechBubble_AmmoPistol": {
+      "text": "拳銃の弾薬が尽きかけている。",
+      "source": "65d7ff6ff03342c2"
+    },
+    "SpeechBubble_AmmoRifle": {
+      "text": "アサルトライフルの弾薬が残り少ない。",
+      "source": "6b9b05c2fe0d57c3"
+    },
+    "SpeechBubble_AmmoShotgun": {
+      "text": "ショットガンの弾薬がもうほとんどない。",
+      "source": "915f4cf86657d7da"
+    },
+    "SpeechBubble_Blocked_female_0": {
+      "text": "ついてない日みたいだね、お嬢ちゃん？",
+      "source": "0ca9fb21741e9256"
+    },
+    "SpeechBubble_Blocked_female_1": {
+      "text": "守りは崩れない！",
+      "source": "91b01b46b2428199"
+    },
+    "SpeechBubble_Blocked_female_2": {
+      "text": "もっと腰を入れて打ってきな！",
+      "source": "955c5116530b5405"
+    },
+    "SpeechBubble_Blocked_male_0": {
+      "text": "で、調子はどうだ？",
+      "source": "250783c41cf3bb1b"
+    },
+    "SpeechBubble_Blocked_male_1": {
+      "text": "利口なつもりか？",
+      "source": "f2a04315ac3772e1"
+    },
+    "SpeechBubble_Blocked_male_2": {
+      "text": "守りは崩れない！",
+      "source": "91b01b46b2428199"
+    },
+    "SpeechBubble_Brennen_female_0": {
+      "text": "燃えろ、魔女め！",
+      "source": "250020f473492296"
+    },
+    "SpeechBubble_Brennen_female_1": {
+      "text": "火はいかが？",
+      "source": "baf34a256b291234"
+    },
+    "SpeechBubble_Brennen_female_2": {
+      "text": "地獄に落ちろ！",
+      "source": "59af43f8684b8323"
+    },
+    "SpeechBubble_Brennen_male_0": {
+      "text": "燃えろ！",
+      "source": "815462afa92bb99a"
+    },
+    "SpeechBubble_Brennen_male_1": {
+      "text": "燃えちまえ、この野郎！",
+      "source": "66d8369a4c2d6737"
+    },
+    "SpeechBubble_Brennen_male_2": {
+      "text": "地獄で燃えろ！",
+      "source": "d5a15e24d34076b0"
+    },
+    "SpeechBubble_CritKill_0": {
+      "text": "直撃だ！",
+      "source": "22fe9373b152fc42"
+    },
+    "SpeechBubble_CritKill_1": {
+      "text": "これでも食らえ！",
+      "source": "6f931a45cd88f34c"
+    },
+    "SpeechBubble_CritKill_2": {
+      "text": "終わりだ！",
+      "source": "bd0105b7b5952c91"
+    },
+    "SpeechBubble_DeadDog_0": {
+      "text": "うちのワンコがへばってきた。",
+      "source": "4b710c4a1aaefd8d"
+    },
+    "SpeechBubble_DeadDog_1": {
+      "text": "しょせん雑種だからな。値段相応ってやつだ。",
+      "source": "5d425bf05962ba22"
+    },
+    "SpeechBubble_DeadDog_2": {
+      "text": "そんな！\u3000うちの忠実な相棒が……",
+      "source": "7dae1069c1d1cfef"
+    },
+    "SpeechBubble_DeadTiger_0": {
+      "text": "トニーが無事だといいけど！",
+      "source": "3e13604af35d7df9"
+    },
+    "SpeechBubble_DeadTiger_1": {
+      "text": "かわいそうなトニー！",
+      "source": "c56dccb2cf762555"
+    },
+    "SpeechBubble_DeadTiger_2": {
+      "text": "借りてきた猫みたいに、おとなしくなっちゃった。",
+      "source": "5369cfea009cc293"
+    },
+    "SpeechBubble_DeathWitness_0": {
+      "text": "こんなの、ありえない！",
+      "source": "624a9124fda35f03"
+    },
+    "SpeechBubble_DeathWitness_1": {
+      "text": "いつだって、いい人から先に逝く。",
+      "source": "730443838864203a"
+    },
+    "SpeechBubble_DeathWitness_2": {
+      "text": "なんてひどい！",
+      "source": "1d103f53e840e510"
+    },
+    "SpeechBubble_Enemies_Bill_0": {
+      "text": "なんてことだ！",
+      "source": "241a3380b7970c55"
+    },
+    "SpeechBubble_Enemies_Bill_1": {
+      "text": "今はこんなことをしている場合じゃないんだが！",
+      "source": "5fdbe9bfedd578e6"
+    },
+    "SpeechBubble_Enemies_Bill_2": {
+      "text": "勝てるのかね？",
+      "source": "2e98bc01bbc53c33"
+    },
+    "SpeechBubble_Enemies_Fernando_0": {
+      "text": "叩きのめしてやろう！",
+      "source": "2d39db9f90f7fcc3"
+    },
+    "SpeechBubble_Enemies_Fernando_1": {
+      "text": "逃がしはしないさ。",
+      "source": "5db49fecadc623c4"
+    },
+    "SpeechBubble_Enemies_Fernando_2": {
+      "text": "お仕置きの時間だ！",
+      "source": "7989eda23d30644b"
+    },
+    "SpeechBubble_Enemies_Isa_0": {
+      "text": "さあ、突っ込んで！",
+      "source": "8f736ca01db5b1a4"
+    },
+    "SpeechBubble_Enemies_Isa_1": {
+      "text": "うえ。さっさと終わらせましょ……",
+      "source": "8eebce15a8d4a3af"
+    },
+    "SpeechBubble_Enemies_Isa_2": {
+      "text": "これじゃ、まるで仕事ね。",
+      "source": "462449527d06f2be"
+    },
+    "SpeechBubble_Enemies_Jane_0": {
+      "text": "あいつら、もうおしまいよ！",
+      "source": "2eeee3537a255fb6"
+    },
+    "SpeechBubble_Enemies_Jane_1": {
+      "text": "みんなにパンチを一発ずつおごってあげる！",
+      "source": "c8dd127e88d15099"
+    },
+    "SpeechBubble_Enemies_Jane_2": {
+      "text": "頭にきたわ！",
+      "source": "5bcd320de1585301"
+    },
+    "SpeechBubble_Enemies_Lance_0": {
+      "text": "今日はついていませんね。",
+      "source": "b9ad1092e8b70a23"
+    },
+    "SpeechBubble_Enemies_Lance_1": {
+      "text": "武器を構えてください！",
+      "source": "3b6bf5836c87e433"
+    },
+    "SpeechBubble_Enemies_Lance_2": {
+      "text": "片付けましょう！",
+      "source": "2d5491724c300ce4"
+    },
+    "SpeechBubble_Enemies_Player_0": {
+      "text": "手を緩めるな！",
+      "source": "1184ebb544828b45"
+    },
+    "SpeechBubble_Enemies_Player_1": {
+      "text": "俺が片付ける。",
+      "source": "2f70beee5c53d9e6"
+    },
+    "SpeechBubble_Enemies_Player_2": {
+      "text": "武器を構えろ！",
+      "source": "3b6bf5836c87e433"
+    },
+    "SpeechBubble_Enemies_Sarah_0": {
+      "text": "もう、こんな人生いやです！",
+      "source": "fdf833f478be19ed"
+    },
+    "SpeechBubble_Enemies_Sarah_1": {
+      "text": "気をつけて！",
+      "source": "c437e8c65551d1ff"
+    },
+    "SpeechBubble_Enemies_Sarah_2": {
+      "text": "まずいですね。",
+      "source": "6d8338fb4a3d4633"
+    },
+    "SpeechBubble_Enemies_Steven_0": {
+      "text": "またかよ！",
+      "source": "d2a55375e1ddaf28"
+    },
+    "SpeechBubble_Enemies_Steven_1": {
+      "text": "昔を思い出すな、[Player]！",
+      "source": "e1c506f86b94c409"
+    },
+    "SpeechBubble_Enemies_Steven_2": {
+      "text": "危ない！",
+      "source": "9469d02a2a9a5634"
+    },
+    "SpeechBubble_Enemies_Tessa_0": {
+      "text": "これはちょっと時間がかかりそうね。",
+      "source": "d8974cd6fe6fc5e2"
+    },
+    "SpeechBubble_Enemies_Tessa_1": {
+      "text": "片付けちゃおう！",
+      "source": "f446be84fd57e18f"
+    },
+    "SpeechBubble_Enemies_Tessa_2": {
+      "text": "手を緩めないで！",
+      "source": "1184ebb544828b45"
+    },
+    "SpeechBubble_FightSturdy_0": {
+      "text": "頑丈な敵には、遠距離戦闘で攻撃しよう。",
+      "source": "f40334fae3f99391"
+    },
+    "SpeechBubble_FightSwift_0": {
+      "text": "俊敏な敵には、近接戦闘で攻撃しよう。",
+      "source": "7a401e049b5bc8fa"
+    },
+    "SpeechBubble_GiantArrived_0": {
+      "text": "手ごわい敵のお出ましだ！",
+      "source": "7041ffad7c5cd074"
+    },
+    "SpeechBubble_GiantArrived_1": {
+      "text": "簡単にはいかなそうだ……",
+      "source": "6ae4367b6ebdb020"
+    },
+    "SpeechBubble_GiantArrived_2": {
+      "text": "これは厳しい戦いになる。",
+      "source": "eb0341c2b4a0e0f9"
+    },
+    "SpeechBubble_Giant_0": {
+      "text": "図体がでかけりゃいいってもんじゃないな！",
+      "source": "3ff9326517883325"
+    },
+    "SpeechBubble_Giant_1": {
+      "text": "デカブツ、一丁上がり！",
+      "source": "9ac3c7e6cbc78f13"
+    },
+    "SpeechBubble_Giant_2": {
+      "text": "おデブちゃんに勝ち目はなかったな！",
+      "source": "3e79585314a2cdfb"
+    },
+    "SpeechBubble_Happy_0": {
+      "text": "すごくやる気が出てきた！",
+      "source": "d5b4567ba46c526d"
+    },
+    "SpeechBubble_Happy_1": {
+      "text": "ここは[Player]が仕切ってるんだ。",
+      "source": "66cdfad00356d967"
+    },
+    "SpeechBubble_Happy_2": {
+      "text": "[Player]は立派なリーダーだ。",
+      "source": "405645c1ecb02bb3"
+    },
+    "SpeechBubble_Hungry_0": {
+      "text": "お腹が空いた。",
+      "source": "5b26216c7f84305b"
+    },
+    "SpeechBubble_Hungry_1": {
+      "text": "お腹が鳴ってる。",
+      "source": "18862b4d390967f9"
+    },
+    "SpeechBubble_Hungry_2": {
+      "text": "もっと食料が要る。今すぐ！",
+      "source": "c64271f777e7f0ae"
+    },
+    "SpeechBubble_Idling_0": {
+      "text": "しばらく何ひとつ生産的なことをしてないな。",
+      "source": "918720440a33f8b1"
+    },
+    "SpeechBubble_Idling_1": {
+      "text": "そろそろ仕事に戻らないと。",
+      "source": "018df3d06c3ab408"
+    },
+    "SpeechBubble_Infected_0": {
+      "text": "ああ、神様！\u3000もうすぐゾンビになってしまいそうだ！",
+      "source": "e9cf007efb9f6734"
+    },
+    "SpeechBubble_Infected_1": {
+      "text": "薬が必要だ！",
+      "source": "01115890235e20c1"
+    },
+    "SpeechBubble_Infected_2": {
+      "text": "この感染じゃ、役に立てない。",
+      "source": "dbf95b4605c1bebe"
+    },
+    "SpeechBubble_Infected_HaveZomdex": {
+      "text": "幸い、ゾムデックスはまだある。",
+      "source": "7ff1f8e7d797e569"
+    },
+    "SpeechBubble_Infected_Jason": {
+      "text": "くそ、感染しちまった！",
+      "source": "e0fdea7917a9ed5a"
+    },
+    "SpeechBubble_Infected_NPC": {
+      "text": "くそっ！\u3000[@StateSurvivor]が感染した！",
+      "source": "38f08dcdc9a97286"
+    },
+    "SpeechBubble_Infected_NoZomdex": {
+      "text": "病院を探すか、ゾムデックスを買わないと。",
+      "source": "956cf211cf42f913"
+    },
+    "SpeechBubble_KnockedBack_female_0": {
+      "text": "下がってな、お嬢さん！",
+      "source": "f517ab3fb88c30e7"
+    },
+    "SpeechBubble_KnockedBack_female_1": {
+      "text": "あの女の顔は、もう見なくて済む！",
+      "source": "3611fb2a3abc1494"
+    },
+    "SpeechBubble_KnockedBack_female_2": {
+      "text": "とっとと失せな！",
+      "source": "a679f91de5cd1174"
+    },
+    "SpeechBubble_KnockedBack_male_0": {
+      "text": "そうはさせない！",
+      "source": "eda40c0ed4596ade"
+    },
+    "SpeechBubble_KnockedBack_male_1": {
+      "text": "これでしばらくは戻ってこないな！",
+      "source": "750ec126258dbe1b"
+    },
+    "SpeechBubble_KnockedBack_male_2": {
+      "text": "二度と来るな！",
+      "source": "10ccfb38f2038255"
+    },
+    "SpeechBubble_KnockedOut_female_0": {
+      "text": "食らいな！",
+      "source": "93da0268ec9bc4d4"
+    },
+    "SpeechBubble_KnockedOut_female_1": {
+      "text": "華麗に沈みな！",
+      "source": "1739cda5ab54721e"
+    },
+    "SpeechBubble_KnockedOut_female_2": {
+      "text": "あの女は完全にダウンだ！",
+      "source": "9f3952ac035f1c91"
+    },
+    "SpeechBubble_KnockedOut_male_0": {
+      "text": "ざまあみろ！",
+      "source": "74862757d0b68ed2"
+    },
+    "SpeechBubble_KnockedOut_male_1": {
+      "text": "土でも食ってな！",
+      "source": "54a70a4dba792e5a"
+    },
+    "SpeechBubble_KnockedOut_male_2": {
+      "text": "あいつは完全にダウンだ！",
+      "source": "62967c24d3e32786"
+    },
+    "SpeechBubble_LockFail_Bill_0": {
+      "text": "誰も入ってこないといいんだが！",
+      "source": "7bb12136b87e5b7b"
+    },
+    "SpeechBubble_LockFail_Bill_1": {
+      "text": "先へ進んだほうがいい。",
+      "source": "25608ddd201928d4"
+    },
+    "SpeechBubble_LockFail_Bill_2": {
+      "text": "少し腹が減ってきたな。",
+      "source": "bc27f17c4da8ebbd"
+    },
+    "SpeechBubble_LockFail_Fernando_0": {
+      "text": "君を買いかぶっていたようだ。",
+      "source": "383eafdb18e90745"
+    },
+    "SpeechBubble_LockFail_Fernando_1": {
+      "text": "まあ、予想どおりだな……",
+      "source": "9b866502291da89f"
+    },
+    "SpeechBubble_LockFail_Fernando_2": {
+      "text": "また失敗か……",
+      "source": "984d0c72d9e5b500"
+    },
+    "SpeechBubble_LockFail_Isa_0": {
+      "text": "（あくび）",
+      "source": "64628784a34996ff"
+    },
+    "SpeechBubble_LockFail_Isa_1": {
+      "text": "絶対、もう片方のワイヤーだってば！",
+      "source": "918972e440aedf75"
+    },
+    "SpeechBubble_LockFail_Isa_2": {
+      "text": "あたしも昔、それ習ったなあ！",
+      "source": "dd689e24f125c645"
+    },
+    "SpeechBubble_LockFail_Jane_0": {
+      "text": "ゆっくりでいいわよ。",
+      "source": "71659e9e5d2bebb4"
+    },
+    "SpeechBubble_LockFail_Jane_1": {
+      "text": "丸一日あるんだしね。",
+      "source": "4f63f6b50310c332"
+    },
+    "SpeechBubble_LockFail_Jane_2": {
+      "text": "あーあ、ロックピックがまた一本……",
+      "source": "2c54c6caf9c5ba7e"
+    },
+    "SpeechBubble_LockFail_Lance_0": {
+      "text": "少し辛抱すればいいだけです。",
+      "source": "ea70f489cb454440"
+    },
+    "SpeechBubble_LockFail_Lance_1": {
+      "text": "中には何が入っているんでしょうね……",
+      "source": "56b655b02f837cf9"
+    },
+    "SpeechBubble_LockFail_Lance_2": {
+      "text": "まあ、うまくいきませんでしたね。",
+      "source": "f31dc2a6fa241f8a"
+    },
+    "SpeechBubble_LockFail_Player_0": {
+      "text": "気にするな。",
+      "source": "9d297469c09d89c1"
+    },
+    "SpeechBubble_LockFail_Player_1": {
+      "text": "もう一度やってみよう。",
+      "source": "d93862d942ddaff1"
+    },
+    "SpeechBubble_LockFail_Player_2": {
+      "text": "運が悪かったな。",
+      "source": "c1787ac08ddc613d"
+    },
+    "SpeechBubble_LockFail_Sarah_0": {
+      "text": "きっと手ごわい鍵だったんですね。",
+      "source": "c3b7524f88ce7955"
+    },
+    "SpeechBubble_LockFail_Sarah_1": {
+      "text": "亡くなった恋人も、これだけはどうしても苦手でした。",
+      "source": "1ee8c6f12b698446"
+    },
+    "SpeechBubble_LockFail_Sarah_2": {
+      "text": "人生なんて最低です……",
+      "source": "85389439f98a5e91"
+    },
+    "SpeechBubble_LockFail_Steven_0": {
+      "text": "ロックピックを買い足す頃合いみたいだな。",
+      "source": "31f8bc81c7769139"
+    },
+    "SpeechBubble_LockFail_Steven_1": {
+      "text": "問題ないって！\u3000ロックピックなら、密輸業者がまだ売ってるからな。",
+      "source": "268c8b22da7b225b"
+    },
+    "SpeechBubble_LockFail_Steven_2": {
+      "text": "忍耐は美徳ってな。",
+      "source": "af13ef2682ee442a"
+    },
+    "SpeechBubble_LockFail_Tessa_0": {
+      "text": "また会う日まで……",
+      "source": "a7e12a6d570dff70"
+    },
+    "SpeechBubble_LockFail_Tessa_1": {
+      "text": "晩ご飯抜きよ！",
+      "source": "480b625a43df6df5"
+    },
+    "SpeechBubble_LockFail_Tessa_2": {
+      "text": "時間ならあるし……",
+      "source": "2a6a6b97bbaff3c8"
+    },
+    "SpeechBubble_LowHP_0": {
+      "text": "派手にやられた！",
+      "source": "b8bd1fa127cc9536"
+    },
+    "SpeechBubble_LowHP_1": {
+      "text": "もう長くはもたない！",
+      "source": "dcbe1928f307ba84"
+    },
+    "SpeechBubble_LowHP_2": {
+      "text": "なんだか気分が悪い……",
+      "source": "4718f46ca748cc73"
+    },
+    "SpeechBubble_Missed_3": {
+      "text": "今日はまったくついてない！",
+      "source": "9fa70205603a7afc"
+    },
+    "SpeechBubble_Missed_4": {
+      "text": "もっと酒の勢いが要る！",
+      "source": "3164571a45915dec"
+    },
+    "SpeechBubble_Missed_5": {
+      "text": "もっと近づいたほうがいいかも……",
+      "source": "b39beba3d59c3137"
+    },
+    "SpeechBubble_Missed_female_0": {
+      "text": "運がよかったね。",
+      "source": "f8c24ccc7f0dc5a3"
+    },
+    "SpeechBubble_Missed_female_1": {
+      "text": "大失敗……",
+      "source": "f2e7ea068283f8dc"
+    },
+    "SpeechBubble_Missed_female_2": {
+      "text": "銃が弾詰まりした……",
+      "source": "6b5f26325bd72cfd"
+    },
+    "SpeechBubble_Missed_male_0": {
+      "text": "くそっ！",
+      "source": "2c13f62f263a39a5"
+    },
+    "SpeechBubble_Missed_male_1": {
+      "text": "もっとうまくやれたはずだ……",
+      "source": "a32cdda716f4505d"
+    },
+    "SpeechBubble_Missed_male_2": {
+      "text": "次はちゃんと狙ってみるか！",
+      "source": "d8ed14387cd3ad45"
+    },
+    "SpeechBubble_Moody_0": {
+      "text": "どいつもこいつも、くたばれ！",
+      "source": "0e3244605e4ad943"
+    },
+    "SpeechBubble_Moody_1": {
+      "text": "あんたとは話したくない。",
+      "source": "79b5a3ee906da3bd"
+    },
+    "SpeechBubble_Moody_2": {
+      "text": "いったい何を考えてたんだ？",
+      "source": "e3e5dc804edbd36f"
+    },
+    "SpeechBubble_Recovered_0": {
+      "text": "もう大丈夫、いつでも行ける。",
+      "source": "ad0b81709614da87"
+    },
+    "SpeechBubble_Recovered_1": {
+      "text": "コーチ、また試合に出してくれ！",
+      "source": "3e57d94934cb3167"
+    },
+    "SpeechBubble_Stunned_female_0": {
+      "text": "いい夢を、お姫様！",
+      "source": "4f9b1110267ab689"
+    },
+    "SpeechBubble_Stunned_female_1": {
+      "text": "ひと眠りしてな！",
+      "source": "b863a120705a0a23"
+    },
+    "SpeechBubble_Stunned_female_2": {
+      "text": "美容のための睡眠が必要なのは、そっちのほうだね！",
+      "source": "23e3778f41fc398c"
+    },
+    "SpeechBubble_Stunned_male_0": {
+      "text": "ひと眠りしてな！",
+      "source": "b863a120705a0a23"
+    },
+    "SpeechBubble_Stunned_male_1": {
+      "text": "いい夢を！",
+      "source": "5e19c7a59255a539"
+    },
+    "SpeechBubble_Stunned_male_2": {
+      "text": "スタンしてる隙に叩け！",
+      "source": "1f0c0cfda35d5107"
+    },
+    "SpeechBubble_SummonDog_0": {
+      "text": "おいで！",
+      "source": "5419b79260aade60"
+    },
+    "SpeechBubble_SummonDog_1": {
+      "text": "実力を見せてやって！",
+      "source": "94a2547493db99e5"
+    },
+    "SpeechBubble_SummonDog_2": {
+      "text": "君に決めた、ペキニーズ！",
+      "source": "290fb36cc7b5197e"
+    },
+    "SpeechBubble_SummonTiger_0": {
+      "text": "やっちまえ、トニー！",
+      "source": "35633516497206d7"
+    },
+    "SpeechBubble_SummonTiger_1": {
+      "text": "お前はサイコーだ、ガオーッ！",
+      "source": "07e1fd4e52a0691c"
+    },
+    "SpeechBubble_SummonTiger_2": {
+      "text": "その鉤爪の見せどころだ！",
+      "source": "0d73b48a658bc9a5"
+    },
+    "SpeechBubble_Thirsty_0": {
+      "text": "喉が渇いた。",
+      "source": "101ca8cbccc0d241"
+    },
+    "SpeechBubble_Thirsty_1": {
+      "text": "水が欲しい。",
+      "source": "e779b6f62067837a"
+    },
+    "SpeechBubble_Thirsty_2": {
+      "text": "菜園でもっと水を確保しないと。",
+      "source": "01ba606e577bdd17"
+    },
+    "SpeechBubble_TooWeak_0": {
+      "text": "火炎瓶がもっと要るな。",
+      "source": "0336aee96cba1c74"
+    },
+    "SpeechBubble_TooWeak_1": {
+      "text": "手榴弾が2、3個あればよかったのに。",
+      "source": "73d012fa5cd267b8"
+    },
+    "SpeechBubble_TooWeak_2": {
+      "text": "効いてない！",
+      "source": "1f87ce9bfd973ab2"
+    },
+    "SpeechBubble_TrapFail_Bill_0": {
+      "text": "やはりな……",
+      "source": "ab03190859e71226"
+    },
+    "SpeechBubble_TrapFail_Bill_1": {
+      "text": "だから私は、こういうことはやらないんだ！",
+      "source": "6d57263a010e0429"
+    },
+    "SpeechBubble_TrapFail_Bill_2": {
+      "text": "痛っ！\u3000勘弁してくれ！",
+      "source": "e25260183fe3aa58"
+    },
+    "SpeechBubble_TrapFail_Fernando_0": {
+      "text": "それで笑わせてるつもりか！\u3000？",
+      "source": "5d2aee26d4a5c35c"
+    },
+    "SpeechBubble_TrapFail_Fernando_1": {
+      "text": "今のは鞭打ちの刑ものだぞ！",
+      "source": "1b310b488cf4ed46"
+    },
+    "SpeechBubble_TrapFail_Fernando_2": {
+      "text": "俺なら、こんなことにはならなかったな……",
+      "source": "ddec62e17bcd3518"
+    },
+    "SpeechBubble_TrapFail_Isa_0": {
+      "text": "この感じ、覚えがあるわ。",
+      "source": "75da178cea84270b"
+    },
+    "SpeechBubble_TrapFail_Isa_1": {
+      "text": "ちょっと、勘弁してよ！",
+      "source": "4907ee25d9f6991a"
+    },
+    "SpeechBubble_TrapFail_Isa_2": {
+      "text": "ついてない日ね。",
+      "source": "70716cf676d84336"
+    },
+    "SpeechBubble_TrapFail_Jane_0": {
+      "text": "気分が台無しよ！",
+      "source": "ab5e6fd9dc434d5f"
+    },
+    "SpeechBubble_TrapFail_Jane_1": {
+      "text": "くそっ！",
+      "source": "12c31896eb20fce8"
+    },
+    "SpeechBubble_TrapFail_Jane_2": {
+      "text": "近くにゾンビがいなくてよかったわ。",
+      "source": "d8a600b31f32bd1a"
+    },
+    "SpeechBubble_TrapFail_Lance_0": {
+      "text": "やっぱりこうなりましたか……",
+      "source": "20e817d24a5b13a9"
+    },
+    "SpeechBubble_TrapFail_Lance_1": {
+      "text": "賭けは僕の勝ちですね……",
+      "source": "aa371f2beaed94f2"
+    },
+    "SpeechBubble_TrapFail_Lance_2": {
+      "text": "少なくとも、中身は手に入りますね。",
+      "source": "2a02eff15cc205fd"
+    },
+    "SpeechBubble_TrapFail_Player_0": {
+      "text": "運が悪かったな。",
+      "source": "c1787ac08ddc613d"
+    },
+    "SpeechBubble_TrapFail_Player_1": {
+      "text": "俺が代わるべきだったかもな。",
+      "source": "7d76e60d05ea1255"
+    },
+    "SpeechBubble_TrapFail_Player_2": {
+      "text": "ただのかすり傷だ……",
+      "source": "bff00bf0dc36d489"
+    },
+    "SpeechBubble_TrapFail_Sarah_0": {
+      "text": "こういうの、嫌いです……",
+      "source": "62375748facd4e7d"
+    },
+    "SpeechBubble_TrapFail_Sarah_1": {
+      "text": "もう、痛いじゃないですか！",
+      "source": "7c150b6b1132346e"
+    },
+    "SpeechBubble_TrapFail_Sarah_2": {
+      "text": "もっと気をつけてください！",
+      "source": "fa50fbf89e9562c2"
+    },
+    "SpeechBubble_TrapFail_Steven_0": {
+      "text": "今日はとことんついてないぜ。",
+      "source": "b9ad1092e8b70a23"
+    },
+    "SpeechBubble_TrapFail_Steven_1": {
+      "text": "あーあ、まったく……",
+      "source": "c773e6eb1566e695"
+    },
+    "SpeechBubble_TrapFail_Steven_2": {
+      "text": "ぐあっ！",
+      "source": "69034c560116073e"
+    },
+    "SpeechBubble_TrapFail_Tessa_0": {
+      "text": "まあ、髪型はまだばっちりね。",
+      "source": "7c7e48753d8d7672"
+    },
+    "SpeechBubble_TrapFail_Tessa_1": {
+      "text": "あんまりうまくいかなかったね。",
+      "source": "7bba2357d1449503"
+    },
+    "SpeechBubble_TrapFail_Tessa_2": {
+      "text": "痛っ！\u3000気をつけてよ！",
+      "source": "9bf2c1959ef40380"
+    },
+    "Speech_LevelUp_Bill_0": {
+      "text": "リディアも私を誇りに思うだろう！",
+      "source": "e8270f0a75fbed34"
+    },
+    "Speech_LevelUp_Bill_1": {
+      "text": "何と言えばいいかね？\u3000今日はいい日だ！",
+      "source": "970f48de3efe51eb"
+    },
+    "Speech_LevelUp_Charlotte_0": {
+      "text": "厳しい鍛錬は、ちゃんと報われる！",
+      "source": "7a15cb9588619cc1"
+    },
+    "Speech_LevelUp_Charlotte_1": {
+      "text": "私だって、やればできるんだから！",
+      "source": "4b9b06a2858eee32"
+    },
+    "Speech_LevelUp_Fernando_0": {
+      "text": "これを5回続けてできるか、試してみな、アミーゴたち！",
+      "source": "66a65f3d08761b77"
+    },
+    "Speech_LevelUp_Fernando_1": {
+      "text": "オーレ！\u3000これがお手本ってもんだ！",
+      "source": "6e3cb61c1a4874e0"
+    },
+    "Speech_LevelUp_Hank_0": {
+      "text": "よっしゃ！\u3000我ながら見事な腕前だ！",
+      "source": "a748d2a5d0dd98c0"
+    },
+    "Speech_LevelUp_Hank_1": {
+      "text": "俺を甘く見るなよ！",
+      "source": "1da0d975c9b27d9c"
+    },
+    "Speech_LevelUp_Isa_0": {
+      "text": "あたしのパワー、また上がっちゃった！",
+      "source": "7420d731f4ac9c41"
+    },
+    "Speech_LevelUp_Isa_1": {
+      "text": "今日はちょっと頑張っちゃった。",
+      "source": "7cd2bea4f53dccbe"
+    },
+    "Speech_LevelUp_Jamie_0": {
+      "text": "よっしゃ！\u3000我ながら見事な腕前だ！",
+      "source": "a748d2a5d0dd98c0"
+    },
+    "Speech_LevelUp_Jamie_1": {
+      "text": "俺を甘く見るなよ！",
+      "source": "1da0d975c9b27d9c"
+    },
+    "Speech_LevelUp_Jane_0": {
+      "text": "焦らず、一歩ずつね。",
+      "source": "6459fc261f1871eb"
+    },
+    "Speech_LevelUp_Jane_1": {
+      "text": "よっしゃ！\u3000誰も私の前は通さないわ！",
+      "source": "76e396afc8a081cb"
+    },
+    "Speech_LevelUp_Lance_0": {
+      "text": "これまでの経験が実を結んでいます！",
+      "source": "bf88dc0330161d7a"
+    },
+    "Speech_LevelUp_Lance_1": {
+      "text": "今日は死ぬにはいい日ですね！",
+      "source": "348eb940e69a6532"
+    },
+    "Speech_LevelUp_Player_0": {
+      "text": "この鍛錬が報われるといいが。",
+      "source": "a5c67e3f30b981b8"
+    },
+    "Speech_LevelUp_Player_1": {
+      "text": "いい感じだ。気分も最高だ！",
+      "source": "de9c839d32c6fced"
+    },
+    "Speech_LevelUp_Sarah_0": {
+      "text": "わあ！\u3000腕が上がってきました！",
+      "source": "e005ce0288642af9"
+    },
+    "Speech_LevelUp_Sarah_1": {
+      "text": "やった！\u3000そろそろ私のことを見直してくださいね！",
+      "source": "56eb38a4d923cd50"
+    },
+    "Speech_LevelUp_Steven_0": {
+      "text": "強くなった気がするぜ。",
+      "source": "c7de45fa6be372a3"
+    },
+    "Speech_LevelUp_Steven_1": {
+      "text": "どいてな、世界！",
+      "source": "67977165c0bad05a"
+    },
+    "Speech_LevelUp_Tessa_0": {
+      "text": "寝転がってる暇はないわ！",
+      "source": "3611b23321564889"
+    },
+    "Speech_LevelUp_Tessa_1": {
+      "text": "やったー！\u3000これが女の子の力よ！",
+      "source": "b86269d8afbdfe73"
+    },
+    "Speech_LevelUp_Tina_0": {
+      "text": "生き延びるために鍛えてるの！",
+      "source": "74e95db080e8b05d"
+    },
+    "Speech_LevelUp_Tina_1": {
+      "text": "私だって、やればできるんだから！",
+      "source": "0bb596662af4da9f"
+    },
+    "Speech_LevelUp_Tom_0": {
+      "text": "トムとトレーニング、いつだって効果てきめん！",
+      "source": "8538e1b017d1cc41"
+    },
+    "Speech_LevelUp_Tom_1": {
+      "text": "俺ってすごい！",
+      "source": "1f2811d5b80f5fb9"
+    }
+  }
+}

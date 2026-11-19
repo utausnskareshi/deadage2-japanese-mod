@@ -1,0 +1,2313 @@
+{
+  "table": "ui",
+  "entries": {
+    "Attrib_Armor": {
+      "text": "防御力",
+      "source": "6d3b491cc4b3b8c9"
+    },
+    "Attrib_Armor_Tooltip": {
+      "text": "防御力は、近接攻撃・投擲武器・銃器から受けるダメージを軽減する。",
+      "source": "43075844ee1a1ee1"
+    },
+    "Attrib_BlockChance": {
+      "text": "ブロック率",
+      "source": "c4ef9c655983e2f8"
+    },
+    "Attrib_BlockChance_Tooltip": {
+      "text": "攻撃をブロックすると受けるダメージが50%減り、スタンや気絶などの弱体効果も防げる。",
+      "source": "6fed96fbc98f68ec"
+    },
+    "Attrib_CritChance": {
+      "text": "クリティカル",
+      "source": "c69443b88fe5f231"
+    },
+    "Attrib_CritChance_Tooltip": {
+      "text": "クリティカルは攻撃のダメージを30%増加させる。連続攻撃では壊滅的なダメージになることもある。",
+      "source": "c0913dd74e3cf427"
+    },
+    "Attrib_Endurance": {
+      "text": "耐久力",
+      "source": "18914b261c3e6ae9"
+    },
+    "Attrib_Endurance_Tooltip": {
+      "text": "耐久力が高いほど、最大HPが増える。",
+      "source": "af00593db4f3c8a8"
+    },
+    "Attrib_Exp": {
+      "text": "経験値",
+      "source": "1d1d1cdfc15f599b"
+    },
+    "Attrib_Exp_Tooltip": {
+      "text": "レベルアップには経験値が必要で、レベルアップするとキャラクターの能力値が上がる。やる気状態のキャラクターは、レベルアップ時にボーナスの能力ポイントを得る。",
+      "source": "8c4a7752e3055296"
+    },
+    "Attrib_Health": {
+      "text": "HP",
+      "source": "1c50a596d8214e6c"
+    },
+    "Attrib_Health_Tooltip": {
+      "text": "HPが30%を下回ると、一部のゾンビの攻撃で感染することがある。耐久力が高いほど最大HPが増える。",
+      "source": "debc735d963fd6c8"
+    },
+    "Attrib_Improve_Info": {
+      "text": "上昇: {0}\nコスト: {1}",
+      "source": "05576deb53f495de"
+    },
+    "Attrib_Improve_Info_Limited": {
+      "text": "上昇: {0}（最大: {2}）\nコスト: {1}",
+      "source": "20e7b8545071515b"
+    },
+    "Attrib_Intelligence": {
+      "text": "パワー",
+      "source": "848e96567d6b48d5"
+    },
+    "Attrib_Intelligence_Tooltip": {
+      "text": "パワーが高いほど、毒・破片・炎によるダメージが大きくなる。",
+      "source": "2ee548d775efd517"
+    },
+    "Attrib_Level": {
+      "text": "レベル",
+      "source": "1709305c9fa966d1"
+    },
+    "Attrib_Level_Tooltip": {
+      "text": "<wip>",
+      "source": "a1f275e8a7e878e1"
+    },
+    "Attrib_MeleeDamage": {
+      "text": "近接ダメージ",
+      "source": "025e8b606d98b6b6"
+    },
+    "Attrib_MeleeDamage_Tooltip": {
+      "text": "近接ダメージは、筋力と、装備している近接武器のダメージ値で決まる。",
+      "source": "d8d5ce893e5f47eb"
+    },
+    "Attrib_Perception": {
+      "text": "知覚",
+      "source": "bd18e320a6bb9f53"
+    },
+    "Attrib_Perception_Tooltip": {
+      "text": "知覚が高いほど、拳銃、アサルトライフル、ショットガンを使ったときのダメージが増える。",
+      "source": "8b807400f111bb01"
+    },
+    "Attrib_RangedDamage": {
+      "text": "遠距離ダメージ",
+      "source": "ed353d2b643bf868"
+    },
+    "Attrib_RangedDamage_Tooltip": {
+      "text": "遠距離ダメージは、知覚と、装備している遠距離武器のダメージ値で決まる。",
+      "source": "14db332c7ef7f271"
+    },
+    "Attrib_Reflexes": {
+      "text": "反射神経",
+      "source": "896c4379af53c603"
+    },
+    "Attrib_Reflexes_Tooltip": {
+      "text": "反射神経が高いほど素早く攻撃でき、先制攻撃を行えることがある。さらに、反射神経1ポイントごとにブロック率が3分の1上昇する。",
+      "source": "6f109d513b73e118"
+    },
+    "Attrib_Resistance": {
+      "text": "抵抗力",
+      "source": "c35070bce1f55441"
+    },
+    "Attrib_Resistance_Tooltip": {
+      "text": "抵抗力は、炎・血・毒・精神によるダメージを軽減する。",
+      "source": "6a0796d9d7032713"
+    },
+    "Attrib_SpecialDamage": {
+      "text": "パワーダメージ",
+      "source": "7fdeaa553056c52d"
+    },
+    "Attrib_Strength": {
+      "text": "筋力",
+      "source": "63ee3a1b965a7bd2"
+    },
+    "Attrib_Strength_Tooltip": {
+      "text": "筋力が高いほど近接武器で効果的に攻撃でき、与えるダメージが増える。",
+      "source": "c2cb5614eeaa6452"
+    },
+    "Buff_Abgeschworen": {
+      "text": "決別",
+      "source": "10e3f5b2aa6b0f48"
+    },
+    "Buff_Abgeschworen_desc": {
+      "text": "ブロック率とクリティカル率が[BuffValue_0]%上昇する",
+      "source": "25ae2f1fd40c7588"
+    },
+    "Buff_Aengstlich": {
+      "text": "怯え",
+      "source": "8baaefe7342e930f"
+    },
+    "Buff_Aengstlich_desc": {
+      "text": "後列へ逃げ、1ラウンドかけて立ち直る。",
+      "source": "93877f7b46e87a08"
+    },
+    "Buff_Alarmiert": {
+      "text": "警戒中",
+      "source": "44a57b22e03d9a66"
+    },
+    "Buff_Alarmiert_desc": {
+      "text": "[b]スタン[/b]と[b]気絶[/b]にかかる確率が[BuffImmunity_0]%低下する。",
+      "source": "0a8db12f7abbb3ed"
+    },
+    "Buff_Angefeuert": {
+      "text": "奮起",
+      "source": "e1001b2c965cc6a6"
+    },
+    "Buff_Angefeuert_desc": {
+      "text": "筋力と耐久力が[BuffValue_1]%上昇する",
+      "source": "3c845de1c79bb483"
+    },
+    "Buff_Angeschlagen": {
+      "text": "瀕死",
+      "source": "ab972e9dc87b3694"
+    },
+    "Buff_Angeschlagen_desc": {
+      "text": "筋力が[BuffValue_1]%低下する。人間は感染する恐れがある。",
+      "source": "bf5071a5f5915912"
+    },
+    "Buff_Ansteckend": {
+      "text": "伝染",
+      "source": "ab1028c3b4c91ecf"
+    },
+    "Buff_Ansteckend_desc": {
+      "text": "対象が近接攻撃を受けたとき、[b]毒[/b]を付与する。",
+      "source": "baeda628cca0298a"
+    },
+    "Buff_ArmorDown": {
+      "text": "防具損傷",
+      "source": "061eebaeb6e39f3b"
+    },
+    "Buff_ArmorDown_desc": {
+      "text": "防御力が[BuffValue_0]%低下する。",
+      "source": "135f8e216ac6ba18"
+    },
+    "Buff_ArmorUp": {
+      "text": "ボディアーマー",
+      "source": "ff12b80dd50fd446"
+    },
+    "Buff_ArmorUp_desc": {
+      "text": "防御力が[BuffValue_0]%上昇する。",
+      "source": "d823dd01a93236d9"
+    },
+    "Buff_AufderHut": {
+      "text": "警戒態勢",
+      "source": "d23c1238fe11d68f"
+    },
+    "Buff_AufderHut_desc": {
+      "text": "届く範囲にいれば、受けたすべての近接攻撃に反撃する。",
+      "source": "828721da8222c437"
+    },
+    "Buff_Aufladen_Angriff": {
+      "text": "溜め - 攻撃",
+      "source": "f7fb41bac45b2358"
+    },
+    "Buff_Aufladen_Angriff_desc": {
+      "text": "この敵は強力な近接攻撃を放とうとしている。",
+      "source": "49fcdb1dbb8af425"
+    },
+    "Buff_Aufladen_Fernkampf": {
+      "text": "溜め - 遠距離攻撃",
+      "source": "2b5599111350fbd4"
+    },
+    "Buff_Aufladen_Fernkampf_desc": {
+      "text": "この敵は強力な遠距離攻撃を放とうとしている。",
+      "source": "cdfae3cef1e329fc"
+    },
+    "Buff_Aufladen_Herbeirufung": {
+      "text": "溜め - 召喚",
+      "source": "787ec2933588de51"
+    },
+    "Buff_Aufladen_Herbeirufung_desc": {
+      "text": "この敵は増援を呼び寄せようとしている。",
+      "source": "3688b2eb75c214cb"
+    },
+    "Buff_Aufladen_Schwaechung": {
+      "text": "溜め - 弱体化",
+      "source": "215e5c444377988f"
+    },
+    "Buff_Aufladen_Schwaechung_desc": {
+      "text": "この敵は弱体効果を準備している。",
+      "source": "c92879c91e619a86"
+    },
+    "Buff_Aufladen_Staerkung": {
+      "text": "溜め - 強化",
+      "source": "4d383fbfcbd44739"
+    },
+    "Buff_Aufladen_Staerkung_desc": {
+      "text": "この敵は強化効果を準備している。",
+      "source": "bc608a332c4cd859"
+    },
+    "Buff_Baerenfalle": {
+      "text": "トラバサミ",
+      "source": "3b2750e9bc6f8ebe"
+    },
+    "Buff_Baerenfalle_desc": {
+      "text": "[BuffValue_0]%のパワーダメージを与え、[b]大出血[/b]を付与する。",
+      "source": "93caf144dd7328cd"
+    },
+    "Buff_Berserker_Passiv": {
+      "text": "バーサーク",
+      "source": "08bd7cbf4b138e67"
+    },
+    "Buff_Berserker_Passiv_desc": {
+      "text": "HPが[BuffCondValue_1_0_0]%を下回るとすぐに[b]筋力強化[/b]を得る。",
+      "source": "b50371d8485066d3"
+    },
+    "Buff_Betaeubt": {
+      "text": "スタン",
+      "source": "6f9e89b67d77112f"
+    },
+    "Buff_Betaeubt_desc": {
+      "text": "攻撃を受けると目を覚ます。",
+      "source": "d94b9197fae28509"
+    },
+    "Buff_Bewusstlos": {
+      "text": "気絶",
+      "source": "daf064fe39bd9dcd"
+    },
+    "Buff_Bewusstlos_desc": {
+      "text": "行動できない。",
+      "source": "a9659d650d58fc1d"
+    },
+    "Buff_BlockchanceDown": {
+      "text": "脚の負傷",
+      "source": "b7dec64210a7830a"
+    },
+    "Buff_BlockchanceDown_desc": {
+      "text": "ブロック率が[BuffValue_0]%低下する",
+      "source": "82fc8e6ca0c723f9"
+    },
+    "Buff_Blutbombe": {
+      "text": "血液爆弾",
+      "source": "fbd6081330f8f5c8"
+    },
+    "Buff_Blutbombe_desc": {
+      "text": "しばらくすると爆発し、後列に[BuffValue_0]%のパワーダメージを与えて[b]出血[/b]を付与する。",
+      "source": "562003546cf78800"
+    },
+    "Buff_Bluten": {
+      "text": "出血",
+      "source": "cb7d16c1f9d5c8ef"
+    },
+    "Buff_Bluten_Stark": {
+      "text": "大出血",
+      "source": "2241cb32ee738af7"
+    },
+    "Buff_Bluten_Stark_desc": {
+      "text": "2ラウンドにわたって[BuffValue_0]%のパワーダメージを受ける",
+      "source": "259e783aca1112a8"
+    },
+    "Buff_Bluten_desc": {
+      "text": "2ラウンドにわたって[BuffValue_0]%のパワーダメージを受ける",
+      "source": "259e783aca1112a8"
+    },
+    "Buff_Blutrausch": {
+      "text": "アドレナリン",
+      "source": "cd2f6d85c92e4169"
+    },
+    "Buff_Blutrausch_desc": {
+      "text": "筋力が[BuffValue_0]%上昇する",
+      "source": "5b6cff2533df63ee"
+    },
+    "Buff_Brennen": {
+      "text": "火傷",
+      "source": "6d747b334438d2e8"
+    },
+    "Buff_Brennen_desc": {
+      "text": "3ラウンドにわたって[BuffValue_0]%のパワーダメージを受ける",
+      "source": "956df3798de94486"
+    },
+    "Buff_BrennendeFalle": {
+      "text": "火炎トラップ",
+      "source": "6c8ead9b67fb56f2"
+    },
+    "Buff_BrennendeFalle_desc": {
+      "text": "[BuffValue_0]%のパワーダメージを与え、[b]火傷[/b]を付与する。[BuffValue_2]%の確率で[b]脆弱[/b]を付与する。",
+      "source": "320699202b999606"
+    },
+    "Buff_CritChanceUp": {
+      "text": "クリティカル強化",
+      "source": "b5ac73329e276406"
+    },
+    "Buff_CritChanceUp_Stark": {
+      "text": "クリティカル最適化",
+      "source": "acd4335fd8208893"
+    },
+    "Buff_CritChanceUp_Stark_desc": {
+      "text": "クリティカル率が[BuffValue_0]%上昇する",
+      "source": "2a6762d67a2008e0"
+    },
+    "Buff_CritChanceUp_desc": {
+      "text": "クリティカル率が[BuffValue_0]%上昇する",
+      "source": "2a6762d67a2008e0"
+    },
+    "Buff_DeckungGeben": {
+      "text": "援護射撃",
+      "source": "e3d26bfca74f20ba"
+    },
+    "Buff_DeckungGeben_desc": {
+      "text": "近接攻撃を行う敵をすべて撃つ。50%の確率で[b]出血[/b]を付与する。",
+      "source": "c9aafc41e9987590"
+    },
+    "Buff_Einschuechterung": {
+      "text": "威圧",
+      "source": "5459202ae7f07cdb"
+    },
+    "Buff_Einschuechterung_desc": {
+      "text": "筋力と知覚が[BuffValue_1]%低下する",
+      "source": "5d3804d1cb625093"
+    },
+    "Buff_EliteInfo": {
+      "text": "精鋭",
+      "source": "abcf0f136c1ed0dd"
+    },
+    "Buff_EliteInfo_desc": {
+      "text": "通常より強いが、より良い戦利品を落とすことがある",
+      "source": "5b87a68d3c201140"
+    },
+    "Buff_Flink": {
+      "text": "俊敏",
+      "source": "ae8ed2743925477e"
+    },
+    "Buff_Flink_desc": {
+      "text": "APを2持った状態で開始する。遠距離武器の命中率が[BuffValue_1_0]%低下する",
+      "source": "f6f96e6291298f74"
+    },
+    "Buff_Frontkaempfer": {
+      "text": "ならば日陰で戦おう",
+      "source": "1295bb57d274aa55"
+    },
+    "Buff_Frontkaempfer_desc": {
+      "text": "受ける遠距離ダメージがすべて半減する",
+      "source": "509834dc53653032"
+    },
+    "Buff_Geschuetzturm": {
+      "text": "タレット",
+      "source": "53cca3d0a1b73d27"
+    },
+    "Buff_Geschuetzturm_desc": {
+      "text": "急ごしらえで設置されたタレット。3ラウンド後に消える。",
+      "source": "a2970ea4e28ddbea"
+    },
+    "Buff_Gift": {
+      "text": "毒",
+      "source": "6dc21afe4edec3c1"
+    },
+    "Buff_Gift_Stark": {
+      "text": "猛毒",
+      "source": "82371046688fa863"
+    },
+    "Buff_Gift_Stark_desc": {
+      "text": "4ラウンドにわたって[BuffValue_0]%のパワーダメージを受ける",
+      "source": "ce2c628e18b1d8b9"
+    },
+    "Buff_Gift_desc": {
+      "text": "4ラウンドにわたって[BuffValue_0]%のパワーダメージを受ける",
+      "source": "ce2c628e18b1d8b9"
+    },
+    "Buff_Giftbombe": {
+      "text": "毒爆弾",
+      "source": "fb05c30fb89c340a"
+    },
+    "Buff_Giftbombe_desc": {
+      "text": "しばらくすると爆発し、後列に[BuffValue_0]%のパワーダメージを与えて[b]毒[/b]を付与する。",
+      "source": "7f8e5e3e8c329608"
+    },
+    "Buff_Giftfalle": {
+      "text": "毒トラップ",
+      "source": "aae6dd66427da432"
+    },
+    "Buff_Giftfalle_desc": {
+      "text": "[BuffValue_0]%のパワーダメージを与え、[b]猛毒[/b]を付与する。[BuffValue_2]%の確率で[b]脚の負傷[/b]を付与する。",
+      "source": "d73e2dff3c615d95"
+    },
+    "Buff_GroupStrength": {
+      "text": "団結",
+      "source": "d3a10ddcc003f477"
+    },
+    "Buff_GroupStrength_desc": {
+      "text": "味方が攻撃するたびに、自身の攻撃力が上昇する",
+      "source": "a3c2fd789ff4cb3d"
+    },
+    "Buff_HeavyArmor": {
+      "text": "重装甲",
+      "source": "c8cfca6e6a8c9101"
+    },
+    "Buff_HeavyArmor_desc": {
+      "text": "追加の防御層を持ち、先にそれを破壊しなければならない。",
+      "source": "46ef5dd34e168967"
+    },
+    "Buff_Horde": {
+      "text": "ゾンビの群れ",
+      "source": "acc54f9e4e880e5a"
+    },
+    "Buff_Horde_desc": {
+      "text": "その場にいる味方1体につき、筋力が[BuffValue_0]%上昇する",
+      "source": "7ba8d18bddb3dd56"
+    },
+    "Buff_Immun_Bluten": {
+      "text": "強靭",
+      "source": "96257e809cb5bbaf"
+    },
+    "Buff_Immun_Bluten_desc": {
+      "text": "[b]出血[/b]に免疫を持つ。",
+      "source": "eac0660123ae2ba1"
+    },
+    "Buff_Immun_Brennen": {
+      "text": "不燃",
+      "source": "8e05a72fbba62101"
+    },
+    "Buff_Immun_Brennen_desc": {
+      "text": "[b]火傷[/b]に免疫を持つ。",
+      "source": "e3b420df3186a0c6"
+    },
+    "Buff_Immun_Gift": {
+      "text": "毒耐性",
+      "source": "7582fe515c03217f"
+    },
+    "Buff_Immun_Gift_desc": {
+      "text": "[b]毒[/b]に免疫を持つ。",
+      "source": "683d881c86ce6a24"
+    },
+    "Buff_Immun_KO": {
+      "text": "不屈",
+      "source": "46f5bbbd38c65b06"
+    },
+    "Buff_Immun_KO_desc": {
+      "text": "[b]気絶[/b]に免疫を持つ。",
+      "source": "fcb93985cca89532"
+    },
+    "Buff_Immun_Knockback": {
+      "text": "不動",
+      "source": "b3ee96c93ce5de1c"
+    },
+    "Buff_Immun_Knockback_desc": {
+      "text": "[b]ノックバック[/b]に免疫を持つ。",
+      "source": "dcc1341080e6db64"
+    },
+    "Buff_Immun_Vulnerable": {
+      "text": "耐性",
+      "source": "649e926730a7d42e"
+    },
+    "Buff_Immun_Vulnerable_desc": {
+      "text": "[b]脆弱[/b]に免疫を持つ。",
+      "source": "95d12bea6bba45c8"
+    },
+    "Buff_InstinktiverSchutz": {
+      "text": "防衛本能",
+      "source": "31f2065699748a66"
+    },
+    "Buff_InstinktiverSchutz_Passiv": {
+      "text": "用心",
+      "source": "2e178e6c65f95e64"
+    },
+    "Buff_InstinktiverSchutz_Passiv_desc": {
+      "text": "HPが[BuffCondValue_1_0_0]%を下回るとすぐに「防衛本能」を使う。",
+      "source": "2fbf34c5b6c4fc51"
+    },
+    "Buff_InstinktiverSchutz_desc": {
+      "text": "ブロック率と防御力が[BuffValue_0]%上昇する",
+      "source": "1152f71aa16eb52e"
+    },
+    "Buff_Jagdinstinkt": {
+      "text": "狩人の本能",
+      "source": "6d5b5e510c01adc9"
+    },
+    "Buff_Jagdinstinkt_desc": {
+      "text": "動物から受けるダメージが半減する。動物が受けるダメージは2倍になる",
+      "source": "b11fb2544793f065"
+    },
+    "Buff_Kampfbereitschaft": {
+      "text": "臨戦態勢",
+      "source": "1e0755ea2d269cb8"
+    },
+    "Buff_Kampfbereitschaft_desc": {
+      "text": "近接ダメージ、遠距離ダメージ、パワーが[BuffValue_1]%上昇する",
+      "source": "b43f71e0fd7329f9"
+    },
+    "Buff_Kotzpfuetze": {
+      "text": "吐瀉物だまり",
+      "source": "3f317bab61d96120"
+    },
+    "Buff_Kotzpfuetze_desc": {
+      "text": "[BuffValue_0]%のパワーダメージを与え、[b]猛毒[/b]を付与する。",
+      "source": "0a5d37d3a5f39e12"
+    },
+    "Buff_MightUp": {
+      "text": "パワー上昇",
+      "source": "ef338400bdd199a7"
+    },
+    "Buff_MightUp_desc": {
+      "text": "パワーが[BuffValue_0]%上昇する",
+      "source": "898df20d353338f1"
+    },
+    "Buff_PerceptionDown": {
+      "text": "動揺",
+      "source": "18e7112d4695bf64"
+    },
+    "Buff_PerceptionDown_Stark": {
+      "text": "激しい動揺",
+      "source": "77f885caa3652242"
+    },
+    "Buff_PerceptionDown_Stark_desc": {
+      "text": "知覚が[BuffValue_0]%低下する",
+      "source": "21cb2a4c8e140237"
+    },
+    "Buff_PerceptionDown_desc": {
+      "text": "知覚が[BuffValue_0]%低下する",
+      "source": "21cb2a4c8e140237"
+    },
+    "Buff_Rache": {
+      "text": "復讐",
+      "source": "631cb8a984d071a3"
+    },
+    "Buff_Rache_desc": {
+      "text": "味方が死ぬと[b]臨戦態勢[/b]を得る。",
+      "source": "f9cdb2f911ef4e45"
+    },
+    "Buff_RangedHitChanceDown": {
+      "text": "目くらまし",
+      "source": "f37106e829dc9e8c"
+    },
+    "Buff_RangedHitChanceDown_desc": {
+      "text": "命中率が[BuffValue_1_0]%低下する",
+      "source": "5c9df10cc56d702c"
+    },
+    "Buff_Regeneration": {
+      "text": "軽度の再生",
+      "source": "c712a097e38ee0cb"
+    },
+    "Buff_Regeneration_Stark": {
+      "text": "強力な再生",
+      "source": "b348abd95cdd8378"
+    },
+    "Buff_Regeneration_Stark_desc": {
+      "text": "3ラウンドにわたってHPを[BuffValue_0]%回復する。",
+      "source": "205d3a16259d5159"
+    },
+    "Buff_Regeneration_desc": {
+      "text": "3ラウンドにわたってHPを[BuffValue_0]%回復する。",
+      "source": "205d3a16259d5159"
+    },
+    "Buff_ResistanceUp": {
+      "text": "抵抗力上昇",
+      "source": "93bea368da9b47cf"
+    },
+    "Buff_ResistanceUp_desc": {
+      "text": "抵抗力が[BuffValue_0]%上昇する",
+      "source": "70f84d40f346c6f6"
+    },
+    "Buff_Robust": {
+      "text": "頑健",
+      "source": "95d3e9d5c35d75d5"
+    },
+    "Buff_Robust_desc": {
+      "text": "[b]脆弱[/b]と[b]防具損傷[/b]にかかる確率が[BuffImmunity_0]%低下する。",
+      "source": "531dcb79c48f897e"
+    },
+    "Buff_Rudel": {
+      "text": "群れの力",
+      "source": "80dc21673e554c7b"
+    },
+    "Buff_Rudel_desc": {
+      "text": "その場にいる味方1体につき、筋力が[BuffValue_0]%上昇する。",
+      "source": "7ba8d18bddb3dd56"
+    },
+    "Buff_Schattenschild": {
+      "text": "影の盾",
+      "source": "7edd2081d2bc01cd"
+    },
+    "Buff_Schattenschild_desc": {
+      "text": "[b]鉄壁[/b]を付与する。",
+      "source": "978db282297b6ba3"
+    },
+    "Buff_Schlaeft": {
+      "text": "眠れる怒り",
+      "source": "caf5b6948ac1d835"
+    },
+    "Buff_Schlaeft_desc": {
+      "text": "気絶している。目覚めると[b]激怒[/b]状態になる",
+      "source": "ec5961233e084126"
+    },
+    "Buff_Schrei": {
+      "text": "叫び",
+      "source": "2d9098a5568e2b21"
+    },
+    "Buff_Schrei_desc": {
+      "text": "攻撃を受けると、1ターンに1回、這いずるゾンビを召喚できる。",
+      "source": "eb989c1f8503a496"
+    },
+    "Buff_Schwaechung": {
+      "text": "弱体化",
+      "source": "7614b2642e91f1f0"
+    },
+    "Buff_Schwaechung_desc": {
+      "text": "筋力と知覚が[BuffValue_1]%低下する。",
+      "source": "29ae1dc790b6132f"
+    },
+    "Buff_Schwergewicht": {
+      "text": "重量級",
+      "source": "4d2585722f2a248e"
+    },
+    "Buff_Schwergewicht_desc": {
+      "text": "[b]ノックバック[/b]と[b]気絶[/b]に免疫を持つ。",
+      "source": "585d6b1de22935f9"
+    },
+    "Buff_Snacks": {
+      "text": "満腹",
+      "source": "ca707893aaf9b56c"
+    },
+    "Buff_Snacks_desc": {
+      "text": "軽食を食べたことで能力値が上昇している。",
+      "source": "556716d0f272fb3f"
+    },
+    "Buff_Sprengfalle": {
+      "text": "爆発トラップ",
+      "source": "18054205c8718be8"
+    },
+    "Buff_Sprengfalle_desc": {
+      "text": "敵の前列に[BuffValue_0]%のパワーダメージを与える。[BuffValue_1]%の確率で[b]スタン[/b]と[b]防具損傷[/b]を付与する。",
+      "source": "acf61012bc35edd2"
+    },
+    "Buff_StrengthDown": {
+      "text": "衰弱",
+      "source": "c1b611bf9b1b790f"
+    },
+    "Buff_StrengthDown_desc": {
+      "text": "筋力が[BuffValue_0]%低下する。",
+      "source": "015997b303c2c174"
+    },
+    "Buff_StrengthUp": {
+      "text": "筋力強化",
+      "source": "b030b0acf33f5e33"
+    },
+    "Buff_StrengthUp_desc": {
+      "text": "筋力が[BuffValue_0]%上昇する。",
+      "source": "44378c292fc296ba"
+    },
+    "Buff_Technikerinstinkt": {
+      "text": "技術通",
+      "source": "5391a98366153c39"
+    },
+    "Buff_Technikerinstinkt_desc": {
+      "text": "タレットから受けるダメージが半減する。タレットが受けるダメージは2倍になる",
+      "source": "848f59ae9f1c5309"
+    },
+    "Buff_Tierinstinkt": {
+      "text": "動物の本能",
+      "source": "cd87d7401615f12c"
+    },
+    "Buff_Tierinstinkt_desc": {
+      "text": "味方の動物が死ぬたびに筋力が上昇する。",
+      "source": "17b8c1a40485997e"
+    },
+    "Buff_Ueberwachung": {
+      "text": "監視",
+      "source": "3e022cb702f10463"
+    },
+    "Buff_Ueberwachung_desc": {
+      "text": "敵が位置を変えると、その敵を攻撃する。",
+      "source": "144d8f5198f64221"
+    },
+    "Buff_Vulnerable": {
+      "text": "脆弱",
+      "source": "cb44173a1e670cb2"
+    },
+    "Buff_Vulnerable_desc": {
+      "text": "クリティカルを受ける確率が[BuffValue_1_0]%上昇する。",
+      "source": "64e0406726dae729"
+    },
+    "Buff_Wachposten": {
+      "text": "見張り台",
+      "source": "dfad8fc0f784318e"
+    },
+    "Buff_Wachposten_Desc": {
+      "text": "遠距離攻撃をしようとする敵を自動で撃つ",
+      "source": "c76d6c020cdc9ab8"
+    },
+    "Buff_Wut": {
+      "text": "激怒",
+      "source": "110049cc8ca88c81"
+    },
+    "Buff_Wut_desc": {
+      "text": "対象が攻撃を受けると[b]怒り[/b]を得る。",
+      "source": "e10cc02f237fe1c3"
+    },
+    "Buff_ZaeherHund": {
+      "text": "しぶとい奴",
+      "source": "48726c4f0fef3f77"
+    },
+    "Buff_ZaeherHund_desc": {
+      "text": "格闘家は死ぬと這いずるゾンビになる",
+      "source": "df54fd576c28799a"
+    },
+    "Buff_Zertruemmert": {
+      "text": "粉砕",
+      "source": "4d09fe9cef7ea147"
+    },
+    "Buff_Zertruemmert_desc": {
+      "text": "防御力とブロック率が[BuffValue_1]%低下する",
+      "source": "0aa1a93fd4a537d1"
+    },
+    "Buff_Zielwasser": {
+      "text": "酒の勢い",
+      "source": "1dce0eb3a94205ac"
+    },
+    "Buff_Zielwasser_desc": {
+      "text": "命中率が[BuffValue_1_1]%、クリティカル率が[BuffValue_1_0]%上昇する。",
+      "source": "85885781f52cca47"
+    },
+    "Buff_ZombieWachsam": {
+      "text": "警戒本能",
+      "source": "88b46927497b0723"
+    },
+    "Buff_ZombieWachsam_desc": {
+      "text": "範囲内にいれば、受けたすべての近接攻撃に反撃する",
+      "source": "072152972f633a6e"
+    },
+    "Buff_Zorn": {
+      "text": "怒り",
+      "source": "0988f0dc024389e9"
+    },
+    "Buff_Zorn_desc": {
+      "text": "筋力とブロック率が[BuffValue_1]%上昇する。",
+      "source": "7b9d6f54acc7ff66"
+    },
+    "Buff_ZuendeneBombe": {
+      "text": "時限爆弾",
+      "source": "cf851e5f44948d16"
+    },
+    "Buff_ZuendeneBombe_desc": {
+      "text": "しばらくすると爆発し、後列に[BuffValue_0]%のパワーダメージを与えて[b]大出血[/b]と[b]脆弱[/b]を付与する。",
+      "source": "74f3b1f2621ed718"
+    },
+    "Buff_Zurueckschiessen": {
+      "text": "反撃射撃",
+      "source": "cd9a55d711590d9a"
+    },
+    "Buff_ZurueckschiessenLeicht": {
+      "text": "反撃射撃",
+      "source": "cd9a55d711590d9a"
+    },
+    "Buff_ZurueckschiessenLeicht_desc": {
+      "text": "遠距離攻撃をしようとする敵を自動で撃つ。",
+      "source": "e15832357ed049e0"
+    },
+    "Buff_Zurueckschiessen_desc": {
+      "text": "遠距離攻撃をしようとする敵を自動で撃つ。30%の確率で[b]出血[/b]を付与する。",
+      "source": "a331590c9822c9ce"
+    },
+    "CombatAmmo_desc": {
+      "text": "弾薬の種類を切り替えて、防具を身に着けた敵や抵抗力の高い敵に対抗する。",
+      "source": "abac3342385b1ef3"
+    },
+    "CombatEndTurn_desc": {
+      "text": "そのキャラクターの現在のラウンドを終了し、次のラウンドでアクションポイントを1つ追加で得る。",
+      "source": "afa26edc5a5bd9c8"
+    },
+    "CombatInv_desc": {
+      "text": "インベントリを開いて、装備を管理したり、手紙を読んだり、スキルを習得したりする。",
+      "source": "e944e983a15ee65b"
+    },
+    "CombatMedical_desc": {
+      "text": "医療アイテムを使ってキャラクターを治療する。こまめに治療すれば感染を防げる。",
+      "source": "3369cd66aed5386e"
+    },
+    "CombatMove0_desc": {
+      "text": "前列に移動して、近接行動を取ったり、パーティメンバーを守ったりする。",
+      "source": "d96d6cbb7ac22ecd"
+    },
+    "CombatMove1_desc": {
+      "text": "後列に移動して、遠距離攻撃をしたり、自分を回復したりする。",
+      "source": "233a36bd75b3ccba"
+    },
+    "Crafting_Mod_0": {
+      "text": "攻撃型改造",
+      "source": "f8ce709b27c9a914"
+    },
+    "Crafting_Mod_0_desc": {
+      "text": "能力ボーナス候補: 高確率で筋力上昇、低確率でクリティカル上昇",
+      "source": "a367b8f85cca75c4"
+    },
+    "Crafting_Mod_1": {
+      "text": "射程型改造",
+      "source": "e78e4c1f78ed27ab"
+    },
+    "Crafting_Mod_1_desc": {
+      "text": "能力ボーナス候補: 知覚またはパワー",
+      "source": "198bedbd2bb0f31b"
+    },
+    "Crafting_Mod_2": {
+      "text": "戦術型改造",
+      "source": "0d529aec69e751da"
+    },
+    "Crafting_Mod_2_desc": {
+      "text": "能力ボーナス候補: 高確率で抵抗力上昇、低確率でブロック率上昇",
+      "source": "fb6c192d535f688c"
+    },
+    "Crafting_Mod_3": {
+      "text": "防御型改造",
+      "source": "a70b668b5b01ee26"
+    },
+    "Crafting_Mod_3_desc": {
+      "text": "能力ボーナス候補: 抵抗力または耐久力",
+      "source": "a164262bbc7bcba3"
+    },
+    "Skill_AufladenAngriff": {
+      "text": "溜め - 攻撃",
+      "source": "f7fb41bac45b2358"
+    },
+    "Skill_AufladenHerbeirufung": {
+      "text": "溜め - 召喚",
+      "source": "787ec2933588de51"
+    },
+    "Skill_AufladenMelee": {
+      "text": "溜め - 攻撃",
+      "source": "f7fb41bac45b2358"
+    },
+    "Skill_AufladenPistol": {
+      "text": "溜め - 遠距離攻撃",
+      "source": "2b5599111350fbd4"
+    },
+    "Skill_AufladenPistolPlan": {
+      "text": "溜め - 強化",
+      "source": "4d383fbfcbd44739"
+    },
+    "Skill_AufladenRifle": {
+      "text": "溜め - 遠距離攻撃",
+      "source": "2b5599111350fbd4"
+    },
+    "Skill_AufladenSchwaechung": {
+      "text": "溜め - 弱体化",
+      "source": "215e5c444377988f"
+    },
+    "Skill_AufladenShotgun": {
+      "text": "溜め - 遠距離攻撃",
+      "source": "2b5599111350fbd4"
+    },
+    "Skill_AufladenStaerkung": {
+      "text": "溜め - 強化",
+      "source": "4d383fbfcbd44739"
+    },
+    "Skill_AufladenSwords": {
+      "text": "溜め - 攻撃",
+      "source": "f7fb41bac45b2358"
+    },
+    "Skill_AufladenerPlan": {
+      "text": "作戦準備",
+      "source": "63bb14bf076663d9"
+    },
+    "Skill_AufladenerPlan_desc": {
+      "text": "まず力を溜めてから、味方全員に[b]酒の勢い[/b]と[b]臨戦態勢[/b]を付与する。",
+      "source": "67050c79697fa3a1"
+    },
+    "Skill_Blutbombe": {
+      "text": "血液爆弾",
+      "source": "4aa6d64dd67fcfa2"
+    },
+    "Skill_Blutbombe_desc": {
+      "text": "1列に[Dmg_0]%のパワーダメージを与え、[b]血液爆弾[/b]を付与する。",
+      "source": "c516474f55418f9d"
+    },
+    "Skill_Crafting_1_desc": {
+      "text": "防具工房と武器工房の仕事を解放する。品質レベル1のアイテムを作れる。",
+      "source": "a49b036f34337383"
+    },
+    "Skill_Crafting_2_desc": {
+      "text": "ランク2のアイテムを作れる。",
+      "source": "f6f95149dd6d4563"
+    },
+    "Skill_Crafting_3_desc": {
+      "text": "防具工房と武器工房の職ランクが2に上がる。品質レベル2のアイテムを作れる。",
+      "source": "23fc8f3d518279a5"
+    },
+    "Skill_Crafting_4_desc": {
+      "text": "ランク3のアイテムを作れる。",
+      "source": "2a50d350824ad488"
+    },
+    "Skill_Crafting_5_desc": {
+      "text": "防具工房と武器工房の職ランクが3に上がる。品質レベル3のアイテムを作れる。",
+      "source": "aca15144349ef49b"
+    },
+    "Skill_Crafting_6_desc": {
+      "text": "ランク4のアイテムを作れる。",
+      "source": "3425e08a0e13dadf"
+    },
+    "Skill_Dog_BeineBeissen": {
+      "text": "脚への噛みつき",
+      "source": "81c912ab7375a766"
+    },
+    "Skill_Dog_BeineBeissen_desc": {
+      "text": "1体の敵に2×[Dmg_1]%のダメージを与え、[b]脚の負傷[/b]を付与する。瀕死状態なら[b]出血[/b]も付与し、[b]感染[/b]させることもある。",
+      "source": "62ab0417325a4dc5"
+    },
+    "Skill_Dog_Beissen": {
+      "text": "噛みつき",
+      "source": "5662b6113e5576d3"
+    },
+    "Skill_Dog_Beissen_desc": {
+      "text": "[Dmg_1]%のダメージを与え、[b]出血[/b]を付与する。",
+      "source": "894ddb0683941791"
+    },
+    "Skill_Dog_Bellen": {
+      "text": "吠え声",
+      "source": "3ebaec6ba84c8234"
+    },
+    "Skill_Dog_Bellen_desc": {
+      "text": "[Dmg_1]%のパワーダメージを与え、[b]威圧[/b]を付与する。",
+      "source": "476b7589b1f672f9"
+    },
+    "Skill_Dog_Jagdmal": {
+      "text": "狩人の印",
+      "source": "d3c050dcd5d3e90d"
+    },
+    "Skill_Dog_Jagdmal_desc": {
+      "text": "[Dmg_1]%のパワーダメージを与え、[b]脆弱[/b]を付与する。",
+      "source": "a0c1418e5c99c025"
+    },
+    "Skill_Dog_Kampfbereitschaft": {
+      "text": "臨戦態勢",
+      "source": "1e0755ea2d269cb8"
+    },
+    "Skill_Dog_Kampfbereitschaft_desc": {
+      "text": "抵抗力、防御力、筋力が25%上がる。",
+      "source": "2d9b9c3d8cb2f6ab"
+    },
+    "Skill_Dog_Klaue": {
+      "text": "引っかき",
+      "source": "587cfbbbcd42a71b"
+    },
+    "Skill_Dog_Klaue_desc": {
+      "text": "100%の物理ダメージを与え、[b]スタン[/b]を付与する。",
+      "source": "96b33430cdd73ac7"
+    },
+    "Skill_Enemy_Sprungangriff": {
+      "text": "跳躍攻撃",
+      "source": "b856ddf442eb2399"
+    },
+    "Skill_Fists_GnadenloseRechte": {
+      "text": "右フック",
+      "source": "616fbb89ebf35ced"
+    },
+    "Skill_Fists_GnadenloseRechte_desc": {
+      "text": "[Dmg_0]%の物理ダメージを与え、[b]スタン[/b]と[b]脆弱[/b]を付与する。",
+      "source": "7fe27a057327d514"
+    },
+    "Skill_Fists_MartialArts": {
+      "text": "格闘術",
+      "source": "7dc1d981910d1ae3"
+    },
+    "Skill_Fists_MartialArts_desc": {
+      "text": "3倍のダメージを与え、[b]スタン[/b]と[b]衰弱[/b]を付与する。",
+      "source": "738760ef19658d0b"
+    },
+    "Skill_Fists_Tritt": {
+      "text": "前蹴り",
+      "source": "0d0487d8129d9f47"
+    },
+    "Skill_Fists_Tritt_desc": {
+      "text": "1体の敵に[Dmg_0]%の物理ダメージと[b]ノックバック[/b]を与える。",
+      "source": "d9c6b7962fc7d15e"
+    },
+    "Skill_Giftbombe": {
+      "text": "毒爆弾",
+      "source": "fb05c30fb89c340a"
+    },
+    "Skill_Giftbombe_desc": {
+      "text": "1列全体に[Dmg_0]%のパワーダメージを与え、[b]毒爆弾[/b]を付与する。",
+      "source": "fe1ad4bbce274f34"
+    },
+    "Skill_Grenadier_Geschuetz": {
+      "text": "小型タレット",
+      "source": "9cea34a092f078c3"
+    },
+    "Skill_Grenadier_Geschuetz_Enemy": {
+      "text": "小型タレット",
+      "source": "9cea34a092f078c3"
+    },
+    "Skill_Grenadier_Geschuetz_Enemy_desc": {
+      "text": "HP15と知覚10（+スキル使用者のレベル）を持つ。遠距離攻撃用の列にしか設置できない。",
+      "source": "39646daf3ea8ee4c"
+    },
+    "Skill_Grenadier_Geschuetz_desc": {
+      "text": "HP[b][SummonHP_0][/b]、知覚[b][SummonAttrib(Perception)_0][/b]の小型タレット（レベル: [b][CharLevel][/b]）。敵の後列を優先して狙う。",
+      "source": "aaf257a7ea7a0c59"
+    },
+    "Skill_Grenadier_GrossesGeschuetz": {
+      "text": "大型タレット",
+      "source": "beea4712d8f1e20c"
+    },
+    "Skill_Grenadier_GrossesGeschuetz_desc": {
+      "text": "HP[b][SummonHP_0][/b]、知覚[b][SummonAttrib(Perception)_0][/b]のタレット（レベル: [b][CharLevel][/b]）。敵を貫通し、後列にも命中する。",
+      "source": "3767cf2d45ede4b3"
+    },
+    "Skill_Grenadier_Molotowcocktail": {
+      "text": "火炎瓶",
+      "source": "348175c7a9dce35e"
+    },
+    "Skill_Grenadier_Molotowcocktail_desc": {
+      "text": "[Dmg_1]%のパワーダメージを与え、[b]火傷[/b]を付与する。[BuffChance_5]%の確率で[b]脆弱[/b]を付与する（クリティカル時は100%）。",
+      "source": "3eeaf9df0a41edf3"
+    },
+    "Skill_Grenadier_Rauchgranate": {
+      "text": "発煙手榴弾",
+      "source": "13eefe95eebc5055"
+    },
+    "Skill_Grenadier_Rauchgranate_desc": {
+      "text": "すべての敵に[Dmg_1]%のパワーダメージを与え、[BuffChance_2]%の確率で[b]動揺[/b]と[b]目くらまし[/b]を付与する。",
+      "source": "04d17c23bb307655"
+    },
+    "Skill_Grenadier_Schockgranate": {
+      "text": "衝撃手榴弾",
+      "source": "de4211d4d0a89829"
+    },
+    "Skill_Grenadier_Schockgranate_alt_desc": {
+      "text": "[Dmg_1]%のダメージを与え、[b]スタン[/b]を付与してノックバックさせる。",
+      "source": "23145fadb9947e2b"
+    },
+    "Skill_Grenadier_Schockgranate_desc": {
+      "text": "命中率[Accuracy]%で[Dmg_1]%のダメージを与える。命中すると[b]スタン[/b]を付与する。敵を前列から後列へ押し出すことがあり、押し出された敵が仲間にぶつかると、さらに50%のノックバックダメージを与える。",
+      "source": "a0eba46f37091e9e"
+    },
+    "Skill_Grenadier_Splittergranate": {
+      "text": "破片手榴弾",
+      "source": "fd4079f461c4df99"
+    },
+    "Skill_Grenadier_Splittergranate_desc": {
+      "text": "1列全体が対象。[Dmg_1]%のパワーダメージを与え、[BuffChance_2]%の確率で[b]気絶[/b]と[b]出血[/b]を付与する。",
+      "source": "bd3e5c220505b046"
+    },
+    "Skill_Guarding_1_desc": {
+      "text": "見張りと偵察役の仕事を解放する。ランク1の見張りを配置すると、略奪者の襲撃で盗まれる資源の量が減るが、襲撃を完全に防ぐことはできない。偵察役を使うと、決まった新しい場所を2か所と、ランダムな新しい場所を1か所見つけられる。",
+      "source": "21c2c2a4c4a0ad52"
+    },
+    "Skill_Guarding_2_desc": {
+      "text": "簡単な鍵を開けられる確率が75%上がる。",
+      "source": "5a3cd24a6e723b0d"
+    },
+    "Skill_Guarding_3_desc": {
+      "text": "見張りの職ランクが2に上がる。経験を積んだランク2の見張りは略奪者の襲撃を防げるが、パンクスの襲撃を完全に防ぐことはできない。ランク2の偵察役を使うと、決まった新しい場所を3か所と、ランダムな新しい場所を1か所見つけられる。",
+      "source": "ad481d0fb7869862"
+    },
+    "Skill_Guarding_4_desc": {
+      "text": "複雑な鍵を開けられる確率が75%、簡単な鍵を開けられる確率が90%上がる。",
+      "source": "4f178b4e881eab0c"
+    },
+    "Skill_Guarding_5_desc": {
+      "text": "見張りの職ランクが3に上がる。熟練した見張りは、パンクスや略奪者による襲撃と盗みを完全に防げる。ランク3の偵察役を使うと、決まった新しい場所を3か所と、ランダムな新しい場所を3か所見つけられる。",
+      "source": "4a1c6a21d375ade0"
+    },
+    "Skill_Guarding_6_desc": {
+      "text": "複雑な鍵の解錠に成功する確率が90%上がる。",
+      "source": "7b676f9396aee66c"
+    },
+    "Skill_HeilendeSpritze": {
+      "text": "回復注射",
+      "source": "8858c1bd0a610256"
+    },
+    "Skill_HeilendeSpritze_desc": {
+      "text": "1体の対象のHPを3ラウンドかけて回復する。",
+      "source": "2e25cfc63b2cb5c0"
+    },
+    "Skill_Hunting_Baerenfalle": {
+      "text": "トラバサミ",
+      "source": "3b2750e9bc6f8ebe"
+    },
+    "Skill_Hunting_Baerenfalle_desc": {
+      "text": "1体の敵に100%の物理ダメージを与え、[b]大出血[/b]を付与する。",
+      "source": "dd5db6fc114a414c"
+    },
+    "Skill_Hunting_BrennendeFalle": {
+      "text": "火炎トラップ",
+      "source": "6c8ead9b67fb56f2"
+    },
+    "Skill_Hunting_BrennendeFalle_desc": {
+      "text": "[BuffDesc_0_0]",
+      "source": "b235cbe51a2749e1"
+    },
+    "Skill_Hunting_Giftfalle": {
+      "text": "毒トラップ",
+      "source": "aae6dd66427da432"
+    },
+    "Skill_Hunting_Giftfalle_desc": {
+      "text": "[BuffDesc_0_0]",
+      "source": "b235cbe51a2749e1"
+    },
+    "Skill_Hunting_Kampfbereitschaft": {
+      "text": "臨戦態勢",
+      "source": "1e0755ea2d269cb8"
+    },
+    "Skill_Hunting_Kampfbereitschaft_desc": {
+      "text": "[BuffDesc_0_1]（2ラウンド）。パワー[b]([CharAttribute(Intelligence)]) + [Dmg_0][/b]と同じ値の抵抗力を得る。このラウンドは物理以外のダメージを吸収する。",
+      "source": "753cc98a725de92f"
+    },
+    "Skill_Hunting_Kampfhund": {
+      "text": "猟犬召喚",
+      "source": "a4def7b37ff8fd17"
+    },
+    "Skill_Hunting_Kampfhund_desc": {
+      "text": "ドーベルマンを召喚する。",
+      "source": "3ab72a77acd3d010"
+    },
+    "Skill_Hunting_KleinerJagdhund": {
+      "text": "小型の猟犬",
+      "source": "1148a250175bbda3"
+    },
+    "Skill_Hunting_KleinerJagdhund_desc": {
+      "text": "HP[b][SummonHP_0][/b]、筋力[b][SummonAttrib(Strength)_0][/b]の猟犬（レベル: [b][CharLevel][/b]）を召喚する。[b]1回の戦闘で1度しか使えない。[/b]",
+      "source": "164a1ef4a0655cc4"
+    },
+    "Skill_Hunting_Sprengfalle": {
+      "text": "血まみれの爆発トラップ",
+      "source": "4a5e462c16a4df28"
+    },
+    "Skill_Hunting_Sprengfalle_desc": {
+      "text": "ゾンビ、獣、ミュータントをおびき寄せる。[BuffDesc_0_0]",
+      "source": "f122d73e6e3fb4ee"
+    },
+    "Skill_Hunting_Wachhund": {
+      "text": "トラ",
+      "source": "410f76d01d8a9981"
+    },
+    "Skill_Hunting_Wachhund_Punks": {
+      "text": "番犬召喚",
+      "source": "129fc1b0ba327626"
+    },
+    "Skill_Hunting_Wachhund_Punks_desc": {
+      "text": "パンクスの番犬を召喚する。",
+      "source": "289b6fc47e1ed3fe"
+    },
+    "Skill_Hunting_Wachhund_desc": {
+      "text": "HP[b][SummonHP_0][/b]、筋力[b][SummonAttrib(Strength)_0][/b]のトラ（レベル: [b][CharLevel][/b]）を召喚する。[b]1回の戦闘で1度しか使えない。[/b]",
+      "source": "f261050e6ce11b50"
+    },
+    "Skill_Kampfdosis": {
+      "text": "景気づけの一杯",
+      "source": "fd278c506c59ce47"
+    },
+    "Skill_Kampfdosis_desc": {
+      "text": "味方1列全体に[b]酒の勢い[/b]を付与する。",
+      "source": "4cd87aec61d491ce"
+    },
+    "Skill_Kampfgebruell": {
+      "text": "雄叫び",
+      "source": "8dd7efc4a7bad414"
+    },
+    "Skill_Kampfgebruell_desc": {
+      "text": "味方全員に[b]臨戦態勢[/b]を付与する。",
+      "source": "cbbd132e5046f51f"
+    },
+    "Skill_Medical_1_desc": {
+      "text": "医師と菜園係の仕事を解放する。救急キットを作れる。",
+      "source": "7bd6e53fa568e4b0"
+    },
+    "Skill_Medical_2_desc": {
+      "text": "救急キットの効果が25%上がり、医療イベントの成功率が60%上がる",
+      "source": "e394e2134056c2f1"
+    },
+    "Skill_Medical_3_desc": {
+      "text": "医師と菜園係の職ランクが2に上がる。医療用包帯と再生注射を作れる。",
+      "source": "be47680b7b018a4c"
+    },
+    "Skill_Medical_4_desc": {
+      "text": "医療用包帯と再生注射の効果が25%上がり、医療イベントの成功率が75%上がる",
+      "source": "7e3f3074bcb3ff15"
+    },
+    "Skill_Medical_5_desc": {
+      "text": "医師と菜園係の職ランクが3に上がる。応急処置キットと反射神経注射を作れる。",
+      "source": "9840751822abee59"
+    },
+    "Skill_Medical_6_desc": {
+      "text": "応急処置キットと反射神経注射の効果が25%上がり、医療イベントの成功率が90%上がる。",
+      "source": "b6a703e9b5a35f21"
+    },
+    "Skill_Melee_Angriff": {
+      "text": "攻撃",
+      "source": "4cd548f3cc29cf9c"
+    },
+    "Skill_Melee_Angriff_desc": {
+      "text": "[Dmg_0]%の物理ダメージを与えるシンプルな一撃。命中すると、攻撃者は[b]アドレナリンポイント[/b]を得る。",
+      "source": "5ac58abec0bfc1db"
+    },
+    "Skill_Melee_AufderHut": {
+      "text": "警戒の構え",
+      "source": "69d91617e12aacf6"
+    },
+    "Skill_Melee_AufderHut_desc": {
+      "text": "次の2ラウンドの間、近接攻撃に反撃する。反撃1回につき100%の物理ダメージを与える。",
+      "source": "3ab93886a2535143"
+    },
+    "Skill_Melee_AufladenerSprungangriff": {
+      "text": "溜め跳躍",
+      "source": "6690cc81b2a34246"
+    },
+    "Skill_Melee_AufladenerSprungangriff_desc": {
+      "text": "まず力を溜めてから跳びかかり、1体の敵に[Dmg_0]%のダメージを与えて[b]気絶[/b]を付与する",
+      "source": "0282207ea238fc3d"
+    },
+    "Skill_Melee_BrachialerSchlag": {
+      "text": "力任せの一撃",
+      "source": "e279f9922805fec7"
+    },
+    "Skill_Melee_BrachialerSchlag_alt_desc": {
+      "text": "[Dmg_0]%のダメージを与え、[b]衰弱[/b]を付与してノックバックさせる。",
+      "source": "0e9ce10449ac4496"
+    },
+    "Skill_Melee_BrachialerSchlag_desc": {
+      "text": "命中率[Accuracy]%で[Dmg_0]%のダメージを与える。命中すると[b]衰弱[/b]を付与する。その衝撃で敵を前列から後列へ押し出すことがあり、押し出された敵が仲間にぶつかると、さらに50%のノックバックダメージを与える。",
+      "source": "0aa612c59e2fc359"
+    },
+    "Skill_Melee_Konter_Player": {
+      "text": "カウンター",
+      "source": "a78cfdf4acfc2942"
+    },
+    "Skill_Melee_Nervenangriff": {
+      "text": "急所打ち",
+      "source": "35eabf5ba3e9eaf0"
+    },
+    "Skill_Melee_Nervenangriff_desc": {
+      "text": "命中率[Accuracy]%で[Dmg_0]%のダメージ。[b]スタン[/b]を付与する。",
+      "source": "c483e8b34bff3dfd"
+    },
+    "Skill_Melee_Sprungangriff": {
+      "text": "跳躍攻撃",
+      "source": "b856ddf442eb2399"
+    },
+    "Skill_Melee_Sprungangriff_desc": {
+      "text": "射程が長く、命中率[Accuracy]%の近接攻撃。ブロック不可。[Dmg_0]%のダメージを与える（[b]気絶[/b]状態の敵には[Dmg_1]%）。",
+      "source": "93302d0ff5076488"
+    },
+    "Skill_Melee_Verteidigung": {
+      "text": "防御の構え",
+      "source": "a62f026bbbaefb47"
+    },
+    "Skill_Melee_Verteidigung_desc": {
+      "text": "筋力[b]([CharAttribute(Strength)]) + [Dmg_0][/b]と同じ値の防御力を得る。このラウンドは物理ダメージを吸収する。同じターンに「列を移動」を使うと効果は半減する。",
+      "source": "8073d07828ed6517"
+    },
+    "Skill_Mutant_AufgeladenerElektroangriff": {
+      "text": "溜め電撃",
+      "source": "4b49e5b8319744aa"
+    },
+    "Skill_Mutant_AufgeladenerElektroangriff_desc": {
+      "text": "まず力を溜めてから、[Dmg_0]%のパワーダメージを与え、[BuffChance_2]%の確率で[b]気絶[/b]と[b]弱体化[/b]を付与する。",
+      "source": "0662427d5448793c"
+    },
+    "Skill_Mutant_AufgeladenerSchlaechter": {
+      "text": "ブッチャーの溜め斬り",
+      "source": "c5d47686a39f9fc3"
+    },
+    "Skill_Mutant_AufgeladenerSchlaechter_desc": {
+      "text": "まず力を溜めてから、3×[Dmg_0]%のダメージを与え、[b]衰弱[/b]と[b]粉砕[/b]を付与する。",
+      "source": "75b074ae441fdb0f"
+    },
+    "Skill_Mutant_DoppelteKette": {
+      "text": "ダブルチェーン",
+      "source": "8c2199ea17d591a5"
+    },
+    "Skill_Mutant_DoppelteKette_desc": {
+      "text": "2倍のダメージを与えることがあり、[b]脚の負傷[/b]を付与する",
+      "source": "facaf0b06dd62f65"
+    },
+    "Skill_Mutant_ElektroDoppelt": {
+      "text": "ショック療法",
+      "source": "d2b73d684a094985"
+    },
+    "Skill_Mutant_ElektroDoppelt_desc": {
+      "text": "2体の敵に[Dmg_0]%のパワーダメージを与え、[b]スタン[/b]を付与する。",
+      "source": "ba7934fbcc9d2f06"
+    },
+    "Skill_Mutant_HauDrauf": {
+      "text": "不意打ち",
+      "source": "8a3dc6173a8c4eee"
+    },
+    "Skill_Mutant_HauDrauf_desc": {
+      "text": "2倍のダメージを与え、[b]衰弱[/b]と[b]脆弱[/b]を付与する。",
+      "source": "4e9161ecf550a06e"
+    },
+    "Skill_Mutant_HeimtueckischeVorbereitung": {
+      "text": "狡猾な下準備",
+      "source": "bc2210db2944995d"
+    },
+    "Skill_Mutant_HeimtueckischeVorbereitung_desc": {
+      "text": "1体の敵に2倍のダメージを与え、[b]スタン[/b]と[b]脆弱[/b]を付与する。",
+      "source": "08f1f43350d4148b"
+    },
+    "Skill_Mutant_Herbeirufen": {
+      "text": "ミュータント召喚",
+      "source": "ccca135cec8e4444"
+    },
+    "Skill_Mutant_Herbeirufen_desc": {
+      "text": "狂ったミュータントか、力を溜めたミュータントを召喚する。",
+      "source": "9e04416d11d79590"
+    },
+    "Skill_Mutant_KampfGebruell": {
+      "text": "雄叫び",
+      "source": "8dd7efc4a7bad414"
+    },
+    "Skill_Mutant_KampfGebruell_desc": {
+      "text": "味方全員に[b]臨戦態勢[/b]を付与する。",
+      "source": "cbbd132e5046f51f"
+    },
+    "Skill_Mutant_MotorsaegenMassaker": {
+      "text": "チェーンソー大虐殺",
+      "source": "e49236165e3b1d3a"
+    },
+    "Skill_Mutant_MotorsaegenMassaker_desc": {
+      "text": "[Dmg_0]%のダメージを与え、[b]大出血[/b]と[b]脆弱[/b]を付与する。",
+      "source": "6230419867a23400"
+    },
+    "Skill_Mutant_MotorsaegenWegwischer": {
+      "text": "チェーンソーなぎ払い",
+      "source": "17c384563350cafc"
+    },
+    "Skill_Mutant_MotorsaegenWegwischer_desc": {
+      "text": "1列全体に[Dmg_0]%のダメージと[b]ノックバック[/b]を与え、[BuffChance_1]%の確率で[b]出血[/b]を付与する。",
+      "source": "74d808eccf3ce000"
+    },
+    "Skill_Mutant_MutierteKlaue": {
+      "text": "変異の爪",
+      "source": "44d48ab067d06447"
+    },
+    "Skill_Mutant_MutierteKlaue_desc": {
+      "text": "[Dmg_0]%の物理ダメージを与え、[b]脆弱[/b]と[b]スタン[/b]を付与する。",
+      "source": "c992c3db385c9bee"
+    },
+    "Skill_Mutant_MutierteZerstoerung": {
+      "text": "ミュータントスマッシュ",
+      "source": "2b874788bf17105d"
+    },
+    "Skill_Mutant_MutierteZerstoerung_desc": {
+      "text": "1列に2×[Dmg_0]%のダメージを与え、[b]脆弱[/b]を付与する。",
+      "source": "8e49634cc8aa95d8"
+    },
+    "Skill_Mutant_MutierterAlptraum": {
+      "text": "変異した悪夢",
+      "source": "5440e3f173f12ac0"
+    },
+    "Skill_Mutant_MutierterAlptraum_desc": {
+      "text": "敵の前列全体に2×[Dmg_0]%のダメージを与え、[b]脆弱[/b]と[b]怯え[/b]を付与する。",
+      "source": "03a726e30b2dd93b"
+    },
+    "Skill_Mutant_Stampfer": {
+      "text": "踏みつけ",
+      "source": "91914eacd1bc0e88"
+    },
+    "Skill_Mutant_Stampfer_desc": {
+      "text": "後列の敵全員に[Dmg_0]%のパワーダメージを与え、[b]出血[/b]と[b]スタン[/b]を付与する。",
+      "source": "4a4ed417015101db"
+    },
+    "Skill_Mutant_VernichtenderSchlag": {
+      "text": "殲滅の一撃",
+      "source": "803b2a1d79e81bbf"
+    },
+    "Skill_Mutant_VernichtenderSchlag_desc": {
+      "text": "[Dmg_0]%のダメージを与え、[b]気絶[/b]を付与する。",
+      "source": "e3a5821f654d09df"
+    },
+    "Skill_Mutant_WuchtigerSchlag": {
+      "text": "スレッジハンマー",
+      "source": "7a05d72a2817d205"
+    },
+    "Skill_Mutant_WuchtigerSchlag_desc": {
+      "text": "[Dmg_0]%のダメージを与え、[b]衰弱[/b]と[b]防具損傷[/b]を付与する。",
+      "source": "555710e79adcca1f"
+    },
+    "Skill_Mutant_ZornigesGebruell": {
+      "text": "怒りの咆哮",
+      "source": "505dd039e040ea5d"
+    },
+    "Skill_Mutant_ZornigesGebruell_desc": {
+      "text": "前列の敵全員に[Dmg_0]%のパワーダメージを与え、[b]怯え[/b]を付与する。",
+      "source": "8b7d73ea1240c995"
+    },
+    "Skill_Pistol_Angriff": {
+      "text": "攻撃",
+      "source": "4cd548f3cc29cf9c"
+    },
+    "Skill_Pistol_Angriff_desc": {
+      "text": "[Dmg_0]%のダメージを与える通常の遠距離攻撃。命中すると、攻撃者は[b]アドレナリンポイント[/b]を1得る。",
+      "source": "2857f0a7e49c8026"
+    },
+    "Skill_Pistol_AufladeneDeckung": {
+      "text": "溜め援護",
+      "source": "231150485670792e"
+    },
+    "Skill_Pistol_AufladeneDeckung_desc": {
+      "text": "まず力を溜めてから、受けたすべての近接攻撃に反撃し、[b]酒の勢い[/b]を付与する。",
+      "source": "d7876a4830f9420b"
+    },
+    "Skill_Pistol_BlutigerSchusswechsel": {
+      "text": "血の弾雨",
+      "source": "c8738eca4fe3dff2"
+    },
+    "Skill_Pistol_BlutigerSchusswechsel_desc": {
+      "text": "3×[Dmg_0]%のダメージを与え、[b]大出血[/b]を付与する。",
+      "source": "fa20bc2967c8c361"
+    },
+    "Skill_Pistol_Blutrausch": {
+      "text": "アドレナリン",
+      "source": "cd2f6d85c92e4169"
+    },
+    "Skill_Pistol_Blutrausch_desc": {
+      "text": "1体の敵に3発撃ち込み、1発ごとに[Dmg_0]%のダメージを与える（[b]スタン[/b]か[b]脆弱[/b]状態の敵には[Dmg_1]%）。次のラウンド、攻撃者の筋力が[BuffValue_0_2_0]%上がる。",
+      "source": "b0c16ebd91f5e338"
+    },
+    "Skill_Pistol_Deckunggeben": {
+      "text": "援護射撃",
+      "source": "e3d26bfca74f20ba"
+    },
+    "Skill_Pistol_Deckunggeben_desc": {
+      "text": "2ラウンドの間有効。受けた近接攻撃に、ひとつ残らず（！）反撃する。50%の確率で[b]出血[/b]を付与する。",
+      "source": "279f890bf71d74f3"
+    },
+    "Skill_Pistol_Kopfschuss": {
+      "text": "ヘッドショット",
+      "source": "d10618ed004c6eba"
+    },
+    "Skill_Pistol_Kopfschuss_desc": {
+      "text": "[Dmg_0]%のダメージを与える遠距離攻撃。[b]動揺[/b]を付与する。[BuffChance_1]%の確率で[b]目くらまし[/b]を付与する（クリティカル時と、[b]脆弱[/b]か[b]スタン[/b]状態の敵には100%）",
+      "source": "ddec6dfe58093010"
+    },
+    "Skill_Pistol_LaemenderSchuss": {
+      "text": "足止め射撃",
+      "source": "f71e49a23c8ee7a4"
+    },
+    "Skill_Pistol_LaemenderSchuss_alt_desc": {
+      "text": "[Dmg_0]%のダメージを与え、[b]脚の負傷[/b]を付与する。[BuffChance_1]%の確率で[b]スタン[/b]を付与する。",
+      "source": "7d9f03270c1310d8"
+    },
+    "Skill_Pistol_LaemenderSchuss_desc": {
+      "text": "[Dmg_0]%のダメージを与える遠距離攻撃。[b]脚の負傷[/b]を付与する。[BuffChance_1]%の確率で[b]スタン[/b]を付与する（クリティカル時は100%）。前列からも使える。",
+      "source": "99424599b222d1d9"
+    },
+    "Skill_Pistol_Zielwasser": {
+      "text": "酒の勢い",
+      "source": "1dce0eb3a94205ac"
+    },
+    "Skill_Pistol_Zielwasser_desc": {
+      "text": "2ラウンドの間、拳銃の命中率が20%上がり、クリティカル率も10%上がる。",
+      "source": "b6808e7bcec7dc91"
+    },
+    "Skill_Rifle_Angriff": {
+      "text": "攻撃",
+      "source": "4cd548f3cc29cf9c"
+    },
+    "Skill_Rifle_Angriff_desc": {
+      "text": "3×[Dmg_0]%のダメージを与える遠距離からの斉射。命中すると、攻撃者は[b]アドレナリンポイント[/b]を得る。",
+      "source": "c26e249473cea393"
+    },
+    "Skill_Rifle_BlutigerSchusswechsel": {
+      "text": "血の弾雨",
+      "source": "c8738eca4fe3dff2"
+    },
+    "Skill_Rifle_BlutigerSchusswechsel_desc": {
+      "text": "3×[Dmg_0]%のダメージを与え、[b]大出血[/b]を付与する。",
+      "source": "fa20bc2967c8c361"
+    },
+    "Skill_Rifle_Bodensalve": {
+      "text": "足元掃射",
+      "source": "00a3b39634e63deb"
+    },
+    "Skill_Rifle_Bodensalve_desc": {
+      "text": "3×[Dmg_0]%のダメージを与える。[b]脚の負傷[/b]を付与する。[b]気絶[/b]状態の敵には3×[Dmg_1]%のダメージを与える。前列からも使える。",
+      "source": "108c52e627790026"
+    },
+    "Skill_Rifle_BrennendeSalve": {
+      "text": "灼熱の斉射",
+      "source": "6fcc8be719b1d3d9"
+    },
+    "Skill_Rifle_BrennendeSalve_desc": {
+      "text": "1列のランダムな敵に5×50%のダメージを与える。[BuffChance_1]%の確率で[b]出血[/b]を付与する。敵が[b]脆弱[/b]状態なら、[b]出血[/b]を付与する確率は100%になる。",
+      "source": "6cc71b32dca84fb5"
+    },
+    "Skill_Rifle_DefensivSalve": {
+      "text": "防御斉射",
+      "source": "15c69efa69217ed1"
+    },
+    "Skill_Rifle_DefensivSalve_desc": {
+      "text": "3×40%のダメージを与え、[b]反撃射撃[/b]状態になる。",
+      "source": "2dd6cd3bf2ced1a9"
+    },
+    "Skill_Rifle_GnadenloseSalve": {
+      "text": "無慈悲な斉射",
+      "source": "0f91a9044531fc21"
+    },
+    "Skill_Rifle_GnadenloseSalve_desc": {
+      "text": "5×50%のダメージを与える（[b]スタン[/b]か[b]脆弱[/b]状態の敵には5×[Dmg_1]%）。",
+      "source": "5b42f09ba2370c97"
+    },
+    "Skill_Rifle_MaechtigerSchussrausch": {
+      "text": "弾丸の雨",
+      "source": "251d0aee19d46171"
+    },
+    "Skill_Rifle_MaechtigerSchussrausch_desc": {
+      "text": "ランダムに選んだ最大6体の敵に6×[Dmg_0]%のダメージを与える。1ラウンドの間、攻撃者のパワーが[BuffValue_0_1_0]%上がる。",
+      "source": "cef2ab0e6801b644"
+    },
+    "Skill_Rifle_VernichtendeSalve": {
+      "text": "殲滅斉射",
+      "source": "beaead27037281f0"
+    },
+    "Skill_Rifle_VernichtendeSalve_desc": {
+      "text": "まず力を溜めてから、ランダムな敵に6×[Dmg_0]%のダメージを与え、[b]脆弱[/b]を付与する。",
+      "source": "d4daed695bebe6e7"
+    },
+    "Skill_Rifle_Zurueckschiessen": {
+      "text": "反撃射撃",
+      "source": "cd9a55d711590d9a"
+    },
+    "Skill_Rifle_Zurueckschiessen_desc": {
+      "text": "3ラウンドの間[b]反撃射撃[/b]状態になり、敵のすべての遠距離攻撃に対して通常攻撃（3×[Dmg(Talent_Rifle_0)_0]%のダメージ）で反撃する。30%の確率で[b]出血[/b]を付与する。",
+      "source": "a6602e608b373bb1"
+    },
+    "Skill_Shotgun_Angriff": {
+      "text": "攻撃",
+      "source": "4cd548f3cc29cf9c"
+    },
+    "Skill_Shotgun_Angriff_desc": {
+      "text": "[Dmg_0]%のダメージを与える通常の遠距離攻撃。命中すると、攻撃者はアドレナリンポイントを得る。",
+      "source": "cb39e2c8d832e151"
+    },
+    "Skill_Shotgun_AufladeneShotgun": {
+      "text": "遅れてドカン",
+      "source": "487a932066108acc"
+    },
+    "Skill_Shotgun_AufladeneShotgun_desc": {
+      "text": "1列全体に[Dmg_0]%の物理ダメージを与え、[BuffChance_1]%の確率で[b]気絶[/b]を付与する。",
+      "source": "1dc11db1be3c2d7b"
+    },
+    "Skill_Shotgun_Durchschuss": {
+      "text": "貫通スラッグ弾",
+      "source": "2d344457cd2c9d39"
+    },
+    "Skill_Shotgun_Durchschuss_alt_desc": {
+      "text": "[Dmg_0]%のダメージを与え、ノックバックさせる。",
+      "source": "c769a19a2534e245"
+    },
+    "Skill_Shotgun_Durchschuss_desc": {
+      "text": "[Dmg_0]%のダメージ。その威力で敵を前列から後列へ押し出すことがある。押し出された敵が仲間にぶつかると、さらに50%のノックバックダメージを与える。",
+      "source": "fb84bea23cd479fe"
+    },
+    "Skill_Shotgun_StreuenderSchuss": {
+      "text": "拡散射撃",
+      "source": "87c0b34c54850f7e"
+    },
+    "Skill_Shotgun_StreuenderSchuss_desc": {
+      "text": "1列全体に[Dmg_0]%のダメージを与える。[BuffChance_1]%の確率で[b]出血[/b]を付与する",
+      "source": "dcc993039f576993"
+    },
+    "Skill_Shotgun_VerheerenderSchuss": {
+      "text": "壊滅射撃",
+      "source": "bcd1653216dee050"
+    },
+    "Skill_Shotgun_VerheerenderSchuss_desc": {
+      "text": "[Dmg_0]%のダメージを与える（[b]スタン[/b]か[b]脆弱[/b]状態の敵には[Dmg_1]%）。",
+      "source": "0b0a0e12785809c3"
+    },
+    "Skill_Shotgun_Wachposten": {
+      "text": "見張り台",
+      "source": "da4ddace80917f64"
+    },
+    "Skill_Shotgun_WuetendeSchussstreuung": {
+      "text": "乱れ撃ち",
+      "source": "d705bb0c5a780df5"
+    },
+    "Skill_Shotgun_WuetendeSchussstreuung_desc": {
+      "text": "1列に[Dmg_0]%のダメージを与える範囲攻撃。[BuffChance_1]%の確率で[b]気絶[/b]を付与する。1ラウンドの間、攻撃者の筋力が[BuffValue_0_2_0]%上がる。",
+      "source": "24c2ae0e87d911eb"
+    },
+    "Skill_Shotgun_ZerberstendeStreuung": {
+      "text": "炸裂拡散射撃",
+      "source": "600fbd5e77c6c0b3"
+    },
+    "Skill_Shotgun_ZerberstendeStreuung_desc": {
+      "text": "1列全体に[Dmg_0]%の物理ダメージを与え、[BuffChance_1]%の確率で[b]防具損傷[/b]を付与する。",
+      "source": "b755f7f49c3f6e52"
+    },
+    "Skill_Shotgun_ZerberstenderSchuss": {
+      "text": "炸裂射撃",
+      "source": "a428ef884fef8901"
+    },
+    "Skill_Shotgun_ZerberstenderSchuss_desc": {
+      "text": "[Dmg_0]%のダメージ。[b]衰弱[/b]を付与する。[BuffChance_3]%の確率で[b]防具損傷[/b]を付与する（クリティカル時は100%）",
+      "source": "7952818a01624c4e"
+    },
+    "Skill_Survival_1_desc": {
+      "text": "狩人と鍛冶場の仕事を解放する。鍛冶場で品質1の弾薬を作れる。狩人の職ランク1が利用可能になる。",
+      "source": "d5e7bd00e16cd6b9"
+    },
+    "Skill_Survival_2_desc": {
+      "text": "薬草を使ったときの回復量が+50%増える。サバイバルイベントの成功率が60%上がる",
+      "source": "f83a4ac39a05501e"
+    },
+    "Skill_Survival_3_desc": {
+      "text": "鍛冶場と狩人の職ランクが2に上がる。鍛冶場で鋼鉄弾を作れる。狩人の職ランク2が利用可能になる。",
+      "source": "4b4b2c41f877a83d"
+    },
+    "Skill_Survival_4_desc": {
+      "text": "軽食を食べたときの回復量が+50%増える。サバイバルイベントの成功率が75%上がる。",
+      "source": "fd6a5194750ac23f"
+    },
+    "Skill_Survival_5_desc": {
+      "text": "鍛冶場と狩人の職ランクが3に上がる。鍛冶場で徹甲弾を作れる。狩人の職ランク3が利用可能になる。",
+      "source": "5d4a5e60089a0d59"
+    },
+    "Skill_Survival_6_desc": {
+      "text": "弾薬をクラフトするときの生産数が+10%増える。サバイバルイベントの成功率が90%上がる。",
+      "source": "25d875e52b97ded8"
+    },
+    "Skill_Swords_Angriff": {
+      "text": "攻撃",
+      "source": "4cd548f3cc29cf9c"
+    },
+    "Skill_Swords_Angriff_desc": {
+      "text": "[b]2×[Dmg_0]%の物理ダメージ[/b]を与える。命中すると、攻撃者は[b]アドレナリンポイント[/b]を得る。",
+      "source": "b6e023027adb977f"
+    },
+    "Skill_Swords_Aufladen": {
+      "text": "防御の構え",
+      "source": "a62f026bbbaefb47"
+    },
+    "Skill_Swords_Aufladen_desc": {
+      "text": "筋力[b]([CharAttribute(Strength)]) + [Dmg_0][/b]と同じ値の防御力を得る。このラウンドは物理ダメージを吸収する。同じターンに「列を移動」を使うと効果は半減する。",
+      "source": "8073d07828ed6517"
+    },
+    "Skill_Swords_AufladenerKlingenangriff": {
+      "text": "溜め斬り",
+      "source": "c68fc60aec9e45c4"
+    },
+    "Skill_Swords_AufladenerKlingenangriff_desc": {
+      "text": "まず力を溜めてから、1体の敵に2×[Dmg_0]%の物理ダメージを与え、[b]出血[/b]を付与する",
+      "source": "87fe97c517734ca1"
+    },
+    "Skill_Swords_Durchstossen": {
+      "text": "刺突",
+      "source": "591a94073b2d85b7"
+    },
+    "Skill_Swords_Durchstossen_alt_desc": {
+      "text": "[Dmg_0]%のダメージを与え、[b]脆弱[/b]を付与してノックバックさせる。",
+      "source": "0ad861606a1349b7"
+    },
+    "Skill_Swords_Durchstossen_desc": {
+      "text": "命中率[Accuracy]%で[Dmg_0]%のダメージを与える。命中すると[b]脆弱[/b]を付与する。敵を前列から後列へ押し出すことがあり、押し出された敵が仲間にぶつかると、さらに50%のノックバックダメージを与える。",
+      "source": "e054d7ec4dff69c7"
+    },
+    "Skill_Swords_EmpfindlicherAngriff": {
+      "text": "弱点突き",
+      "source": "ff98f9d6455f1b93"
+    },
+    "Skill_Swords_EmpfindlicherAngriff_desc": {
+      "text": "2×[Dmg_0]%のダメージを与える。[b]スタン[/b]か[b]脆弱[/b]状態の敵には2×[Dmg_1]%のダメージを与える。",
+      "source": "9e4a68fbbc002116"
+    },
+    "Skill_Swords_InsAugestechen": {
+      "text": "目潰し",
+      "source": "16cdfecb2c73e547"
+    },
+    "Skill_Swords_InsAugestechen_desc": {
+      "text": "2×[Dmg_0]%のダメージを与え、[b]出血[/b]と[b]目くらまし[/b]を付与する。",
+      "source": "1cf3ef9e60adc7d0"
+    },
+    "Skill_Swords_Jagdbeute": {
+      "text": "獲物",
+      "source": "c3abf0bb89851353"
+    },
+    "Skill_Swords_Jagdbeute_desc": {
+      "text": "1体の敵に[Dmg_0]%の物理ダメージを与え、[b]脆弱[/b]を付与する。",
+      "source": "1d9a4fc532867548"
+    },
+    "Skill_Swords_Klingengewitter": {
+      "text": "刃の嵐",
+      "source": "31e3467e63cacae4"
+    },
+    "Skill_Swords_Klingengewitter_desc": {
+      "text": "敵の前列全体を攻撃し、[Dmg_0]%のダメージを与える。[BuffChance_2]%の確率で[b]脆弱[/b]を付与する（クリティカル時は100%）。",
+      "source": "9572155dbe21add3"
+    },
+    "Skill_Wolf_Gebruell": {
+      "text": "咆哮",
+      "source": "c00f7c7d586094c3"
+    },
+    "Skill_Wolf_Gebruell_desc": {
+      "text": "防御力が20上がり、クリティカル率が50%上がる。",
+      "source": "c96c76c7e0b30541"
+    },
+    "Skill_Wolf_Hechtsprung": {
+      "text": "飛びかかり",
+      "source": "a75bb082d9b6a63e"
+    },
+    "Skill_Wolf_Hechtsprung_desc": {
+      "text": "[Dmg_0]%の物理ダメージを与え、[b]気絶[/b]を付与する。",
+      "source": "d277ca3357677cc6"
+    },
+    "Skill_Wolf_Herbeirufen": {
+      "text": "召喚",
+      "source": "759c226246309ebb"
+    },
+    "Skill_Wolf_Herbeirufen_desc": {
+      "text": "増援としてオオカミを呼び寄せる。",
+      "source": "6cfada18447b0f20"
+    },
+    "Skill_Wolf_Heulen": {
+      "text": "遠吠え",
+      "source": "7d61692bb448a6de"
+    },
+    "Skill_Wolf_Heulen_desc": {
+      "text": "味方1列の筋力を25%上げる。",
+      "source": "f594d952b70c06f3"
+    },
+    "Skill_Wolf_Knurren": {
+      "text": "うなり声",
+      "source": "defa6dd1729947f6"
+    },
+    "Skill_Wolf_Knurren_desc": {
+      "text": "[Dmg_1]%のパワーダメージを与え、[b]威圧[/b]を付与する。",
+      "source": "476b7589b1f672f9"
+    },
+    "Skill_Wolf_MutierteWut": {
+      "text": "変異の激怒",
+      "source": "13f322d9820cca92"
+    },
+    "Skill_Wolf_MutierteWut_desc": {
+      "text": "[Dmg_0]%×2の物理ダメージを与え、[b]大出血[/b]を付与する。",
+      "source": "e8bd3fdd956dd177"
+    },
+    "Skill_Wolf_MutiertesKnurren": {
+      "text": "変異の唸り声",
+      "source": "693ad016463ae6b9"
+    },
+    "Skill_Wolf_MutiertesKnurren_desc": {
+      "text": "[Dmg_1]%のパワーダメージを与え、[b]威圧[/b]と[b]脆弱[/b]を付与する。",
+      "source": "001912eebcb9152c"
+    },
+    "Skill_Wolf_WuetendeAttacke": {
+      "text": "狂乱の一撃",
+      "source": "a0f8a914fa9ca174"
+    },
+    "Skill_Wolf_WuetendeAttacke_desc": {
+      "text": "集団全体に[Dmg_0]%の物理ダメージを与える。",
+      "source": "1a7a098ec5aabeba"
+    },
+    "Skill_Wolf_Zombie_Herbeirufen": {
+      "text": "召喚",
+      "source": "759c226246309ebb"
+    },
+    "Skill_Wolf_Zombie_Herbeirufen_desc": {
+      "text": "援軍としてアンデッドのオオカミを呼び寄せる。",
+      "source": "47acbcd145fd3a17"
+    },
+    "Skill_Zombie_Abgeschworen": {
+      "text": "神に見放されし者",
+      "source": "0c2e5dcfc421c306"
+    },
+    "Skill_Zombie_Abgeschworen_desc": {
+      "text": "対象1体に[b]決別[/b]を付与する。",
+      "source": "f81067717a9dcc3f"
+    },
+    "Skill_Zombie_AerztinInstinkt": {
+      "text": "医療の本能",
+      "source": "b931386dd1b950d3"
+    },
+    "Skill_Zombie_AerztinInstinkt_desc": {
+      "text": "1列に[b]軽度の再生[/b]を付与する。",
+      "source": "fb4be9d192c6abdf"
+    },
+    "Skill_Zombie_AetzendeMagensaeure": {
+      "text": "腐食性の酸",
+      "source": "f1d421fc9e0362d5"
+    },
+    "Skill_Zombie_AetzendeMagensaeure_desc": {
+      "text": "対象1体に[Dmg_1]%のパワーダメージを与え、[b]防具損傷[/b]を付与する。",
+      "source": "5082b6152b3ed2ed"
+    },
+    "Skill_Zombie_AetzenderBiss": {
+      "text": "腐食性の噛みつき",
+      "source": "ffe105fbf7171988"
+    },
+    "Skill_Zombie_AetzenderBiss_desc": {
+      "text": "対象1体に[Dmg_0]%のダメージを与えて[b]弱体化[/b]と[b]防具損傷[/b]を付与し、さらに感染を引き起こすことがある。",
+      "source": "0e089ec632d41fe7"
+    },
+    "Skill_Zombie_Anfeuern": {
+      "text": "鼓舞",
+      "source": "d1934cb73b7cc3de"
+    },
+    "Skill_Zombie_Anfeuern_desc": {
+      "text": "対象1体に[b]奮起[/b]を付与する。",
+      "source": "6387aceeaa65e3fc"
+    },
+    "Skill_Zombie_AtemberaubenderBiss": {
+      "text": "息を奪う噛みつき",
+      "source": "026e33af6691d012"
+    },
+    "Skill_Zombie_AtemberaubenderBiss_desc": {
+      "text": "対象1体に[Dmg_0]%のダメージを与えて[b]弱体化[/b]を付与し、感染を引き起こすことがある。",
+      "source": "504e654637af0f63"
+    },
+    "Skill_Zombie_AufgeladenerAngriff": {
+      "text": "溜め攻撃",
+      "source": "8fff15a2fa42de49"
+    },
+    "Skill_Zombie_AufgeladenerAngriff2": {
+      "text": "溜め攻撃",
+      "source": "8fff15a2fa42de49"
+    },
+    "Skill_Zombie_AufgeladenerAngriff2_desc": {
+      "text": "[Dmg_0]%×3のダメージを与える。",
+      "source": "35f59101abdd9fde"
+    },
+    "Skill_Zombie_AufgeladenerAngriff_desc": {
+      "text": "[Dmg_0]%×3のダメージを与え、[b]気絶[/b]を付与する。",
+      "source": "3b9decf692d19269"
+    },
+    "Skill_Zombie_AufgeladenerAxtAngriff": {
+      "text": "溜め斧振り",
+      "source": "a53d72596badd5cd"
+    },
+    "Skill_Zombie_AufgeladenerAxtAngriff_desc": {
+      "text": "まず力を溜め、対象1体に[Dmg_0]%のダメージを与えて[b]粉砕[/b]を付与する。",
+      "source": "fb33fd95c3b18ed9"
+    },
+    "Skill_Zombie_AufgeladenerUeberkopfSchlag": {
+      "text": "溜め振り下ろし",
+      "source": "e0a24dd8e25c5dd7"
+    },
+    "Skill_Zombie_AufgeladenerUeberkopfSchlag_desc": {
+      "text": "まず力を溜め、[Dmg_0]%のダメージを与えて[b]気絶[/b]と[b]粉砕[/b]を付与する。",
+      "source": "6e704e3c85040034"
+    },
+    "Skill_Zombie_BeineBeissen": {
+      "text": "脚への噛みつき",
+      "source": "81c912ab7375a766"
+    },
+    "Skill_Zombie_BeineBeissen_desc": {
+      "text": "対象1体に[Dmg_0]%×2のダメージを与え、[b]脚の負傷[/b]と[b]出血[/b]を付与する。瀕死状態の対象には[b]感染[/b]も引き起こす。",
+      "source": "dd3d696fb0a77a26"
+    },
+    "Skill_Zombie_BlutSpruehen": {
+      "text": "血しぶき",
+      "source": "2c9a4d4d1d746eb4"
+    },
+    "Skill_Zombie_BlutSpruehen_desc": {
+      "text": "1列全体に[Dmg_1]%のパワーダメージを与える。",
+      "source": "38341ab35f367147"
+    },
+    "Skill_Zombie_BlutSpucken": {
+      "text": "血吐き",
+      "source": "010080e24e653d3e"
+    },
+    "Skill_Zombie_BlutSpucken_desc": {
+      "text": "対象1体に[Dmg_2]%のパワーダメージを与える。",
+      "source": "73e44f43e64f1178"
+    },
+    "Skill_Zombie_Brecher": {
+      "text": "打ち砕き",
+      "source": "e1ce2aededfb9f56"
+    },
+    "Skill_Zombie_Brecher_desc": {
+      "text": "対象1体に[Dmg_0]%のダメージを与え、[b]粉砕[/b]を付与する。",
+      "source": "14a3ef556044a564"
+    },
+    "Skill_Zombie_BrennendeWut": {
+      "text": "燃える怒り",
+      "source": "6488c80f713244df"
+    },
+    "Skill_Zombie_BrennendeWut_desc": {
+      "text": "対象1体に50%×3のダメージを与え、[b]火傷[/b]を付与する。",
+      "source": "5054717b229eca7e"
+    },
+    "Skill_Zombie_BrutalerAngriff": {
+      "text": "残忍な攻撃",
+      "source": "8ea403544d8a4ac1"
+    },
+    "Skill_Zombie_BrutalerAngriff_desc": {
+      "text": "[Dmg_0]%のダメージを与える。",
+      "source": "77a6b52af9cc5128"
+    },
+    "Skill_Zombie_Doppelkralle": {
+      "text": "二連爪",
+      "source": "4a05d288b84c14ff"
+    },
+    "Skill_Zombie_Doppelkralle_desc": {
+      "text": "2倍のダメージを与えることがある。",
+      "source": "f5afcef0f0804e52"
+    },
+    "Skill_Zombie_Drill": {
+      "text": "しごき",
+      "source": "0e2113782a3d0373"
+    },
+    "Skill_Zombie_Drill_desc": {
+      "text": "対象1体に50%のダメージを与え、[b]激怒[/b]と[b]酒の勢い[/b]を付与する。",
+      "source": "a08f14400c272191"
+    },
+    "Skill_Zombie_FeigerAngriff": {
+      "text": "卑怯な一撃",
+      "source": "64022118db5ca81b"
+    },
+    "Skill_Zombie_FeigerAngriff_desc": {
+      "text": "クリティカル時にスタンさせることがある。",
+      "source": "eb1541ef7de3a85c"
+    },
+    "Skill_Zombie_FieseAttacke": {
+      "text": "えげつない攻撃",
+      "source": "2e1778e3226578fd"
+    },
+    "Skill_Zombie_FieseAttacke_desc": {
+      "text": "対象1体に2倍のダメージを与え、[b]スタン[/b]と[b]防具損傷[/b]を付与する。",
+      "source": "ff86c8a406943976"
+    },
+    "Skill_Zombie_Fressen": {
+      "text": "捕食",
+      "source": "396c3cb18f811a18"
+    },
+    "Skill_Zombie_Fressen_desc": {
+      "text": "対象が気絶していると2倍のダメージを与えることがある。瀕死状態の対象には[b]感染[/b]を引き起こす。",
+      "source": "657dc9eaf36cd2e2"
+    },
+    "Skill_Zombie_Gestaehlt": {
+      "text": "鋼の肉体",
+      "source": "c68c444789ae5283"
+    },
+    "Skill_Zombie_Gestaehlt_desc": {
+      "text": "対象1体に[b]ボディアーマー[/b]を付与する。",
+      "source": "eb6b28302afeb428"
+    },
+    "Skill_Zombie_HeimtueckischerSchlag": {
+      "text": "ローブロー",
+      "source": "14ba2d90b47c3a75"
+    },
+    "Skill_Zombie_HeimtueckischerSchlag_desc": {
+      "text": "対象1体に[Dmg_0]%×2のダメージを与え、[b]スタン[/b]を付与する。",
+      "source": "bc05a08f866bb8b8"
+    },
+    "Skill_Zombie_Infizieren": {
+      "text": "感染攻撃",
+      "source": "2fbf590166087ecb"
+    },
+    "Skill_Zombie_Infizieren_desc": {
+      "text": "[b]出血[/b]を付与し、対象が瀕死状態なら[b]感染[/b]も引き起こす。",
+      "source": "bcb0b604994b5e70"
+    },
+    "Skill_Zombie_InfizierendesNagen": {
+      "text": "感染性のかじりつき",
+      "source": "5f7f07d2c76e2cc5"
+    },
+    "Skill_Zombie_InfizierendesNagen_desc": {
+      "text": "[b]脆弱[/b]と[b]脚の負傷[/b]を付与し、対象が瀕死状態なら[b]感染[/b]も引き起こす。",
+      "source": "940a013f0056aa4f"
+    },
+    "Skill_Zombie_InstinktiverSchutz": {
+      "text": "防衛本能",
+      "source": "673560acb5f7a043"
+    },
+    "Skill_Zombie_InstinktiverSchutz_desc": {
+      "text": "ブロック率と防御力が100%上昇する。",
+      "source": "b8d120dbfdc1202d"
+    },
+    "Skill_Zombie_Jagdbeute": {
+      "text": "獲物",
+      "source": "c3abf0bb89851353"
+    },
+    "Skill_Zombie_Jagdbeute_desc": {
+      "text": "対象1体に[Dmg_0]%の物理ダメージを与え、[b]脆弱[/b]を付与する。",
+      "source": "1d9a4fc532867548"
+    },
+    "Skill_Zombie_Kampfbereitschaft": {
+      "text": "臨戦態勢",
+      "source": "1e0755ea2d269cb8"
+    },
+    "Skill_Zombie_Kampfbereitschaft_desc": {
+      "text": "抵抗力、防御力、筋力が25%上昇する。",
+      "source": "2d9b9c3d8cb2f6ab"
+    },
+    "Skill_Zombie_Kannibalismus": {
+      "text": "共食い",
+      "source": "61edf0c7c3f4e647"
+    },
+    "Skill_Zombie_Kannibalismus_desc": {
+      "text": "即座に自身にダメージを与えるが、[b]強力な再生[/b]を得る。",
+      "source": "68f064e72199b3a5"
+    },
+    "Skill_Zombie_Kotzfontaene": {
+      "text": "ゲロの噴水",
+      "source": "db660167ea1d516a"
+    },
+    "Skill_Zombie_Kotzfontaene_desc": {
+      "text": "1列全体に[Dmg_1]%のパワーダメージを与え、[b]毒[/b]を付与する。",
+      "source": "e4863e8ac6286e44"
+    },
+    "Skill_Zombie_Kotzpfuetze": {
+      "text": "吐瀉物だまり",
+      "source": "3f317bab61d96120"
+    },
+    "Skill_Zombie_Kotzpfuetze_desc": {
+      "text": "100%のパワーダメージを与え、[b]猛毒[/b]を付与する。",
+      "source": "eb9beeffe6c8b8dc"
+    },
+    "Skill_Zombie_Kreischen": {
+      "text": "金切り声",
+      "source": "a51c9a5d4d1b84fd"
+    },
+    "Skill_Zombie_Kreischen_desc": {
+      "text": "まず力を溜め、対象1体に[Dmg_1]%のパワーダメージを与えて[b]怯え[/b]を付与する。",
+      "source": "12969081d652e6d9"
+    },
+    "Skill_Zombie_RanzigerAtem": {
+      "text": "腐った息",
+      "source": "4e8f67d93a12c5dd"
+    },
+    "Skill_Zombie_RanzigerAtem_desc": {
+      "text": "1列全体に[Dmg_1]%のパワーダメージを与え、[b]毒[/b]を付与する。",
+      "source": "e4863e8ac6286e44"
+    },
+    "Skill_Zombie_RufDerWildnis": {
+      "text": "野性の呼び声",
+      "source": "58e0118cba389491"
+    },
+    "Skill_Zombie_RufDerWildnis_desc": {
+      "text": "アンデッドのダークウルフを召喚する。",
+      "source": "90a84178b6ba589d"
+    },
+    "Skill_Zombie_Rundumschlag": {
+      "text": "大振りパンチ",
+      "source": "8e6a19265ae49855"
+    },
+    "Skill_Zombie_Rundumschlag_desc": {
+      "text": "1列全体に[Dmg_0]%のダメージを与える。",
+      "source": "4821069f295d72cb"
+    },
+    "Skill_Zombie_Sandwurf": {
+      "text": "砂かけ",
+      "source": "8ab18678e3e868db"
+    },
+    "Skill_Zombie_Sandwurf_desc": {
+      "text": "対象1体に[Dmg_1]%のパワーダメージを与え、[b]目くらまし[/b]を付与する。",
+      "source": "4056a99aa165270d"
+    },
+    "Skill_Zombie_Schattenschild": {
+      "text": "影の盾",
+      "source": "b4d58b2a54edb20c"
+    },
+    "Skill_Zombie_Schattenschild_desc": {
+      "text": "対象1体に[b]鉄壁[/b]を付与する。",
+      "source": "f2387d93619483c9"
+    },
+    "Skill_Zombie_SpritzenInstinkt": {
+      "text": "本能の注射",
+      "source": "1591f27006914435"
+    },
+    "Skill_Zombie_SpritzenInstinkt_desc": {
+      "text": "対象1体に[b]軽度の再生[/b]を付与する。",
+      "source": "a13ba3ff343be98f"
+    },
+    "Skill_Zombie_SpruehendeMagensaeure": {
+      "text": "胃酸噴射",
+      "source": "9bb46eb5858260a6"
+    },
+    "Skill_Zombie_SpruehendeMagensaeure_desc": {
+      "text": "1列全体に[Dmg_1]%のパワーダメージを与え、[b]毒[/b]と[b]防具損傷[/b]を付与する。",
+      "source": "411d7e4ca10ca7b6"
+    },
+    "Skill_Zombie_Sprungangriff": {
+      "text": "飛びかかり",
+      "source": "b856ddf442eb2399"
+    },
+    "Skill_Zombie_Sprungangriff_desc": {
+      "text": "対象1体に[Dmg_0]%のダメージを与え、[b]ノックバック[/b]を付与する。",
+      "source": "f2f723b53b800143"
+    },
+    "Skill_Zombie_Spucken": {
+      "text": "唾吐き",
+      "source": "fbf615aa203fdbe2"
+    },
+    "Skill_Zombie_SpuckenDoppelt": {
+      "text": "二連唾吐き",
+      "source": "cf398d3d97c3adc8"
+    },
+    "Skill_Zombie_SpuckenDoppelt_desc": {
+      "text": "対象2体に[Dmg_2]%のパワーダメージを与え、[b]毒[/b]を付与する。",
+      "source": "6507dfd0e0cf9b9a"
+    },
+    "Skill_Zombie_SpuckenUngiftig": {
+      "text": "唾吐き",
+      "source": "fbf615aa203fdbe2"
+    },
+    "Skill_Zombie_SpuckenUngiftig_desc": {
+      "text": "対象1体に[Dmg_2]%のパワーダメージを与える。",
+      "source": "9584b0a95ce70f5a"
+    },
+    "Skill_Zombie_Spucken_desc": {
+      "text": "対象1体に[Dmg_2]%のパワーダメージを与え、[b]毒[/b]を付与する。",
+      "source": "93ce7c18236e0055"
+    },
+    "Skill_Zombie_StarkerSpritzenInstinkt": {
+      "text": "強力な本能の注射",
+      "source": "d2349c8d48c1f610"
+    },
+    "Skill_Zombie_StarkerSpritzenInstinkt_desc": {
+      "text": "対象1体に[b]強力な再生[/b]を付与する。",
+      "source": "44249aed4d4c38aa"
+    },
+    "Skill_Zombie_Tierinstinkt": {
+      "text": "動物の本能",
+      "source": "c39e9a217e79f7c7"
+    },
+    "Skill_Zombie_Tierinstinkt_desc": {
+      "text": "アンデッドのジャーマン・シェパードを召喚する。",
+      "source": "aa0046bcde3f9775"
+    },
+    "Skill_Zombie_Ueberwaeltigen": {
+      "text": "ねじ伏せ",
+      "source": "12695347a07a546e"
+    },
+    "Skill_Zombie_Ueberwaeltigen_desc": {
+      "text": "[Dmg_0]%のダメージを与え、[b]出血[/b]と[b]気絶[/b]を付与する。",
+      "source": "871cae912e081757"
+    },
+    "Skill_Zombie_Verkrueppeln": {
+      "text": "痛めつけ",
+      "source": "52b5088131f56c7b"
+    },
+    "Skill_Zombie_Verkrueppeln_desc": {
+      "text": "[Dmg_0]%のダメージを与え、[b]衰弱[/b]を付与する。",
+      "source": "5a0b5bea15240ac5"
+    },
+    "Skill_Zombie_VoodooAlptraum": {
+      "text": "ブードゥーの悪夢",
+      "source": "d162f2fa5a5a2da1"
+    },
+    "Skill_Zombie_VoodooAlptraum_desc": {
+      "text": "対象1体に[Dmg_2]%のパワーダメージを与え、[b]怯え[/b]と[b]目くらまし[/b]を付与する。",
+      "source": "37462c37aa314493"
+    },
+    "Skill_Zombie_Wachsam": {
+      "text": "迎撃態勢",
+      "source": "5dbaa94d3e7b2694"
+    },
+    "Skill_Zombie_Wachsam_desc": {
+      "text": "範囲内にいれば、受けたすべての近接攻撃に反撃する。",
+      "source": "e23d69b6a6568850"
+    },
+    "Skill_Zombie_Wegwischen": {
+      "text": "一掃",
+      "source": "ad1aa7744ec20f06"
+    },
+    "Skill_Zombie_Wegwischen_desc": {
+      "text": "1列に[Dmg_0]%のダメージを与え、[b]ノックバック[/b]を付与する。",
+      "source": "58f96a8d9fe6bb98"
+    },
+    "Skill_Zombie_WuetendeSchlaege": {
+      "text": "腕ぶん回し",
+      "source": "64a5c16fb83394d7"
+    },
+    "Skill_Zombie_WuetendeSchlaege_desc": {
+      "text": "対象1体に[Dmg_0]%×3のダメージを与え、[b]脆弱[/b]を付与する。",
+      "source": "fc05630998cd5f1a"
+    },
+    "Skill_Zombie_Zusammenschlagen": {
+      "text": "めった打ち",
+      "source": "122473b54afafd28"
+    },
+    "Skill_Zombie_Zusammenschlagen_desc": {
+      "text": "対象1体に3倍のダメージを与えることがあり、[b]脆弱[/b]と[b]衰弱[/b]を付与する。",
+      "source": "66d581f7e9a839ec"
+    },
+    "Skill_ZuendendeBombe": {
+      "text": "時限爆弾",
+      "source": "cf851e5f44948d16"
+    },
+    "Skill_ZuendendeBombe_desc": {
+      "text": "まず力を溜める。遠距離攻撃用の列しか狙えず、200%のダメージを与えて[b]大出血[/b]と[b]脆弱[/b]を付与する。",
+      "source": "e7b45e0f2bdefb47"
+    },
+    "Talent_Crafting": {
+      "text": "工作",
+      "source": "6f5a7c8b2bbd6e62"
+    },
+    "Talent_Crafting_desc": {
+      "text": "+[li]防具工房と武器工房の仕事で新しいクラフトレシピが使えるようになり、作るアイテムの品質も上がる。[/li]",
+      "source": "117783cd9a924214"
+    },
+    "Talent_Grenadier": {
+      "text": "エンジニア",
+      "source": "d93352a70395db3d"
+    },
+    "Talent_Grenadier_desc": {
+      "text": "+[li]投擲武器は装甲と防御力を無視する。[/li][br]+[li]タレットを設置できる。[/li][br]-[li]投擲武器は抵抗力の高い敵に弱い。[/li]",
+      "source": "2b25e4f72b69bb44"
+    },
+    "Talent_Guarding": {
+      "text": "警戒",
+      "source": "202f86845400b653"
+    },
+    "Talent_Guarding_desc": {
+      "text": "+[li]見張りの職ランクが上がり、襲撃や盗みを防げる確率が上がる。[/li][br]+[li]偵察役の職ランクが上がる。[/li][br]+[li]鍵開けイベントの成功率が上がる。[/li]",
+      "source": "0a58cd3131791b8c"
+    },
+    "Talent_Hunting": {
+      "text": "狩猟",
+      "source": "eb907b9bc3a769b6"
+    },
+    "Talent_Hunting_desc": {
+      "text": "+[li]トラップで、近接攻撃してくる敵を弱らせる。[/li][br]+[li]動物を召喚できる。[/li][br]-[li]トラップは抵抗力の高い敵に弱い。[/li]",
+      "source": "16356f7b8d402034"
+    },
+    "Talent_Medical": {
+      "text": "生物学",
+      "source": "aea1058d135f60df"
+    },
+    "Talent_Medical_desc": {
+      "text": "+[li]医師の職ランクが上がり、新しいクラフトレシピが解放される。[/li][br]+[li]菜園係の職ランクが上がる。[/li][br]+[li]医療イベントの成功率が上がる。[/li]",
+      "source": "b46dd1070ae50ca8"
+    },
+    "Talent_Melee": {
+      "text": "打撃武器",
+      "source": "d4738b89a593b294"
+    },
+    "Talent_Melee_desc": {
+      "text": "+[li]弾薬が不要。[/li][br]+[li]防御力の高い敵に強い。[/li][br]-[li]遠距離攻撃よりダメージが低い。[/li]",
+      "source": "3d0e1f09c8ae77ac"
+    },
+    "Talent_Pistol": {
+      "text": "拳銃",
+      "source": "af93da41d0267ccf"
+    },
+    "Talent_Pistol_desc": {
+      "text": "+[li]一時的に敵を弱らせる。[/li][br]+[li]最も手に入りやすい弾薬を使う。[/li][br]-[li]遠距離武器の中で最も弱い。[/li]",
+      "source": "1fbf5be97085429b"
+    },
+    "Talent_Rifle": {
+      "text": "ライフル",
+      "source": "478e5ec5fe9296b2"
+    },
+    "Talent_Rifle_desc": {
+      "text": "+[li]与えるダメージが大きい。[/li][br]+[li]複数の敵を同時に攻撃できる。[/li][br]-[li]一部の攻撃は大量の弾薬を消費する。[/li][br]-[li]防御力の高い敵に弱い。[/li]",
+      "source": "07e7fdf40fab4bbf"
+    },
+    "Talent_Shotgun": {
+      "text": "ショットガン",
+      "source": "050991792ba0040c"
+    },
+    "Talent_Shotgun_desc": {
+      "text": "+[li]敵の前列全体を攻撃できることがある。[/li][br]+[li]防御力の高い敵に有効なスキルを習得できる。[/li][br]-[li]一部の攻撃は大量の弾薬を消費する。[/li]",
+      "source": "eae3e8bf3c1c7f42"
+    },
+    "Talent_Survival": {
+      "text": "サバイバル",
+      "source": "8302496de0ace160"
+    },
+    "Talent_Survival_desc": {
+      "text": "+[li]狩人の職ランクが上がり、集める食料と得られる経験値が自動的に増える。[/li][br]+[li]鍛冶場の職ランクが上がる。[/li][br]+[li]サバイバルイベントの成功率が上がる。[/li]",
+      "source": "2d22cdaafa97bba6"
+    },
+    "Talent_Swords": {
+      "text": "刃物",
+      "source": "ba3586196e771f83"
+    },
+    "Talent_Swords_desc": {
+      "text": "+[li]弾薬が不要。[/li][br]+[li]防御力の低い敵に強い。[/li][br]-[li]遠距離攻撃よりダメージが低い。[/li][br]-[li]防御力の高い敵に弱い。[/li]",
+      "source": "34f3bafa53452d54"
+    }
+  }
+}

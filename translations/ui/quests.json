@@ -1,0 +1,1401 @@
+{
+  "table": "ui",
+  "entries": {
+    "Quest_Arenameister_1_Description": {
+      "text": "密輸業者との友好度を上げるには、4試合に勝ってフォレストグレイブの闘技場の王者になるといい。闘技場の主からは、参加費を失うおそれがあり、けがは自己責任だと警告されている。",
+      "source": "047d75c5c8c6ef6d"
+    },
+    "Quest_Arenameister_1_Title": {
+      "text": "フォレストグレイブの闘技場の王者",
+      "source": "7613ba5987cd8c52"
+    },
+    "Quest_Arenameister_1_Todo_0": {
+      "text": "4試合に勝って闘技場の王者になる: [C(4)EventContext(Progress)] / 4",
+      "source": "275983bc1a4c0566"
+    },
+    "Quest_Arenameister_2_Description": {
+      "text": "密輸業者のリーダーと面会するには、4試合に勝って本部の闘技場の王者にならなければならない。闘技場の主からは、参加費を失うおそれがあり、けがは自己責任だと警告されている。",
+      "source": "5d2c01a7b91218c7"
+    },
+    "Quest_Arenameister_2_Title": {
+      "text": "密輸業者本部の闘技場の王者",
+      "source": "969dd0f0d235e4d9"
+    },
+    "Quest_Arenameister_2_Todo_0": {
+      "text": "4試合に勝って闘技場の王者になる: [C(4)EventContext(Progress)] / 4",
+      "source": "275983bc1a4c0566"
+    },
+    "Quest_Arenameister_2_Todo_1": {
+      "text": "ボスのジミーと話す",
+      "source": "990ab67fd0efb4a6"
+    },
+    "Quest_ArmyHQ_Description": {
+      "text": "アメリカ軍本部は、しかるべき防具を身に着けた同盟者にしか立ち入りを許可しないことにした。",
+      "source": "d918bb9ed8cac66b"
+    },
+    "Quest_ArmyHQ_Title": {
+      "text": "本部への立ち入り",
+      "source": "fa422be088a62bfd"
+    },
+    "Quest_ArmyHQ_Todo_0": {
+      "text": "アメリカ軍本部に入る許可を得る",
+      "source": "399f45824795fb46"
+    },
+    "Quest_ArmyHQ_Todo_1": {
+      "text": "ラナの依頼を果たす",
+      "source": "ab30fe0468e2394b"
+    },
+    "Quest_ArmyHQ_Todo_2": {
+      "text": "アメリカ軍から防具を買う",
+      "source": "c0498cdefc8f9b0b"
+    },
+    "Quest_ArmyHQ_Todo_3": {
+      "text": "任意: 同盟者にならずにアメリカ軍から防具を買う",
+      "source": "4ead58a58c1363fc"
+    },
+    "Quest_Auftragsmord_Description": {
+      "text": "殺し屋の一団が生存者たちを始末しようとしている。唯一の手がかりは「L」と署名された手紙だ。",
+      "source": "59f8e7c9d7e3b07d"
+    },
+    "Quest_Auftragsmord_Title": {
+      "text": "殺し屋",
+      "source": "4eb85009803d34e5"
+    },
+    "Quest_Auftragsmord_Todo_0": {
+      "text": "殺しを依頼した黒幕を突き止める",
+      "source": "bd26176d1ff5d980"
+    },
+    "Quest_Auftragsmord_Todo_1": {
+      "text": "南部にある独立派の前哨基地で「L」について調べる",
+      "source": "9b1b60fe4c2fb9fa"
+    },
+    "Quest_Auftragsmord_Todo_2": {
+      "text": "南部のパンクスの野営地で「L」について調べる",
+      "source": "4247ae4d99b06754"
+    },
+    "Quest_Auftragsmord_Todo_3": {
+      "text": "ビッグ・アルとの賭けに勝つ",
+      "source": "1517a9f093527733"
+    },
+    "Quest_Auftragsmord_Todo_4": {
+      "text": "南部の打ち捨てられた学校を探索する",
+      "source": "ec1cbc5a834b8de7"
+    },
+    "Quest_Auftragsmord_Todo_5": {
+      "text": "商人ギルドを訪ねる",
+      "source": "06cf7db866e8392d"
+    },
+    "Quest_Bill_1_Description": {
+      "text": "フリーダムシティ東部のデニース知事との友好度を上げるため、ジャックは密輸業者のもとへ向かう任務を与えられた。",
+      "source": "160c833d9ff0b5e1"
+    },
+    "Quest_Bill_1_Title": {
+      "text": "密輸業者との取引",
+      "source": "c682774e2abe550d"
+    },
+    "Quest_Bill_1_Todo_0": {
+      "text": "密輸業者の前哨基地でトレバーと話す",
+      "source": "7ccd4828ab9d2fd3"
+    },
+    "Quest_Bill_1_Todo_1": {
+      "text": "品物を独立派の前哨基地へ運ぶ",
+      "source": "146077f385bba611"
+    },
+    "Quest_Charles_1_Description": {
+      "text": "チャールズ将軍はあなたを入念に審査したうえで、配下に加えることを認めた。軍に加わるか、それとも別の道を選ぶか？",
+      "source": "60a6546a97d21733"
+    },
+    "Quest_Charles_1_Title": {
+      "text": "アメリカ軍の情報漏洩",
+      "source": "bfaf9446fb7d87f7"
+    },
+    "Quest_Charles_1_Todo_0": {
+      "text": "アメリカ軍の情報の漏洩元を突き止める",
+      "source": "e9e674e58da3567b"
+    },
+    "Quest_Charles_1_Todo_1": {
+      "text": "ジャマールをアメリカ軍に突き出すか、チャールズ将軍に嘘をつくかを選ぶ",
+      "source": "1c16f54e4eb25dcf"
+    },
+    "Quest_Dean_1_Description": {
+      "text": "ディーンは独立派の酒場を切り盛りしている。彼はジャックのキャンプに、デニース知事との友好度を上げられるおいしい話を持ちかけてくれる。彼のサイドジョブをいくつかこなすといい。",
+      "source": "563545d8ceba342a"
+    },
+    "Quest_Dean_1_Title": {
+      "text": "常連客",
+      "source": "c46d3226770ec0ae"
+    },
+    "Quest_Dean_1_Todo_0": {
+      "text": "ディーンの酒場でサイドジョブをこなす: [C(2)EventContext(Progress)] / 2",
+      "source": "ebb9b952d9fb1636"
+    },
+    "Quest_Dean_1_Todo_1": {
+      "text": "酒場でディーンと話す",
+      "source": "51be0f15f3f41255"
+    },
+    "Quest_Denise_1_Description": {
+      "text": "トリッシュから、ジャックのキャンプを独立派と同盟させるための任務を頼まれた。ジャックには知られないほうがいい。彼は人に頭を下げるのが嫌いなのだ。",
+      "source": "53ffc7bcfe4b1103"
+    },
+    "Quest_Denise_1_Title": {
+      "text": "わずかな施し",
+      "source": "91318f2b6afc365f"
+    },
+    "Quest_Denise_1_Todo_0": {
+      "text": "独立派の前哨基地でデニース知事と話す",
+      "source": "9405c3cc6fb3618d"
+    },
+    "Quest_Denise_1_Todo_1": {
+      "text": "前哨基地で働く者たちの票を得る: [C(2)EventContext(Progress)] / 2",
+      "source": "bf0dbc1550b930ef"
+    },
+    "Quest_Denise_2_Description": {
+      "text": "あなたはオフィスビルに囚われている。ビルを制圧し、科学者を全員救出しなければならない。",
+      "source": "84da1f5fff23ddf9"
+    },
+    "Quest_Denise_2_Title": {
+      "text": "敵への協力",
+      "source": "3dd54e365bcf2007"
+    },
+    "Quest_Denise_2_Todo_0": {
+      "text": "科学者を救出する（[C(4)EventContext(Progress)] / 4）",
+      "source": "a4c3c29ac213f9ac"
+    },
+    "Quest_Denise_2_Todo_1": {
+      "text": "デニース知事と話す",
+      "source": "dce7aa27b3fdec89"
+    },
+    "Quest_Denise_3_Description": {
+      "text": "ビルの屋上へ出る扉までたどり着かなければならない。",
+      "source": "7606314ba2090a8c"
+    },
+    "Quest_Denise_3_Title": {
+      "text": "進化",
+      "source": "32a3f71b99859bff"
+    },
+    "Quest_Denise_3_Todo_0": {
+      "text": "南東にある鍵のかかった扉を開ける",
+      "source": "b5fff1983d5b4b7e"
+    },
+    "Quest_Denise_3_Todo_1": {
+      "text": "屋上へ通じる厳重な扉の鍵をすべて見つける（[C(3)EventContext(Progress)] / 3）",
+      "source": "5ac87ca36acb32ba"
+    },
+    "Quest_Denise_3_Todo_2": {
+      "text": "任意: デニース知事とリズ中尉を殺す",
+      "source": "16971c8615cf56a4"
+    },
+    "Quest_Ethan_1_Description": {
+      "text": "ゾムデックスは希少だ。軍でさえ在庫が尽きかけている。",
+      "source": "6a1f15814047a04f"
+    },
+    "Quest_Ethan_1_Title": {
+      "text": "アメリカ軍へのゾムデックス",
+      "source": "6a85ffff1bdb575c"
+    },
+    "Quest_Ethan_1_Todo_0": {
+      "text": "病院でゾムデックスを3つ探し、[T:EventContext(QuestGiver)]に届ける: [C(3)EventContext(Progress)] / 3",
+      "source": "bf0c3a61183bd381"
+    },
+    "Quest_Fernando_1_Description": {
+      "text": "フェルナンドはいかがわしい過去を持つ商人で、密輸業者とつながりがある。",
+      "source": "4ce543d13b1c2252"
+    },
+    "Quest_Fernando_1_Title": {
+      "text": "フェルナンドの取引",
+      "source": "f1f109168f8ebb25"
+    },
+    "Quest_Fernando_1_Todo_0": {
+      "text": "密輸業者の前哨基地でトレバーと話す",
+      "source": "7ccd4828ab9d2fd3"
+    },
+    "Quest_Fernando_1_Todo_1": {
+      "text": "洞窟で例の金を探す",
+      "source": "684161cc63777304"
+    },
+    "Quest_Hank_Description": {
+      "text": "ジョセフが独房で殺された。ハンクは、この殺人について調べてほしいとあなたに頼んでいる。",
+      "source": "323b3a6635d7066e"
+    },
+    "Quest_Hank_Title": {
+      "text": "ジョセフ殺害事件",
+      "source": "c34a6677d63575f6"
+    },
+    "Quest_Hank_Todo_0": {
+      "text": "独立派本部でデニース知事と話す",
+      "source": "d7f9fdf9e02b46e0"
+    },
+    "Quest_Hank_Todo_1": {
+      "text": "フリーダムシティ東部で保安官と話す",
+      "source": "122ca91a5d9d297e"
+    },
+    "Quest_Hank_Todo_2": {
+      "text": "夜、フリーダムシティ西部にある鍵のかかった物置小屋に入る",
+      "source": "cb853f87eb92c690"
+    },
+    "Quest_Jack_1_Description": {
+      "text": "スティーブンの裏切りにより、[Player]はキャンプの資源を補充しなければならなくなった。独立派のもとには、生き延びるのに必要な食料がある。",
+      "source": "71a8113cf65b74dc"
+    },
+    "Quest_Jack_1_Title": {
+      "text": "独立派との取引",
+      "source": "c14d595ab4b44cba"
+    },
+    "Quest_Jack_1_Todo_0": {
+      "text": "任意: 酒場でジャックと話す",
+      "source": "3f42af797d1bee88"
+    },
+    "Quest_Jack_1_Todo_1": {
+      "text": "独立派の前哨基地で資源を買う（水 [C(10)EventContext(Water)]/10、食料 [C(10)EventContext(Food)]/10）",
+      "source": "81f55bde1d54c113"
+    },
+    "Quest_Jack_1_Todo_2": {
+      "text": "拠点に戻る",
+      "source": "ccb7cd7c05fd8d2b"
+    },
+    "Quest_Jack_2_Description": {
+      "text": "物理ダメージやその他のダメージから身を守るには、クラフトした衣服が必要だ。",
+      "source": "c6771d6098e359af"
+    },
+    "Quest_Jack_2_Title": {
+      "text": "防具工房",
+      "source": "40aa9154f3d69b9f"
+    },
+    "Quest_Jack_2_Todo_0": {
+      "text": "任意: 酒場でジャックと話し、詳しい情報を聞く",
+      "source": "0b7c5361f0222bbb"
+    },
+    "Quest_Jack_2_Todo_1": {
+      "text": "防具工房を建設する（資材 [C(10)Inventory_Resource_3]/10、スクラップ [C(3)Inventory_Resource_4]/3、食料 [C(1)Inventory_Resource_2]/1）",
+      "source": "ed041f6b260dad1e"
+    },
+    "Quest_Jack_2_Todo_2": {
+      "text": "防具工房でアイテムを作る: [T:EventContext(ItemName)]",
+      "source": "b250ebf8b7a59a36"
+    },
+    "Quest_Jack_3_Description": {
+      "text": "終末後の世界で身を守るには、クラフトしたさまざまな武器が必要だ。自分たちで作れば、それらの品質も全体的に上がる。",
+      "source": "290fe634ed9f0fe6"
+    },
+    "Quest_Jack_3_Title": {
+      "text": "武器工房",
+      "source": "f68bde610490872b"
+    },
+    "Quest_Jack_3_Todo_0": {
+      "text": "任意: 酒場でジャックと話し、詳しい情報を聞く",
+      "source": "606ae95d2e4a96b5"
+    },
+    "Quest_Jack_3_Todo_1": {
+      "text": "武器工房を建設する（資材 [C(10)Inventory_Resource_3]/10、スクラップ [C(3)Inventory_Resource_4]/3、食料 [C(1)Inventory_Resource_2]/1）",
+      "source": "b426c065de189fde"
+    },
+    "Quest_Jack_3_Todo_2": {
+      "text": "武器工房でクラフトする: [T:EventContext(ItemName)]",
+      "source": "45efa8aae589d73a"
+    },
+    "Quest_Jack_4_Description": {
+      "text": "終末後のこの世界で、動いている地下鉄はちょっとした奇跡だ。使えるうちに活用しておくべきだろう……",
+      "source": "46460723c9bf5098"
+    },
+    "Quest_Jack_4_Title": {
+      "text": "変わりゆく時代",
+      "source": "9b9ca1444a6a354a"
+    },
+    "Quest_Jack_4_Todo_0": {
+      "text": "任意: 酒場でジャックから詳しい話を聞く",
+      "source": "606ae95d2e4a96b5"
+    },
+    "Quest_Jack_4_Todo_1": {
+      "text": "地下鉄でアメリカ軍本部へ向かう",
+      "source": "1876031782c1d986"
+    },
+    "Quest_Jack_4_Todo_2": {
+      "text": "[T:EventContext(ItemName)]を購入する [C(30)EventContext(Progress)]/30",
+      "source": "0e08f84bd39aca6e"
+    },
+    "Quest_Jane_Description": {
+      "text": "ジェーンは、南部にあるアメリカ軍の前哨基地からアメリカ軍本部へ囚人を移送したいと考えている。",
+      "source": "bc95e7139948c624"
+    },
+    "Quest_Jane_Title": {
+      "text": "ジェーンの願い",
+      "source": "0ef409cd6276fc5a"
+    },
+    "Quest_Jane_Todo_0": {
+      "text": "酒場でサイドジョブ「警官」を引き受ける",
+      "source": "ebda64795d70c288"
+    },
+    "Quest_Jane_Todo_1": {
+      "text": "ジェーンと一緒に、囚人をアメリカ軍本部まで移送する",
+      "source": "4d62d87be93a10c3"
+    },
+    "Quest_Jennifer_Description": {
+      "text": "ジャックのかつての仲間であり、ジェニファーの弟でもあるジェームズ二等兵が誘拐されたらしい。彼を見つけ出さなければならない。",
+      "source": "08563afa3b10fefe"
+    },
+    "Quest_Jennifer_Title": {
+      "text": "誘拐事件",
+      "source": "46ec9248627d2c5b"
+    },
+    "Quest_Jennifer_Todo_0": {
+      "text": "ジェームズ二等兵について、トレバーと話す",
+      "source": "b7f4d837f50762d1"
+    },
+    "Quest_Jennifer_Todo_1": {
+      "text": "南部の洞窟を探索する",
+      "source": "8136e8fdc5b8559d"
+    },
+    "Quest_Jennifer_Todo_2": {
+      "text": "フリーダムシティ東部の駐車場でジェームズを見つける",
+      "source": "210e62b74fcb9379"
+    },
+    "Quest_Jennifer_Todo_3": {
+      "text": "弟のことでジェニファーと話す",
+      "source": "3992c812d7057341"
+    },
+    "Quest_Jimmy_1_Description": {
+      "text": "密輸業者のボス、ジミーは自分の闘技場に新しい呼び物を求めている。いにしえの剣闘士の試合にならい、トラを据えることにしたようだ。",
+      "source": "f014a076f1dac40e"
+    },
+    "Quest_Jimmy_1_Title": {
+      "text": "闘技場のトラ",
+      "source": "bff1b13a44f99d09"
+    },
+    "Quest_Jimmy_1_Todo_0": {
+      "text": "密輸業者本部で、トラの居場所について情報を集める",
+      "source": "4f16c3eac54b974f"
+    },
+    "Quest_Jimmy_1_Todo_1": {
+      "text": "壊れた橋について、アメリカ軍本部にいる商人のジョーと話す",
+      "source": "bd0ace51a9d1e1e9"
+    },
+    "Quest_Jimmy_1_Todo_2": {
+      "text": "行方不明の商人を見つける",
+      "source": "e96edf40290d76e4"
+    },
+    "Quest_Jimmy_1_Todo_3": {
+      "text": "商人をフリーダムシティ西部まで護衛する",
+      "source": "77b65624e7d3b94d"
+    },
+    "Quest_Jimmy_1_Todo_4": {
+      "text": "軍の前哨基地にいる医師と話す",
+      "source": "ced4d9c6ea2176d6"
+    },
+    "Quest_Jimmy_1_Todo_5": {
+      "text": "グランドウィンド峡谷でトラを解放する",
+      "source": "49c972f14964c9b2"
+    },
+    "Quest_Jimmy_1_Todo_6": {
+      "text": "密輸業者のボス、ジミーと話す",
+      "source": "8cceaa54640e13dc"
+    },
+    "Quest_Jimmy_1_Todo_7": {
+      "text": "エイブラハムからの手紙を読む",
+      "source": "56605d25935df659"
+    },
+    "Quest_Jimmy_1_Todo_8": {
+      "text": "待ち合わせ場所でエイブラハムと合流する",
+      "source": "72597c2f1ef7e617"
+    },
+    "Quest_Joseph_1_Description": {
+      "text": "ミュータントが独立派の勢力圏にまで達した。ジョセフ知事への謁見を許されるには、まずその脅威を排除しなければならない。",
+      "source": "d22e968234382554"
+    },
+    "Quest_Joseph_1_Title": {
+      "text": "刑務所の新たな脅威",
+      "source": "bcdd53b3329123f8"
+    },
+    "Quest_Joseph_1_Todo_0": {
+      "text": "刑務所から迫るミュータントの脅威を排除する",
+      "source": "c26a0c55e674e229"
+    },
+    "Quest_Joseph_1_Todo_1": {
+      "text": "独立派本部のジョセフのもとへ戻る",
+      "source": "55af3cc972482c69"
+    },
+    "Quest_Lana_1_Description": {
+      "text": "アメリカ軍本部に入り込むのは容易ではない。酒場の女主人ラナは、その方法に通じていることで副業の稼ぎを得ている。",
+      "source": "06356a637aec6cf9"
+    },
+    "Quest_Lana_1_Title": {
+      "text": "割のいい仕事",
+      "source": "1b541dad83199a04"
+    },
+    "Quest_Lana_1_Todo_0": {
+      "text": "割のいい仕事について、ラナと話す",
+      "source": "b39b4e64c6bd7339"
+    },
+    "Quest_Lana_1_Todo_1": {
+      "text": "ラナのために酒場の仕事を2件こなす [C(2)EventContext(Progress)]/2",
+      "source": "8b8276b6398c91ae"
+    },
+    "Quest_Lana_1_Todo_2": {
+      "text": "ラナのために酒場の仕事を1件こなす [C(1)EventContext(Progress)]/1",
+      "source": "469586ddab65cf39"
+    },
+    "Quest_Lana_1_Todo_3": {
+      "text": "独立派本部へ行き、テレンスを罠におびき寄せる",
+      "source": "fda5cd0e355f1aab"
+    },
+    "Quest_Lana_1_Todo_4": {
+      "text": "テレンスに品物を届ける",
+      "source": "6aec4f9d928837a8"
+    },
+    "Quest_Lana_1_Todo_5": {
+      "text": "山小屋へ行き、テレンス絡みの仕事を片づける",
+      "source": "591d159a8afe9938"
+    },
+    "Quest_Lana_1_Todo_6": {
+      "text": "ラナのもとへ戻る",
+      "source": "57c956c5e97b8c7f"
+    },
+    "Quest_Lana_1_Todo_7": {
+      "text": "任意: 機会があればテレンスを救う（クエストは失敗になる）",
+      "source": "8ff2ea21939d4efa"
+    },
+    "Quest_Lance_1_Description": {
+      "text": "ランスから、軍がアンデッド相手に使っている移動式タレットの話を聞いた。ランスには面白い提案があるらしい。",
+      "source": "891056d309425d15"
+    },
+    "Quest_Lance_1_Title": {
+      "text": "バンカー",
+      "source": "27b39f3fe7297f77"
+    },
+    "Quest_Lance_1_Todo_0": {
+      "text": "ランスをパーティに加える",
+      "source": "5d6aebae6bd571a3"
+    },
+    "Quest_Lance_1_Todo_1": {
+      "text": "ランスをパーティに入れて夜に出かけ、密輸業者のパトロールを見つけてバンカーへ入る手段を得る",
+      "source": "8da816e7f30e00a5"
+    },
+    "Quest_Lance_1_Todo_2": {
+      "text": "ランスと一緒にバンカーにたどり着き、技術弾薬を見つける",
+      "source": "f0c1ee4c587c7c7f"
+    },
+    "Quest_Liz_1_Description": {
+      "text": "アメリカ軍はよそ者を歓迎しない。だが幸い、彼らの医師が行方不明になっている。関係を築くいい機会かもしれない。",
+      "source": "e0e85fa5f61fe862"
+    },
+    "Quest_Liz_1_Title": {
+      "text": "行方不明の医師",
+      "source": "cd936e0b9f21ea13"
+    },
+    "Quest_Liz_1_Todo_0": {
+      "text": "リズ中尉と話す",
+      "source": "0e1165d7605fbe70"
+    },
+    "Quest_Liz_1_Todo_1": {
+      "text": "フリーダムシティのアメリカ軍前哨基地で手がかりを探す",
+      "source": "e32b3f9e146541d1"
+    },
+    "Quest_Liz_1_Todo_2": {
+      "text": "医師についてさらに情報を集める。フォレストグレイブの密輸業者に聞いてみる",
+      "source": "124db9297fb62ed8"
+    },
+    "Quest_Liz_1_Todo_3": {
+      "text": "密輸業者のトレバーから頼まれた仕事を片づける",
+      "source": "7e4b56782ea53478"
+    },
+    "Quest_Liz_1_Todo_4": {
+      "text": "北西の橋を渡る許可をリズ中尉に求める",
+      "source": "7ab6bc6fc6f3348b"
+    },
+    "Quest_Liz_1_Todo_5": {
+      "text": "医師が監禁されている地下室に入る",
+      "source": "0e06d813c511e834"
+    },
+    "Quest_Liz_1_Todo_6": {
+      "text": "医師を守る",
+      "source": "8080a623b9f83e7f"
+    },
+    "Quest_Liz_1_Todo_7": {
+      "text": "医師をフリーダムシティまで護衛して連れ帰る",
+      "source": "bde8948c0eb974af"
+    },
+    "Quest_Liz_1_Todo_8": {
+      "text": "リズ中尉と話す",
+      "source": "82369102aaa45a05"
+    },
+    "Quest_Lydia_1_Description": {
+      "text": "商人ギルドから接触があり、会いたいと言ってきた。彼らは秘密主義の連中で、陰で動いている。",
+      "source": "30920841422077be"
+    },
+    "Quest_Lydia_1_Title": {
+      "text": "商人ギルド",
+      "source": "330d2f87d6b7d047"
+    },
+    "Quest_Lydia_1_Todo_0": {
+      "text": "南へ通じる壊れた橋について、ジョセフ知事と話す",
+      "source": "2f0f6ac8df8e532e"
+    },
+    "Quest_Lydia_1_Todo_1": {
+      "text": "壊れた橋について、アメリカ軍本部にいる商人のジョーと話す",
+      "source": "abe6bf9b8fe72a5d"
+    },
+    "Quest_Lydia_1_Todo_2": {
+      "text": "有力な商人3人以上の票を得る: [C(3)EventContext(Progress)]/3",
+      "source": "37d9db4ced5f61cb"
+    },
+    "Quest_Lydia_1_Todo_3": {
+      "text": "ギルドの会合場所へ行く",
+      "source": "458708fc53dc7c3c"
+    },
+    "Quest_Lydia_2_Description": {
+      "text": "雲行きが怪しい。ゾンビの大発生が再び起これば、かつてのアメリカ合衆国に残る生存者は一人残らず死に絶えかねない。商人ギルドには、それを防ぐための計画がある。",
+      "source": "2d871dedfc0f24af"
+    },
+    "Quest_Lydia_2_Title": {
+      "text": "完全なる破滅",
+      "source": "d185df303f13b04b"
+    },
+    "Quest_Lydia_2_Todo_0": {
+      "text": "勢力のリーダー2人から同盟への賛成票を得る: [C(2)EventContext(Progress)]/2",
+      "source": "416f16bc92a02967"
+    },
+    "Quest_Lydia_2_Todo_1": {
+      "text": "商人ギルドからの無線信号を待つ",
+      "source": "eea63c4e2706332b"
+    },
+    "Quest_Lydia_2_Todo_2": {
+      "text": "ミュータントの群れを攻撃する",
+      "source": "2f044852b1443f7f"
+    },
+    "Quest_Lydia_2_Todo_3": {
+      "text": "任意: 独立派本部でリディアと話し、同盟が結成される時点まで時間を進める",
+      "source": "17b1d82fede130fa"
+    },
+    "Quest_Lydia_2_Todo_4": {
+      "text": "任意: 同盟のため、リーダーたちから評判を買う",
+      "source": "e1354ed0270adfe1"
+    },
+    "Quest_Lydia_3_Description": {
+      "text": "変異ゾンビの発生源が見つかった。同盟は攻撃の準備を進めている。",
+      "source": "c793d82baa149acf"
+    },
+    "Quest_Lydia_3_Title": {
+      "text": "電撃作戦",
+      "source": "30489a9f66d6fe70"
+    },
+    "Quest_Lydia_3_Todo_0": {
+      "text": "攻撃について同盟のリーダーたちと話す（[C(2)EventContext(Progress)] / 2）",
+      "source": "005eb457c13264d2"
+    },
+    "Quest_Lydia_3_Todo_1": {
+      "text": "オフィスビルを制圧する",
+      "source": "f30ecd138fc40528"
+    },
+    "Quest_MapEvent_CampFactionHorde_Description": {
+      "text": "[T:EventContext(EnemyPos)]軍勢が攻めてきている。側面を攻撃すれば、敵の数を削ることができる。残った敵からはキャンプを守り抜かなければならない！",
+      "source": "3ca1d01701965c23"
+    },
+    "Quest_MapEvent_CampFactionHorde_Title": {
+      "text": "ジャックのキャンプ防衛",
+      "source": "8d9e54265b346998"
+    },
+    "Quest_MapEvent_CampFactionHorde_Todo_0": {
+      "text": "任意: 迫りくる軍勢の側面を攻撃して弱体化させる",
+      "source": "8064e5f9a4d8d381"
+    },
+    "Quest_MapEvent_CampFactionHorde_Todo_1": {
+      "text": "侵略者を撃退する",
+      "source": "dabf0cf8fd18fc1b"
+    },
+    "Quest_MapEvent_CampHorde_Description": {
+      "text": "ゾンビの群れがキャンプに迫っている。側面から攻撃すれば数を減らせる。残った群れからはキャンプを守り抜かなければならない！",
+      "source": "5d17930f1b7cb04c"
+    },
+    "Quest_MapEvent_CampHorde_Title": {
+      "text": "ゾンビの群れの襲撃",
+      "source": "a443fa740798b16a"
+    },
+    "Quest_MapEvent_CampHorde_Todo_0": {
+      "text": "任意: ゾンビの群れを攻撃して弱らせる",
+      "source": "e4741e65f7b775de"
+    },
+    "Quest_MapEvent_CampHorde_Todo_1": {
+      "text": "ゾンビの群れからキャンプを守る",
+      "source": "de52ec7ed8c6a8fa"
+    },
+    "Quest_MapEvent_FactionFaction_Description": {
+      "text": "勢力同士がまたしても争っている。",
+      "source": "9c6d07018ff50dd3"
+    },
+    "Quest_MapEvent_FactionFaction_Title": {
+      "text": "勢力の襲撃",
+      "source": "898828eab8356648"
+    },
+    "Quest_MapEvent_FactionFaction_Todo_0": {
+      "text": "[T:EventContext(Area)]で[T:EventContext(EnemyPos)]兵士たちを倒す",
+      "source": "b3b8138c701f3d8f"
+    },
+    "Quest_MapEvent_Horde_Description": {
+      "text": "終末に終わりはない！",
+      "source": "7c5ed40038f1b3df"
+    },
+    "Quest_MapEvent_Horde_Title": {
+      "text": "ゾンビの群れの襲撃",
+      "source": "a443fa740798b16a"
+    },
+    "Quest_MapEvent_Horde_Todo_0": {
+      "text": "[T:EventContext(Area)]でゾンビの群れを倒す",
+      "source": "0b1b8cf34cf0e05e"
+    },
+    "Quest_MapEvent_MutationHorde_Description": {
+      "text": "終末に終わりはない！",
+      "source": "7c5ed40038f1b3df"
+    },
+    "Quest_MapEvent_MutationHorde_Title": {
+      "text": "変異ゾンビの群れの襲撃",
+      "source": "4885f3bc88e01569"
+    },
+    "Quest_MapEvent_MutationHorde_Todo_0": {
+      "text": "[T:EventContext(Area)]で変異ゾンビの群れを倒す",
+      "source": "f4b74a7311f37f6b"
+    },
+    "Quest_MapEvent_MutationsBoss_Description": {
+      "text": "終末に終わりはない！",
+      "source": "7c5ed40038f1b3df"
+    },
+    "Quest_MapEvent_MutationsBoss_Title": {
+      "text": "変異した巨獣の襲撃",
+      "source": "2a57dca19adb704a"
+    },
+    "Quest_MapEvent_MutationsBoss_Todo_0": {
+      "text": "[T:EventContext(Area)]で変異した巨人を倒す",
+      "source": "7d19d62a14d14c19"
+    },
+    "Quest_MapEvent_Mutations_Description": {
+      "text": "終末に終わりはない！",
+      "source": "7c5ed40038f1b3df"
+    },
+    "Quest_MapEvent_Mutations_Title": {
+      "text": "徘徊する変異体の襲撃",
+      "source": "5058a1048bfdde14"
+    },
+    "Quest_MapEvent_Mutations_Todo_0": {
+      "text": "[T:EventContext(Area)]で徘徊する変異体を倒す（[C(3)EventContext(Progress)] / 3）",
+      "source": "afa8c7ed97288669"
+    },
+    "Quest_MapEvent_Outpost_Description": {
+      "text": "[T:EventContext(Area)]の前哨基地がゾンビの群れに襲われ、壊滅寸前になった。再建して友好度を上げるには、資材30とスクラップ4を持って戻るといい。",
+      "source": "e1c8428fbaa25cf0"
+    },
+    "Quest_MapEvent_Outpost_Title": {
+      "text": "前哨基地の再建",
+      "source": "d0b8933c0029a377"
+    },
+    "Quest_MapEvent_Outpost_Todo_0": {
+      "text": "再建用の資源を集める（資材 [C(30)Inventory_Resource_3]/30、スクラップ [C(4)Inventory_Resource_4]/4）",
+      "source": "fc92517dfd9bb787"
+    },
+    "Quest_MapEvent_Outpost_Todo_1": {
+      "text": "[T:EventContext(Area)]の前哨基地を再建する",
+      "source": "b70a42594722cc87"
+    },
+    "Quest_MapEvent_Outpost_Todo_2": {
+      "text": "前哨基地の再建が終わるのを待つ",
+      "source": "9811a894db022e4c"
+    },
+    "Quest_MapEvent_Signal_Description": {
+      "text": "謎の無線信号がジャックのキャンプに届いた。そこには何があるのだろうか？",
+      "source": "efb0a45387071c8a"
+    },
+    "Quest_MapEvent_Signal_Title": {
+      "text": "謎の無線信号: [T:EventContext(Area)]",
+      "source": "241eb390a58b3348"
+    },
+    "Quest_MapEvent_Signal_Todo_0": {
+      "text": "謎の無線信号の発信地点を探索する",
+      "source": "e2b25a6252c75497"
+    },
+    "Quest_MapEvent_Zombies_Description": {
+      "text": "終末に終わりはない！",
+      "source": "7c5ed40038f1b3df"
+    },
+    "Quest_MapEvent_Zombies_Title": {
+      "text": "さまようアンデッドの襲撃",
+      "source": "6aee9aef317c005f"
+    },
+    "Quest_MapEvent_Zombies_Todo_0": {
+      "text": "[T:EventContext(Area)]でさまようアンデッドを倒す（[C(3)EventContext(Progress)] / 3）",
+      "source": "e31b4ec70286df16"
+    },
+    "Quest_Mary_1_Description": {
+      "text": "独立派の医師メアリーから頼みごとがある。引き受ければ、デニース知事とジャックとの友好度が上がるだろう。ただし、生存者たちは夜のうちに出発しなければならない……",
+      "source": "af0912d9b17018c9"
+    },
+    "Quest_Mary_1_Title": {
+      "text": "メアリーの亡き夫",
+      "source": "1ef5ede5d45ea619"
+    },
+    "Quest_Mary_1_Todo_0": {
+      "text": "夜に田舎道でメアリーの亡き夫を見つける",
+      "source": "474a8daae51fd69a"
+    },
+    "Quest_Mary_1_Todo_1": {
+      "text": "アンデッドになったメアリーの夫を倒す",
+      "source": "aa3e748d7272f202"
+    },
+    "Quest_Mary_1_Todo_2": {
+      "text": "メアリーのもとへ戻る",
+      "source": "e386407b73196fa0"
+    },
+    "Quest_Mason_1_Description": {
+      "text": "囚人のメイソンは助かりたい一心で、行けば手に入るというお宝の話をあなたに教えた。何か裏があるのではないだろうか。",
+      "source": "91c5b95f68668b95"
+    },
+    "Quest_Mason_1_Title": {
+      "text": "100ドルのお宝",
+      "source": "8c3f4c1b44fa705f"
+    },
+    "Quest_Mason_1_Todo_0": {
+      "text": "地下鉄を使って、グランドウィンド峡谷のお宝にたどり着く",
+      "source": "78c18721dd16e965"
+    },
+    "Quest_Mine_1_Description": {
+      "text": "鉱山から出る唯一の道は、3つの錠がかかった扉だ。いったい誰が作ったのだろう。",
+      "source": "a44666513d2d0606"
+    },
+    "Quest_Mine_1_Title": {
+      "text": "生き埋め",
+      "source": "dc6dbfe99bfca163"
+    },
+    "Quest_Mine_1_Todo_0": {
+      "text": "鉱山からの脱出路を見つける",
+      "source": "d504f4d0ee47bb2d"
+    },
+    "Quest_Mine_1_Todo_1": {
+      "text": "任意: サマンサからの手紙を読む",
+      "source": "853a0ba42e35db51"
+    },
+    "Quest_Mine_1_Todo_2": {
+      "text": "鉱山で3つの鍵を見つけ、出口を開ける",
+      "source": "51bb1a2c3eed4ae3"
+    },
+    "Quest_Mine_1_Todo_3": {
+      "text": "サマンサからの2通目の手紙を読む",
+      "source": "65a66e930a9cc4da"
+    },
+    "Quest_Romanze_Isa_Description": {
+      "text": "自信家のイサから、デートに誘われた。",
+      "source": "b37e8da451b05a9f"
+    },
+    "Quest_Romanze_Isa_Title": {
+      "text": "イサとのロマンス",
+      "source": "70b5e0247422f277"
+    },
+    "Quest_Romanze_Isa_Todo_0": {
+      "text": "ほかの仲間をパーティに入れずに、イサをスクリーチウッドの森の待ち合わせ場所まで送り届ける",
+      "source": "ef87016504e0bb65"
+    },
+    "Quest_Romanze_Tessa_Description": {
+      "text": "テッサから、夜のデートに誘われた。",
+      "source": "ed1d540c0876cac3"
+    },
+    "Quest_Romanze_Tessa_Title": {
+      "text": "テッサとのロマンス",
+      "source": "25fbfc9f3e086ad9"
+    },
+    "Quest_Romanze_Tessa_Todo_0": {
+      "text": "ほかの仲間をパーティに入れずに、夜にテッサをフォレストグレイブの待ち合わせ場所まで送り届ける",
+      "source": "7862f79672391433"
+    },
+    "Quest_SarahFernando_1_Description": {
+      "text": "ゾンビの群れが難民キャンプを襲った。サラとフェルナンドが助けを求めてジャックのキャンプにやってきた。サラは恋人の身を案じている。一刻を争う……",
+      "source": "101e8c2d14abb368"
+    },
+    "Quest_SarahFernando_1_Title": {
+      "text": "サラの恋人",
+      "source": "3fa76444f73f31c6"
+    },
+    "Quest_SarahFernando_1_Todo_0": {
+      "text": "酒場でサラと話す",
+      "source": "2a7226e2fac6d5fd"
+    },
+    "Quest_SarahFernando_1_Todo_1": {
+      "text": "サラ、フェルナンドと共にサラの恋人を探す",
+      "source": "32c8ead70deeabac"
+    },
+    "Quest_SarahLance_1_Description": {
+      "text": "ゾンビの群れが難民キャンプを蹂躙した。サラとランスが助けを求めてジャックのキャンプへやって来た。サラは恋人の身を案じている。一刻を争う……",
+      "source": "d4a8a05be4e5ee32"
+    },
+    "Quest_SarahLance_1_Title": {
+      "text": "サラの恋人",
+      "source": "3fa76444f73f31c6"
+    },
+    "Quest_SarahLance_1_Todo_0": {
+      "text": "酒場でサラと話す",
+      "source": "2a7226e2fac6d5fd"
+    },
+    "Quest_SarahLance_1_Todo_1": {
+      "text": "サラ、ランスと一緒にサラの恋人を探す",
+      "source": "161a0462b0f0b0ee"
+    },
+    "Quest_Sharon_1_Description": {
+      "text": "シャロンは密輸業者のボス、ジミーに脅迫されている。力になれる方法を探ろう。",
+      "source": "ea1c1b0d5e7274bc"
+    },
+    "Quest_Sharon_1_Title": {
+      "text": "脅迫",
+      "source": "da5383b9807f1f15"
+    },
+    "Quest_Sharon_1_Todo_0": {
+      "text": "変異オオカミの洞窟を探索する",
+      "source": "a11ddd3aaa47d9ca"
+    },
+    "Quest_Sharon_1_Todo_1": {
+      "text": "密輸業者本部でシャロンと会う",
+      "source": "3b06366185316645"
+    },
+    "Quest_Sharon_1_Todo_2": {
+      "text": "北にある変異オオカミの洞窟を探索する",
+      "source": "fcac0f5bdedaa68a"
+    },
+    "Quest_Sharon_1_Todo_3": {
+      "text": "明日まで待って、密輸業者のボス、ジミーの反応を確かめる",
+      "source": "02724ef03b0ebe14"
+    },
+    "Quest_Sharon_1_Todo_4": {
+      "text": "変異したオオカミの洞窟についてトレバーと話す",
+      "source": "a05cd447667e7a53"
+    },
+    "Quest_Steven_1_Description": {
+      "text": "親友が自分とジャックのキャンプの皆を売り渡したことが、いまだに信じられない。彼は手紙を残していった。読んでおくべきだろう。",
+      "source": "950e74b9922054d0"
+    },
+    "Quest_Steven_1_Title": {
+      "text": "裏切り者の追跡",
+      "source": "4868eef1af0f5a5d"
+    },
+    "Quest_Steven_1_Todo_0": {
+      "text": "任意: スティーブンからの手紙を読む",
+      "source": "e2b809aa8ea5213b"
+    },
+    "Quest_Steven_1_Todo_1": {
+      "text": "任意: スティーブンの隠れ家を訪ねる",
+      "source": "0e4193a3ba3b689e"
+    },
+    "Quest_Steven_1_Todo_2": {
+      "text": "密輸業者の前哨基地でスティーブンを探す",
+      "source": "4c288dc64903c258"
+    },
+    "Quest_Steven_1_Todo_3": {
+      "text": "キラと話す",
+      "source": "e172dad272f68201"
+    },
+    "Quest_Steven_1_Todo_4": {
+      "text": "密輸業者との友好度を「支持者」まで上げ、キラのもとへ戻る",
+      "source": "236eb1d2b09a9625"
+    },
+    "Quest_Steven_1_Todo_5": {
+      "text": "密輸業者の本部にたどり着く",
+      "source": "cf608701c32aa764"
+    },
+    "Quest_Steven_1_Todo_6": {
+      "text": "密輸業者の本部でスティーブンを見つける",
+      "source": "07e84da4ee9b90e4"
+    },
+    "Quest_Steven_1_Todo_7": {
+      "text": "任意: キラから評判を買う",
+      "source": "61c885d6c4568bcf"
+    },
+    "Quest_Steven_2_Description": {
+      "text": "南部へ行けるようになった。スティーブンはキラから新たな任務を受ける。",
+      "source": "21555499b42dfa30"
+    },
+    "Quest_Steven_2_Title": {
+      "text": "スティーブンの秘密任務",
+      "source": "f1c6cbee0911356e"
+    },
+    "Quest_Steven_2_Todo_0": {
+      "text": "任意: スティーブンが南部にある密輸業者の前哨基地でシャロンと話したがっている",
+      "source": "21806e12c152ed9d"
+    },
+    "Quest_Steven_2_Todo_1": {
+      "text": "スティーブンと一緒に、変異オオカミの洞窟を探索する",
+      "source": "a6eed0d0235b9903"
+    },
+    "Quest_Steven_2_Todo_2": {
+      "text": "フォレストグレイブでキラと話す",
+      "source": "1fbf3b53e345f5ad"
+    },
+    "Quest_Steven_2_Todo_3": {
+      "text": "スティーブンと一緒に、南部の邸宅を探索する",
+      "source": "117277beb2f016fa"
+    },
+    "Quest_Sueden_1_Description": {
+      "text": "三勢力が覇権を争っている。どの勢力も、連絡の途絶えた前哨基地と接触するため、真っ先に南部へ入ろうとしている。",
+      "source": "5664bb33bc31d375"
+    },
+    "Quest_Sueden_1_Title": {
+      "text": "南への道",
+      "source": "219bc04342ae69ad"
+    },
+    "Quest_Sueden_1_Todo_0": {
+      "text": "崩れたトンネルについて、フォレストグレイブにいるキラと話す",
+      "source": "3df30c09f3867b34"
+    },
+    "Quest_Sueden_1_Todo_1": {
+      "text": "デニース知事からの手紙を、独立派本部のジョセフ知事に届ける",
+      "source": "b49ea647cf1eb17f"
+    },
+    "Quest_Sueden_1_Todo_2": {
+      "text": "鉱山について、アメリカ軍本部のチャールズ将軍と話す",
+      "source": "7a818d2a5b766bdc"
+    },
+    "Quest_Sueden_1_Todo_3": {
+      "text": "崩れたトンネルについて、密輸業者のボス、ジミーと話す",
+      "source": "8ba5d48cfcb143d1"
+    },
+    "Quest_Sueden_2_Description": {
+      "text": "南へ通じる崩れたトンネルを開通させなければならない。それにはダイナマイトが必要だが、そう簡単には手に入らない。方法はあるものの、代償が伴う……",
+      "source": "3a19968394969416"
+    },
+    "Quest_Sueden_2_Title": {
+      "text": "トンネル用のダイナマイト",
+      "source": "f77e39853377645b"
+    },
+    "Quest_Sueden_2_Todo_0": {
+      "text": "パンクスの首領の隠れ場所を突き止める",
+      "source": "4610c3c187fa6e79"
+    },
+    "Quest_Sueden_2_Todo_1": {
+      "text": "任意: 商人のジョーから、パンクスの首領の居場所について情報を集める",
+      "source": "2f7b56ff9ee6ee7a"
+    },
+    "Quest_Sueden_2_Todo_2": {
+      "text": "パンクスの首領の居場所について、トレバーと話す",
+      "source": "a877adc4475df333"
+    },
+    "Quest_Sueden_2_Todo_3": {
+      "text": "テレンスのお宝をトレバーに届ける",
+      "source": "92cd211490d1ba24"
+    },
+    "Quest_Sueden_2_Todo_4": {
+      "text": "ダイナマイトについて、密輸業者のボス、ジミーと話す",
+      "source": "76c97595f29cebec"
+    },
+    "Quest_Sueden_2_Todo_5": {
+      "text": "独立派から、パンクスの首領の居場所について情報を集める",
+      "source": "7a14bf01f98dee65"
+    },
+    "Quest_Sueden_2_Todo_6": {
+      "text": "パンクスの首領からダイナマイトを手に入れ、ジェーンを救出する",
+      "source": "aa484c6d8c94bf71"
+    },
+    "Quest_Sueden_2_Todo_7": {
+      "text": "ダイナマイトを、アメリカ軍のチャールズ将軍か密輸業者のボス、ジミーのどちらかに渡す",
+      "source": "9c9fe84cece26562"
+    },
+    "Quest_Sueden_3_Description": {
+      "text": "ジョセフ知事は、橋の破壊をめぐる詳しい経緯を突き止めるため、あなたにスパイとして動いてほしいと考えている。",
+      "source": "8cd26e4f71f59cee"
+    },
+    "Quest_Sueden_3_Title": {
+      "text": "独立派のスパイ",
+      "source": "1b1a036b8838bbe4"
+    },
+    "Quest_Sueden_3_Todo_0": {
+      "text": "橋の破壊工作の謎を解き、ジョセフ知事のもとへ戻る",
+      "source": "7c9b676bffd55602"
+    },
+    "Quest_Sueden_3_Todo_1": {
+      "text": "橋の破壊工作に関する手がかりを探す（[CC(Max)EventContext(Progress)]/[EventContext(Max)]）",
+      "source": "627883b40dfcc554"
+    },
+    "Quest_Sueden_3_Todo_2": {
+      "text": "破壊された橋について、各勢力のリーダーと話す",
+      "source": "6cb8d863c4243b34"
+    },
+    "Quest_Sueden_3_Todo_3": {
+      "text": "ダイナーで情報屋を見つける",
+      "source": "489a6167956573f0"
+    },
+    "Quest_Sueden_3_Todo_4": {
+      "text": "リーダーを尾行し、情報屋を見つける",
+      "source": "856cf411920b2bc9"
+    },
+    "Quest_Sueden_3_Todo_5": {
+      "text": "デクスターからの手紙を読む",
+      "source": "3d7be86db132aa90"
+    },
+    "Quest_Sueden_3_Todo_6": {
+      "text": "独立派本部のジョセフのもとへ戻る",
+      "source": "df2070a7ff43c805"
+    },
+    "Quest_Sueden_3_Todo_7": {
+      "text": "新しい知事と話す",
+      "source": "a2f00d2962e8ef9f"
+    },
+    "Quest_Sueden_3_Todo_8": {
+      "text": "商人ギルドで橋の破壊工作の手がかりを探す",
+      "source": "75375f9011b8dd47"
+    },
+    "Quest_TessaFernando_1_Description": {
+      "text": "テッサはゾンビの群れの襲撃で噛まれてしまい、残された時間は少ない。ゾムデックスを投与しなければ、3日で感染が進んでゾンビになってしまう。あいにく、ゾムデックスは希少で高価だ。",
+      "source": "8b558b596f9ccd72"
+    },
+    "Quest_TessaFernando_1_Title": {
+      "text": "テッサの感染",
+      "source": "868b40260aab0e04"
+    },
+    "Quest_TessaFernando_1_Todo_0": {
+      "text": "酒場でテッサ、フェルナンドと話す",
+      "source": "5d43676039122e79"
+    },
+    "Quest_TessaFernando_1_Todo_1": {
+      "text": "テッサの感染を治療する",
+      "source": "eb42a4f70906cec5"
+    },
+    "Quest_TessaFernando_1_Todo_2": {
+      "text": "任意: フェルナンドをパーティに加える",
+      "source": "12ef18a4f60cc99e"
+    },
+    "Quest_TessaFernando_1_Todo_3": {
+      "text": "任意: 独立派の商人からゾムデックスを購入する",
+      "source": "1368aea35a1bdb6f"
+    },
+    "Quest_TessaFernando_1_Todo_4": {
+      "text": "任意: 軍の前哨基地でラナと話す",
+      "source": "a632392871ebe5ec"
+    },
+    "Quest_TessaFernando_1_Todo_5": {
+      "text": "任意: ラナの友人を救出し、ゾムデックスを受け取る",
+      "source": "5242ba7159923f1f"
+    },
+    "Quest_TessaFernando_1_Todo_6": {
+      "text": "任意: ラナと話す",
+      "source": "27da58f3b8bac7f3"
+    },
+    "Quest_TessaFernando_1_Todo_7": {
+      "text": "インベントリでテッサを選び、ゾムデックスの錠剤を使う",
+      "source": "ee1a238051ce7f8a"
+    },
+    "Quest_TessaLance_1_Description": {
+      "text": "テッサが群れの襲撃で噛まれてしまった。時間がない。ゾムデックスを投与しなければ、3日で感染によってゾンビになってしまう。あいにく、ゾムデックスは希少で高価だ。",
+      "source": "8b558b596f9ccd72"
+    },
+    "Quest_TessaLance_1_Title": {
+      "text": "テッサの感染",
+      "source": "868b40260aab0e04"
+    },
+    "Quest_TessaLance_1_Todo_0": {
+      "text": "酒場でテッサとランスと話す",
+      "source": "a9b5d4232e3b1d63"
+    },
+    "Quest_TessaLance_1_Todo_1": {
+      "text": "テッサの感染を治療する",
+      "source": "eb42a4f70906cec5"
+    },
+    "Quest_TessaLance_1_Todo_2": {
+      "text": "任意: ランスをパーティに加える",
+      "source": "19bc46d01ac6aa07"
+    },
+    "Quest_TessaLance_1_Todo_3": {
+      "text": "任意: 独立派の商人からゾムデックスを買う",
+      "source": "1368aea35a1bdb6f"
+    },
+    "Quest_TessaLance_1_Todo_4": {
+      "text": "任意: 軍の前哨基地でラナと話す",
+      "source": "a632392871ebe5ec"
+    },
+    "Quest_TessaLance_1_Todo_5": {
+      "text": "任意: ラナの友人を救出してゾムデックスを受け取る",
+      "source": "5242ba7159923f1f"
+    },
+    "Quest_TessaLance_1_Todo_6": {
+      "text": "任意: ラナと話す",
+      "source": "27da58f3b8bac7f3"
+    },
+    "Quest_TessaLance_1_Todo_7": {
+      "text": "インベントリでテッサを選び、ゾムデックスの錠剤を使う",
+      "source": "ee1a238051ce7f8a"
+    },
+    "Quest_ThreatReduction_1_Description": {
+      "text": "各地域にゾンビがはびこっている。できるだけ多くの場所を確保すれば、状況は多少なりとも落ち着くはずだ。",
+      "source": "911cd24f07f7ac62"
+    },
+    "Quest_ThreatReduction_1_Title": {
+      "text": "危険度の引き下げ: [T:EventContext(Area)]",
+      "source": "f673b2169ec79596"
+    },
+    "Quest_ThreatReduction_1_Todo_0": {
+      "text": "[T:EventContext(Area)]の資源地点を[EventContext(Max)]か所探索する [CC(Max)EventContext(Progress)]/[EventContext(Max)]",
+      "source": "87c3c8448d15db37"
+    },
+    "Quest_Trevor_1_Description": {
+      "text": "密輸業者のトレバーから、西のアメリカ軍前哨基地へ向かう仕事を任された。",
+      "source": "1528358127576a33"
+    },
+    "Quest_Trevor_1_Title": {
+      "text": "貴重な積み荷",
+      "source": "a95182bc90be7a35"
+    },
+    "Quest_Trevor_1_Todo_0": {
+      "text": "フリーダムシティのアメリカ軍前哨基地で医師のイーサンと話す",
+      "source": "ea7144bf45705618"
+    },
+    "Quest_Trevor_1_Todo_1": {
+      "text": "医師を密輸業者の前哨基地にいるトレバーのもとへ護衛する",
+      "source": "1d413f483576965d"
+    },
+    "Quest_Trevor_2_Description": {
+      "text": "トレバーは簡単にはあきらめない。今なら南部でテレンスの隠し財産に手が届くかもしれない。",
+      "source": "5a8362555362f14e"
+    },
+    "Quest_Trevor_2_Title": {
+      "text": "テレンスの隠し財産",
+      "source": "e6c4c51ebd519c95"
+    },
+    "Quest_Trevor_2_Todo_0": {
+      "text": "南部にある独立派の前哨基地で、テレンスの妻について調べる",
+      "source": "aeb14476fe0946ff"
+    },
+    "Quest_Trevor_2_Todo_1": {
+      "text": "パンクスの野営地で、テレンスの妻について調べる",
+      "source": "28f4fcb903193b13"
+    },
+    "Quest_Trevor_2_Todo_2": {
+      "text": "テレンスの隠し財産について、ラリッサと話す",
+      "source": "7f812d769beba79b"
+    },
+    "Quest_Trevor_2_Todo_3": {
+      "text": "南部の隠れ家でテレンスの隠し財産を回収する",
+      "source": "85a70338d62a5dcc"
+    },
+    "Quest_Trevor_2_Todo_4": {
+      "text": "隠し財産をラリッサとトレバーのどちらと分け合うか決める",
+      "source": "8abc07d98ad82a51"
+    },
+    "Quest_Trevor_2_Todo_5": {
+      "text": "南の砂漠近くにある橋を修理する（資材 [C(30)Inventory_Resource_3]/30、スクラップ [C(4)Inventory_Resource_4]/4）",
+      "source": "a2e3ad189c2e0a1e"
+    },
+    "Quest_TrishTutorial_1_Description": {
+      "text": "ようやくジャックのキャンプに着いたスティーブンは、トリッシュから質問攻めにあった。まずは弾薬について学ぶべきだろう。",
+      "source": "f5b70f2b529dd366"
+    },
+    "Quest_TrishTutorial_1_Title": {
+      "text": "クラフト入門",
+      "source": "5d5ddaec7915cb2f"
+    },
+    "Quest_TrishTutorial_1_Todo_0": {
+      "text": "アサルトライフルの弾薬を作る",
+      "source": "68498953761951df"
+    },
+    "Quest_TrishTutorial_2_Description": {
+      "text": "クラフトが終わったら、スティーブンは夕方に偵察役の仕事を覚えるべきだ。",
+      "source": "d717dddba7870be9"
+    },
+    "Quest_TrishTutorial_2_Title": {
+      "text": "無線",
+      "source": "b0580fecee8e9fc5"
+    },
+    "Quest_TrishTutorial_2_Todo_0": {
+      "text": "偵察役の仕事をこなす",
+      "source": "3b41b15708f7d65d"
+    },
+    "Quest_TrishTutorial_3_Description": {
+      "text": "キャンプは今、無防備な状態だ。スティーブンは防衛設備を建てるべきだ。防衛設備のないキャンプは長くはもたない。",
+      "source": "4923adcb14a1a6dd"
+    },
+    "Quest_TrishTutorial_3_Title": {
+      "text": "防衛設備",
+      "source": "81c44d3990936533"
+    },
+    "Quest_TrishTutorial_3_Todo_0": {
+      "text": "防衛設備をランク1まで建設する",
+      "source": "eb011f7ed3a6577d"
+    },
+    "Quest_Trish_1_Description": {
+      "text": "スティーブンがキャンプを裏切って密輸業者に寝返ったため、[Player]は生存者たちの面倒を見ざるを得なくなった。",
+      "source": "56821b526bff29b0"
+    },
+    "Quest_Trish_1_Title": {
+      "text": "小さなエデンの園",
+      "source": "2d10619980eb7a55"
+    },
+    "Quest_Trish_1_Todo_0": {
+      "text": "任意: 酒場でトリッシュと話し、詳しい情報を聞く",
+      "source": "046f74ce3b2734e7"
+    },
+    "Quest_Trish_1_Todo_1": {
+      "text": "菜園用の資源を集める（資材 [C(10)Inventory_Resource_3]/10、スクラップ [C(3)Inventory_Resource_4]/3、食料 [C(1)Inventory_Resource_2]/1）",
+      "source": "8ce102a8b3132161"
+    },
+    "Quest_Trish_1_Todo_2": {
+      "text": "菜園を建設する（資材 [Inventory_Resource_3]/10、スクラップ [Inventory_Resource_4]/3、食料 [Inventory_Resource_2]/1）",
+      "source": "ef1d2134fc9bd9f9"
+    },
+    "Quest_Trish_2_Description": {
+      "text": "生存者は夕暮れと夜明けごとに食料を1つ消費する。食料をもっと手に入れるには狩猟小屋が必要だ。",
+      "source": "a3a29518abbe5567"
+    },
+    "Quest_Trish_2_Title": {
+      "text": "狩猟小屋",
+      "source": "9d67a8460c7f398f"
+    },
+    "Quest_Trish_2_Todo_0": {
+      "text": "任意: 酒場でトリッシュと話し、情報を聞く",
+      "source": "86b10d3d0c9fbcc9"
+    },
+    "Quest_Trish_2_Todo_1": {
+      "text": "狩猟小屋を建設する（資材 [C(10)Inventory_Resource_3]/10、スクラップ [C(3)Inventory_Resource_4]/3、食料 [C(1)Inventory_Resource_2]/1）",
+      "source": "eb074eb727e948f6"
+    },
+    "Quest_Trish_3_Description": {
+      "text": "ジャックのキャンプには、救急キットをもっと作るために、医療の知識を持つ生存者が必要だ。",
+      "source": "e96884c8033eecc8"
+    },
+    "Quest_Trish_3_Title": {
+      "text": "医務室",
+      "source": "8186e23220ae4adc"
+    },
+    "Quest_Trish_3_Todo_0": {
+      "text": "任意: 酒場でトリッシュと話し、詳しい情報を聞く",
+      "source": "150b2e3a954d7c72"
+    },
+    "Quest_Trish_3_Todo_1": {
+      "text": "医務室を建設する（資材 [C(10)Inventory_Resource_3]/10、スクラップ [C(3)Inventory_Resource_4]/3、食料 [C(1)Inventory_Resource_2]/1）",
+      "source": "bfcc347da5e4ffcd"
+    },
+    "Quest_Trish_3_Todo_2": {
+      "text": "医務室で作る: [T:EventContext(ItemName)]",
+      "source": "a9bb9ebb12a7a443"
+    },
+    "Quest_Trixy_1_Description": {
+      "text": "トリクシーはジャックのキャンプに、密輸業者の友人とそのパトロール隊の捜索を依頼した。最後に確認されたとき、彼らは鉱山の入口で見張りについていた。",
+      "source": "549dd3a9093ef03f"
+    },
+    "Quest_Trixy_1_Title": {
+      "text": "行方不明の友人",
+      "source": "8881dd778b4763c1"
+    },
+    "Quest_Trixy_1_Todo_0": {
+      "text": "鉱山でトリクシーの友人の行方の手がかりを探す",
+      "source": "228f310506fb2d7f"
+    },
+    "Quest_Trixy_1_Todo_1": {
+      "text": "鉱山からの脱出路を見つける",
+      "source": "d504f4d0ee47bb2d"
+    },
+    "Quest_Trixy_1_Todo_2": {
+      "text": "トリクシーのもとへ戻る",
+      "source": "a3b9450fb04c78f3"
+    },
+    "Quest_Ubahn_Description": {
+      "text": "南部へ行くには、地下鉄の駅を制圧しなければならない。",
+      "source": "28bca2cbf6eec0f0"
+    },
+    "Quest_Ubahn_Title": {
+      "text": "新しい地下鉄駅",
+      "source": "08ef4e10b3a2ef61"
+    },
+    "Quest_Ubahn_Todo_0": {
+      "text": "任意: スティーブンと一緒に新しい地下鉄駅にたどり着く",
+      "source": "ecbf0095d7d67fc0"
+    },
+    "Quest_Ubahn_Todo_1": {
+      "text": "任意: ジェーンと一緒に新しい地下鉄駅にたどり着く",
+      "source": "5eb359b7a301beb3"
+    },
+    "Quest_Ubahn_Todo_2": {
+      "text": "地下鉄トンネルからアンデッドを一掃する",
+      "source": "4b7ff3416927bd82"
+    },
+    "Quest_Ubahn_Todo_3": {
+      "text": "明日の朝まで待つ",
+      "source": "72b8f028f03e1052"
+    },
+    "Quest_Ubahn_Todo_4": {
+      "text": "今日の夕方まで待つ",
+      "source": "a0655923b491a483"
+    },
+    "SideQuest_1_Description": {
+      "text": "簡単なサイドジョブ: 他の勢力に商品を売る",
+      "source": "2fb5d8f5f7f686fb"
+    },
+    "SideQuest_1_Title": {
+      "text": "サイドジョブ: 商人",
+      "source": "5e872c622fe05884"
+    },
+    "SideQuest_1_Todo_0": {
+      "text": "[T:EventContext(TargetLocation)]の拠点に商品を売る",
+      "source": "3a3237fa1365a115"
+    },
+    "SideQuest_2_Description": {
+      "text": "簡単なサイドジョブ: 手紙を届ける",
+      "source": "d53b8df6ed996765"
+    },
+    "SideQuest_2_Title": {
+      "text": "サイドジョブ: 配達人",
+      "source": "d0d37ccf0c10cf06"
+    },
+    "SideQuest_2_Todo_0": {
+      "text": "[T:EventContext(TargetLocation)]の知事に手紙を届ける",
+      "source": "039905b893f15b37"
+    },
+    "SideQuest_3_Description": {
+      "text": "中難度のサイドジョブ: 旅人を守る",
+      "source": "7711f2adb81ae4f2"
+    },
+    "SideQuest_3_Title": {
+      "text": "サイドジョブ: ボディガード",
+      "source": "c1fc2b9788d97a91"
+    },
+    "SideQuest_3_Todo_0": {
+      "text": "旅人を[T:EventContext(TargetLocation)]まで護衛する",
+      "source": "9dcd1065f9ec3802"
+    },
+    "SideQuest_4_Description": {
+      "text": "難しいサイドジョブ: 民間人を救出する",
+      "source": "afdeec3b1514e3b9"
+    },
+    "SideQuest_4_Title": {
+      "text": "サイドジョブ: 救助者",
+      "source": "6a0dbd61da2d276a"
+    },
+    "SideQuest_4_Todo_0": {
+      "text": "[T:EventContext(TargetFactionPos)]集団から民間人を2人救出する",
+      "source": "b0a6051197b3591b"
+    },
+    "SideQuest_5_Description": {
+      "text": "難しいサイドジョブ: 拠点の破壊は簡単ではない",
+      "source": "40736308b49d93ab"
+    },
+    "SideQuest_5_Title": {
+      "text": "サイドジョブ: 破壊者",
+      "source": "584c51960780e760"
+    },
+    "SideQuest_5_Todo_0": {
+      "text": "[T:EventContext(TargetFactionPos)]キャンプを2つ破壊する: [C(2)EventContext(Progress)] / 2",
+      "source": "91b9468fc11dd576"
+    },
+    "SideQuest_6_Description": {
+      "text": "難しいサイドジョブ: 一兵卒は手ごわい相手だ",
+      "source": "e4025652348f3bfd"
+    },
+    "SideQuest_6_Title": {
+      "text": "サイドジョブ: 兵士",
+      "source": "f9a0b929b154df6d"
+    },
+    "SideQuest_6_Todo_0": {
+      "text": "[T:EventContext(TargetFactionPos)]兵士を排除する",
+      "source": "e4830683e115631d"
+    },
+    "SideQuest_7_Description": {
+      "text": "難易度中のサイドジョブ: 囚人を護送する",
+      "source": "848f29f82beff58f"
+    },
+    "SideQuest_7_Title": {
+      "text": "サイドジョブ: 警官",
+      "source": "22cef4b9c5be69b2"
+    },
+    "SideQuest_7_Todo_0": {
+      "text": "囚人を[T:EventContext(TargetLocation)]まで護送する",
+      "source": "38f1a919744aa4ae"
+    }
+  }
+}

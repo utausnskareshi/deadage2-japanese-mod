@@ -1,0 +1,541 @@
+{
+  "table": "ui",
+  "entries": {
+    "DeadAge2_News": {
+      "text": "押し寄せるアンデッドの海と、敵になるかもしれない生存者の勢力を前にして、あなたはどう生き延びますか？\u3000Dead Age 2ではあっけなく命を落とすこともありますが、恥じることはありません。新たな周回では、追加のアップグレードで強くなり、新しいサバイバル戦略を練ることができます。[br]バグを見つけた場合は、こちらの[b][link(forum)]リンク[/link][/b]からご報告ください。[br]より良い続編を作るため、3年間懸命に開発してきました。Dead Age 2を気に入っていただけたら、ぜひレビューで応援してください。",
+      "source": "7107559200af8200"
+    },
+    "Info_AddController": {
+      "text": "コントローラー",
+      "source": "31df66dc9f060166"
+    },
+    "Info_AddController_desc": {
+      "text": "{0}をDead Age 2の入力デバイスとして使用しますか？\u3000この設定はオプションメニューでリセットできます。",
+      "source": "fcf0c917e44e2a40"
+    },
+    "Info_AdrenalineBonusDamage": {
+      "text": "追加で[b]{0}%のアドレナリンダメージ[/b]を与える。",
+      "source": "a0770b9a7bd8ca49"
+    },
+    "Info_Adrenaline_desc": {
+      "text": "通常の遠距離攻撃や近接攻撃を行うたびに、キャラクターのアドレナリンが上昇します。アドレナリンは最大レベル3までたまり、より高度なスキルを使うときに消費されます。",
+      "source": "f6b3f14d5fd81eae"
+    },
+    "Info_AlreadyHealed": {
+      "text": "このキャラクターはすでにHPが満タンです。",
+      "source": "edf15bc341968f9a"
+    },
+    "Info_AmmoConsumed": {
+      "text": "弾薬が尽きました",
+      "source": "311832884fe30391"
+    },
+    "Info_ArmorHalved": {
+      "text": "防御力半減",
+      "source": "16fb3de23fec7bd6"
+    },
+    "Info_ArmorPiercingDesc": {
+      "text": "防御力を無視する。防御力の高い相手に有効。",
+      "source": "a0c78df347ea44b6"
+    },
+    "Info_AttributeApply": {
+      "text": "能力値の変更を確定またはリセットしますか？",
+      "source": "e9d2844f5482dac5"
+    },
+    "Info_AutoRetreat_Day": {
+      "text": "昼が終わりました。疲労がたまったため、拠点に戻ります。",
+      "source": "a9d15edea157e1eb"
+    },
+    "Info_AutoRetreat_Night": {
+      "text": "夜が終わりました。疲労がたまったため、拠点に戻ります。",
+      "source": "73b96b7b99865c3b"
+    },
+    "Info_BackToCharSel": {
+      "text": "本当に現在の進行状況を破棄し、新しいキャラクターで始めますか？",
+      "source": "476800a600cc927c"
+    },
+    "Info_BackToMenu": {
+      "text": "本当にメインメニューに戻りますか？",
+      "source": "0b30db359e2c71af"
+    },
+    "Info_CampAttack_Independents": {
+      "text": "数時間後に独立派の部隊が襲ってきます。見張りを最低1人は配置しておくべきです。それでも続行しますか？",
+      "source": "91ca8710d901326f"
+    },
+    "Info_CampAttack_Military": {
+      "text": "数時間後にアメリカ軍の部隊が襲ってきます。見張りを最低1人は配置しておくべきです。それでも続行しますか？",
+      "source": "a2195937937127f5"
+    },
+    "Info_CampAttack_Mutants": {
+      "text": "数時間後にミュータントの群れが襲ってきます。見張りを最低1人は配置しておくべきです。それでも続行しますか？",
+      "source": "60504b1dde21251a"
+    },
+    "Info_CampAttack_Smugglers": {
+      "text": "数時間後に密輸業者の部隊が襲ってきます。見張りを最低1人は配置しておくべきです。それでも続行しますか？",
+      "source": "4fe1c4d507a2e379"
+    },
+    "Info_CampAttack_Zombies": {
+      "text": "数時間後にゾンビの群れが襲ってきます。見張りを最低1人は配置しておくべきです。それでも続行しますか？",
+      "source": "2534d8b92d010678"
+    },
+    "Info_CharCreation_Faction": {
+      "text": "勢力を選択できます。",
+      "source": "e1f6ae6024bc3a93"
+    },
+    "Info_CharCreation_Medals": {
+      "text": "メダルが残っています。",
+      "source": "5812f07a82c1ead9"
+    },
+    "Info_CharDeathCollect": {
+      "text": "{0}のアイテムを回収しました",
+      "source": "e11fd27d9b1479f8"
+    },
+    "Info_CrashReport": {
+      "text": "クラッシュが発生しました！\u3000生成されたクラッシュレポートを送っていただければ、問題の解決に役立ちます。ZIPファイルを[b]contact@silentdreams.de[/b]宛てにメールで送ってください。問題を再現しやすくするため、クラッシュ直前に何をしていたかも書き添えていただけると助かります。",
+      "source": "e20f87ede4338fdd"
+    },
+    "Info_DayEndCrafting": {
+      "text": "主人公に作業を割り当てると、その日は終了します。割り当てますか？",
+      "source": "97bc250ac707af30"
+    },
+    "Info_Delete_Save": {
+      "text": "セーブデータを削除してもよろしいですか？\nアップグレードもすべて削除されます。",
+      "source": "1f016c7c25bbde36"
+    },
+    "Info_Delete_Save_1": {
+      "text": "セーブデータを削除してもよろしいですか？",
+      "source": "9ab40acf39e2295e"
+    },
+    "Info_Delete_Save_2": {
+      "text": "アップグレード / メダルを保持したまま、現在の周回を終了しますか？",
+      "source": "92b3991306255d46"
+    },
+    "Info_DialogueClick": {
+      "text": "会話ウィンドウをクリックして先に進んでください",
+      "source": "3a1adc09e1fa31aa"
+    },
+    "Info_Difficulty_0": {
+      "text": "ノーマル",
+      "source": "a7248eeb45eb1ce2"
+    },
+    "Info_Difficulty_0_Desc": {
+      "text": "バランスが取れていますが、手ごたえは十分です。永久死に注意してください。死亡しても、次の周回に向けてアップグレードを購入できます。",
+      "source": "db87c94b4752fe40"
+    },
+    "Info_Difficulty_1": {
+      "text": "ハードコア",
+      "source": "e913447f262a636b"
+    },
+    "Info_Difficulty_1_Desc": {
+      "text": "熟練の戦略家向け！\u3000敵はかなり強力です。過去の周回で得たキャラクターのアップグレードがある状態でのプレイを推奨します。",
+      "source": "f8713ae049f6a421"
+    },
+    "Info_Difficulty_2": {
+      "text": "カジュアル",
+      "source": "f32445a73e56fb69"
+    },
+    "Info_Difficulty_2_Desc": {
+      "text": "敵がかなり弱くなります。死亡しても、次の周回に向けてアップグレードを購入できます。",
+      "source": "0b1cf5bc0fcb164d"
+    },
+    "Info_EventCheckSuccess": {
+      "text": "{0}がうまくやり遂げました（経験値+{1}）",
+      "source": "93e528d136ab3558"
+    },
+    "Info_FactionNotAvailable": {
+      "text": "アップグレードメニューで有効にする必要があります。",
+      "source": "dec4fc157b92cb90"
+    },
+    "Info_FinCharCreation": {
+      "text": "選択した設定でゲームを開始しますか？",
+      "source": "9b002319fc61e35f"
+    },
+    "Info_Formation": {
+      "text": "隊列",
+      "source": "49a63d72be2fc0e6"
+    },
+    "Info_Formation_desc": {
+      "text": "前列の生存者は、その後ろの遠距離攻撃の列にいる味方を守ることができる。",
+      "source": "e368823c4077b6db"
+    },
+    "Info_GameCompleted": {
+      "text": "勝利おめでとうございます！\u3000次はより高い難易度で、もう一周挑戦してみてください。",
+      "source": "91d6caacc0967e38"
+    },
+    "Info_GameSaved": {
+      "text": "セーブしました",
+      "source": "df291849dd663613"
+    },
+    "Info_HoundNotAvailable": {
+      "text": "先に猟犬を見つけてください",
+      "source": "a0c8e0050bb3629d"
+    },
+    "Info_ItemGiven": {
+      "text": "アイテム減少: {0} ×{1}",
+      "source": "66d88644e58b2235"
+    },
+    "Info_ItemReceived": {
+      "text": "アイテム入手: {0} ×{1}",
+      "source": "d6de472fe5937c2a"
+    },
+    "Info_ItemUpgradeApply": {
+      "text": "アイテム「{0}」を強化しますか？",
+      "source": "5e3b1b024de7d2b1"
+    },
+    "Info_JobResourceLack": {
+      "text": "生活に必要な資源が足りなくても一度は仕事を割り当てられますが、ストレスにより、そのキャラクターは翌日[b]落ち込み[/b]状態になります。",
+      "source": "636e22f52e0d6d5c"
+    },
+    "Info_Leave_Camp": {
+      "text": "パーティが揃っていませんが、本当に出発しますか？\u3000パーティメンバーはインベントリ、仕事画面、スキル画面で追加できます。",
+      "source": "bbcb23eab65d93d6"
+    },
+    "Info_Loading": {
+      "text": "ロード中……",
+      "source": "30630905f98b555e"
+    },
+    "Info_MissingWeapon": {
+      "text": "武器を装備していないキャラクターがいます。本当にキャンプを出発しますか？",
+      "source": "c5c459bb472d0aaf"
+    },
+    "Info_NoAmmo": {
+      "text": "弾薬が足りません！",
+      "source": "1ee7d5ce6eee92e3"
+    },
+    "Info_NoAp": {
+      "text": "APが足りません！",
+      "source": "d31d7919352ada61"
+    },
+    "Info_NoTarget": {
+      "text": "範囲内に有効な対象がいません！",
+      "source": "fa66842ec5136453"
+    },
+    "Info_NoViableMod": {
+      "text": "改造が選択されていません",
+      "source": "d5414e908c286764"
+    },
+    "Info_NotEnoughMoney": {
+      "text": "お金が足りません",
+      "source": "eeb698263e24999f"
+    },
+    "Info_NotEquipable_Talent": {
+      "text": "武器の技能を習得していません",
+      "source": "f26bc46f6c348a40"
+    },
+    "Info_NotHereToSpeak": {
+      "text": "移動中はここで話すことはできません",
+      "source": "d63794fd91048313"
+    },
+    "Info_NotInfected": {
+      "text": "このキャラクターは感染していません。",
+      "source": "fdef503fdd278157"
+    },
+    "Info_NotSellable": {
+      "text": "このアイテムは売却できません",
+      "source": "1a63b1f962796a5f"
+    },
+    "Info_PartyFull": {
+      "text": "パーティがいっぱいです",
+      "source": "630b3808014e46a7"
+    },
+    "Info_QuestGiverWarning": {
+      "text": "本当に立ち去りますか？\u3000酒場にはまだ話をする相手がいます。",
+      "source": "6868957dfbf01c4a"
+    },
+    "Info_QuitGame": {
+      "text": "本当にゾンビ黙示録から撤退しますか？\u3000ゲームは自動的にセーブされます。",
+      "source": "074bad6d6ff3e914"
+    },
+    "Info_ReputationDown": {
+      "text": "{0}との友好度が{1}下がりました",
+      "source": "af2babdf498955a3"
+    },
+    "Info_ReputationUp": {
+      "text": "{0}との友好度が{1}上がりました",
+      "source": "6689584d4e8ea4f9"
+    },
+    "Info_ResolutionChangeDialogue": {
+      "text": "この解像度を維持しますか？\u3000維持しない場合は、元の設定に戻ります。残り{0}秒",
+      "source": "77f57a3b5576c8f1"
+    },
+    "Info_ResourceGiven": {
+      "text": "納品: {0} ×{1}",
+      "source": "f42fad558e6b4544"
+    },
+    "Info_ResourceReceived": {
+      "text": "入手: {0} ×{1}",
+      "source": "9ff61cbe03b9339c"
+    },
+    "Info_Retreat_Day": {
+      "text": "本当に拠点に戻りますか？\u3000昼が終了します。",
+      "source": "11241ea5e85dbc60"
+    },
+    "Info_Retreat_Dungeon": {
+      "text": "本当にワールドマップに戻りますか？",
+      "source": "036d2c3b6cee3534"
+    },
+    "Info_Retreat_Night": {
+      "text": "本当に拠点に戻りますか？\u3000夜が終了します。",
+      "source": "f3f2806127e203f3"
+    },
+    "Info_Retreat_Office": {
+      "text": "本当に拠点に戻りますか？",
+      "source": "26e0fd40df89ed49"
+    },
+    "Info_RoomJob_ArmorSmith": {
+      "text": "{0}が衣服を作りました（経験値+{1}）",
+      "source": "fd6daf0dfa873768"
+    },
+    "Info_RoomJob_Canceled": {
+      "text": "資源が足りないため、{0}は仕事「{1}」を中止しました",
+      "source": "6effcb2d7cdb2100"
+    },
+    "Info_RoomJob_Canceled_Mood": {
+      "text": "{0}は機嫌が悪いため、仕事「{1}」を中止しました",
+      "source": "b089773eb9e1aa6b"
+    },
+    "Info_RoomJob_Defense": {
+      "text": "{0}がキャンプの見張りをしました（経験値+{1}）",
+      "source": "aee2853878b001e2"
+    },
+    "Info_RoomJob_Farm": {
+      "text": "{0}が菜園の仕事を終えました（経験値+{1}）",
+      "source": "6a1c92879a2f70e5"
+    },
+    "Info_RoomJob_Hunter": {
+      "text": "{0}が狩猟の仕事を終えました（経験値+{1}）",
+      "source": "ec64a9716348b75f"
+    },
+    "Info_RoomJob_Medical": {
+      "text": "{0}が医薬品を作りました（経験値+{1}）",
+      "source": "38b82cba244ea396"
+    },
+    "Info_RoomJob_RadioStation": {
+      "text": "{0}が無線を使いました（経験値+{1}）",
+      "source": "0e6826302704bace"
+    },
+    "Info_RoomJob_Smith": {
+      "text": "{0}が弾薬を作りました（経験値+{1}）",
+      "source": "22e3241935cf2a2e"
+    },
+    "Info_RoomJob_WeaponSmith": {
+      "text": "{0}が武器を作りました（経験値+{1}）",
+      "source": "71fc10abd5af4104"
+    },
+    "Info_RoomUpgrade": {
+      "text": "施設を強化すると、新しいクラフトレシピや上位の仕事が解放され、ランク3では作業台が1つ増えます。（通信所と見張りを除く）",
+      "source": "bc3c60cc06c588a7"
+    },
+    "Info_RoomUpgraded_1": {
+      "text": "{1}が施設「{0}」を建設しました（経験値+{2}）",
+      "source": "2d8feab769285d78"
+    },
+    "Info_RoomUpgraded_2": {
+      "text": "{1}が施設「{0}」をランク2に強化しました（経験値+{2}）",
+      "source": "584f7bbe6681a725"
+    },
+    "Info_RoomUpgraded_3": {
+      "text": "{1}が施設「{0}」をランク3に強化しました（経験値+{2}）",
+      "source": "571943a59f8025c1"
+    },
+    "Info_SingleSell": {
+      "text": "本当にこのアイテムを売却しますか？",
+      "source": "510a05797035cca5"
+    },
+    "Info_SkillCooldown": {
+      "text": "クールダウン中です！",
+      "source": "a41cc93dc7e59125"
+    },
+    "Info_SkipDialogue": {
+      "text": "スキップ",
+      "source": "28d03596d24eeb4e"
+    },
+    "Info_Skip_Day": {
+      "text": "昼を終了しますか？\n\n（ヒント: 先に生存者へ仕事を割り当てておきましょう）",
+      "source": "ab09219c10d24478"
+    },
+    "Info_Skip_Night": {
+      "text": "夜を終了しますか？\n\n（ヒント: 先に生存者へ仕事を割り当てておきましょう）",
+      "source": "203feb648883647f"
+    },
+    "Info_StackBuy": {
+      "text": "{0}ドルで購入しますか？",
+      "source": "5983f8e4eb1d18e8"
+    },
+    "Info_StackSell": {
+      "text": "{0}ドルで売却しますか？",
+      "source": "4b03c14405eb0e25"
+    },
+    "Info_SurvivalOptions_AlleSindFeinde": {
+      "text": "万人の敵",
+      "source": "ee05d5ec2ad8efba"
+    },
+    "Info_SurvivalOptions_AlleSindFeinde_desc": {
+      "text": "すべての勢力からの評判が低い状態で始まる",
+      "source": "1d735a0f2a76fb9f"
+    },
+    "Info_SurvivalOptions_ArmesLand": {
+      "text": "不毛の地",
+      "source": "f5195464805ef652"
+    },
+    "Info_SurvivalOptions_ArmesLand_desc": {
+      "text": "戦利品が少なくなる（スタック数に影響）",
+      "source": "e3592fa3c8adb7be"
+    },
+    "Info_SurvivalOptions_GeizigeHaendler": {
+      "text": "がめつい商人",
+      "source": "e29ae96689e06f5a"
+    },
+    "Info_SurvivalOptions_GeizigeHaendler_desc": {
+      "text": "価格が上昇する",
+      "source": "f820b5bb411ca0a3"
+    },
+    "Info_SurvivalOptions_GrosserDurst": {
+      "text": "強い渇き",
+      "source": "14c8c99f9eba3acc"
+    },
+    "Info_SurvivalOptions_GrosserDurst_desc": {
+      "text": "あらゆる行動で水の消費量が増える",
+      "source": "d1f94c06e33fac20"
+    },
+    "Info_SurvivalOptions_GrosserHunger": {
+      "text": "強い飢え",
+      "source": "22282f36343f3a0f"
+    },
+    "Info_SurvivalOptions_GrosserHunger_desc": {
+      "text": "あらゆる行動で食料の消費量が増える",
+      "source": "2db12915f33f4452"
+    },
+    "Info_SurvivalOptions_RealistischeLebenspunkte": {
+      "text": "リアルな体力",
+      "source": "29ccd125ec0f5bc3"
+    },
+    "Info_SurvivalOptions_RealistischeLebenspunkte_desc": {
+      "text": "キャラクターのHPボーナスが減った状態で始まる",
+      "source": "679133819a0e0f84"
+    },
+    "Info_SurvivalOptions_UebermaechtigeFeinde": {
+      "text": "強大な敵",
+      "source": "102b71c2c8f82be6"
+    },
+    "Info_SurvivalOptions_UebermaechtigeFeinde_desc": {
+      "text": "敵のレベルが上がる",
+      "source": "c95eaf4fd7be9eb3"
+    },
+    "Info_SurvivalOptions_Warning": {
+      "text": "注意: サバイバルオプションを変更すると、ゲームの難易度が上がります。そのため、これらのオプションはサバイバルの熟練者や、このゲームが簡単すぎると感じるプレイヤー向けです。ゲームのバランスはコミュニティ全体に合わせて調整しているので、単にあなたが多くの人より上手なだけかもしれません。",
+      "source": "74127d106de36a80"
+    },
+    "Info_TalentApply": {
+      "text": "スキルの変更を確定またはリセットしますか？",
+      "source": "77239737b0a88e2f"
+    },
+    "Info_ThreatInfo_desc_0": {
+      "text": "この地域は現在[b]比較的安全[/b]です。[br]+[li]地点間の移動中に穏やかなイベントが増加[/li][br]+[li]待ち伏せや襲撃の確率が低下[/li][br]-[li]戦利品の量が減少[/li]",
+      "source": "7bba7e47a3802c45"
+    },
+    "Info_ThreatInfo_desc_1": {
+      "text": "この地域は現在[b]危険[/b]です。[br]+[li]戦利品の量が増加[/li][br]-[li]待ち伏せや襲撃の確率が非常に高い[/li][br]-[li]地点間の移動中に危険なイベントが発生[/li]",
+      "source": "9c660356d2b19dab"
+    },
+    "Info_ThreatInfo_desc_2": {
+      "text": "この地域は現在[b]非常に危険[/b]です。[br]+[li]戦利品の量が増加[/li][br]-[li]待ち伏せや襲撃の確率が非常に高い[/li][br]-[li]地点間の移動中に危険なイベントが発生[/li]",
+      "source": "860a44fcabdfde21"
+    },
+    "Info_TigerNotAvailable": {
+      "text": "先にトラを見つけてください",
+      "source": "bcf06b5cfa073dba"
+    },
+    "Info_TutorialBlocked": {
+      "text": "チュートリアルは、新しいスロットでゲームを始めるときのみプレイできます。",
+      "source": "d41e20deed645b7b"
+    },
+    "Info_UnableToJoinParty": {
+      "text": "この人物は追加できません。",
+      "source": "7f0356b2976268cc"
+    },
+    "Info_UpgradeApply": {
+      "text": "アップグレードの変更を確定またはリセットしますか？",
+      "source": "3ab33ced3646b8f1"
+    },
+    "Info_UpgradeReset": {
+      "text": "本当にアップグレードポイントをすべて振り直しますか？",
+      "source": "0a67da9f3b37e94b"
+    },
+    "Info_WaterSupply": {
+      "text": "水を配給しました（水 {0}）",
+      "source": "773083ccd1552119"
+    },
+    "Info_WaterSupplyLow": {
+      "text": "警告: 水が足りません。水×{0}を配給しました。パーティメンバー{1}人が渇き状態です。",
+      "source": "ebec7adee10c2edb"
+    },
+    "LoadingHint_0": {
+      "text": "死亡すると、さまざまな生存者やクエストとともに、ランダムな新しい始まりを迎えます。",
+      "source": "1270c6b5b45a3db4"
+    },
+    "LoadingHint_1": {
+      "text": "死んだら終わりです。ご用心を。ただし、未来の英雄のためにアップグレードを購入することはできます。",
+      "source": "c7d2025848b50c2b"
+    },
+    "LoadingHint_2": {
+      "text": "1回の周回ですべてのクエストを達成することはできません。いろいろな勢力と友好を深めてみましょう。",
+      "source": "2f5ec99eebe423f8"
+    },
+    "LoadingHint_3": {
+      "text": "一部のクエストには制限時間があります。ゾンビはたいてい、あなたが手をつけるまで待ってはくれません。",
+      "source": "fd5707e14076efb8"
+    },
+    "LoadingHint_4": {
+      "text": "選択によっては物語に影響するものもあります。慎重に選びましょう！",
+      "source": "e3ac96fb936a85a2"
+    },
+    "LoadingHint_5": {
+      "text": "勢力との友好度が十分に高ければ、その勢力のリーダーと話したり、専用の装備を購入したりできます。",
+      "source": "e02ae181828a3da8"
+    },
+    "LoadingHint_6": {
+      "text": "死亡する前に勢力との友好度を十分に上げておけば、アップグレードメニューで主人公用の防具を解放できます。",
+      "source": "4fea0bb53ccae155"
+    },
+    "LoadingHint_7": {
+      "text": "他勢力の前哨基地には、商人のさまざまな品物やクエストがあります。",
+      "source": "8ca6dc276d7d00e8"
+    },
+    "MailText_1": {
+      "text": "親友の[Player]へ\nお前を裏切ったと自分で認めるのは、簡単なことじゃない。白黒はっきりした話じゃないが、まあ、いつだってそういうもんなんだろうな。自分のしたことを後悔してるし、俺のせいで陥ったピンチをお前たちがうまく切り抜けてくれることを心から願ってる。しばらくは南東の密輸業者のところで身を潜めるつもりだ。死ぬなよ！\nスティーブン\n追伸: 詫びの印に、鍵を一つと、アイテムをいくつか置いた隠れ家を残しておいた。",
+      "source": "af51f34c8492df6f"
+    },
+    "MailText_2": {
+      "text": "これを読んだ人がいたら、どうか助けて！\u3000私たちはもう何時間もここにいて、鉱山の奥へと追い込まれている。奴らは次から次へとやって来る！\u3000奴らの叫び声が鉱山じゅうに響き渡っている。誰も眠っていない。武器はあるから、救助が来るまでしばらくは立てこもるつもり。お願い、急いで！",
+      "source": "6276ae1cacfc4073"
+    },
+    "MailText_3": {
+      "text": "トリクシー、この手紙を書いているのは、私がいつもあなたを心に抱いていると知ってほしいから。あなたなら無条件に信頼できるって、ずっと分かってた。あなたがここにいてくれたらいいのに。あなたならきっと、私を笑わせる方法を見つけてくれたはず。考えてみれば、この状況そのものが滑稽よね。仲間たちは互いに腹を立てていて、ほとんど誰も口をきかない。ゾンビが現れたときに隊列を離れて逃げ出した男性を一人失ったし、今は鉱山の奥のほうから奇妙な声が聞こえてくる。奇妙っていうのは、よくあるゾンビのうめき声とは違うから。もっと低くて、もっと獣じみてる。ただの気のせいだといいんだけど。",
+      "source": "911a620d93cd1077"
+    },
+    "MailText_4": {
+      "text": "エイブラハム、この情報は高くつくぞ！\u3000トラはここ、印の場所に捕らえられている。",
+      "source": "b62e9bf5049f946c"
+    },
+    "MailText_5": {
+      "text": "親愛なるジョセフ知事へ\n南の橋への攻撃によって生じた現状を踏まえ、アンドリュー知事と私は、直ちに修復作業を行うよう命じました。さらに、この凶悪なテロ行為の責任がどの卑劣な輩にあるのか、突き止めなければなりません。我々の領土を強化するうえで、南部の全地域への通行を確保し続けることがいかに重要か、いくら強調してもしきれません。この件について正式な協議の場を設けなかったことをお許しください。しかし、事は一刻を争うのです。\n敬具\nデニース知事",
+      "source": "faee6ffbd156c512"
+    },
+    "MailText_6": {
+      "text": "親愛なるデクスターへ\n我々が肩を並べて勝利を手にするのに必要な時間を稼ぐため、パンクスに橋を破壊させる必要が生じた。南の何者にも優位を与えてはならない。ゆえに、破壊工作は迅速かつ一刻も早く実行されねばならない。この任務を軽んじるな。南の橋は長く、そして頑丈だ。パンクスには追加のダイナマイトを用意させる必要があるだろう。今週中に、この企ての成功の報せが届くのを楽しみにしている。\n期待を込めて\nジョセフ知事",
+      "source": "76eb4af5711caea9"
+    },
+    "MailText_7": {
+      "text": "私の大切なダーリンへ\n最後に一緒に過ごしてから、もう何週間も経つわね。それもこれも、あのひどい橋が落ちたせいよ。あなたがパンクスと関わっていたせいで、私まで事件への関与を疑われたの。私が心配性なのは知ってるでしょう？\u3000だから、私たちの持ち物を安全な隠れ家に移しておいたわ。砂漠に行けば見つかるはずよ。正確な場所は、また会えたときに教えるわね。誰かに見つかるのが怖くて、とても紙には書き残せないの。\n愛を込めて、あなたのプリンセスより",
+      "source": "a961a21b97ede00e"
+    },
+    "MailText_8": {
+      "text": "これを読んでいる人がいるなら、知っておいてほしい。私はおそらくもう死んでいる。私たちは研究のためにここへ連れてこられたが、労働環境は理想的とは言えなかった。権利を求めて立ち上がると、奴らは武器と暴力で応えた。デニース知事がここまで落ちぶれるとは思ってもみなかった。こんな死に方をするとは思わなかった……負傷者たちの悲鳴が聞こえる。そろそろ彼らもゾンビ化する頃だろう。ゾムデックスはもう尽きた……",
+      "source": "b4449a9798581f90"
+    },
+    "MailText_9": {
+      "text": "同志諸君！\n裏切り者どもが南西の地下鉄トンネルを一掃した。勢力圏を広げるつもりに違いない。やるべきことは分かっているな！\u3000ジャックのキャンプの者の首一つにつき、懸賞金を出す！\n健闘を祈る。L",
+      "source": "e677b827e33ef605"
+    }
+  }
+}

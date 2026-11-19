@@ -1,0 +1,20 @@
+<Project>
+  <!--
+    全プロジェクト共通のビルド設定。
+    ・Nullable 参照型を有効化し、警告はすべてエラー扱いにして型安全性を担保する
+    ・バージョン番号はここで一元管理する（パッチャーの画面表示・配布Zip名にも使う）
+  -->
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <Deterministic>true</Deterministic>
+    <Version>1.0.0</Version>
+    <Product>Dead Age 2 日本語化パッチ</Product>
+    <Company>DeadAge2JP (unofficial fan project)</Company>
+    <Authors>歌うＬＩＮＥ彼氏</Authors>
+    <Copyright>Copyright (c) 2026 歌うＬＩＮＥ彼氏</Copyright>
+    <NeutralLanguage>ja-JP</NeutralLanguage>
+  </PropertyGroup>
+</Project>

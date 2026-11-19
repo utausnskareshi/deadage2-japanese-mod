@@ -1,0 +1,1065 @@
+{
+  "table": "ui",
+  "entries": {
+    "AmmoGrenadier_1": {
+      "text": "技術弾薬",
+      "source": "dc7fd22e56758e84"
+    },
+    "AmmoGrenadier_desc": {
+      "text": "エンジニアスキルに必要。入手元: 手榴弾ケース",
+      "source": "6e9ca6073d116e56"
+    },
+    "AmmoHunter_1": {
+      "text": "狩猟用弾薬",
+      "source": "996ead8577230c6a"
+    },
+    "AmmoHunter_desc": {
+      "text": "狩猟スキルに必要。入手元: 狩猟用ケース",
+      "source": "dee3cc49764dca8d"
+    },
+    "AmmoPistol_1": {
+      "text": "拳銃弾 - 通常弾",
+      "source": "4f72189d571109f5"
+    },
+    "AmmoPistol_2": {
+      "text": "拳銃弾 - 対人弾",
+      "source": "247a1813454fa6b2"
+    },
+    "AmmoPistol_3": {
+      "text": "拳銃弾 - 徹甲弾",
+      "source": "74d6324b1755bd01"
+    },
+    "AmmoPistol_cat": {
+      "text": "拳銃弾",
+      "source": "6fa8762ca6a38876"
+    },
+    "AmmoPistol_desc": {
+      "text": "拳銃弾は安価な弾薬だ。",
+      "source": "5a8fc9e1c1e31c82"
+    },
+    "AmmoRandomSpecial_cat": {
+      "text": "特殊弾薬",
+      "source": "06a31c9c4580cf78"
+    },
+    "AmmoRandomWeapon_cat": {
+      "text": "弾薬",
+      "source": "f5ba1f5823a37525"
+    },
+    "AmmoRifle_1": {
+      "text": "ライフル弾 - 通常弾",
+      "source": "b8eb80f1c30062d5"
+    },
+    "AmmoRifle_2": {
+      "text": "ライフル弾 - 対人弾",
+      "source": "4562456b296eae97"
+    },
+    "AmmoRifle_3": {
+      "text": "ライフル弾 - 徹甲弾",
+      "source": "96ea2543bfeccc1e"
+    },
+    "AmmoRifle_cat": {
+      "text": "ライフル弾",
+      "source": "c937dca1e8d36672"
+    },
+    "AmmoRifle_desc": {
+      "text": "ライフル弾は最も高価な弾薬だが、威力も最も高い。",
+      "source": "6446689fc3c6468b"
+    },
+    "AmmoShotgun_1": {
+      "text": "ショットガン弾 - 通常弾",
+      "source": "cde67510953a1bf9"
+    },
+    "AmmoShotgun_2": {
+      "text": "ショットガン弾 - 対人弾",
+      "source": "2972def89b48636b"
+    },
+    "AmmoShotgun_3": {
+      "text": "ショットガン弾 - 徹甲弾",
+      "source": "93b632bf04d02e33"
+    },
+    "AmmoShotgun_cat": {
+      "text": "ショットガン弾",
+      "source": "7a3ae24fbf78f274"
+    },
+    "AmmoShotgun_desc": {
+      "text": "ショットガン弾は拳銃弾より少し高価だが、そのぶんダメージが大きい。",
+      "source": "756911f3fb1bde6b"
+    },
+    "ConsumableCombatSyringe_1": {
+      "text": "解毒スプレー",
+      "source": "62564dfa48dbd4ee"
+    },
+    "ConsumableCombatSyringe_2": {
+      "text": "止血スプレー",
+      "source": "5c3f11f9f4f70a10"
+    },
+    "ConsumableCombatSyringe_3": {
+      "text": "冷却スプレー",
+      "source": "3a21a3a31fa64d56"
+    },
+    "ConsumableCombatSyringe_cat": {
+      "text": "戦闘用スプレー",
+      "source": "96d6c55131971e5f"
+    },
+    "ConsumableCombatSyringe_desc": {
+      "text": "戦闘用スプレーは悪影響を打ち消し、次の戦闘終了まで免疫を与える。",
+      "source": "3137c1d09b19c34f"
+    },
+    "ConsumableDrink_1": {
+      "text": "缶ソーダ",
+      "source": "f622788d3f5e3f9b"
+    },
+    "ConsumableDrink_2": {
+      "text": "独立派コーラ",
+      "source": "cc573855a12b3945"
+    },
+    "ConsumableDrink_cat": {
+      "text": "飲み物",
+      "source": "893aba5a4a5b78d7"
+    },
+    "ConsumableDrink_desc": {
+      "text": "飲み物はHPを少し回復し、渇きを解消する。さらに次の戦闘終了まで{0}をわずかに高める。",
+      "source": "b8af6174439287a3"
+    },
+    "ConsumableFood_1": {
+      "text": "パイ",
+      "source": "5c9659bd1a6daf09"
+    },
+    "ConsumableFood_2": {
+      "text": "ハンバーガー",
+      "source": "d970592837937ce4"
+    },
+    "ConsumableFood_3": {
+      "text": "密輸業者ヌードル",
+      "source": "e7767932d0a1d8c1"
+    },
+    "ConsumableFood_4": {
+      "text": "軍用レーション",
+      "source": "90c689fcef8f7551"
+    },
+    "ConsumableFood_cat": {
+      "text": "軽食",
+      "source": "cae5addaab3eae7d"
+    },
+    "ConsumableFood_desc": {
+      "text": "軽食はHPを中程度回復し、空腹を解消する。さらに次の戦闘終了まで{0}をわずかに高める。",
+      "source": "2b8d7941bb488ddd"
+    },
+    "ConsumableHerb_1": {
+      "text": "ハーブ",
+      "source": "da0f7aa18a50e760"
+    },
+    "ConsumableHerb_2": {
+      "text": "薬用の根",
+      "source": "44cb005ee2e65d9c"
+    },
+    "ConsumableHerb_cat": {
+      "text": "薬草",
+      "source": "d9350213daa47666"
+    },
+    "ConsumableHerb_desc": {
+      "text": "薬草はHPを少し回復する。次の戦闘終了まで{0}をわずかに高める。",
+      "source": "c60eed72da55dbd9"
+    },
+    "ConsumableMedipack_1": {
+      "text": "救急キット",
+      "source": "259bf7b1744fb3fa"
+    },
+    "ConsumableMedipack_2": {
+      "text": "包帯ケース",
+      "source": "f252c495c2d0b20f"
+    },
+    "ConsumableMedipack_3": {
+      "text": "応急処置キット",
+      "source": "249c5d6657c7e64c"
+    },
+    "ConsumableMedipack_cat": {
+      "text": "救急キット",
+      "source": "6bfc63d0d1e2a160"
+    },
+    "ConsumableMedipack_desc": {
+      "text": "救急キットはHPを大きく回復する。",
+      "source": "42e8025e72a02f4f"
+    },
+    "ConsumableRandomFood_cat": {
+      "text": "軽食",
+      "source": "cae5addaab3eae7d"
+    },
+    "ConsumableRevival_1": {
+      "text": "蘇生セット",
+      "source": "937a8fb2dfe048b9"
+    },
+    "ConsumableRevival_cat": {
+      "text": "蘇生セット",
+      "source": "937a8fb2dfe048b9"
+    },
+    "ConsumableRevival_desc": {
+      "text": "蘇生セットは主人公にのみ使用される。死亡を防ぎ、体を少し回復させる。",
+      "source": "8c1837711295674e"
+    },
+    "ConsumableSpecial_1": {
+      "text": "ゾムデックス",
+      "source": "646326011d0d6218"
+    },
+    "ConsumableSpecial_cat": {
+      "text": "ゾンビ化治療薬",
+      "source": "a8c2455d18e0dbbf"
+    },
+    "ConsumableSpecial_desc": {
+      "text": "ゾムデックスは、ゾンビウイルスに効く唯一の医薬品だ。",
+      "source": "3509c79aeb6314b8"
+    },
+    "ConsumableSyringe_1": {
+      "text": "耐久力強化剤",
+      "source": "f7201770c4b6ba7a"
+    },
+    "ConsumableSyringe_2": {
+      "text": "筋力強化剤",
+      "source": "b458365b2dbc7ca9"
+    },
+    "ConsumableSyringe_3": {
+      "text": "パワー強化剤",
+      "source": "2432d154987ef550"
+    },
+    "ConsumableSyringe_cat": {
+      "text": "能力強化剤",
+      "source": "3c8e1648048e67bb"
+    },
+    "ConsumableSyringe_desc": {
+      "text": "能力強化剤は、特定の能力値を永続的に上昇させる。",
+      "source": "123fbe784fe09183"
+    },
+    "Consumable_Heal_desc": {
+      "text": "HPを{0}%回復する",
+      "source": "2c13b8b8ace15973"
+    },
+    "Container_AmmoBox": {
+      "text": "弾薬ケース",
+      "source": "4aeeed48b19fe6ce"
+    },
+    "Container_Backpack": {
+      "text": "バックパック",
+      "source": "5118f76d9067edc5"
+    },
+    "Container_Bushes": {
+      "text": "茂み",
+      "source": "f01828d05eebff65"
+    },
+    "Container_Car": {
+      "text": "車両",
+      "source": "a62394ba4acc97cd"
+    },
+    "Container_Cardboard": {
+      "text": "段ボール箱",
+      "source": "debaef418bf153ff"
+    },
+    "Container_Chest": {
+      "text": "収納箱",
+      "source": "378d83808237a445"
+    },
+    "Container_Corpse": {
+      "text": "死体",
+      "source": "f48889357806eadf"
+    },
+    "Container_Crate": {
+      "text": "木箱",
+      "source": "512fd3c6042cd1d9"
+    },
+    "Container_Debris": {
+      "text": "がれき",
+      "source": "c08dba183bdaeeaa"
+    },
+    "Container_Events": {
+      "text": "イベント",
+      "source": "8d14f6e72de8f18a"
+    },
+    "Container_Grenadier": {
+      "text": "手榴弾ケース",
+      "source": "f56f3d228a46f595"
+    },
+    "Container_Herb": {
+      "text": "薬草の茂み",
+      "source": "433882ddc404c3bf"
+    },
+    "Container_HuntingBag": {
+      "text": "狩猟用ケース",
+      "source": "285c6b3f7fe9562c"
+    },
+    "Container_LockedChest": {
+      "text": "鍵のかかった収納箱",
+      "source": "bfa9e84a2f01e739"
+    },
+    "Container_MedicalBox": {
+      "text": "薬箱",
+      "source": "84cf7a6c7dd06c64"
+    },
+    "Container_Ore": {
+      "text": "鉱脈",
+      "source": "4dfb3eff07c0bad1"
+    },
+    "Container_Suitcase": {
+      "text": "スーツケース",
+      "source": "04737422f7523955"
+    },
+    "Container_Trash": {
+      "text": "ゴミ箱",
+      "source": "a1d9c3dadd0a2c01"
+    },
+    "Container_WaterBarrel": {
+      "text": "水樽",
+      "source": "ff3da6335a44b048"
+    },
+    "CraftingAmmoParts_1": {
+      "text": "真鍮<Not Used>",
+      "source": "cc22d4c222db9006"
+    },
+    "CraftingAmmoParts_2": {
+      "text": "鉄",
+      "source": "bd223c81de7e86da"
+    },
+    "CraftingAmmoParts_3": {
+      "text": "タングステン",
+      "source": "97b356bf2273cbd3"
+    },
+    "CraftingAmmoParts_4": {
+      "text": "薬莢",
+      "source": "eedfa0a36da806dd"
+    },
+    "CraftingAmmoParts_cat": {
+      "text": "弾薬素材",
+      "source": "5d8867a95f9b44e9"
+    },
+    "CraftingArmorParts_1": {
+      "text": "布",
+      "source": "aec5272f6bbf638b"
+    },
+    "CraftingArmorParts_2": {
+      "text": "革",
+      "source": "45292367296565b8"
+    },
+    "CraftingArmorParts_3": {
+      "text": "丈夫な布地",
+      "source": "376d5e10fae4624c"
+    },
+    "CraftingArmorParts_cat": {
+      "text": "布地",
+      "source": "de7b2b8384b81848"
+    },
+    "CraftingMedicalParts_1": {
+      "text": "包帯",
+      "source": "048b65ed3992c5b6"
+    },
+    "CraftingMedicalParts_2": {
+      "text": "血清 - オレンジ",
+      "source": "ed910a0deb07de3f"
+    },
+    "CraftingMedicalParts_3": {
+      "text": "血清 - 赤",
+      "source": "f9359d1803eb93c7"
+    },
+    "CraftingMedicalParts_4": {
+      "text": "血清 - 青",
+      "source": "38737a43e39c034c"
+    },
+    "CraftingMedicalParts_5": {
+      "text": "高用量の錠剤",
+      "source": "f10ce3c05fae0fd0"
+    },
+    "CraftingMedicalParts_cat": {
+      "text": "医療素材",
+      "source": "34fbf14e39def976"
+    },
+    "CraftingSpecialAmmoParts_1": {
+      "text": "罠の部品",
+      "source": "132909a1b85bd40e"
+    },
+    "CraftingSpecialAmmoParts_2": {
+      "text": "技術部品",
+      "source": "ec20c8dfce7ff21a"
+    },
+    "CraftingSpecialAmmoParts_cat": {
+      "text": "特殊弾薬素材",
+      "source": "9ff11fd0f2806383"
+    },
+    "CraftingWeaponParts_1": {
+      "text": "古い武器パーツ",
+      "source": "a2cf6ef00bb5a046"
+    },
+    "CraftingWeaponParts_2": {
+      "text": "希少な武器パーツ",
+      "source": "9b9fac6c6c912e0d"
+    },
+    "CraftingWeaponParts_3": {
+      "text": "軍用武器パーツ",
+      "source": "4bd423d65fb0865d"
+    },
+    "CraftingWeaponParts_cat": {
+      "text": "武器パーツ",
+      "source": "3177c82641ea7f88"
+    },
+    "GearChest_1": {
+      "text": "布製アーマー",
+      "source": "4cea7af35d00d653"
+    },
+    "GearChest_2": {
+      "text": "革製アーマー",
+      "source": "883177524590266e"
+    },
+    "GearChest_2_1": {
+      "text": "独立派の軽装アーマー",
+      "source": "95b41024c317e897"
+    },
+    "GearChest_2_2": {
+      "text": "軍用軽装アーマー",
+      "source": "a1738579aec26437"
+    },
+    "GearChest_2_3": {
+      "text": "密輸業者の軽装アーマー",
+      "source": "95947ead186015af"
+    },
+    "GearChest_3_1": {
+      "text": "独立派の重装アーマー",
+      "source": "9d9423e13a35e5b7"
+    },
+    "GearChest_3_2": {
+      "text": "軍用重装アーマー",
+      "source": "95f70cbe37596a9e"
+    },
+    "GearChest_3_3": {
+      "text": "密輸業者の重装アーマー",
+      "source": "8e03c031dc2c08ba"
+    },
+    "GearChest_cat": {
+      "text": "胴防具",
+      "source": "0e27defc3037f3d0"
+    },
+    "GearChest_desc": {
+      "text": "胴防具は防御力を大きく高める。勢力との友好度が一定に達すると、その勢力の商人がこれらのアイテムの品質を上げてくれる。",
+      "source": "dc0adbd09cc56604"
+    },
+    "GearFeet_1": {
+      "text": "簡素な靴",
+      "source": "f19312eced4dd0ee"
+    },
+    "GearFeet_2": {
+      "text": "冒険家の靴",
+      "source": "54a644700c69005f"
+    },
+    "GearFeet_3": {
+      "text": "軍用ブーツ",
+      "source": "9508bc04cb07c66a"
+    },
+    "GearFeet_cat": {
+      "text": "靴",
+      "source": "b5efa9ec3f5f8d45"
+    },
+    "GearFeet_desc": {
+      "text": "靴は着用者の足を守り、防御力をわずかに高める。改造して品質を上げることもできる。",
+      "source": "80e3ff9a00873262"
+    },
+    "GearHands_1": {
+      "text": "ハンドラップ",
+      "source": "51647dba2a1ce9ed"
+    },
+    "GearHands_2": {
+      "text": "冒険家の手袋",
+      "source": "444faa7795de1629"
+    },
+    "GearHands_3": {
+      "text": "軍用手袋",
+      "source": "7ceb81d2fc6b2c78"
+    },
+    "GearHands_cat": {
+      "text": "手袋",
+      "source": "5c4a86a81eca111d"
+    },
+    "GearHands_desc": {
+      "text": "手袋は着用者の手を守り、防御力をわずかに高める。改造して品質を上げることもできる。",
+      "source": "30bae517628b583c"
+    },
+    "GearHead_1": {
+      "text": "野球帽",
+      "source": "871ae226c74ae575"
+    },
+    "GearHead_2": {
+      "text": "冒険家の帽子",
+      "source": "f8a160d1544042eb"
+    },
+    "GearHead_2_1": {
+      "text": "ベレー帽",
+      "source": "9f127a2539fd99cb"
+    },
+    "GearHead_2_2": {
+      "text": "革の帽子",
+      "source": "6ef70a25c1f863d3"
+    },
+    "GearHead_2_3": {
+      "text": "ニット帽",
+      "source": "c416404ebccff6df"
+    },
+    "GearHead_2_4": {
+      "text": "制帽",
+      "source": "c511cc51c86764aa"
+    },
+    "GearHead_3": {
+      "text": "軍用ヘルメット",
+      "source": "9403b89af1b24191"
+    },
+    "GearHead_3_1": {
+      "text": "特殊部隊のヘルメット",
+      "source": "18413f152cffe816"
+    },
+    "GearHead_3_2": {
+      "text": "監視兵のヘルメット",
+      "source": "8c1c6d529fd1d641"
+    },
+    "GearHead_3_3": {
+      "text": "突撃用ヘルメット",
+      "source": "82f935153614ce86"
+    },
+    "GearHead_3_4": {
+      "text": "工事用ヘルメット",
+      "source": "b1ff71e1ba249bb1"
+    },
+    "GearHead_cat": {
+      "text": "頭防具",
+      "source": "cf8ad3c63fbdf3f2"
+    },
+    "GearHead_desc": {
+      "text": "頭防具は防御力をわずかに高める。改造して品質を上げることもできる。",
+      "source": "9a87acf55b657145"
+    },
+    "GearLegs_1": {
+      "text": "布のズボン",
+      "source": "f6428aaa6dcadc11"
+    },
+    "GearLegs_2": {
+      "text": "冒険家のズボン",
+      "source": "bab488c59bf3b576"
+    },
+    "GearLegs_3": {
+      "text": "軍用ズボン",
+      "source": "f94c86ec0a6fcf41"
+    },
+    "GearLegs_cat": {
+      "text": "ズボン",
+      "source": "a1dd93fd5b3726c7"
+    },
+    "GearLegs_desc": {
+      "text": "ズボンは着用者の脚を守り、防御力をわずかに高める。改造して品質を上げることもできる。",
+      "source": "33f0040fc794924f"
+    },
+    "GearRandomClothing_cat": {
+      "text": "衣服",
+      "source": "5bea3ab36d884792"
+    },
+    "GearRandomWeapon_cat": {
+      "text": "武器",
+      "source": "aafc7b0e9b9e48bd"
+    },
+    "GearWeaponBlade_1": {
+      "text": "包丁",
+      "source": "0d11f18e61b4246d"
+    },
+    "GearWeaponBlade_2": {
+      "text": "サーベル",
+      "source": "5f002f3dd83cc82f"
+    },
+    "GearWeaponBlade_3": {
+      "text": "刀",
+      "source": "2a35ee9463d44929"
+    },
+    "GearWeaponBlade_cat": {
+      "text": "刃物",
+      "source": "ba3586196e771f83"
+    },
+    "GearWeaponBlade_desc": {
+      "text": "刃物は軽装の敵に効果的だ。",
+      "source": "9f515cfbd316ff2a"
+    },
+    "GearWeaponMelee_cat": {
+      "text": "近接武器",
+      "source": "74a19b3a0d9d5835"
+    },
+    "GearWeaponPistol_1": {
+      "text": "グロック",
+      "source": "9c34760b512de4b2"
+    },
+    "GearWeaponPistol_2": {
+      "text": "ベレッタ",
+      "source": "7e25f20c2a758ac9"
+    },
+    "GearWeaponPistol_2_1": {
+      "text": "試作型ベレッタ",
+      "source": "72c172ac2021019b"
+    },
+    "GearWeaponPistol_3": {
+      "text": "リボルバー",
+      "source": "b015d3ddeff42d85"
+    },
+    "GearWeaponPistol_cat": {
+      "text": "拳銃",
+      "source": "e660061b7b03b794"
+    },
+    "GearWeaponPistol_desc": {
+      "text": "拳銃は中距離で幅広く役立つ遠距離武器だ。",
+      "source": "0161954a2a7f3593"
+    },
+    "GearWeaponPunch_1": {
+      "text": "バール",
+      "source": "bae103eef86e0965"
+    },
+    "GearWeaponPunch_2": {
+      "text": "野球バット",
+      "source": "6b2e2f3522b931d5"
+    },
+    "GearWeaponPunch_3": {
+      "text": "警棒",
+      "source": "912f67c4bb93882b"
+    },
+    "GearWeaponPunch_cat": {
+      "text": "打撃武器",
+      "source": "d4738b89a593b294"
+    },
+    "GearWeaponPunch_desc": {
+      "text": "打撃武器は重装甲の敵に効果的だ。",
+      "source": "f13ee6fd94c79540"
+    },
+    "GearWeaponRanged_cat": {
+      "text": "遠距離武器",
+      "source": "63f330345dfa255b"
+    },
+    "GearWeaponRifle_1": {
+      "text": "AK-47",
+      "source": "9204b2992ec8a762"
+    },
+    "GearWeaponRifle_2": {
+      "text": "M16",
+      "source": "f1e061d7672aac72"
+    },
+    "GearWeaponRifle_3": {
+      "text": "M4カービン",
+      "source": "3a042f04b2c30ac5"
+    },
+    "GearWeaponRifle_cat": {
+      "text": "アサルトライフル",
+      "source": "721d9b5e31f29854"
+    },
+    "GearWeaponRifle_desc": {
+      "text": "アサルトライフルは軽装の敵に有効な長射程の遠距離武器で、最も人気のある武器の一つだ。",
+      "source": "990701077824558c"
+    },
+    "GearWeaponShotgun_1": {
+      "text": "サバイバルショットガン",
+      "source": "85f21b04f4d8f2d0"
+    },
+    "GearWeaponShotgun_2": {
+      "text": "ソードオフショットガン",
+      "source": "7ca0568550981bfd"
+    },
+    "GearWeaponShotgun_3": {
+      "text": "軍用ショットガン",
+      "source": "6b99c975841fff7e"
+    },
+    "GearWeaponShotgun_cat": {
+      "text": "ショットガン",
+      "source": "2fbb9d154f3f1d91"
+    },
+    "GearWeaponShotgun_desc": {
+      "text": "ショットガンは近距離で役立つ。拡散範囲が広いため、複数の敵に対して非常に有効だ。",
+      "source": "0db72f9173cb4e89"
+    },
+    "MiscKey_1": {
+      "text": "ロックピック",
+      "source": "a7ae572756912eea"
+    },
+    "MiscKey_10": {
+      "text": "スティーブンの鍵",
+      "source": "e686ceeb42055611"
+    },
+    "MiscKey_11": {
+      "text": "イーサンの鍵",
+      "source": "9f7122eddd255e5a"
+    },
+    "MiscKey_12": {
+      "text": "鉱山の鍵",
+      "source": "a52d6327c554ed8f"
+    },
+    "MiscKey_13": {
+      "text": "メイソンのカードキー",
+      "source": "699fffa6e211a0cb"
+    },
+    "MiscKey_2": {
+      "text": "カードキー",
+      "source": "45a14eb03bb70ea9"
+    },
+    "MiscKey_3": {
+      "text": "つるはし",
+      "source": "8700509f665c8b17"
+    },
+    "MiscKey_4": {
+      "text": "シャベル<unused>",
+      "source": "0e0e96524ff15f10"
+    },
+    "MiscKey_cat": {
+      "text": "鍵・道具",
+      "source": "af4ac4276ac170db"
+    },
+    "MiscKey_desc": {
+      "text": "錠前など、操作できる対象に使えるアイテム",
+      "source": "5eab982f45f1e4d6"
+    },
+    "MiscMail_1": {
+      "text": "スティーブンからの手紙",
+      "source": "3938c28869a62d34"
+    },
+    "MiscMail_2": {
+      "text": "サマンサからの手紙",
+      "source": "dfe3ad6997f03c51"
+    },
+    "MiscMail_3": {
+      "text": "サマンサからの2通目の手紙",
+      "source": "6f731b0e901e8ba7"
+    },
+    "MiscMail_4": {
+      "text": "エイブラハムからの手紙",
+      "source": "e7d985089aaba630"
+    },
+    "MiscMail_5": {
+      "text": "デニース知事からの手紙",
+      "source": "6b6dc019a8901bcd"
+    },
+    "MiscMail_6": {
+      "text": "デクスター宛ての手紙",
+      "source": "7442b027bd978566"
+    },
+    "MiscMail_7": {
+      "text": "テレンス宛ての手紙",
+      "source": "026a6f35f5f3ad6d"
+    },
+    "MiscMail_8": {
+      "text": "同僚からのメモ",
+      "source": "d0cfd66de260fa3d"
+    },
+    "MiscMail_9": {
+      "text": "殺し屋のメモ",
+      "source": "41c6a4cc45f9f352"
+    },
+    "MiscMail_cat": {
+      "text": "手紙",
+      "source": "0b438c8abb4dba92"
+    },
+    "MiscMail_desc": {
+      "text": "手紙には重要な情報が書かれていることがある。読まずに放っておかないこと。",
+      "source": "056106a0f9cc8129"
+    },
+    "MiscSeeds_1": {
+      "text": "種",
+      "source": "45a195454fe20751"
+    },
+    "MiscSeeds_cat": {
+      "text": "種",
+      "source": "45a195454fe20751"
+    },
+    "MiscSeeds_desc": {
+      "text": "種は菜園係が食料を生産するのに必要",
+      "source": "c6970ee7cb82b087"
+    },
+    "MiscValuables_1": {
+      "text": "懐中時計",
+      "source": "3265fa4fb6919990"
+    },
+    "MiscValuables_10": {
+      "text": "ミュータントの鉤爪",
+      "source": "deed60f6767947b4"
+    },
+    "MiscValuables_2": {
+      "text": "銀の指輪",
+      "source": "fd6a7e0771190e5d"
+    },
+    "MiscValuables_3": {
+      "text": "ネックレス",
+      "source": "6a88445bbf65f756"
+    },
+    "MiscValuables_4": {
+      "text": "手鏡",
+      "source": "91f5fe71e6be66d1"
+    },
+    "MiscValuables_5": {
+      "text": "鉤爪",
+      "source": "68a31aefb013bde5"
+    },
+    "MiscValuables_6": {
+      "text": "牙",
+      "source": "0b1a1097d6611d1f"
+    },
+    "MiscValuables_7": {
+      "text": "金歯",
+      "source": "32521dc70105bacf"
+    },
+    "MiscValuables_8": {
+      "text": "黒い心臓",
+      "source": "695b67831d2fb178"
+    },
+    "MiscValuables_9": {
+      "text": "変異した舌",
+      "source": "e7b6008eda048646"
+    },
+    "MiscValuables_cat": {
+      "text": "貴重品",
+      "source": "252abc95d19bca37"
+    },
+    "MiscValuables_desc": {
+      "text": "貴重品は商人に売ることができる。珍しい品なら高値がつくこともある。",
+      "source": "8341b9f7e0474fde"
+    },
+    "Resource_0": {
+      "text": "ドル",
+      "source": "6397d62c92f5203c"
+    },
+    "Resource_0_desc": {
+      "text": "ドルは商人との売買に使う。他勢力の者を買収するのに使うこともある。",
+      "source": "f89f0c16246a1321"
+    },
+    "Resource_1": {
+      "text": "水",
+      "source": "7ca7dea906800f87"
+    },
+    "Resource_1_desc": {
+      "text": "水は移動と、キャンプにいる生存者の維持に必要だ。",
+      "source": "2f00870fb38cb1bc"
+    },
+    "Resource_2": {
+      "text": "食料",
+      "source": "e4eb18069d65aaa9"
+    },
+    "Resource_2_desc": {
+      "text": "生存者は1日に食料を1つ消費する。仕事によっては、完了するのに追加の消費が必要になる。",
+      "source": "241eade892250b38"
+    },
+    "Resource_3": {
+      "text": "資材",
+      "source": "616cb218a65b982f"
+    },
+    "Resource_3_desc": {
+      "text": "クラフトでよく必要になる。",
+      "source": "2a90d5583629da66"
+    },
+    "Resource_4": {
+      "text": "スクラップ",
+      "source": "c47d5f269809f5f6"
+    },
+    "Resource_4_desc": {
+      "text": "スクラップは資材より価値が高い。クラフトに使う。",
+      "source": "6d9840d692469cf7"
+    },
+    "Resource_cat": {
+      "text": "資源",
+      "source": "e89b30aa1dc30a6a"
+    },
+    "Resource_desc": {
+      "text": "取引、仕事、クラフト、そして生き延びるために使う",
+      "source": "6d0017941d1c3783"
+    },
+    "Upgrade_1": {
+      "text": "武器強化キット",
+      "source": "dfc098d3078e214a"
+    },
+    "Upgrade_2": {
+      "text": "防具強化キット",
+      "source": "35e4971b3e90de94"
+    },
+    "Upgrade_3": {
+      "text": "重武器強化キット",
+      "source": "bdd0d1e2deb93412"
+    },
+    "Upgrade_4": {
+      "text": "重防具強化キット",
+      "source": "80259442bda9e2c6"
+    },
+    "Upgrade_CloseCombat": {
+      "text": "近接戦闘",
+      "source": "6055129bbf8eab76"
+    },
+    "Upgrade_CloseCombat_10_desc": {
+      "text": "密輸業者の軽装アーマーと友好度ボーナス（+10）を得る",
+      "source": "d6cb091c29cf797d"
+    },
+    "Upgrade_CloseCombat_1_desc": {
+      "text": "耐久力ボーナス（+2）を得る",
+      "source": "35c1bcf066696ad1"
+    },
+    "Upgrade_CloseCombat_2_desc": {
+      "text": "近接武器がランク2に強化される",
+      "source": "503254cb117f2cf1"
+    },
+    "Upgrade_CloseCombat_3_desc": {
+      "text": "筋力ボーナス（+2）を得る",
+      "source": "87d46856ccb522ca"
+    },
+    "Upgrade_CloseCombat_4_desc": {
+      "text": "耐久力ボーナス（+5）を得る",
+      "source": "1a7d92c6ddf7d685"
+    },
+    "Upgrade_CloseCombat_5_desc": {
+      "text": "ブロック率ボーナス（+1）を得る",
+      "source": "8748e572c9f94b97"
+    },
+    "Upgrade_CloseCombat_6_desc": {
+      "text": "近接武器がランク3に強化される",
+      "source": "1c8aa9b2a49b34a4"
+    },
+    "Upgrade_CloseCombat_7_desc": {
+      "text": "筋力ボーナス（+5）を得る",
+      "source": "6d71f8af40fbf6d5"
+    },
+    "Upgrade_CloseCombat_8_desc": {
+      "text": "ブロック率ボーナス（+3）を得る",
+      "source": "32e90bf4753035da"
+    },
+    "Upgrade_CloseCombat_9_desc": {
+      "text": "近接武器がランク4に強化される",
+      "source": "5975cd2df3f8abb7"
+    },
+    "Upgrade_Engineer": {
+      "text": "技術",
+      "source": "e851504f43bf3c82"
+    },
+    "Upgrade_Engineer_10_desc": {
+      "text": "キャンプの全勢力との友好度が10上昇する。",
+      "source": "da9cca7ae582e18a"
+    },
+    "Upgrade_Engineer_1_desc": {
+      "text": "パワーボーナス（+2）を得る",
+      "source": "206709716dd6cff3"
+    },
+    "Upgrade_Engineer_2_desc": {
+      "text": "キャンプに資材が5追加される。",
+      "source": "ad82973a9bdd90f5"
+    },
+    "Upgrade_Engineer_3_desc": {
+      "text": "キャンプにスクラップが2追加される。",
+      "source": "95e7b6b5a39443ae"
+    },
+    "Upgrade_Engineer_4_desc": {
+      "text": "パワーボーナス（+5）を得る",
+      "source": "88f18477456352d8"
+    },
+    "Upgrade_Engineer_5_desc": {
+      "text": "技術弾薬を30発持った状態で始める",
+      "source": "d9b7b47f0d7f80bf"
+    },
+    "Upgrade_Engineer_6_desc": {
+      "text": "キャンプに資材が10追加される。",
+      "source": "2d48b52c0bee9baf"
+    },
+    "Upgrade_Engineer_7_desc": {
+      "text": "キャンプにスクラップが4追加される。",
+      "source": "d13146d22df302d4"
+    },
+    "Upgrade_Engineer_8_desc": {
+      "text": "技術弾薬を60発持った状態で始める。",
+      "source": "511c2bba966dbd46"
+    },
+    "Upgrade_Engineer_9_desc": {
+      "text": "キャンプにスクラップが6追加される",
+      "source": "14df1d6bbf2da44e"
+    },
+    "Upgrade_Medical": {
+      "text": "医療",
+      "source": "fec80bef0d8a00b1"
+    },
+    "Upgrade_Medical_10_desc": {
+      "text": "独立派の軽装アーマーと友好度ボーナス（+10）を得る",
+      "source": "b6b0e73cf2203666"
+    },
+    "Upgrade_Medical_1_desc": {
+      "text": "抵抗力ボーナス（+2）を得る",
+      "source": "b001832dbed0aa2b"
+    },
+    "Upgrade_Medical_2_desc": {
+      "text": "インベントリに救急キットを2つ持った状態で始める。",
+      "source": "d032fe3a3c1d1dd2"
+    },
+    "Upgrade_Medical_3_desc": {
+      "text": "インベントリに戦闘用スプレーを3つ持った状態で始める。蘇生セットでHPが60%回復する。",
+      "source": "322762284b560906"
+    },
+    "Upgrade_Medical_4_desc": {
+      "text": "抵抗力ボーナス（+5）を得る",
+      "source": "a44bcfce433bf04c"
+    },
+    "Upgrade_Medical_5_desc": {
+      "text": "インベントリにゾムデックスを2つ持った状態で始める。",
+      "source": "4853851c1888778c"
+    },
+    "Upgrade_Medical_6_desc": {
+      "text": "インベントリに救急キットを4つ持った状態で始める。",
+      "source": "61beda9ee7990b05"
+    },
+    "Upgrade_Medical_7_desc": {
+      "text": "インベントリに戦闘用スプレー6つと、追加の蘇生セット1つを持った状態で始める。",
+      "source": "f90688f121d38104"
+    },
+    "Upgrade_Medical_8_desc": {
+      "text": "インベントリにゾムデックスを4つ持った状態で始める。",
+      "source": "c66bf1cd376490b9"
+    },
+    "Upgrade_Medical_9_desc": {
+      "text": "インベントリに救急キット4つと応急処置キット2つを持った状態で始める",
+      "source": "a630977233c945be"
+    },
+    "Upgrade_RangedCombat": {
+      "text": "遠距離戦闘",
+      "source": "4826a2bb3610f109"
+    },
+    "Upgrade_RangedCombat_10_desc": {
+      "text": "アメリカ軍の軽装アーマーと友好度ボーナス（+10）を得る",
+      "source": "76e995c78f2ec873"
+    },
+    "Upgrade_RangedCombat_1_desc": {
+      "text": "クリティカルボーナス（+1）を得る",
+      "source": "386c3157c98d2358"
+    },
+    "Upgrade_RangedCombat_2_desc": {
+      "text": "遠距離武器がランク2に強化される",
+      "source": "12ed6a0187fdfd4b"
+    },
+    "Upgrade_RangedCombat_3_desc": {
+      "text": "知覚ボーナス（+2）を得る",
+      "source": "cd8ab8275afba565"
+    },
+    "Upgrade_RangedCombat_4_desc": {
+      "text": "クリティカルボーナス（+3）を得る",
+      "source": "673a2461da01df04"
+    },
+    "Upgrade_RangedCombat_5_desc": {
+      "text": "遠距離武器用の弾薬を30発追加で得る",
+      "source": "3d93a012426f124c"
+    },
+    "Upgrade_RangedCombat_6_desc": {
+      "text": "遠距離武器がランク3に強化される",
+      "source": "9012b38bb29dfc41"
+    },
+    "Upgrade_RangedCombat_7_desc": {
+      "text": "知覚ボーナス（+5）を得る",
+      "source": "a21756a5148f3aed"
+    },
+    "Upgrade_RangedCombat_8_desc": {
+      "text": "遠距離武器用の弾薬を60発追加で得る",
+      "source": "26b41167c72b20e6"
+    },
+    "Upgrade_RangedCombat_9_desc": {
+      "text": "遠距離武器がランク4に強化される",
+      "source": "54bb03d2cf08e365"
+    },
+    "Upgrade_cat": {
+      "text": "強化キット",
+      "source": "fd6deca2fed55cb4"
+    },
+    "Upgrade_desc": {
+      "text": "鍛冶場で武器や防具をレベル3まで強化するのに使う。レベル4と5への強化には、重武器強化キットまたは重防具強化キットが必要。",
+      "source": "b240900ba0f33cc3"
+    }
+  }
+}

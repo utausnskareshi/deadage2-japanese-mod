@@ -1,0 +1,3441 @@
+{
+  "table": "dialogue",
+  "entries": {
+    "Bridge_Independent_AggroChoice_1": {
+      "text": "攻撃する（友好度-10）",
+      "source": "31f31dc547e16056"
+    },
+    "Bridge_Independent_AggroChoice_1_1": {
+      "text": "やろうってのか？\u3000いいだろう、相手になってやる！",
+      "source": "b6cca2138c6418f7"
+    },
+    "Bridge_Independent_AggroChoice_2": {
+      "text": "賄賂を渡す（所持金: [Inventory_Resource_0]ドル）（友好度40へ/-5）",
+      "source": "7e0505df1cca5a7a"
+    },
+    "Bridge_Independent_AggroChoice_2_1": {
+      "text": "見張りに賄賂を渡そうとする。",
+      "source": "2f55ff440ff8b8b1"
+    },
+    "Bridge_Independent_AggroChoice_2_2a": {
+      "text": "ほう、過去の過ちを償おうってわけか。今回だけは通してやる。",
+      "source": "41b8fd8b1cb8b7d1"
+    },
+    "Bridge_Independent_AggroChoice_2_2b": {
+      "text": "何だ、これは？\u3000やましさを金で埋め合わせようってのか？\u3000こんなはした金じゃ足りないし、もう手遅れだ！",
+      "source": "800cca37eb503591"
+    },
+    "Bridge_Independent_AggroChoice_2_2c": {
+      "text": "何のつもりだ？\u3000そんな大金、持ってもいないくせに！\u3000野郎ども、かかれ！",
+      "source": "782d60b333685d65"
+    },
+    "Bridge_Independent_AggroChoice_3": {
+      "text": "撤退する",
+      "source": "e6e5c4f19dfe34b9"
+    },
+    "Bridge_Independent_AggroChoice_3_1": {
+      "text": "そうだ、逃げろ！\u3000次は逃がさんぞ！",
+      "source": "585708d751b59c6b"
+    },
+    "Bridge_Independent_BribeChoice_1": {
+      "text": "[@BribeValue]ドルの賄賂を渡す（成功率50%）",
+      "source": "942c320f80275760"
+    },
+    "Bridge_Independent_BribeChoice_2": {
+      "text": "[@BribeValue2]ドルの賄賂を渡す（成功率80%）",
+      "source": "60e965b956d512b0"
+    },
+    "Bridge_Independent_BribeChoice_3": {
+      "text": "[@BribeValue3]ドルの賄賂を渡す（成功率100%）",
+      "source": "cf1ab3e4e1bd237f"
+    },
+    "Bridge_Independent_NormalChoice_1": {
+      "text": "橋を渡る",
+      "source": "fd0e51dbb8ff0f13"
+    },
+    "Bridge_Independent_NormalChoice_2": {
+      "text": "引き返す",
+      "source": "6aadac2f2b7a6b8e"
+    },
+    "Bridge_Independent_Rank_0": {
+      "text": "お前が例の裏切り者か！\u3000我々の理念を尊重できない者に、容赦はしない！",
+      "source": "be937eae0d9f7b50"
+    },
+    "Bridge_Independent_Rank_1": {
+      "text": "お前たちが例のお尋ね者どもか。この橋は絶対に渡らせんぞ！",
+      "source": "3b272abd924a9153"
+    },
+    "Bridge_Independent_Rank_2": {
+      "text": "おとなしくしているなら、通してやろう。",
+      "source": "5d96a1b9af711157"
+    },
+    "Bridge_Independent_Rank_3": {
+      "text": "おや、またあんたたちか。よし、通っていいぞ。",
+      "source": "1938adb90401ddb0"
+    },
+    "Bridge_Independent_Rank_4": {
+      "text": "やあ、友よ。さあ、通ってくれ。",
+      "source": "2d91a2edd28b3f19"
+    },
+    "Bridge_Independent_Rank_5": {
+      "text": "見ろよ、我らが栄えある同盟者のお通りだ。ここの守りは俺たちに任せて、あんたたちは通ってくれ。",
+      "source": "5ec3ae54e19b2c48"
+    },
+    "Bridge_Military_AggroChoice_1": {
+      "text": "攻撃する（友好度-10）",
+      "source": "31f31dc547e16056"
+    },
+    "Bridge_Military_AggroChoice_1_1": {
+      "text": "やろうってのか？\u3000いいだろう、相手になってやる！",
+      "source": "b6cca2138c6418f7"
+    },
+    "Bridge_Military_AggroChoice_2": {
+      "text": "賄賂を渡す（所持金: [Inventory_Resource_0]ドル）（友好度40へ/-5）",
+      "source": "7e0505df1cca5a7a"
+    },
+    "Bridge_Military_AggroChoice_2_1": {
+      "text": "見張りに賄賂を渡そうとする。",
+      "source": "2f55ff440ff8b8b1"
+    },
+    "Bridge_Military_AggroChoice_2_2a": {
+      "text": "ほう、過去の過ちを償おうってわけか。今回だけは通してやる。",
+      "source": "41b8fd8b1cb8b7d1"
+    },
+    "Bridge_Military_AggroChoice_2_2b": {
+      "text": "何だ、これは？\u3000やましさを金で埋め合わせようってのか？\u3000こんなはした金じゃ足りないし、もう手遅れだ！",
+      "source": "800cca37eb503591"
+    },
+    "Bridge_Military_AggroChoice_2_2c": {
+      "text": "何のつもりだ？\u3000そんな大金、持ってもいないくせに！\u3000野郎ども、かかれ！",
+      "source": "782d60b333685d65"
+    },
+    "Bridge_Military_AggroChoice_3": {
+      "text": "撤退する",
+      "source": "e6e5c4f19dfe34b9"
+    },
+    "Bridge_Military_AggroChoice_3_1": {
+      "text": "そうだ、逃げろ！\u3000次は逃がさんぞ！",
+      "source": "585708d751b59c6b"
+    },
+    "Bridge_Military_BribeChoice_1": {
+      "text": "[@BribeValue]ドルの賄賂を渡す（成功率50%）",
+      "source": "942c320f80275760"
+    },
+    "Bridge_Military_BribeChoice_2": {
+      "text": "[@BribeValue2]ドルの賄賂を渡す（成功率80%）",
+      "source": "60e965b956d512b0"
+    },
+    "Bridge_Military_BribeChoice_3": {
+      "text": "[@BribeValue3]ドルの賄賂を渡す（成功率100%）",
+      "source": "cf1ab3e4e1bd237f"
+    },
+    "Bridge_Military_NormalChoice_1": {
+      "text": "橋を渡る",
+      "source": "fd0e51dbb8ff0f13"
+    },
+    "Bridge_Military_NormalChoice_2": {
+      "text": "引き返す",
+      "source": "6aadac2f2b7a6b8e"
+    },
+    "Bridge_Military_Rank_0": {
+      "text": "お前が例の裏切り者か！\u3000我々の理念を尊重できない者に、容赦はしない！",
+      "source": "be937eae0d9f7b50"
+    },
+    "Bridge_Military_Rank_1": {
+      "text": "お前たちが例のお尋ね者どもか。この橋は絶対に渡らせんぞ！",
+      "source": "3b272abd924a9153"
+    },
+    "Bridge_Military_Rank_2": {
+      "text": "おとなしくしているなら、通してやろう。",
+      "source": "5d96a1b9af711157"
+    },
+    "Bridge_Military_Rank_3": {
+      "text": "おや、またあんたたちか。よし、通っていいぞ。",
+      "source": "1938adb90401ddb0"
+    },
+    "Bridge_Military_Rank_4": {
+      "text": "やあ、友よ。さあ、通ってくれ。",
+      "source": "2d91a2edd28b3f19"
+    },
+    "Bridge_Military_Rank_5": {
+      "text": "見ろよ、我らが栄えある同盟者のお通りだ。ここの守りは俺たちに任せて、あんたたちは通ってくれ。",
+      "source": "5ec3ae54e19b2c48"
+    },
+    "Bridge_Smuggler_AggroChoice_1": {
+      "text": "攻撃する（友好度-10）",
+      "source": "31f31dc547e16056"
+    },
+    "Bridge_Smuggler_AggroChoice_1_1": {
+      "text": "やろうってのか？\u3000いいだろう、相手になってやる！",
+      "source": "b6cca2138c6418f7"
+    },
+    "Bridge_Smuggler_AggroChoice_2": {
+      "text": "賄賂を渡す",
+      "source": "4fc7dd96d2ec9e0d"
+    },
+    "Bridge_Smuggler_AggroChoice_2_1": {
+      "text": "見張りに賄賂を渡そうとする。",
+      "source": "2f55ff440ff8b8b1"
+    },
+    "Bridge_Smuggler_AggroChoice_2_2a": {
+      "text": "ほう、過去の過ちを償おうってわけか。今回だけは通してやる。",
+      "source": "41b8fd8b1cb8b7d1"
+    },
+    "Bridge_Smuggler_AggroChoice_2_2b": {
+      "text": "何だ、これは？\u3000やましさを金で埋め合わせようってのか？\u3000こんなはした金じゃ足りないし、もう手遅れだ！",
+      "source": "800cca37eb503591"
+    },
+    "Bridge_Smuggler_AggroChoice_2_2c": {
+      "text": "何のつもりだ？\u3000そんな大金、持ってもいないくせに！\u3000野郎ども、かかれ！",
+      "source": "782d60b333685d65"
+    },
+    "Bridge_Smuggler_AggroChoice_3": {
+      "text": "撤退する",
+      "source": "e6e5c4f19dfe34b9"
+    },
+    "Bridge_Smuggler_AggroChoice_3_1": {
+      "text": "そうだ、逃げろ！\u3000次は逃がさんぞ！",
+      "source": "585708d751b59c6b"
+    },
+    "Bridge_Smuggler_Blocked": {
+      "text": "橋は破壊されている。南の地域へは行けないため、引き返すしかない。",
+      "source": "c8dcc18ac16057f5"
+    },
+    "Bridge_Smuggler_BribeChoice_1": {
+      "text": "[@BribeValue]ドルの賄賂を渡す（成功率50%）",
+      "source": "942c320f80275760"
+    },
+    "Bridge_Smuggler_BribeChoice_2": {
+      "text": "[@BribeValue2]ドルの賄賂を渡す（成功率80%）",
+      "source": "60e965b956d512b0"
+    },
+    "Bridge_Smuggler_BribeChoice_3": {
+      "text": "[@BribeValue3]ドルの賄賂を渡す（成功率100%）",
+      "source": "cf1ab3e4e1bd237f"
+    },
+    "Bridge_Smuggler_NormalChoice_1": {
+      "text": "橋を渡る",
+      "source": "fd0e51dbb8ff0f13"
+    },
+    "Bridge_Smuggler_NormalChoice_2": {
+      "text": "引き返す",
+      "source": "6aadac2f2b7a6b8e"
+    },
+    "Bridge_Smuggler_Rank_0": {
+      "text": "お前が例の裏切り者か！\u3000我々の理念を尊重できない者に、容赦はしない！",
+      "source": "be937eae0d9f7b50"
+    },
+    "Bridge_Smuggler_Rank_1": {
+      "text": "お前たちが例のお尋ね者どもか。この橋は絶対に渡らせんぞ！",
+      "source": "3b272abd924a9153"
+    },
+    "Bridge_Smuggler_Rank_2": {
+      "text": "おとなしくしているなら、通してやろう。",
+      "source": "5d96a1b9af711157"
+    },
+    "Bridge_Smuggler_Rank_3": {
+      "text": "おや、またあんたたちか。よし、通っていいぞ。",
+      "source": "1938adb90401ddb0"
+    },
+    "Bridge_Smuggler_Rank_4": {
+      "text": "やあ、友よ。さあ、通ってくれ。",
+      "source": "2d91a2edd28b3f19"
+    },
+    "Bridge_Smuggler_Rank_5": {
+      "text": "見ろよ、我らが栄えある同盟者のお通りだ。ここの守りは俺たちに任せて、あんたたちは通ってくれ。",
+      "source": "5ec3ae54e19b2c48"
+    },
+    "CampDeath_1_Combat_f": {
+      "text": "今日は悲しい日だ。[T@Victim]が戦いで命を落とした。",
+      "source": "7d8490648e3b01d1"
+    },
+    "CampDeath_1_Combat_m": {
+      "text": "今日は悲しい日だ。[T@Victim]が戦いで命を落とした。",
+      "source": "7d8490648e3b01d1"
+    },
+    "CampDeath_1_Hunger_f": {
+      "text": "今日は悲しい日だ。[T@Victim]が餓死した。",
+      "source": "fc50d71224b1ce69"
+    },
+    "CampDeath_1_Hunger_m": {
+      "text": "今日は悲しい日だ。[T@Victim]が餓死した。",
+      "source": "fc50d71224b1ce69"
+    },
+    "CampDeath_1_Infection_f": {
+      "text": "今日は悲しい日だ。[T@Victim]が感染で命を落とした。",
+      "source": "4a29a5a81bda92fa"
+    },
+    "CampDeath_1_Infection_m": {
+      "text": "今日は悲しい日だ。[T@Victim]が感染で命を落とした。",
+      "source": "4a29a5a81bda92fa"
+    },
+    "CampDeath_1_KilledDuringSleep_f": {
+      "text": "今日は悲しい日だ。[T@Victim]が眠っている間に殺された。",
+      "source": "03df229c12137fee"
+    },
+    "CampDeath_1_KilledDuringSleep_m": {
+      "text": "今日は悲しい日だ。[T@Victim]が眠っている間に殺された。",
+      "source": "06327e1510f6faa8"
+    },
+    "CampDeath_1_Thirst_f": {
+      "text": "今日は悲しい日だ。[T@Victim]が渇きで命を落とした。",
+      "source": "2d721fee2638bc7d"
+    },
+    "CampDeath_1_Thirst_m": {
+      "text": "今日は悲しい日だ。[T@Victim]が渇きで命を落とした。",
+      "source": "2d721fee2638bc7d"
+    },
+    "CampDeath_2_Fernando": {
+      "text": "フェルナンドは食えない男だった。魅力的とは言いがたかったけど、私たちとこのキャンプのために全力を尽くしてくれた。それが彼の本当の気高さを物語ってたわ。アディオス、アミーゴ……",
+      "source": "1d0375349af08c49"
+    },
+    "CampDeath_2_Hank": {
+      "text": "ハンクは長いこと私たちの仲間だった。リディアと言い合う彼の声が、今でも聞こえてくるようだわ。彼を失って、私たちは大事なものをなくした。さよなら、ハンク……",
+      "source": "75943a603d462a52"
+    },
+    "CampDeath_2_Isa": {
+      "text": "イサがいい人だったと言い切れるほど、私は彼女のことをよく知らなかった。密輸業者とは因縁があったけど、心の底では私たちのためを思ってくれてたって信じてる。寂しくなるよ、イサ……",
+      "source": "4987be736e81af91"
+    },
+    "CampDeath_2_Jane": {
+      "text": "ジェーンは、情け容赦のない軍の中でかすかに輝く光だった。めったにいない、宝石みたいな人だったわ。彼女の情熱と忠誠心には、本当に助けられた。さよなら、ジェーン……",
+      "source": "15f9444279ad2012"
+    },
+    "CampDeath_2_Lance": {
+      "text": "ランスには秘密があって、その多くを抱えたまま逝ってしまった。優秀なエンジニアで、キャンプの防衛設備に大いに力を尽くして、たくさんの命を救ってくれたわ。寂しくなるよ、ランス……",
+      "source": "b09795f324d36e06"
+    },
+    "CampDeath_2_Sarah": {
+      "text": "サラは本当にいい人だった。優しい心の持ち主で、彼女のいないキャンプは寂しくなるわ。あんたのことは、みんなずっと忘れないよ、サラ……",
+      "source": "fec3456a14f9d8f3"
+    },
+    "CampDeath_2_Steven": {
+      "text": "スティーブンが何をしたかは、みんな知ってる。でも、彼はその償いのために懸命に頑張ってた。このキャンプは彼にとって大切な場所だったの。いいことだけを覚えておきましょう。彼は[Player]の親友だった。さよなら、スティーブン……",
+      "source": "1eb66948ed104e9c"
+    },
+    "CampDeath_2_Tessa": {
+      "text": "テッサはずっと苦労続きだった。私たちのところへ来たときには、もう感染してたの。動物の扱いがうまくて、腕のいい狩人だったわ。あんたのことは、みんなずっと忘れないよ、テッサ……",
+      "source": "7595c6482193b713"
+    },
+    "CampDeath_3_Combat": {
+      "text": "外では背後に気をつけろよ。軽食や救急キットといった回復手段は、いつも十分に用意しておくべきだ。キャンプの医務室で作れるからな。それに、いい武器とたっぷりの弾薬、身を守る衣服、主要勢力が作った防具も欠かせない。",
+      "source": "06daac8bd847bea3"
+    },
+    "CampDeath_3_Hunger": {
+      "text": "キャンプに飢えを広げるわけにはいかない。菜園と狩猟小屋をうまく活用しよう。狩りにもこまめに出るんだ。",
+      "source": "3694c1bf3bb3fa03"
+    },
+    "CampDeath_3_Infection": {
+      "text": "感染の可能性は決して否定できない。感染はゾムデックスで治療できる。病院で見つかるし、各勢力から買うこともできる。",
+      "source": "9120bddcf76a9545"
+    },
+    "CampDeath_3_KilledDuringSleep": {
+      "text": "眠っている間に誰かが死んだのなら、理由はひとつしかない。怠慢だ。襲撃から身を守るために、見張りを置かなければ。",
+      "source": "f899cba205eb52c5"
+    },
+    "CampDeath_3_Thirst": {
+      "text": "キャンプの誰も、脱水症状にさせるわけにはいかない。菜園をうまく活用して、できるときに強化しておこう。",
+      "source": "49c8322ed6168ae4"
+    },
+    "CampDefence_FactionAttack_Fail": {
+      "text": "[T@Story_EnemyFactionPos2]兵士たちがキャンプを制圧し、[T@Victim]を殺した。",
+      "source": "0379a73bb2b3f4fe"
+    },
+    "CampDefence_FactionAttack_Start_1": {
+      "text": "兵士の大部隊がキャンプに迫っている。見張りたちが入り口を守る準備を整える。",
+      "source": "a3b00b47823ce9c5"
+    },
+    "CampDefence_FactionAttack_Start_2": {
+      "text": "兵士の大部隊がキャンプに迫っている。見張りは置いていない。誰も対応できないうちに、襲撃者たちがキャンプに入り込んだ。",
+      "source": "675157a9f8930a96"
+    },
+    "CampDefence_FactionAttack_Sucess_1": {
+      "text": "[T@Story_EnemyFactionPos2]兵士たちを、キャンプに入られる前に排除することに成功した。",
+      "source": "4d97234d5b2170f5"
+    },
+    "CampDefence_FactionAttack_Sucess_2": {
+      "text": "見張りたちが[T@Story_EnemyFactionPos2]兵士たちを排除したが、多少の犠牲は免れなかった。",
+      "source": "2978eed343abbf7b"
+    },
+    "CampDefence_Punks_Start_1": {
+      "text": "パンクスがキャンプに押し入った。経験を積んだ見張りを置いていなかったため、資源の20%を持ち去られた。せめてもの救いは、誰もケガをしなかったことだ。",
+      "source": "0a86fc5166025705"
+    },
+    "CampDefence_Punks_Start_1b": {
+      "text": "パンクスがひそかにキャンプに押し入った。見張りを置いていなかったため、資源の20%を持ち去られた。さらに、[T@Victim]が寝込みを襲われ、重傷を負った。",
+      "source": "8bf441cb7c98dbd5"
+    },
+    "CampDefence_Punks_Start_2": {
+      "text": "パンクスがひそかにキャンプに押し入った。経験を積んだランク2の見張りが少なくとも1人いたおかげで、盗まれたのは資源の10%で済んだ。",
+      "source": "4e02faded441c0c1"
+    },
+    "CampDefence_Punks_Start_2b": {
+      "text": "パンクスがひそかにキャンプに押し入った。経験を積んだランク2の見張りが少なくとも2人いたおかげで、盗まれたのは資源の5%で済んだ。",
+      "source": "d9ef1f9979167052"
+    },
+    "CampDefence_Punks_Start_3": {
+      "text": "パンクスがひそかにキャンプに押し入ったが、ランク3の精鋭の見張りに追い払われ、何も盗めずに逃げていった。",
+      "source": "edcb87542fffc612"
+    },
+    "CampDefence_Scavenger_Start_1": {
+      "text": "略奪者がキャンプに忍び込み、盗みを働いた。見張りを置いていなかったため、資源の10%を持ち去られた。",
+      "source": "f45b4b899ca810d3"
+    },
+    "CampDefence_Scavenger_Start_2": {
+      "text": "略奪者がキャンプに忍び込み、盗みを働いた。未熟なランク1の見張りが追い払ったため、奪われたのは資源の5%で済んだ。",
+      "source": "2a7d050bc9c49e2d"
+    },
+    "CampDefence_Scavenger_Start_2b": {
+      "text": "夜、略奪者がキャンプに忍び込み、盗みを働いた。未熟なランク1の見張りたちが追い払ったため、奪われたのは資源の2%で済んだ。",
+      "source": "6a82832b6714995f"
+    },
+    "CampDefence_Scavenger_Start_3": {
+      "text": "略奪者がキャンプに盗みに入ろうとしたが、経験を積んだ見張りに追い払われた。",
+      "source": "14d8686735da39c6"
+    },
+    "CampDefence_ZombieAttack_Fail": {
+      "text": "ゾンビを食い止めきれなかった。[T@Victim]は寝込みを襲われ、八つ裂きにされた。",
+      "source": "824eda2cee40dc37"
+    },
+    "CampDefence_ZombieAttack_Start_1": {
+      "text": "ゾンビの群れがキャンプに迫っている。見張りたちが迎え撃つ準備を整える。",
+      "source": "69a7b88608df29ab"
+    },
+    "CampDefence_ZombieAttack_Start_2": {
+      "text": "ゾンビの群れがキャンプに迫っている。見張りは置いていない。誰も対応できないうちに、ゾンビが防衛線を突破してキャンプに入り込んだ。",
+      "source": "fa34970f9914f389"
+    },
+    "CampDefence_ZombieAttack_Sucess_1": {
+      "text": "ゾンビをキャンプから追い払うことに成功した。",
+      "source": "7c6e4e48e0ffb4f4"
+    },
+    "CampDefence_ZombieAttack_Sucess_2": {
+      "text": "見張りたちはゾンビのキャンプへの侵入を食い止めたが、多少の損害は免れなかった。",
+      "source": "c5f965ff1c443536"
+    },
+    "Harbour_Arrival_1": {
+      "text": "[T@HarbourTarget]に着き、船を降りた。",
+      "source": "ddfd30f489a62024"
+    },
+    "Harbour_Enter_Accept": {
+      "text": "[@HarbourCost]ドルで乗船券を買う（所持金: [Inventory_Resource_0]ドル）",
+      "source": "969e80d8fbc6c21d"
+    },
+    "Harbour_Enter_Decline": {
+      "text": "船着き場を出る",
+      "source": "abced374b373fa3b"
+    },
+    "Harbour_Enter_Dialogue_1": {
+      "text": "どの船着き場へ向かう？",
+      "source": "10d63cd2ef952204"
+    },
+    "Harbour_Enter_NoMoney": {
+      "text": "乗船券を買う金が足りない。",
+      "source": "fd93ef3f9fd2f07b"
+    },
+    "Harbour_Enter_Start_1": {
+      "text": "うちのヨットを使いたいって？\u3000タダじゃないぜ。",
+      "source": "cc523c96f8519f21"
+    },
+    "Harbour_Enter_Start_New": {
+      "text": "ところで、新しい船着き場がいくつかできて、砂漠にもずっと行きやすくなったんだ。敵だろうが味方だろうが、ヨットを使いたけりゃ代金は払ってもらうぜ。",
+      "source": "f8f2f8c4ca0b5021"
+    },
+    "LootEventModule_Bribe_Choice_1": {
+      "text": "[@BribeValue]ドルの賄賂を渡す（成功率50%）",
+      "source": "a8d84f4f801198d5"
+    },
+    "LootEventModule_Bribe_Choice_2": {
+      "text": "[@BribeValue2]ドルの賄賂を渡す（成功率80%）",
+      "source": "81fbb4b3b7381cc6"
+    },
+    "LootEventModule_Bribe_Choice_3": {
+      "text": "[@BribeValue3]ドルの賄賂を渡す（成功率100%）",
+      "source": "b25e022a38a42f68"
+    },
+    "LootEventModule_Choice_Accept": {
+      "text": "引き受ける",
+      "source": "89713b9c9c1b8f65"
+    },
+    "LootEventModule_Choice_Attack": {
+      "text": "攻撃する",
+      "source": "4cd548f3cc29cf9c"
+    },
+    "LootEventModule_Choice_Bribe": {
+      "text": "賄賂を渡す（所持金: [Inventory_Resource_0]ドル）",
+      "source": "58a7c01539a81e35"
+    },
+    "LootEventModule_Choice_Decline": {
+      "text": "断る",
+      "source": "2631349bff4daf19"
+    },
+    "LootEventModule_Choice_Ignore": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEventModule_Choice_Threaten": {
+      "text": "脅す",
+      "source": "e8a9b22dfa169b91"
+    },
+    "LootEventModule_Guarding_Char_1": {
+      "text": "[Party_0_Name]: 警戒 [Party_0_Talent(Guarding)] - HP [Party_0_Hp]",
+      "source": "c732957eeeb089bf"
+    },
+    "LootEventModule_Guarding_Char_2": {
+      "text": "[Party_1_Name]: 警戒 [Party_1_Talent(Guarding)] - HP [Party_1_Hp]",
+      "source": "ebc063fff36414e4"
+    },
+    "LootEventModule_Guarding_Char_3": {
+      "text": "[Party_2_Name]: 警戒 [Party_2_Talent(Guarding)] - HP [Party_2_Hp]",
+      "source": "7f83137d79e8fed7"
+    },
+    "LootEventModule_LockPick0_Char_1": {
+      "text": "[Party_0_Name]: 警戒 [Party_0_LockPick(0)] - HP [Party_0_Hp]",
+      "source": "7202fba1e2debc22"
+    },
+    "LootEventModule_LockPick0_Char_2": {
+      "text": "[Party_1_Name]: 警戒 [Party_1_LockPick(0)] - HP [Party_1_Hp]",
+      "source": "af1cdf9771e0565e"
+    },
+    "LootEventModule_LockPick0_Char_3": {
+      "text": "[Party_2_Name]: 警戒 [Party_2_LockPick(0)] - HP [Party_2_Hp]",
+      "source": "c548fe5d4065cdef"
+    },
+    "LootEventModule_LockPick1_Char_1": {
+      "text": "[Party_0_Name]: 警戒 [Party_0_LockPick(1)] - HP [Party_0_Hp]",
+      "source": "1178a9d3a0f8069c"
+    },
+    "LootEventModule_LockPick1_Char_2": {
+      "text": "[Party_1_Name]: 警戒 [Party_1_LockPick(1)] - HP [Party_1_Hp]",
+      "source": "5f139d1e4e35d06d"
+    },
+    "LootEventModule_LockPick1_Char_3": {
+      "text": "[Party_2_Name]: 警戒 [Party_2_LockPick(1)] - HP [Party_2_Hp]",
+      "source": "19352d5002d8fc80"
+    },
+    "LootEventModule_Strength_Char_1": {
+      "text": "[Party_0_Name]: 筋力 [Party_0_Attribute(Strength)] - HP [Party_0_Hp]",
+      "source": "2b0ef6e26f0f2769"
+    },
+    "LootEventModule_Strength_Char_2": {
+      "text": "[Party_1_Name]: 筋力 [Party_1_Attribute(Strength)] - HP [Party_1_Hp]",
+      "source": "77d674cb2c740695"
+    },
+    "LootEventModule_Strength_Char_3": {
+      "text": "[Party_2_Name]: 筋力 [Party_2_Attribute(Strength)] - HP [Party_2_Hp]",
+      "source": "265da4b7fc299066"
+    },
+    "LootEventModule_Survival_Char_1": {
+      "text": "[Party_0_Name]: サバイバル [Party_0_Talent(Survival)] - HP [Party_0_Hp]",
+      "source": "ee3e1723497d8bd9"
+    },
+    "LootEventModule_Survival_Char_2": {
+      "text": "[Party_1_Name]: サバイバル [Party_1_Talent(Survival)] - HP [Party_1_Hp]",
+      "source": "d5db1d8f4aefcbe1"
+    },
+    "LootEventModule_Survival_Char_3": {
+      "text": "[Party_2_Name]: サバイバル [Party_2_Talent(Survival)] - HP [Party_2_Hp]",
+      "source": "fb4fe4fdf499eddc"
+    },
+    "LootEvent_Bushes_Accept": {
+      "text": "調べる",
+      "source": "49c266baaaa70981"
+    },
+    "LootEvent_Bushes_Char_1": {
+      "text": "[Party_0_Name]: HP [Party_0_Hp]",
+      "source": "308dc91af8cd6cf1"
+    },
+    "LootEvent_Bushes_Char_2": {
+      "text": "[Party_1_Name]: HP [Party_1_Hp]",
+      "source": "96e4a0693fad20f6"
+    },
+    "LootEvent_Bushes_Char_3": {
+      "text": "[Party_2_Name]: HP [Party_2_Hp]",
+      "source": "8bc04728cdee732e"
+    },
+    "LootEvent_Bushes_Choice_1": {
+      "text": "戦いに加わる",
+      "source": "f0ac12d014f6992e"
+    },
+    "LootEvent_Bushes_Choice_2": {
+      "text": "ベリーを摘む",
+      "source": "583667de274d6595"
+    },
+    "LootEvent_Bushes_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_Bushes_Fail_1": {
+      "text": "[Event]が茂みでベリーを探している間に、敵に不意を突かれた。",
+      "source": "5d39499430ef3621"
+    },
+    "LootEvent_Bushes_Fail_2": {
+      "text": "[Event]は戦いに加わるか、それともベリーを摘み続けるか？",
+      "source": "cdcb08c13a2907f0"
+    },
+    "LootEvent_Bushes_Result_1": {
+      "text": "[Event]はその間に茂みのベリーをすっかり摘み取った。",
+      "source": "fc7837243652a319"
+    },
+    "LootEvent_Bushes_Start": {
+      "text": "ベリーがたわわに実った茂みを見つけた。食料を補充できそうだ。発見・襲撃の確率: [T@LootEventThread]。",
+      "source": "eac42eadf8fa57d3"
+    },
+    "LootEvent_Car_Locked_Accept": {
+      "text": "錠前を開ける（手持ちのロックピック: [Inventory_MiscKey_1]）",
+      "source": "3ea6e425d6d5073d"
+    },
+    "LootEvent_Car_Locked_Char_1": {
+      "text": "[Party_0_Name]: 警戒 [Party_0_LockPick(0)] - HP [Party_0_Hp]",
+      "source": "7202fba1e2debc22"
+    },
+    "LootEvent_Car_Locked_Char_2": {
+      "text": "[Party_1_Name]: 警戒 [Party_1_LockPick(0)] - HP [Party_1_Hp]",
+      "source": "af1cdf9771e0565e"
+    },
+    "LootEvent_Car_Locked_Char_3": {
+      "text": "[Party_2_Name]: 警戒 [Party_2_LockPick(0)] - HP [Party_2_Hp]",
+      "source": "c548fe5d4065cdef"
+    },
+    "LootEvent_Car_Locked_Choice_1": {
+      "text": "戦いに加わる",
+      "source": "f0ac12d014f6992e"
+    },
+    "LootEvent_Car_Locked_Choice_2": {
+      "text": "錠前を壊す",
+      "source": "6d6f5d6871d367d2"
+    },
+    "LootEvent_Car_Locked_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_Car_Locked_Fail_1": {
+      "text": "[Event]は鍵を開けられなかった。",
+      "source": "d31cb1018bfe1360"
+    },
+    "LootEvent_Car_Locked_Fail_2": {
+      "text": "ゾンビが忍び寄り、襲いかかってきた。",
+      "source": "ad33058b7eadffdc"
+    },
+    "LootEvent_Car_Locked_Fail_3": {
+      "text": "[Event]は戦いに加わるか、それとも力ずくで錠前を壊そうとするか？",
+      "source": "31a1bf022b39b286"
+    },
+    "LootEvent_Car_Locked_NoKeys": {
+      "text": "ロックピックを持っていない。",
+      "source": "60d69abed4f5c6af"
+    },
+    "LootEvent_Car_Locked_Result_1": {
+      "text": "[Event]はその間にバンをくまなく調べた。",
+      "source": "eeb1078247a581a2"
+    },
+    "LootEvent_Car_Locked_Start": {
+      "text": "鍵のかかった配送用のバンを見つけた。中にはスクラップや水、資材があるかもしれないが、錠前を開けるには時間がかかりそうだ。発見・襲撃の確率: [T@LootEventThread]。",
+      "source": "5821bb6fef6c42e3"
+    },
+    "LootEvent_Car_Open_Accept": {
+      "text": "調べる",
+      "source": "49c266baaaa70981"
+    },
+    "LootEvent_Car_Open_Char_1": {
+      "text": "[Party_0_Name]: HP [Party_0_Hp]",
+      "source": "308dc91af8cd6cf1"
+    },
+    "LootEvent_Car_Open_Char_2": {
+      "text": "[Party_1_Name]: HP [Party_1_Hp]",
+      "source": "96e4a0693fad20f6"
+    },
+    "LootEvent_Car_Open_Char_3": {
+      "text": "[Party_2_Name]: HP [Party_2_Hp]",
+      "source": "8bc04728cdee732e"
+    },
+    "LootEvent_Car_Open_Choice_1": {
+      "text": "戦いに加わる",
+      "source": "f0ac12d014f6992e"
+    },
+    "LootEvent_Car_Open_Choice_2": {
+      "text": "調べ続ける",
+      "source": "1cffe3ad084e0e8d"
+    },
+    "LootEvent_Car_Open_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_Car_Open_Fail_1": {
+      "text": "[Event]が車を調べている間に、敵に不意を突かれた。",
+      "source": "18ed54e74ae873dc"
+    },
+    "LootEvent_Car_Open_Fail_2": {
+      "text": "[Event]は戦いに加わるか、それとも車を調べ続けるか？",
+      "source": "f0b6c8610e1630ad"
+    },
+    "LootEvent_Car_Open_Result_1": {
+      "text": "[Event]はその間に車をくまなく調べた。",
+      "source": "cf3e5c47bf949f98"
+    },
+    "LootEvent_Car_Open_Start": {
+      "text": "車を見つけた。スクラップや医薬品、軽食が見つかるかもしれない。発見・襲撃の確率: [T@LootEventThread]。",
+      "source": "28f019b8d78fb4dc"
+    },
+    "LootEvent_CaveNoises_Accept": {
+      "text": "洞窟を調べる",
+      "source": "5cb22a501be5d448"
+    },
+    "LootEvent_CaveNoises_Decline": {
+      "text": "キャンプを漁る",
+      "source": "74ee12316b6d99ba"
+    },
+    "LootEvent_CaveNoises_Entered": {
+      "text": "入り組んだ洞窟の奥深くへと分け入った。ここなら貴重品や鉱石が見つかるかもしれない。",
+      "source": "ff2b8a9c336fca55"
+    },
+    "LootEvent_CaveNoises_Start": {
+      "text": "洞窟の奥から奇妙な物音が聞こえてくる。見た目ほど空っぽではないらしい。洞窟を調べるか、それともキャンプで戦利品を漁るか？",
+      "source": "3323fe6317b900e3"
+    },
+    "LootEvent_Chest_Locked_Accept": {
+      "text": "錠前を開ける（手持ちのロックピック: [Inventory_MiscKey_1]）",
+      "source": "3ea6e425d6d5073d"
+    },
+    "LootEvent_Chest_Locked_Char_1": {
+      "text": "[Party_0_Name]: 警戒 [Party_0_LockPick(0)] - HP [Party_0_Hp]",
+      "source": "7202fba1e2debc22"
+    },
+    "LootEvent_Chest_Locked_Char_2": {
+      "text": "[Party_1_Name]: 警戒 [Party_1_LockPick(0)] - HP [Party_1_Hp]",
+      "source": "af1cdf9771e0565e"
+    },
+    "LootEvent_Chest_Locked_Char_3": {
+      "text": "[Party_2_Name]: 警戒 [Party_2_LockPick(0)] - HP [Party_2_Hp]",
+      "source": "c548fe5d4065cdef"
+    },
+    "LootEvent_Chest_Locked_Choice_1": {
+      "text": "戦いに加わる",
+      "source": "f0ac12d014f6992e"
+    },
+    "LootEvent_Chest_Locked_Choice_2": {
+      "text": "鍵を開ける",
+      "source": "50ac36c89008f586"
+    },
+    "LootEvent_Chest_Locked_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_Chest_Locked_Fail_1": {
+      "text": "[Event]は鍵を開けられなかった。",
+      "source": "d31cb1018bfe1360"
+    },
+    "LootEvent_Chest_Locked_Fail_2": {
+      "text": "ゾンビが忍び寄り、襲いかかってきた。",
+      "source": "ad33058b7eadffdc"
+    },
+    "LootEvent_Chest_Locked_Fail_3": {
+      "text": "[Event]は戦いに加わるか、それとも力ずくで錠前を開けようとするか？",
+      "source": "e8213be63539452b"
+    },
+    "LootEvent_Chest_Locked_NoKeys": {
+      "text": "ロックピックを持っていない。",
+      "source": "60d69abed4f5c6af"
+    },
+    "LootEvent_Chest_Locked_Result_1": {
+      "text": "[Event]はその間に収納箱をくまなく調べた。",
+      "source": "21b4f9acb46a4fe4"
+    },
+    "LootEvent_Chest_Locked_Start": {
+      "text": "鍵のかかった収納箱を見つけた。中には防具や弾薬、医薬品、貴重品が入っているかもしれない。錠前を開けるには時間がかかりそうだ。発見・襲撃の確率: [T@LootEventThread]。",
+      "source": "4bec64e76ab46983"
+    },
+    "LootEvent_CivilianEncounter2_Combat_Result": {
+      "text": "民間人たちを倒した。カードキーはいただいていく。もう彼らには必要ないだろう。",
+      "source": "2e865f9d5b41a66d"
+    },
+    "LootEvent_CivilianEncounter2_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_CivilianEncounter2_Information": {
+      "text": "邸宅の場所",
+      "source": "527893effa3aeb71"
+    },
+    "LootEvent_CivilianEncounter2_Information_Normal": {
+      "text": "どうしてあんたに教えなきゃならないんだ？",
+      "source": "c5f8a839fc27d7dc"
+    },
+    "LootEvent_CivilianEncounter2_Information_Persuaded": {
+      "text": "おすすめの場所がある。うまくいくといいね。私たちはもう行かないと。",
+      "source": "30ce2d0af14293c0"
+    },
+    "LootEvent_CivilianEncounter2_Information_Threatened": {
+      "text": "わかった、隠し財産が見つかるかもしれない秘密の場所を教える。だから、もう行かせてくれ。",
+      "source": "832ea2c3b26db599"
+    },
+    "LootEvent_CivilianEncounter2_Persuade": {
+      "text": "説得する",
+      "source": "2a8e811552c9d615"
+    },
+    "LootEvent_CivilianEncounter2_Persuade_Char_1": {
+      "text": "[Party_0_Name]: パワー [Party_0_Attribute(Intelligence)] - HP [Party_0_Hp]",
+      "source": "cb84a127ce52f476"
+    },
+    "LootEvent_CivilianEncounter2_Persuade_Char_2": {
+      "text": "[Party_1_Name]: パワー [Party_1_Attribute(Intelligence)] - HP [Party_1_Hp]",
+      "source": "e885ca50b1fff60d"
+    },
+    "LootEvent_CivilianEncounter2_Persuade_Char_3": {
+      "text": "[Party_2_Name]: パワー [Party_2_Attribute(Intelligence)] - HP [Party_2_Hp]",
+      "source": "4f4c22e36158f6e5"
+    },
+    "LootEvent_CivilianEncounter2_Persuade_Fail": {
+      "text": "それじゃあ話にならないね。さっさと行ったらどうだ？",
+      "source": "7bf8a6505aa1b4e8"
+    },
+    "LootEvent_CivilianEncounter2_Persuade_Success": {
+      "text": "なあ、あんたのことが気に入ったよ。知りたいことを聞いてくれ。",
+      "source": "e92c2271d6ec1080"
+    },
+    "LootEvent_CivilianEncounter2_Start": {
+      "text": "この地域の安全が高まったことで、より多くの民間人が集まってきた。そのうちの一人が、あなたに目を向けてきた。",
+      "source": "1b212565222100f5"
+    },
+    "LootEvent_CivilianEncounter2_Start1": {
+      "text": "秘密の場所に興味があるみたいだね。その邸宅の場所は誰も知らない。知っているのは私たちだけだ。中に入るのに必要なカードキーも、いくつか売っている。ただし、その邸宅は南にある。",
+      "source": "f7da54420165529f"
+    },
+    "LootEvent_CivilianEncounter2_Start2a": {
+      "text": "今はそこへは行けないけど、それでも場所を押さえておきたいなら、遠慮なくどうぞ。",
+      "source": "5585df152585c195"
+    },
+    "LootEvent_CivilianEncounter2_Start2b": {
+      "text": "南へはまた行けるようになったから、邸宅を訪ねられるはずだ。",
+      "source": "b31c7cdf1bcddc0b"
+    },
+    "LootEvent_CivilianEncounter2_Threaten": {
+      "text": "脅す",
+      "source": "e8a9b22dfa169b91"
+    },
+    "LootEvent_CivilianEncounter2_Threaten_Char_1": {
+      "text": "[Party_0_Name]: 筋力 [Party_0_Attribute(Strength)] - HP [Party_0_Hp]",
+      "source": "2b0ef6e26f0f2769"
+    },
+    "LootEvent_CivilianEncounter2_Threaten_Char_2": {
+      "text": "[Party_1_Name]: 筋力 [Party_1_Attribute(Strength)] - HP [Party_1_Hp]",
+      "source": "77d674cb2c740695"
+    },
+    "LootEvent_CivilianEncounter2_Threaten_Char_3": {
+      "text": "[Party_2_Name]: 筋力 [Party_2_Attribute(Strength)] - HP [Party_2_Hp]",
+      "source": "265da4b7fc299066"
+    },
+    "LootEvent_CivilianEncounter2_Threaten_Fail": {
+      "text": "冗談のつもりか？\u3000ここでどっちが危険か、思い知らせてやる！",
+      "source": "5b61570a2369bab6"
+    },
+    "LootEvent_CivilianEncounter2_Threaten_Success": {
+      "text": "わかった、わかったよ。何が望みなんだ？",
+      "source": "b41c5c382fe7854b"
+    },
+    "LootEvent_CivilianEncounter2_Trade": {
+      "text": "カードキーを取引する",
+      "source": "ccb2f46e701bf43f"
+    },
+    "LootEvent_CivilianEncounter2_Trade_Accept": {
+      "text": "応じる",
+      "source": "89713b9c9c1b8f65"
+    },
+    "LootEvent_CivilianEncounter2_Trade_Deny": {
+      "text": "断る",
+      "source": "2631349bff4daf19"
+    },
+    "LootEvent_CivilianEncounter2_Trade_Fail": {
+      "text": "なんだこれは？\u3000スクラップが足りないじゃないか。これじゃ取引は成立しないな。",
+      "source": "2d918afa0aa2dca0"
+    },
+    "LootEvent_CivilianEncounter2_Trade_Normal": {
+      "text": "[T@LootEventItem]を1つ買わないかと持ちかけられた。民間人は代金としてスクラップ[@LootEventItemPrice]個を求めている。手持ちのスクラップは[Inventory_Resource_4]個だ。",
+      "source": "07e90b81b6ee30de"
+    },
+    "LootEvent_CivilianEncounter2_Trade_Persuaded": {
+      "text": "[T@LootEventItem]を1つ買わないかと持ちかけられた。民間人は値引きに応じてくれて、代金はスクラップ[@LootEventItemPrice]個でいいという。手持ちのスクラップは[Inventory_Resource_4]個だ。",
+      "source": "2e44ccd6c03a5a2e"
+    },
+    "LootEvent_CivilianEncounter2_Trade_Threatened": {
+      "text": "わかったよ、ほら、これだ。私たちはもう行かないと。",
+      "source": "2551e29dd8227961"
+    },
+    "LootEvent_CivilianEncounter3_Combat_Result": {
+      "text": "民間人たちを倒した。資源はいただいていく。もう彼らには必要ないだろう。",
+      "source": "969bf8814d85c286"
+    },
+    "LootEvent_CivilianEncounter3_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_CivilianEncounter3_Persuade": {
+      "text": "説得する",
+      "source": "2a8e811552c9d615"
+    },
+    "LootEvent_CivilianEncounter3_Persuade_Char_1": {
+      "text": "[Party_0_Name]: パワー [Party_0_Attribute(Intelligence)] - HP [Party_0_Hp]",
+      "source": "cb84a127ce52f476"
+    },
+    "LootEvent_CivilianEncounter3_Persuade_Char_2": {
+      "text": "[Party_1_Name]: パワー [Party_1_Attribute(Intelligence)] - HP [Party_1_Hp]",
+      "source": "e885ca50b1fff60d"
+    },
+    "LootEvent_CivilianEncounter3_Persuade_Char_3": {
+      "text": "[Party_2_Name]: パワー [Party_2_Attribute(Intelligence)] - HP [Party_2_Hp]",
+      "source": "4f4c22e36158f6e5"
+    },
+    "LootEvent_CivilianEncounter3_Persuade_Fail": {
+      "text": "それじゃあ話にならないね。さっさと行ったらどうだ？",
+      "source": "7bf8a6505aa1b4e8"
+    },
+    "LootEvent_CivilianEncounter3_Persuade_Success": {
+      "text": "なあ、あんたのことが気に入ったよ。値段をまけてあげよう。",
+      "source": "c29ae1e51df7d1cb"
+    },
+    "LootEvent_CivilianEncounter3_Start": {
+      "text": "この地域の安全が高まったことで、新たな民間人の一団と遭遇した。どうやら取引できる資源を持っているらしい。",
+      "source": "91f5c222cd72fc19"
+    },
+    "LootEvent_CivilianEncounter3_Threaten": {
+      "text": "脅す",
+      "source": "e8a9b22dfa169b91"
+    },
+    "LootEvent_CivilianEncounter3_Threaten_Char_1": {
+      "text": "[Party_0_Name]: 筋力 [Party_0_Attribute(Strength)] - HP [Party_0_Hp]",
+      "source": "2b0ef6e26f0f2769"
+    },
+    "LootEvent_CivilianEncounter3_Threaten_Char_2": {
+      "text": "[Party_1_Name]: 筋力 [Party_1_Attribute(Strength)] - HP [Party_1_Hp]",
+      "source": "77d674cb2c740695"
+    },
+    "LootEvent_CivilianEncounter3_Threaten_Char_3": {
+      "text": "[Party_2_Name]: 筋力 [Party_2_Attribute(Strength)] - HP [Party_2_Hp]",
+      "source": "265da4b7fc299066"
+    },
+    "LootEvent_CivilianEncounter3_Threaten_Fail": {
+      "text": "冗談のつもりか？\u3000ここでどっちが危険か、思い知らせてやる！",
+      "source": "5b61570a2369bab6"
+    },
+    "LootEvent_CivilianEncounter3_Threaten_Success": {
+      "text": "わかった、わかったよ。何が望みなんだ？",
+      "source": "b41c5c382fe7854b"
+    },
+    "LootEvent_CivilianEncounter3_Trade": {
+      "text": "取引する",
+      "source": "9709653fc80ceb83"
+    },
+    "LootEvent_CivilianEncounter3_Trade_Accept": {
+      "text": "応じる",
+      "source": "89713b9c9c1b8f65"
+    },
+    "LootEvent_CivilianEncounter3_Trade_Deny": {
+      "text": "断る",
+      "source": "2631349bff4daf19"
+    },
+    "LootEvent_CivilianEncounter3_Trade_Fail": {
+      "text": "なんだこれは？\u3000スクラップが足りないじゃないか。これじゃ取引は成立しないな。",
+      "source": "2d918afa0aa2dca0"
+    },
+    "LootEvent_CivilianEncounter3_Trade_Normal": {
+      "text": "[T@LootEventItem]を[@LootEventItemStack]個、買わないかと持ちかけられた。民間人は代金としてスクラップ[@LootEventItemPrice]個を求めている。手持ちのスクラップは[Inventory_Resource_4]個だ。",
+      "source": "aa7c67b950f2c0e8"
+    },
+    "LootEvent_CivilianEncounter3_Trade_Persuaded": {
+      "text": "[T@LootEventItem]を[@LootEventItemStack]個、買わないかと持ちかけられた。民間人は値引きに応じてくれて、代金はスクラップ[@LootEventItemPrice]個でいいという。手持ちのスクラップは[Inventory_Resource_4]個だ。",
+      "source": "38f386b62fec2e05"
+    },
+    "LootEvent_CivilianEncounter3_Trade_Threatened": {
+      "text": "わかったよ、ほら、これだ。私たちはもう行かないと。",
+      "source": "2551e29dd8227961"
+    },
+    "LootEvent_CivilianEncounter4_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_CivilianEncounter4_Rest": {
+      "text": "火に当たる（2時間消費、20%回復）",
+      "source": "e45d9cc6b88d18a5"
+    },
+    "LootEvent_CivilianEncounter4_Rest1": {
+      "text": "ほら、一緒に飲もう！\u3000今夜はみんなで楽しもうじゃないか！",
+      "source": "6451d7f355272859"
+    },
+    "LootEvent_CivilianEncounter4_Rest2a": {
+      "text": "私たちの友情に乾杯！\u3000この場所のことは知ってた？\u3000ここならきっと何か見つかるよ。旅の幸運を祈ってる！",
+      "source": "b9e34896868cff89"
+    },
+    "LootEvent_CivilianEncounter4_Rest2b": {
+      "text": "私たちの友情に乾杯！\u3000旅のお供に、食べ物と飲み物を少し分けてあげよう。気をつけてね！",
+      "source": "b463849c84b96d4d"
+    },
+    "LootEvent_CivilianEncounter4_Rest3c": {
+      "text": "私たちの友情に乾杯！\u3000弾薬を持っていって。くれぐれも気をつけて！",
+      "source": "4f4a5107a9e37c52"
+    },
+    "LootEvent_CivilianEncounter4_Start": {
+      "text": "こんばんは、旅の人たち！\u3000私たちは夜型でね。このあたりもようやく安全になったから、また心ゆくまで夜を楽しめるようになったんだ。さあ、そばに座って火に当たっていって。",
+      "source": "a8c02a14b45f2f78"
+    },
+    "LootEvent_CivilianEncounter_Combat_Result": {
+      "text": "民間人たちを倒した。品物はいただいていく。彼らにはもう必要ないだろう。",
+      "source": "acb096509b2b76d2"
+    },
+    "LootEvent_CivilianEncounter_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_CivilianEncounter_Information": {
+      "text": "見つけた場所を聞く",
+      "source": "1f1f911cf20a2578"
+    },
+    "LootEvent_CivilianEncounter_Information_Fail": {
+      "text": "悪いけど、この辺りのことはよく知らないんだ。",
+      "source": "e2b71f0c23a083c8"
+    },
+    "LootEvent_CivilianEncounter_Information_Normal": {
+      "text": "なんであんたたちに教えなきゃならないんだ？",
+      "source": "c5f8a839fc27d7dc"
+    },
+    "LootEvent_CivilianEncounter_Information_Persuaded": {
+      "text": "おすすめの場所があるよ。幸運を祈る。じゃあ、こっちは先を急ぐんでね。",
+      "source": "30ce2d0af14293c0"
+    },
+    "LootEvent_CivilianEncounter_Information_Threatened": {
+      "text": "わかった、隠し財産が見つかるかもしれない秘密の場所を教える。だから、もう行かせてくれ。",
+      "source": "832ea2c3b26db599"
+    },
+    "LootEvent_CivilianEncounter_Persuade": {
+      "text": "説得する",
+      "source": "2a8e811552c9d615"
+    },
+    "LootEvent_CivilianEncounter_Persuade_Char_1": {
+      "text": "[Party_0_Name]: パワー [Party_0_Attribute(Intelligence)] - HP [Party_0_Hp]",
+      "source": "cb84a127ce52f476"
+    },
+    "LootEvent_CivilianEncounter_Persuade_Char_2": {
+      "text": "[Party_1_Name]: パワー [Party_1_Attribute(Intelligence)] - HP [Party_1_Hp]",
+      "source": "e885ca50b1fff60d"
+    },
+    "LootEvent_CivilianEncounter_Persuade_Char_3": {
+      "text": "[Party_2_Name]: パワー [Party_2_Attribute(Intelligence)] - HP [Party_2_Hp]",
+      "source": "4f4c22e36158f6e5"
+    },
+    "LootEvent_CivilianEncounter_Persuade_Fail": {
+      "text": "その程度じゃ話にならないな。とっとと先へ行ったらどうだ？",
+      "source": "7bf8a6505aa1b4e8"
+    },
+    "LootEvent_CivilianEncounter_Persuade_Success": {
+      "text": "なあ、あんたのこと、気に入ったよ。知りたいことがあれば何でも聞いてくれ。",
+      "source": "e92c2271d6ec1080"
+    },
+    "LootEvent_CivilianEncounter_Start": {
+      "text": "民間人の一団に出くわした。役に立ちそうな品を持っているようだ（[T@LootEventItem]）。",
+      "source": "e661e2d101435808"
+    },
+    "LootEvent_CivilianEncounter_Threaten": {
+      "text": "脅す",
+      "source": "e8a9b22dfa169b91"
+    },
+    "LootEvent_CivilianEncounter_Threaten_Char_1": {
+      "text": "[Party_0_Name]: 筋力 [Party_0_Attribute(Strength)] - HP [Party_0_Hp]",
+      "source": "2b0ef6e26f0f2769"
+    },
+    "LootEvent_CivilianEncounter_Threaten_Char_2": {
+      "text": "[Party_1_Name]: 筋力 [Party_1_Attribute(Strength)] - HP [Party_1_Hp]",
+      "source": "77d674cb2c740695"
+    },
+    "LootEvent_CivilianEncounter_Threaten_Char_3": {
+      "text": "[Party_2_Name]: 筋力 [Party_2_Attribute(Strength)] - HP [Party_2_Hp]",
+      "source": "265da4b7fc299066"
+    },
+    "LootEvent_CivilianEncounter_Threaten_Fail": {
+      "text": "冗談のつもりか？\u3000ここらで誰が一番危ないか、思い知らせてやる！",
+      "source": "5b61570a2369bab6"
+    },
+    "LootEvent_CivilianEncounter_Threaten_Success": {
+      "text": "わかった、わかったよ。何が望みだ？",
+      "source": "b41c5c382fe7854b"
+    },
+    "LootEvent_CivilianEncounter_Trade": {
+      "text": "取引する",
+      "source": "9709653fc80ceb83"
+    },
+    "LootEvent_CivilianEncounter_Trade_Accept": {
+      "text": "応じる",
+      "source": "89713b9c9c1b8f65"
+    },
+    "LootEvent_CivilianEncounter_Trade_Deny": {
+      "text": "断る",
+      "source": "2631349bff4daf19"
+    },
+    "LootEvent_CivilianEncounter_Trade_Fail": {
+      "text": "何だこれは？\u3000スクラップが足りないじゃないか。これじゃ取引は成立しそうにないな。",
+      "source": "2d918afa0aa2dca0"
+    },
+    "LootEvent_CivilianEncounter_Trade_Normal": {
+      "text": "[T@LootEventItem]を1つ譲ってくれるという。民間人はその見返りに、スクラップを[@LootEventItemPrice]個求めている。手持ちのスクラップは[Inventory_Resource_4]個だ。",
+      "source": "07e90b81b6ee30de"
+    },
+    "LootEvent_CivilianEncounter_Trade_Persuaded": {
+      "text": "[T@LootEventItem]を1つ譲ってくれるという。民間人は値引きに応じてくれて、見返りはスクラップ[@LootEventItemPrice]個でいいそうだ。手持ちのスクラップは[Inventory_Resource_4]個だ。",
+      "source": "2e44ccd6c03a5a2e"
+    },
+    "LootEvent_CivilianEncounter_Trade_Threatened": {
+      "text": "わかったよ、ほら、持っていけ。こっちは先を急ぐんだ。",
+      "source": "2551e29dd8227961"
+    },
+    "LootEvent_Corpse_Accept": {
+      "text": "調べる",
+      "source": "49c266baaaa70981"
+    },
+    "LootEvent_Corpse_Char_1": {
+      "text": "[Party_0_Name]: サバイバル [Party_0_Talent(Survival)] - HP [Party_0_Hp]",
+      "source": "ee3e1723497d8bd9"
+    },
+    "LootEvent_Corpse_Char_2": {
+      "text": "[Party_1_Name]: サバイバル [Party_1_Talent(Survival)] - HP [Party_1_Hp]",
+      "source": "d5db1d8f4aefcbe1"
+    },
+    "LootEvent_Corpse_Char_3": {
+      "text": "[Party_2_Name]: サバイバル [Party_2_Talent(Survival)] - HP [Party_2_Hp]",
+      "source": "fb4fe4fdf499eddc"
+    },
+    "LootEvent_Corpse_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_Corpse_Fail_1": {
+      "text": "[Event]はゾンビを調べる手つきがぎこちなさすぎた。ゾンビは身をよじり、仲間を呼び寄せた。",
+      "source": "afe7ece2ce44baec"
+    },
+    "LootEvent_Corpse_Result_1": {
+      "text": "これでゾンビの持ち物を漁れる。",
+      "source": "fcd23be682692da9"
+    },
+    "LootEvent_Corpse_Start": {
+      "text": "地面に横たわる、動かないゾンビを見つけた。近づいても反応しない。危険を冒して調べてみるか？",
+      "source": "39a1d0fd0eb8666d"
+    },
+    "LootEvent_Debris_Accept": {
+      "text": "調べる",
+      "source": "49c266baaaa70981"
+    },
+    "LootEvent_Debris_Char_1": {
+      "text": "[Party_0_Name]: HP [Party_0_Hp]",
+      "source": "308dc91af8cd6cf1"
+    },
+    "LootEvent_Debris_Char_2": {
+      "text": "[Party_1_Name]: HP [Party_1_Hp]",
+      "source": "96e4a0693fad20f6"
+    },
+    "LootEvent_Debris_Char_3": {
+      "text": "[Party_2_Name]: HP [Party_2_Hp]",
+      "source": "8bc04728cdee732e"
+    },
+    "LootEvent_Debris_Choice_1": {
+      "text": "戦いに加わる",
+      "source": "f0ac12d014f6992e"
+    },
+    "LootEvent_Debris_Choice_2": {
+      "text": "がれきを探る",
+      "source": "5b56d21e16392e86"
+    },
+    "LootEvent_Debris_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_Debris_Fail_1": {
+      "text": "[Event]ががれきを調べている間に、敵に不意を突かれた。",
+      "source": "1dba7e8dc9dc0c77"
+    },
+    "LootEvent_Debris_Fail_2": {
+      "text": "[Event]は戦いに加わるか、それともがれきを探り続けるか？",
+      "source": "2d0b83c3b42e0675"
+    },
+    "LootEvent_Debris_Result_1": {
+      "text": "[Event]はその間にがれきをくまなく調べた。",
+      "source": "2323d0ba2481157f"
+    },
+    "LootEvent_Debris_Start": {
+      "text": "建設現場のがれきの山を見つけた。資材や鉄、価値のあるスクラップが見つかるかもしれない。発見・襲撃の確率: [T@LootEventThread]。",
+      "source": "0a0534bdeb2f592a"
+    },
+    "LootEvent_Deer_Accept": {
+      "text": "狩る",
+      "source": "81f16575878f411f"
+    },
+    "LootEvent_Deer_Char1": {
+      "text": "[Party_0_Name]: サバイバル [Party_0_Talent(Survival)] - HP [Party_0_Hp]",
+      "source": "ee3e1723497d8bd9"
+    },
+    "LootEvent_Deer_Char2": {
+      "text": "[Party_1_Name]: サバイバル [Party_1_Talent(Survival)] - HP [Party_1_Hp]",
+      "source": "d5db1d8f4aefcbe1"
+    },
+    "LootEvent_Deer_Char3": {
+      "text": "[Party_2_Name]: サバイバル [Party_2_Talent(Survival)] - HP [Party_2_Hp]",
+      "source": "fb4fe4fdf499eddc"
+    },
+    "LootEvent_Deer_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_Deer_Fail_1": {
+      "text": "[Event]は狙いを外した。シカは走り去り、姿を消した。",
+      "source": "3acbede062d3da35"
+    },
+    "LootEvent_Deer_NoWeapon": {
+      "text": "[Event]は今、遠距離攻撃ができない。",
+      "source": "6d7c056b8505d210"
+    },
+    "LootEvent_Deer_Start": {
+      "text": "草をはむシカを見つけた。狩ることもできる。遠距離武器が必要だ。",
+      "source": "a7b9004d54cfbf14"
+    },
+    "LootEvent_DogHeal_Accept": {
+      "text": "犬を手当てする",
+      "source": "620feb8fb7818224"
+    },
+    "LootEvent_DogHeal_Char_1": {
+      "text": "[Party_0_Name]: 生物学 [Party_0_Talent(Medical)] - HP [Party_0_Hp]",
+      "source": "53b3c048d9e18431"
+    },
+    "LootEvent_DogHeal_Char_2": {
+      "text": "[Party_1_Name]: 生物学 [Party_1_Talent(Medical)] - HP [Party_1_Hp]",
+      "source": "0f8acedf872ac183"
+    },
+    "LootEvent_DogHeal_Char_3": {
+      "text": "[Party_2_Name]: 生物学 [Party_2_Talent(Medical)] - HP [Party_2_Hp]",
+      "source": "d81e2af96976af30"
+    },
+    "LootEvent_DogHeal_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_DogHeal_Fail": {
+      "text": "[Event]は犬の傷を手当てできなかった。犬の鳴き声はどんどん大きくなり、近くのゾンビを引き寄せてしまう。",
+      "source": "cbcca311cf11c793"
+    },
+    "LootEvent_DogHeal_Start": {
+      "text": "痛みにのたうち回る犬を見つけた。",
+      "source": "0cb4dab6ac22ff9e"
+    },
+    "LootEvent_DogHeal_Success": {
+      "text": "[Event]が傷口を洗って押さえてやると、犬は楽になったようだ。犬ははしゃいだ様子で数メートル先へ駆けていき、地面を掘り始めた。調べてみると、隠されたバックパックが見つかった。",
+      "source": "875e15e3f83b50b3"
+    },
+    "LootEvent_FactionEncounterBig_Start_1": {
+      "text": "[T@LootEventFactionPos]の兵士の大部隊と出くわした。攻撃を仕掛けるのは危険だろう。",
+      "source": "4059c4e0bf2d4ece"
+    },
+    "LootEvent_FactionEncounterSmall_Start_1": {
+      "text": "[T@LootEventFactionPos]の兵士数人と出くわした。",
+      "source": "3fca74e7da163272"
+    },
+    "LootEvent_FactionEncounter_Attack": {
+      "text": "攻撃する（友好度-10）",
+      "source": "ead161d8f1dc4333"
+    },
+    "LootEvent_FactionEncounter_Bribe": {
+      "text": "賄賂を渡す（友好度±10）",
+      "source": "e4ba200e43696092"
+    },
+    "LootEvent_FactionEncounter_Bribe_Choice_1": {
+      "text": "25ドルの賄賂を渡す（成功率50%）",
+      "source": "82df4dab5526c484"
+    },
+    "LootEvent_FactionEncounter_Bribe_Choice_2": {
+      "text": "50ドルの賄賂を渡す（成功率80%）",
+      "source": "2c4ced70de842553"
+    },
+    "LootEvent_FactionEncounter_Bribe_Choice_3": {
+      "text": "100ドルの賄賂を渡す（成功率100%）",
+      "source": "caff8f34b267b48a"
+    },
+    "LootEvent_FactionEncounter_Bribe_Fail": {
+      "text": "俺たちは金じゃ動かん！\u3000野郎ども、この悪党どもに思い知らせてやれ！",
+      "source": "c2df9ab35c57f878"
+    },
+    "LootEvent_FactionEncounter_Bribe_NoMoney": {
+      "text": "お前ら、バカか？\u3000そんな金も持ってないくせに。野郎ども、やっちまえ！",
+      "source": "e29d75a5c1f9cfcf"
+    },
+    "LootEvent_FactionEncounter_Bribe_Success": {
+      "text": "今日のお前たちはついてるな。通っていいぞ。仲間にもいいように口添えしておいてやる。",
+      "source": "d52d5b386415cecb"
+    },
+    "LootEvent_FactionEncounter_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_FactionEncounter_Donation_Bonus": {
+      "text": "[T@LootEventFaction]との友好度ランクによる成功率ボーナス: [@LootEventSkillCheckBonus2]%",
+      "source": "2502de712e872cca"
+    },
+    "LootEvent_FactionEncounter_Donation_Char_1": {
+      "text": "[Party_0_Name]: パワー [Party_0_Attribute(Intelligence)] - HP [Party_0_Hp]",
+      "source": "cb84a127ce52f476"
+    },
+    "LootEvent_FactionEncounter_Donation_Char_2": {
+      "text": "[Party_1_Name]: パワー [Party_1_Attribute(Intelligence)] - HP [Party_1_Hp]",
+      "source": "e885ca50b1fff60d"
+    },
+    "LootEvent_FactionEncounter_Donation_Char_3": {
+      "text": "[Party_2_Name]: パワー [Party_2_Attribute(Intelligence)] - HP [Party_2_Hp]",
+      "source": "4f4c22e36158f6e5"
+    },
+    "LootEvent_FactionEncounter_Donation_Command": {
+      "text": "[Event]が寄付を求めて交渉する",
+      "source": "272590cd25c6924c"
+    },
+    "LootEvent_FactionEncounter_Donation_Fail": {
+      "text": "[Event]は寄付の交渉に失敗した",
+      "source": "ec71adc7208fe0a4"
+    },
+    "LootEvent_FactionEncounter_Donation_NoRep": {
+      "text": "冗談のつもりか？\u3000ちっとも笑えないな。",
+      "source": "9b5ccc2e9bbfb125"
+    },
+    "LootEvent_FactionEncounter_Donation_Success": {
+      "text": "いいだろう。[T@LootEventItem]を譲ろう。",
+      "source": "599906ceb7f35fa7"
+    },
+    "LootEvent_FactionEncounter_GetDonation": {
+      "text": "寄付を頼む",
+      "source": "6d0a727904251d21"
+    },
+    "LootEvent_FactionEncounter_GetInformation": {
+      "text": "この辺りの情報を聞く",
+      "source": "b44ebf397f88bcfd"
+    },
+    "LootEvent_FactionEncounter_Greeting_0": {
+      "text": "止まれ！\u3000お前らは[T@LootEventFactionPos]の敵だ。かかれ！",
+      "source": "6b841393a3d3fa4e"
+    },
+    "LootEvent_FactionEncounter_Greeting_1": {
+      "text": "止まれ！\u3000お前らは[T@LootEventFactionRef]のお尋ね者だな。今すぐ攻撃されたくなければ、それなりの理由を言ってみろ。",
+      "source": "7ddb967583e75a64"
+    },
+    "LootEvent_FactionEncounter_Greeting_2": {
+      "text": "どうも。[T@LootEventFactionRef]は、あんたたちの存在を黙認している。話があるなら聞こう。",
+      "source": "07631ca3c0b44a2f"
+    },
+    "LootEvent_FactionEncounter_Greeting_3": {
+      "text": "やあ、どうも。[T@LootEventFactionPos]の間で、あんたたちのいい噂を聞いてるよ。何か力になれることはあるか？",
+      "source": "4d5561b287349f8b"
+    },
+    "LootEvent_FactionEncounter_Greeting_4": {
+      "text": "おっ、あんたたちのことは知ってるぞ！\u3000[T@LootEventFactionPos]の同盟者だろ。何か手伝えることはあるか？",
+      "source": "315744ab617e2f26"
+    },
+    "LootEvent_FactionEncounter_Greeting_5": {
+      "text": "おお！\u3000あんたたちは[T@LootEventFactionAcc]の英雄じゃないか。ぜひ力にならせてくれ。",
+      "source": "3aca0b5a413e2d5f"
+    },
+    "LootEvent_FactionEncounter_Information_Bonus": {
+      "text": "[T@LootEventFaction]との友好度ランクによる成功率ボーナス: [@LootEventSkillCheckBonus2]%",
+      "source": "2502de712e872cca"
+    },
+    "LootEvent_FactionEncounter_Information_Char_1": {
+      "text": "[Party_0_Name]: サバイバル [Party_0_Talent(Survival)] - HP [Party_0_Hp]",
+      "source": "ee3e1723497d8bd9"
+    },
+    "LootEvent_FactionEncounter_Information_Char_2": {
+      "text": "[Party_1_Name]: サバイバル [Party_1_Talent(Survival)] - HP [Party_1_Hp]",
+      "source": "d5db1d8f4aefcbe1"
+    },
+    "LootEvent_FactionEncounter_Information_Char_3": {
+      "text": "[Party_2_Name]: サバイバル [Party_2_Talent(Survival)] - HP [Party_2_Hp]",
+      "source": "fb4fe4fdf499eddc"
+    },
+    "LootEvent_FactionEncounter_Information_Fail": {
+      "text": "すまない、私たちもこの辺りには詳しくないんだ。",
+      "source": "e2b71f0c23a083c8"
+    },
+    "LootEvent_FactionEncounter_Information_Success": {
+      "text": "地図に印をつけておこう。そこなら何か役に立つものが見つかるはずだ。",
+      "source": "1d12f08805ead1c9"
+    },
+    "LootEvent_FactionEscort_Accept": {
+      "text": "引き受ける",
+      "source": "89713b9c9c1b8f65"
+    },
+    "LootEvent_FactionEscort_CommandGroup": {
+      "text": "よし、[T@LootEventThreadFactionRef]を攻撃する！\u3000援護を頼む！",
+      "source": "779bbdba4d818201"
+    },
+    "LootEvent_FactionEscort_CommandSolo": {
+      "text": "ありがとう。一人じゃとても無理だった。援護を頼む！",
+      "source": "840b527839514fc7"
+    },
+    "LootEvent_FactionEscort_Decline": {
+      "text": "断る",
+      "source": "2631349bff4daf19"
+    },
+    "LootEvent_FactionEscort_Result_1": {
+      "text": "うまくいったな。[T@LootEventOwnerFactionAcc]との友好度が上がったぞ。報酬はあんたたちのものだ。",
+      "source": "9c716e8d36808264"
+    },
+    "LootEvent_FactionEscort_Result_2": {
+      "text": "ありがとう。おかげで仲間も戦いを生き延びられた。ボーナスとして何ドルか渡しておこう。",
+      "source": "6f47f0629a87ddab"
+    },
+    "LootEvent_FactionEscort_Start_1": {
+      "text": "この辺りにいる[T@LootEventFactionRef]を片付けたいんだ。ここらで厄介な存在になってきててな。すぐ近くにも何人かいる。",
+      "source": "6446eaa068b22cd2"
+    },
+    "LootEvent_FactionEscort_Start_2": {
+      "text": "手を貸してくれたら、上の連中にあんたたちのことをよく言っておこう。それに、報酬として[T@LootEventItem]を渡す。",
+      "source": "542ed812626ea9fe"
+    },
+    "LootEvent_FactionEscort_Start_3": {
+      "text": "そうか。あんたたちがそこまで臆病だとは思わなかったよ……",
+      "source": "2c7b247eb889404c"
+    },
+    "LootEvent_FactionEscort_failed": {
+      "text": "兵士を守りきれなかった。重い気持ちを抱えたまま、先へ進む。",
+      "source": "37195df586221443"
+    },
+    "LootEvent_IdlingScavenger_Attack": {
+      "text": "攻撃する",
+      "source": "4cd548f3cc29cf9c"
+    },
+    "LootEvent_IdlingScavenger_Char_1": {
+      "text": "[Party_0_Name]: サバイバル [Party_0_Talent(Survival)] - HP [Party_0_Hp]",
+      "source": "ee3e1723497d8bd9"
+    },
+    "LootEvent_IdlingScavenger_Char_2": {
+      "text": "[Party_1_Name]: サバイバル [Party_1_Talent(Survival)] - HP [Party_1_Hp]",
+      "source": "d5db1d8f4aefcbe1"
+    },
+    "LootEvent_IdlingScavenger_Char_3": {
+      "text": "[Party_2_Name]: サバイバル [Party_2_Talent(Survival)] - HP [Party_2_Hp]",
+      "source": "fb4fe4fdf499eddc"
+    },
+    "LootEvent_IdlingScavenger_Combatwin": {
+      "text": "死体の中から何かを見つけた。",
+      "source": "a2f322908f712337"
+    },
+    "LootEvent_IdlingScavenger_Fail": {
+      "text": "[Event]は気配を消しきれなかった。略奪者たちに見つかってしまった。",
+      "source": "8d1fa504d5d1d790"
+    },
+    "LootEvent_IdlingScavenger_Info_1": {
+      "text": "誰が先頭に立つ？",
+      "source": "b7d385af2e6f1666"
+    },
+    "LootEvent_IdlingScavenger_Sneak": {
+      "text": "こっそり通り抜ける",
+      "source": "376453811042f536"
+    },
+    "LootEvent_IdlingScavenger_Start_1": {
+      "text": "死体を漁る墓荒らしの一団を見つけた。まだこちらには気づいていない。こっそり通り抜けることも、襲いかかって戦利品を横取りすることもできる。",
+      "source": "70d57408b8950f70"
+    },
+    "LootEvent_IdlingZombies_Attack": {
+      "text": "攻撃する",
+      "source": "4cd548f3cc29cf9c"
+    },
+    "LootEvent_IdlingZombies_Char_1": {
+      "text": "[Party_0_Name]: サバイバル [Party_0_Talent(Survival)] - HP [Party_0_Hp]",
+      "source": "ee3e1723497d8bd9"
+    },
+    "LootEvent_IdlingZombies_Char_2": {
+      "text": "[Party_1_Name]: サバイバル [Party_1_Talent(Survival)] - HP [Party_1_Hp]",
+      "source": "d5db1d8f4aefcbe1"
+    },
+    "LootEvent_IdlingZombies_Char_3": {
+      "text": "[Party_2_Name]: サバイバル [Party_2_Talent(Survival)] - HP [Party_2_Hp]",
+      "source": "fb4fe4fdf499eddc"
+    },
+    "LootEvent_IdlingZombies_Fail": {
+      "text": "[Event]は気配を消しきれなかった。ゾンビたちに気づかれてしまった。",
+      "source": "c43304db696744b6"
+    },
+    "LootEvent_IdlingZombies_Info_1": {
+      "text": "誰が先頭に立つ？",
+      "source": "b7d385af2e6f1666"
+    },
+    "LootEvent_IdlingZombies_Sneak": {
+      "text": "こっそり通り抜ける",
+      "source": "376453811042f536"
+    },
+    "LootEvent_IdlingZombies_Start_1": {
+      "text": "ゾンビの大群を見つけた。まだこちらには気づいていない。こっそり通り抜けることも、奇襲をかけることもできる。",
+      "source": "bdff0e078962b416"
+    },
+    "LootEvent_Injured2_Acceppt": {
+      "text": "助ける",
+      "source": "b79cac926e0b2e34"
+    },
+    "LootEvent_Injured2_Char_1": {
+      "text": "[Party_0_Name]: 生物学 [Party_0_Talent(Medical)] - HP [Party_0_Hp]",
+      "source": "53b3c048d9e18431"
+    },
+    "LootEvent_Injured2_Char_2": {
+      "text": "[Party_1_Name]: 生物学 [Party_1_Talent(Medical)] - HP [Party_1_Hp]",
+      "source": "0f8acedf872ac183"
+    },
+    "LootEvent_Injured2_Char_3": {
+      "text": "[Party_2_Name]: 生物学 [Party_2_Talent(Medical)] - HP [Party_2_Hp]",
+      "source": "d81e2af96976af30"
+    },
+    "LootEvent_Injured2_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_Injured2_Fail_1": {
+      "text": "ボディガードを助けるには遅すぎた。すでに息絶えている。",
+      "source": "300db16ba7a33da8"
+    },
+    "LootEvent_Injured2_Fail_2": {
+      "text": "男の悲鳴があたりに響き渡る。苦しみ悶えながら死んでいくその声で、近くにいた囚人たちが目を覚ました。",
+      "source": "61101442a1eb138f"
+    },
+    "LootEvent_Injured2_Start": {
+      "text": "囚人を護送していたらしいボディガードを見つけた。助けてやれるかもしれない。",
+      "source": "030f2721646cf48b"
+    },
+    "LootEvent_Injured2_Success_1": {
+      "text": "助かったよ、ありがとう。ささやかだが、礼を受け取ってくれ。",
+      "source": "fe84bb33a7fdf3bc"
+    },
+    "LootEvent_Injured2_Success_2": {
+      "text": "ボディガードを助けたちょうどそのとき、囚人たちが目を覚ました。どうやら噛まれていたらしい……",
+      "source": "9454f1bd271d452a"
+    },
+    "LootEvent_Injured2_Trick_1": {
+      "text": "助けようとしたそのとき、略奪者たちが襲いかかってきた！",
+      "source": "553c413673295be8"
+    },
+    "LootEvent_Injured2_Trick_2": {
+      "text": "囚人どもは俺たちのもんだ。そして今度は、こいつらの持ち物もな……",
+      "source": "f9e30261970ff2b1"
+    },
+    "LootEvent_Injured3_Acceppt": {
+      "text": "助ける",
+      "source": "b79cac926e0b2e34"
+    },
+    "LootEvent_Injured3_Char_1": {
+      "text": "[Party_0_Name]: 生物学 [Party_0_Talent(Medical)] - HP [Party_0_Hp]",
+      "source": "53b3c048d9e18431"
+    },
+    "LootEvent_Injured3_Char_2": {
+      "text": "[Party_1_Name]: 生物学 [Party_1_Talent(Medical)] - HP [Party_1_Hp]",
+      "source": "0f8acedf872ac183"
+    },
+    "LootEvent_Injured3_Char_3": {
+      "text": "[Party_2_Name]: 生物学 [Party_2_Talent(Medical)] - HP [Party_2_Hp]",
+      "source": "d81e2af96976af30"
+    },
+    "LootEvent_Injured3_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_Injured3_Fail_1": {
+      "text": "もう手の施しようがなかった。兵士は息を引き取った。",
+      "source": "2e5da86f5c961302"
+    },
+    "LootEvent_Injured3_Fail_2": {
+      "text": "苦しみながら息絶えていく兵士の口から、耳をつんざく悲鳴がほとばしった。その声が近くのゾンビを引き寄せる。",
+      "source": "aa52c0d40d452bfe"
+    },
+    "LootEvent_Injured3_Start": {
+      "text": "気絶している[T@LootEventOwnerFactionPos]の女性兵士を見つけた。助けられるかもしれない。",
+      "source": "697e43ede13dabb6"
+    },
+    "LootEvent_Injured3_Success": {
+      "text": "兵士は、もうしばらく同行させてほしいと申し出た。",
+      "source": "5f0ba644ea81eb19"
+    },
+    "LootEvent_Injured3_Success_1_1": {
+      "text": "どうやらこの兵士は、パンクスに追われていることを言いそびれていたらしい。",
+      "source": "9a7387c9b9919a2d"
+    },
+    "LootEvent_Injured3_Success_1_2": {
+      "text": "俺たちはその女を追ってたんだ。さあ、俺たちの野営地まで来てもらおうか！\u3000ハハハ！",
+      "source": "63da0903182cba21"
+    },
+    "LootEvent_Injured3_Success_1_3": {
+      "text": "兵士はささやかな謝礼と推薦状をくれた（友好度+3）",
+      "source": "80e8b9209ab7a8b0"
+    },
+    "LootEvent_Injured3_Success_2": {
+      "text": "兵士はささやかな謝礼をくれた。",
+      "source": "3fa2bd97a278bd9f"
+    },
+    "LootEvent_Injured3_Trick_1": {
+      "text": "助けようと身をかがめた瞬間、彼女は突然跳ね起きて援軍を呼んだ。どうやら脱走兵の一味だったらしい。",
+      "source": "142b0f480539f607"
+    },
+    "LootEvent_Injured_Acceppt": {
+      "text": "助ける",
+      "source": "b79cac926e0b2e34"
+    },
+    "LootEvent_Injured_Char_1": {
+      "text": "[Party_0_Name]: 生物学 [Party_0_Talent(Medical)] - HP [Party_0_Hp]",
+      "source": "53b3c048d9e18431"
+    },
+    "LootEvent_Injured_Char_2": {
+      "text": "[Party_1_Name]: 生物学 [Party_1_Talent(Medical)] - HP [Party_1_Hp]",
+      "source": "0f8acedf872ac183"
+    },
+    "LootEvent_Injured_Char_3": {
+      "text": "[Party_2_Name]: 生物学 [Party_2_Talent(Medical)] - HP [Party_2_Hp]",
+      "source": "d81e2af96976af30"
+    },
+    "LootEvent_Injured_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_Injured_Fail_1": {
+      "text": "女性はもう手の施しようがなかった。そのまま息を引き取った。",
+      "source": "74603e4bee834655"
+    },
+    "LootEvent_Injured_Fail_2": {
+      "text": "女性は耳をつんざくような悲鳴を上げ、苦しみながら息絶えた。その声に、近くのゾンビが引き寄せられてくる。",
+      "source": "075e216fed2776ec"
+    },
+    "LootEvent_Injured_Start": {
+      "text": "気絶している民間人を見つけた。助けられるかもしれない。",
+      "source": "6550533aa37da7a1"
+    },
+    "LootEvent_Injured_Success_1": {
+      "text": "助けてくれてありがとう。ささやかだけど、お礼にこれを受け取って。",
+      "source": "fe84bb33a7fdf3bc"
+    },
+    "LootEvent_Injured_Success_2": {
+      "text": "本当にいろいろありがとう。このご親切に報いられる物があればよかったんだけど。",
+      "source": "f4c94e2be727abe3"
+    },
+    "LootEvent_Injured_Trick_1": {
+      "text": "助けようと身をかがめたその時、女が突然跳ね起き、大声で仲間を呼んだ。",
+      "source": "73b3a41cae0b1b32"
+    },
+    "LootEvent_Injured_Trick_2": {
+      "text": "ハッ！\u3000この手は何度やってもたまらないね。野郎ども、やっちまいな！\u3000身ぐるみ剥いでやるんだよ！",
+      "source": "82c85eed20df9b6a"
+    },
+    "LootEvent_MerchantEscort2_Accept": {
+      "text": "引き受ける",
+      "source": "89713b9c9c1b8f65"
+    },
+    "LootEvent_MerchantEscort2_Attack": {
+      "text": "攻撃する",
+      "source": "4cd548f3cc29cf9c"
+    },
+    "LootEvent_MerchantEscort2_Dead": {
+      "text": "くそっ！\u3000もっと慎重にやるべきだった。",
+      "source": "4dc9b7c6ebbcdf42"
+    },
+    "LootEvent_MerchantEscort2_Decline": {
+      "text": "断る",
+      "source": "2631349bff4daf19"
+    },
+    "LootEvent_MerchantEscort2_Deliver": {
+      "text": "彼を引き渡す",
+      "source": "d4b4dc2a32f12f4f"
+    },
+    "LootEvent_MerchantEscort2_Deliver_1": {
+      "text": "さてと、ボディガードくん。これからは俺たちに仕えてもらうぜ……",
+      "source": "a70f5a3420d8a80d"
+    },
+    "LootEvent_MerchantEscort2_Deliver_2": {
+      "text": "おい！\u3000そんなこと、していいわけが……",
+      "source": "1f5007e73e1b24c7"
+    },
+    "LootEvent_MerchantEscort2_Dialogue_1": {
+      "text": "恩に着る。じゃあ、行こう。奴らを片付けるぞ！",
+      "source": "d9da8816eea2f3d0"
+    },
+    "LootEvent_MerchantEscort2_Dialogue_2": {
+      "text": "なら、俺一人でやるしかないか……",
+      "source": "109c428ca39923f5"
+    },
+    "LootEvent_MerchantEscort2_Punks": {
+      "text": "そいつとつるんで、俺たちに喧嘩を売ろうってのか？\u3000俺たちはそこらの略奪者とはわけが違うぜ。よく考えるんだな！",
+      "source": "8492d51a057346f6"
+    },
+    "LootEvent_MerchantEscort2_Result": {
+      "text": "奴らには当然の報いだ！\u3000約束の50ドルだ。達者でな！",
+      "source": "a5c50ca82364c974"
+    },
+    "LootEvent_MerchantEscort2_Scavengers": {
+      "text": "どういうつもりだ？\u3000そいつに手を貸そうってのか？\u3000こっちは遊びじゃねえんだぞ！",
+      "source": "577ee692fdf5d514"
+    },
+    "LootEvent_MerchantEscort2_Start_1": {
+      "text": "険しい表情をしたボディガードを見つけた。",
+      "source": "98021291f5b9eea6"
+    },
+    "LootEvent_MerchantEscort2_Start_2": {
+      "text": "俺が組んでた商人が、犯罪者の一味に殺された。仇を討って、商品を取り戻したい。手を貸してくれたら50ドル払う。あの悪党どもを止めてくれないか？",
+      "source": "2a6960b41c2dab0b"
+    },
+    "LootEvent_MerchantEscort3_Accept": {
+      "text": "引き受ける",
+      "source": "89713b9c9c1b8f65"
+    },
+    "LootEvent_MerchantEscort3_Attack": {
+      "text": "攻撃する",
+      "source": "4cd548f3cc29cf9c"
+    },
+    "LootEvent_MerchantEscort3_Bribe": {
+      "text": "賄賂を渡す",
+      "source": "4fc7dd96d2ec9e0d"
+    },
+    "LootEvent_MerchantEscort3_Bribe_Choice_1": {
+      "text": "20ドルの賄賂を渡す（成功率50%）",
+      "source": "ab1d662bcd11027a"
+    },
+    "LootEvent_MerchantEscort3_Bribe_Choice_2": {
+      "text": "40ドルの賄賂を渡す（成功率80%）",
+      "source": "08609dea25c75802"
+    },
+    "LootEvent_MerchantEscort3_Bribe_Choice_3": {
+      "text": "60ドルの賄賂を渡す（成功率100%）",
+      "source": "0bbbe9e36319333a"
+    },
+    "LootEvent_MerchantEscort3_Bribe_Fail": {
+      "text": "そいつがもっと持ってるのは見え見えなのに、こんなはした金で満足しろってのか？\u3000このケチ野郎どもをぶっ殺せ！",
+      "source": "9a61293869fd4665"
+    },
+    "LootEvent_MerchantEscort3_Bribe_NoMoney": {
+      "text": "ふざけてんのか？\u3000そんな金、持ってもいねえくせに！\u3000かかれ！",
+      "source": "4ab380d8d94b1cf2"
+    },
+    "LootEvent_MerchantEscort3_Bribe_Success": {
+      "text": "これだけありゃ十分だ。よし、通っていいぞ。",
+      "source": "f5fd0fea5eaf72af"
+    },
+    "LootEvent_MerchantEscort3_Dead": {
+      "text": "かわいそうに……",
+      "source": "48f3101d6a8399e1"
+    },
+    "LootEvent_MerchantEscort3_Decline": {
+      "text": "断る",
+      "source": "2631349bff4daf19"
+    },
+    "LootEvent_MerchantEscort3_Deliver": {
+      "text": "彼を引き渡す",
+      "source": "d4b4dc2a32f12f4f"
+    },
+    "LootEvent_MerchantEscort3_Deliver_1": {
+      "text": "ハハッ、坊主は俺たちのもんだ。見ろよ、あのしょぼくれた顔！",
+      "source": "3b30b6894c7a2023"
+    },
+    "LootEvent_MerchantEscort3_Deliver_2": {
+      "text": "あんな連中に言われるがままになるなんて、情けないにもほどがある。",
+      "source": "26ac2af478a87ed6"
+    },
+    "LootEvent_MerchantEscort3_Dialogue_1": {
+      "text": "よし、きっと何もかもうまくいく。そんな気がするんだ。",
+      "source": "6e3652e3f702ea0e"
+    },
+    "LootEvent_MerchantEscort3_Dialogue_2": {
+      "text": "好きにしなよ。金がいらないって言うなら……",
+      "source": "0d8035079fc80793"
+    },
+    "LootEvent_MerchantEscort3_Mutations": {
+      "text": "嘘だろ、くそっ。どこまでついてないんだ！\u3000どうすればいい？",
+      "source": "75dee6749e66e620"
+    },
+    "LootEvent_MerchantEscort3_Punks_1": {
+      "text": "そいつは俺たちに借金があるんだ。俺たちのことは見なかったことにして、余計な詮索をしないなら、お前らは見逃してやる。",
+      "source": "fb41a02c75591b58"
+    },
+    "LootEvent_MerchantEscort3_Result": {
+      "text": "砂漠を生き延びたぞ！\u3000あんたたちは、報酬に見合うだけの仕事をしてくれた。",
+      "source": "75b19cd728cf93d3"
+    },
+    "LootEvent_MerchantEscort3_Start_1": {
+      "text": "民間人の男を見つけた。不安そうな顔をしている。",
+      "source": "f8f6ba82392e7bcb"
+    },
+    "LootEvent_MerchantEscort3_Start_2": {
+      "text": "ちょうどいいところに来てくれた。あんたたち、頼りになりそうだ。少しのあいだ護衛してくれるだけでいいんだ。この砂漠はどうも落ち着かなくてね。変異した化け物どもはもちろん、ときどき出くわす人間だって、会いたくない連中ばかりなんだよ。",
+      "source": "3e73124c1ea86e29"
+    },
+    "LootEvent_MerchantEscort3_Start_3": {
+      "text": "報酬は50ドルだ。悪いけど、それ以上は出せない。",
+      "source": "764c2f5929cfe6fa"
+    },
+    "LootEvent_MerchantEscort3_Threaten": {
+      "text": "脅す",
+      "source": "e8a9b22dfa169b91"
+    },
+    "LootEvent_MerchantEscort3_Threaten_Char_1": {
+      "text": "[Party_0_Name]: 筋力 [Party_0_Attribute(Strength)] - HP [Party_0_Hp]",
+      "source": "2b0ef6e26f0f2769"
+    },
+    "LootEvent_MerchantEscort3_Threaten_Char_2": {
+      "text": "[Party_1_Name]: 筋力 [Party_1_Attribute(Strength)] - HP [Party_1_Hp]",
+      "source": "77d674cb2c740695"
+    },
+    "LootEvent_MerchantEscort3_Threaten_Char_3": {
+      "text": "[Party_2_Name]: 筋力 [Party_2_Attribute(Strength)] - HP [Party_2_Hp]",
+      "source": "265da4b7fc299066"
+    },
+    "LootEvent_MerchantEscort3_Threaten_Fail": {
+      "text": "その程度の脅しが俺たちに通じるかよ。この砂漠には、もっとヤバいもんがいくらでもあるんだ！",
+      "source": "62197329688f38de"
+    },
+    "LootEvent_MerchantEscort3_Threaten_Success": {
+      "text": "わかった、わかった。お前らの勝ちだ！\u3000さっさと行きな。",
+      "source": "72c7ef882d4e5a87"
+    },
+    "LootEvent_MerchantEscort_Accept": {
+      "text": "引き受ける",
+      "source": "89713b9c9c1b8f65"
+    },
+    "LootEvent_MerchantEscort_Attack": {
+      "text": "攻撃する",
+      "source": "4cd548f3cc29cf9c"
+    },
+    "LootEvent_MerchantEscort_Bribe": {
+      "text": "賄賂を渡す",
+      "source": "4fc7dd96d2ec9e0d"
+    },
+    "LootEvent_MerchantEscort_Bribe_Choice_1": {
+      "text": "25ドルの賄賂を渡す（成功率50%）",
+      "source": "82df4dab5526c484"
+    },
+    "LootEvent_MerchantEscort_Bribe_Choice_2": {
+      "text": "50ドルの賄賂を渡す（成功率80%）",
+      "source": "2c4ced70de842553"
+    },
+    "LootEvent_MerchantEscort_Bribe_Choice_3": {
+      "text": "100ドルの賄賂を渡す（成功率100%）",
+      "source": "caff8f34b267b48a"
+    },
+    "LootEvent_MerchantEscort_Bribe_Fail": {
+      "text": "そいつがもっと持ってるのは見え見えなのに、こんなはした金で満足しろってのか？\u3000このケチ野郎どもをぶっ殺せ！",
+      "source": "9a61293869fd4665"
+    },
+    "LootEvent_MerchantEscort_Bribe_NoMoney": {
+      "text": "ふざけてんのか？\u3000そんな金、持ってもいねえくせに！\u3000かかれ！",
+      "source": "4ab380d8d94b1cf2"
+    },
+    "LootEvent_MerchantEscort_Bribe_Success": {
+      "text": "まあ、これで足りるだろ。よし、通っていいぜ。",
+      "source": "f5fd0fea5eaf72af"
+    },
+    "LootEvent_MerchantEscort_Dead": {
+      "text": "くそっ！\u3000もっと慎重にやるべきだった。",
+      "source": "4dc9b7c6ebbcdf42"
+    },
+    "LootEvent_MerchantEscort_Decline": {
+      "text": "断る",
+      "source": "2631349bff4daf19"
+    },
+    "LootEvent_MerchantEscort_Deliver": {
+      "text": "商人を引き渡す",
+      "source": "d4b4dc2a32f12f4f"
+    },
+    "LootEvent_MerchantEscort_Deliver_1": {
+      "text": "ちょっとした協力が大きな得になるってもんだ。ハハハ！\u3000おかげでお前らも長生きできるってわけだ。ウィンウィンだな！",
+      "source": "606f57ae074e92f6"
+    },
+    "LootEvent_MerchantEscort_Deliver_2": {
+      "text": "後悔しますよ！\u3000あなたがたのしたことは、必ず独立派に伝わりますからね！",
+      "source": "37b6b9707be9328b"
+    },
+    "LootEvent_MerchantEscort_Dialogue_1": {
+      "text": "では、一緒に参りましょう。背中は頼みましたよ。",
+      "source": "6972d56d99f50f72"
+    },
+    "LootEvent_MerchantEscort_Dialogue_2": {
+      "text": "お好きにどうぞ。良い評判なんて要らないとおっしゃるなら……",
+      "source": "54833ac81ab1c0a1"
+    },
+    "LootEvent_MerchantEscort_Punks_1": {
+      "text": "その商人をよこせ。さもないと、お前らもそいつと同じ目に遭うぞ！",
+      "source": "f77fe756e4cab30b"
+    },
+    "LootEvent_MerchantEscort_Result": {
+      "text": "本当に感謝しています。こちらが報酬です。あなたがたの勇敢な働きは、必ず独立派に伝えておきますよ。",
+      "source": "a935b8342777db9a"
+    },
+    "LootEvent_MerchantEscort_Start_1": {
+      "text": "商人の男を見つけた。何やら動揺しているようだ。",
+      "source": "4321bad4aebe6d65"
+    },
+    "LootEvent_MerchantEscort_Start_2": {
+      "text": "会えてよかった！\u3000あなたがたなら頼りになりそうです。この先に略奪者の一団がいましてね。そこを抜けるまで護衛していただけたら、本当にありがたいのですが。",
+      "source": "a331502e549f40fb"
+    },
+    "LootEvent_MerchantEscort_Start_3": {
+      "text": "今日のことは独立派に伝えておきます（友好度+3）。お礼に[T@LootEventItem]を2つ差し上げますよ。",
+      "source": "9f030b4d1db3489e"
+    },
+    "LootEvent_MerchantEscort_Threaten": {
+      "text": "脅す",
+      "source": "e8a9b22dfa169b91"
+    },
+    "LootEvent_MerchantEscort_Threaten_Char_1": {
+      "text": "[Party_0_Name]: 筋力 [Party_0_Attribute(Strength)] - HP [Party_0_Hp]",
+      "source": "2b0ef6e26f0f2769"
+    },
+    "LootEvent_MerchantEscort_Threaten_Char_2": {
+      "text": "[Party_1_Name]: 筋力 [Party_1_Attribute(Strength)] - HP [Party_1_Hp]",
+      "source": "77d674cb2c740695"
+    },
+    "LootEvent_MerchantEscort_Threaten_Char_3": {
+      "text": "[Party_2_Name]: 筋力 [Party_2_Attribute(Strength)] - HP [Party_2_Hp]",
+      "source": "265da4b7fc299066"
+    },
+    "LootEvent_MerchantEscort_Threaten_Fail": {
+      "text": "ハハハ！\u3000マヌケな商人め、もっとマシな護衛を雇っとくんだったな！",
+      "source": "2e11b20307a00955"
+    },
+    "LootEvent_MerchantEscort_Threaten_Success": {
+      "text": "わかった、わかった。お前らの勝ちだ！\u3000さっさと行け。",
+      "source": "72c7ef882d4e5a87"
+    },
+    "LootEvent_Merchant_Accept": {
+      "text": "取引する",
+      "source": "9709653fc80ceb83"
+    },
+    "LootEvent_Merchant_Bargain": {
+      "text": "値切る",
+      "source": "92491b89894f6461"
+    },
+    "LootEvent_Merchant_Bargain_Char_1": {
+      "text": "[Party_0_Name]: パワー [Party_0_Attribute(Intelligence)] - HP [Party_0_Hp]",
+      "source": "cb84a127ce52f476"
+    },
+    "LootEvent_Merchant_Bargain_Char_2": {
+      "text": "[Party_1_Name]: パワー [Party_1_Attribute(Intelligence)] - HP [Party_1_Hp]",
+      "source": "e885ca50b1fff60d"
+    },
+    "LootEvent_Merchant_Bargain_Char_3": {
+      "text": "[Party_2_Name]: パワー [Party_2_Attribute(Intelligence)] - HP [Party_2_Hp]",
+      "source": "4f4c22e36158f6e5"
+    },
+    "LootEvent_Merchant_Bargain_Fail": {
+      "text": "[Event]は値引き交渉に失敗した。",
+      "source": "128072ea2d17d92d"
+    },
+    "LootEvent_Merchant_Bargain_Result": {
+      "text": "[T@LootEventItem]を[@LootEventItemPrice]ドルで買えるようになった。",
+      "source": "8cd6188e1289b4b9"
+    },
+    "LootEvent_Merchant_Char_1": {
+      "text": "[Party_0_Name]: サバイバル [Party_0_Talent(Survival)] - HP [Party_0_Hp]",
+      "source": "ee3e1723497d8bd9"
+    },
+    "LootEvent_Merchant_Char_2": {
+      "text": "[Party_1_Name]: サバイバル [Party_1_Talent(Survival)] - HP [Party_1_Hp]",
+      "source": "d5db1d8f4aefcbe1"
+    },
+    "LootEvent_Merchant_Char_3": {
+      "text": "[Party_2_Name]: サバイバル [Party_2_Talent(Survival)] - HP [Party_2_Hp]",
+      "source": "fb4fe4fdf499eddc"
+    },
+    "LootEvent_Merchant_Decline": {
+      "text": "先へ進む",
+      "source": "88cf24213b18daaa"
+    },
+    "LootEvent_Merchant_Fail_1": {
+      "text": "[Event]は盗もうとしたところを見つかった。商人と護衛たちが武器を抜き、襲いかかってくる。",
+      "source": "13fec91832fdccaa"
+    },
+    "LootEvent_Merchant_NoResource": {
+      "text": "金が足りない。商人は去っていった。",
+      "source": "dbba3a2e53d58188"
+    },
+    "LootEvent_Merchant_Result_1": {
+      "text": "取引を終え、[T@LootEventItem]を手に入れた。",
+      "source": "cdfc8c857ad772f3"
+    },
+    "LootEvent_Merchant_Result_3": {
+      "text": "これで商人の持ち物を漁れる。",
+      "source": "f9c7c0db7afff849"
+    },
+    "LootEvent_Merchant_Start_1": {
+      "text": "ボディガードを連れた商人を見つけた。金と引き換えに、価値ある品を売ってくれるという。",
+      "source": "fad86b11121f6788"
+    },
+    "LootEvent_Merchant_Start_2": {
+      "text": "商人は上質な[T@LootEventItem]を[@LootEventItemPrice]ドルで売ると言っている。所持金は[Inventory_Resource_0]ドルだ。",
+      "source": "5cc57ab9e356879f"
+    },
+    "LootEvent_Merchant_Start_3": {
+      "text": "商人は相棒に気を取られている。これはチャンスかもしれない……",
+      "source": "d089b020b6434442"
+    },
+    "LootEvent_Merchant_Steal": {
+      "text": "盗む",
+      "source": "e2380ed2fb11f5d2"
+    },
+    "LootEvent_Merchant_Threaten": {
+      "text": "脅す",
+      "source": "e8a9b22dfa169b91"
+    },
+    "LootEvent_Merchant_Threaten_Char_1": {
+      "text": "[Party_0_Name]: 筋力 [Party_0_Attribute(Strength)] - HP [Party_0_Hp]",
+      "source": "2b0ef6e26f0f2769"
+    },
+    "LootEvent_Merchant_Threaten_Char_2": {
+      "text": "[Party_1_Name]: 筋力 [Party_1_Attribute(Strength)] - HP [Party_1_Hp]",
+      "source": "77d674cb2c740695"
+    },
+    "LootEvent_Merchant_Threaten_Char_3": {
+      "text": "[Party_2_Name]: 筋力 [Party_2_Attribute(Strength)] - HP [Party_2_Hp]",
+      "source": "265da4b7fc299066"
+    },
+    "LootEvent_Merchant_Threaten_Fail": {
+      "text": "冗談のつもりか？\u3000護衛ども！\u3000こいつらを片付けろ！",
+      "source": "5675212f057509e9"
+    },
+    "LootEvent_Merchant_Threaten_Result": {
+      "text": "揉め事はごめんだ。持っていけ、さっさと行ってくれ！",
+      "source": "85399767a3f35e06"
+    },
+    "LootEvent_Ore_Iron_Accept": {
+      "text": "鉄鉱石を採掘する（手持ちのつるはし: [Inventory_MiscKey_3]）",
+      "source": "61fb4e61839125f5"
+    },
+    "LootEvent_Ore_Iron_Char_1": {
+      "text": "[Party_0_Name]: サバイバル [Party_0_Talent(Survival)] - HP [Party_0_Hp]",
+      "source": "ee3e1723497d8bd9"
+    },
+    "LootEvent_Ore_Iron_Char_2": {
+      "text": "[Party_1_Name]: サバイバル [Party_1_Talent(Survival)] - HP [Party_1_Hp]",
+      "source": "d5db1d8f4aefcbe1"
+    },
+    "LootEvent_Ore_Iron_Char_3": {
+      "text": "[Party_2_Name]: サバイバル [Party_2_Talent(Survival)] - HP [Party_2_Hp]",
+      "source": "fb4fe4fdf499eddc"
+    },
+    "LootEvent_Ore_Iron_Choice_1": {
+      "text": "戦いに加わる",
+      "source": "f0ac12d014f6992e"
+    },
+    "LootEvent_Ore_Iron_Choice_2": {
+      "text": "採掘を続ける",
+      "source": "8f13728d337f29be"
+    },
+    "LootEvent_Ore_Iron_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_Ore_Iron_Fail_1": {
+      "text": "[Event]は手を滑らせ、つるはしを壊してしまった。",
+      "source": "5c9d6fc78603baa2"
+    },
+    "LootEvent_Ore_Iron_Fail_2": {
+      "text": "いつの間にかゾンビが忍び寄り、襲いかかってきた。",
+      "source": "ad33058b7eadffdc"
+    },
+    "LootEvent_Ore_Iron_Fail_3": {
+      "text": "[Event]は戦いに加わるか、それとも採掘を続けるか？",
+      "source": "6001661eff5e2322"
+    },
+    "LootEvent_Ore_Iron_NoKeys": {
+      "text": "つるはしを持っていない",
+      "source": "2e29be083548daa4"
+    },
+    "LootEvent_Ore_Iron_Result_1": {
+      "text": "[Event]はその間に、鉱石を掘り尽くした。",
+      "source": "454242126f6c5a0c"
+    },
+    "LootEvent_Ore_Iron_Start": {
+      "text": "採掘できそうな鉄鉱石の鉱脈を見つけた。ただし、採掘は大きな音が出るため、見つかる危険が高い。",
+      "source": "c842846c8f75f1af"
+    },
+    "LootEvent_Ore_Tungsten_Accept": {
+      "text": "タングステンを採掘する（手持ちのつるはし: [Inventory_MiscKey_3]）",
+      "source": "1f5ee4ab0569a828"
+    },
+    "LootEvent_Ore_Tungsten_Char_1": {
+      "text": "[Party_0_Name]: サバイバル [Party_0_Talent(Survival)] - HP [Party_0_Hp]",
+      "source": "ee3e1723497d8bd9"
+    },
+    "LootEvent_Ore_Tungsten_Char_2": {
+      "text": "[Party_1_Name]: サバイバル [Party_1_Talent(Survival)] - HP [Party_1_Hp]",
+      "source": "d5db1d8f4aefcbe1"
+    },
+    "LootEvent_Ore_Tungsten_Char_3": {
+      "text": "[Party_2_Name]: サバイバル [Party_2_Talent(Survival)] - HP [Party_2_Hp]",
+      "source": "fb4fe4fdf499eddc"
+    },
+    "LootEvent_Ore_Tungsten_Choice_1": {
+      "text": "戦いに加わる",
+      "source": "f0ac12d014f6992e"
+    },
+    "LootEvent_Ore_Tungsten_Choice_2": {
+      "text": "採掘を続ける",
+      "source": "8f13728d337f29be"
+    },
+    "LootEvent_Ore_Tungsten_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_Ore_Tungsten_Fail_1": {
+      "text": "[Event]は手を滑らせ、つるはしを壊してしまった。",
+      "source": "5c9d6fc78603baa2"
+    },
+    "LootEvent_Ore_Tungsten_Fail_2": {
+      "text": "いつの間にかゾンビが忍び寄り、襲いかかってきた。",
+      "source": "ad33058b7eadffdc"
+    },
+    "LootEvent_Ore_Tungsten_Fail_3": {
+      "text": "[Event]は戦いに加わるか、それとも採掘を続けるか？",
+      "source": "6001661eff5e2322"
+    },
+    "LootEvent_Ore_Tungsten_NoKeys": {
+      "text": "つるはしを持っていない",
+      "source": "2e29be083548daa4"
+    },
+    "LootEvent_Ore_Tungsten_Result_1": {
+      "text": "[Event]はその間に、鉱石を掘り尽くした。",
+      "source": "454242126f6c5a0c"
+    },
+    "LootEvent_Ore_Tungsten_Start": {
+      "text": "採掘できそうなタングステンの鉱脈を見つけた。ただし、採掘は大きな音が出るため、見つかる危険が高い。",
+      "source": "bdcf756dc645134c"
+    },
+    "LootEvent_PoliceCar_Locked_Accept": {
+      "text": "複雑な錠前を開ける（手持ちのロックピック: [Inventory_MiscKey_1]）",
+      "source": "b0122a0051563738"
+    },
+    "LootEvent_PoliceCar_Locked_Char_1": {
+      "text": "[Party_0_Name]: 警戒 [Party_0_LockPick(1)] - HP [Party_0_Hp]",
+      "source": "1178a9d3a0f8069c"
+    },
+    "LootEvent_PoliceCar_Locked_Char_2": {
+      "text": "[Party_1_Name]: 警戒 [Party_1_LockPick(1)] - HP [Party_1_Hp]",
+      "source": "5f139d1e4e35d06d"
+    },
+    "LootEvent_PoliceCar_Locked_Char_3": {
+      "text": "[Party_2_Name]: 警戒 [Party_2_LockPick(1)] - HP [Party_2_Hp]",
+      "source": "19352d5002d8fc80"
+    },
+    "LootEvent_PoliceCar_Locked_Choice_1": {
+      "text": "戦いに加わる",
+      "source": "f0ac12d014f6992e"
+    },
+    "LootEvent_PoliceCar_Locked_Choice_2": {
+      "text": "鍵を開ける",
+      "source": "50ac36c89008f586"
+    },
+    "LootEvent_PoliceCar_Locked_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_PoliceCar_Locked_Fail_1": {
+      "text": "[Event]は複雑な錠前を開けられなかった。",
+      "source": "dcad1abc3eeddaf1"
+    },
+    "LootEvent_PoliceCar_Locked_Fail_2": {
+      "text": "ゾンビが忍び寄り、襲いかかってきた。",
+      "source": "ad33058b7eadffdc"
+    },
+    "LootEvent_PoliceCar_Locked_Fail_3": {
+      "text": "[Event]は戦いに加わるか、それとも錠前を開けようとするか？",
+      "source": "6747dbd88b5a8068"
+    },
+    "LootEvent_PoliceCar_Locked_NoKeys": {
+      "text": "ロックピックを持っていない。",
+      "source": "60d69abed4f5c6af"
+    },
+    "LootEvent_PoliceCar_Locked_Result_1": {
+      "text": "[Event]はその間にパトカーをくまなく調べた。",
+      "source": "07a99efb344700a5"
+    },
+    "LootEvent_PoliceCar_Locked_Start": {
+      "text": "鍵のかかったパトカーを見つけた。武器や弾薬が見つかるかもしれない。こじ開けるには時間がかかりそうだ。発見・襲撃の確率: [T@LootEventThread]。",
+      "source": "fac8234fbac96d1c"
+    },
+    "LootEvent_PrisonedCivilian_Bribe_Fail": {
+      "text": "それじゃ足りんな。野郎ども、ケチな奴がどんな目に遭うか教えてやれ。",
+      "source": "0e57cfe74805315c"
+    },
+    "LootEvent_PrisonedCivilian_Bribe_NoResource": {
+      "text": "ふざけてるのか？\u3000そんな金、持ってもいないくせに！\u3000かかれ！",
+      "source": "4ab380d8d94b1cf2"
+    },
+    "LootEvent_PrisonedCivilian_Bribe_Success": {
+      "text": "いいだろう、取引成立だ。",
+      "source": "f10e9415018802e5"
+    },
+    "LootEvent_PrisonedCivilian_Danger": {
+      "text": "何をする気だ？\u3000これじゃみんな殺されちまう！",
+      "source": "b224ca8e38dacb62"
+    },
+    "LootEvent_PrisonedCivilian_Start_1a": {
+      "text": "[T@LootEventFactionPos]の兵士たちに捕らえられた民間人を2人見つけた。助け出せるかもしれない。",
+      "source": "1998f13e38d69d38"
+    },
+    "LootEvent_PrisonedCivilian_Start_1b": {
+      "text": "[T@LootEventFactionPos]の兵士たちに捕らえられた民間人を見つけた。助け出せるかもしれない。",
+      "source": "e36fbf5443692b9b"
+    },
+    "LootEvent_PrisonedCivilian_Start_2": {
+      "text": "何の用だ？\u3000普段なら犯罪者は知事に引き渡すところだが、お前たち次第では例外にしてやらんでもない。",
+      "source": "1ac5ee2094f0753d"
+    },
+    "LootEvent_PrisonedCivilian_Success_1a": {
+      "text": "民間人たちは解放されて大喜びし、救出のお礼に、兵士たちから隠し持っていた品をくれた。",
+      "source": "1608969f42aa97e8"
+    },
+    "LootEvent_PrisonedCivilian_Success_1b": {
+      "text": "民間人は命拾いしたことを喜び、助けてくれたお礼に、兵士たちから隠し持っていた品をくれた。",
+      "source": "ae8ba17cee68c67a"
+    },
+    "LootEvent_PrisonedCivilian_Success_2a": {
+      "text": "生き残った民間人は命拾いしたことを喜び、助けてくれたお礼に、兵士たちから隠し持っていた品をくれた。",
+      "source": "1bba54025c5cb69a"
+    },
+    "LootEvent_PrisonedCivilian_Threaten_Fail": {
+      "text": "ハハハ！\u3000このヒョロガリの見かけ倒しが、俺をビビらせようってのか？\u3000野郎ども、このマヌケどもに俺たちの力を見せてやれ！",
+      "source": "5b09bc7dcd937d8b"
+    },
+    "LootEvent_PrisonedCivilian_Threaten_Success": {
+      "text": "わかった、わかった。お前たちの勝ちだ！\u3000さっさと行け。",
+      "source": "72c7ef882d4e5a87"
+    },
+    "LootEvent_RunningCivilians_Char_1": {
+      "text": "[Party_0_Name]: サバイバル [Party_0_Talent(Survival)] - HP [Party_0_Hp]",
+      "source": "ee3e1723497d8bd9"
+    },
+    "LootEvent_RunningCivilians_Char_2": {
+      "text": "[Party_1_Name]: サバイバル [Party_1_Talent(Survival)] - HP [Party_1_Hp]",
+      "source": "d5db1d8f4aefcbe1"
+    },
+    "LootEvent_RunningCivilians_Char_3": {
+      "text": "[Party_2_Name]: サバイバル [Party_2_Talent(Survival)] - HP [Party_2_Hp]",
+      "source": "fb4fe4fdf499eddc"
+    },
+    "LootEvent_RunningCivilians_Fight": {
+      "text": "戦う",
+      "source": "1ef142c8213e887d"
+    },
+    "LootEvent_RunningCivilians_Hide": {
+      "text": "隠れる",
+      "source": "ac20a57bfde0bbc4"
+    },
+    "LootEvent_RunningCivilians_Hide_1": {
+      "text": "誰が隠れ場所を探す？",
+      "source": "14dd927c49bc4833"
+    },
+    "LootEvent_RunningCivilians_Hide_2": {
+      "text": "[Event]は素早く動こうとする……",
+      "source": "6dda8c86d509bd64"
+    },
+    "LootEvent_RunningCivilians_Hide_3": {
+      "text": "間一髪で物陰に身を隠せた。",
+      "source": "311abd4c13d82b03"
+    },
+    "LootEvent_RunningCivilians_Hide_4": {
+      "text": "遅すぎた。ゾンビたちが迫ってくる。",
+      "source": "50240c5647723431"
+    },
+    "LootEvent_RunningCivilians_Mutant_Char_1": {
+      "text": "[Party_0_Name]: サバイバル [Party_0_Talent(Survival)] - HP [Party_0_Hp]",
+      "source": "ee3e1723497d8bd9"
+    },
+    "LootEvent_RunningCivilians_Mutant_Char_2": {
+      "text": "[Party_1_Name]: サバイバル [Party_1_Talent(Survival)] - HP [Party_1_Hp]",
+      "source": "d5db1d8f4aefcbe1"
+    },
+    "LootEvent_RunningCivilians_Mutant_Char_3": {
+      "text": "[Party_2_Name]: サバイバル [Party_2_Talent(Survival)] - HP [Party_2_Hp]",
+      "source": "fb4fe4fdf499eddc"
+    },
+    "LootEvent_RunningCivilians_Mutant_Fight": {
+      "text": "戦う",
+      "source": "1ef142c8213e887d"
+    },
+    "LootEvent_RunningCivilians_Mutant_Hide": {
+      "text": "隠れる",
+      "source": "ac20a57bfde0bbc4"
+    },
+    "LootEvent_RunningCivilians_Mutant_Hide_1": {
+      "text": "誰が隠れ場所を探す？",
+      "source": "14dd927c49bc4833"
+    },
+    "LootEvent_RunningCivilians_Mutant_Hide_2": {
+      "text": "[Event]は素早く動こうとする……",
+      "source": "6dda8c86d509bd64"
+    },
+    "LootEvent_RunningCivilians_Mutant_Hide_3": {
+      "text": "間一髪で物陰に身を隠すことができた。",
+      "source": "311abd4c13d82b03"
+    },
+    "LootEvent_RunningCivilians_Mutant_Hide_4": {
+      "text": "遅すぎた。変異ゾンビたちが迫ってくる。",
+      "source": "c49332776794a9fd"
+    },
+    "LootEvent_RunningCivilians_Mutant_Result_1": {
+      "text": "生存者の一人が旅行かばんを落としていった。何か役に立つ物がないか調べることもできる。",
+      "source": "8c4988b790aa6fb9"
+    },
+    "LootEvent_RunningCivilians_Mutant_Result_2": {
+      "text": "走っていたミュータントの一体が、何かの包みを落としていった。変異ゾンビたちが通り過ぎると、ほっと胸をなで下ろし、中に貴重品がないか確かめる。",
+      "source": "89f67cc43a24c86c"
+    },
+    "LootEvent_RunningCivilians_Mutant_Result_3": {
+      "text": "民間人を救えなかった……変異ゾンビが夢中になって獲物を貪っているすきに、そっとそいつのポケットを探り、役に立つ物を見つけた。",
+      "source": "ab06e9c48fb4e080"
+    },
+    "LootEvent_RunningCivilians_Mutant_Result_4": {
+      "text": "民間人は命拾いしたことを喜び、助けてくれたお礼をくれた。",
+      "source": "3abdec64f0f4e6d6"
+    },
+    "LootEvent_RunningCivilians_Mutant_Start_1": {
+      "text": "民間人たちが恐怖に駆られて、あなたのそばを駆け抜けていく。その後ろから、変異ゾンビたちのうめき声が重なり合って聞こえてくる。急いで行動しなければ。",
+      "source": "d0829da796da182f"
+    },
+    "LootEvent_RunningCivilians_Mutant_Start_2": {
+      "text": "隠れるか、戦うか？",
+      "source": "a4f3ac8b472ea584"
+    },
+    "LootEvent_RunningCivilians_Mutant_Start_3": {
+      "text": "逃げてきた生存者の一人が、怯えて開けた場所に立ちすくんでいる。恐ろしさのあまり、安全な場所へ動くこともできないようだ。隠れるか、助けるか？",
+      "source": "953e9a1bbabaa40e"
+    },
+    "LootEvent_RunningCivilians_Result_1": {
+      "text": "生存者の一人が旅行かばんを落としていった。何か役に立つ物がないか、中を調べてもいい。",
+      "source": "8c4988b790aa6fb9"
+    },
+    "LootEvent_RunningCivilians_Result_2": {
+      "text": "走っていたゾンビの一体が、何かの包みを落としていった。ゾンビたちが通り過ぎると、あなたはほっとして、貴重品が入っていないか調べる。",
+      "source": "52adb002e11549e6"
+    },
+    "LootEvent_RunningCivilians_Result_3": {
+      "text": "民間人は救えなかった……。ゾンビが夢中で犠牲者をむさぼり、気を取られている隙に、そのポケットを慎重に探ると、役に立ちそうな物が見つかった。",
+      "source": "fec84ebc5471fcd0"
+    },
+    "LootEvent_RunningCivilians_Result_4": {
+      "text": "民間人は命拾いしたことを喜び、助けてくれたお礼をくれた。",
+      "source": "3abdec64f0f4e6d6"
+    },
+    "LootEvent_RunningCivilians_Start_1": {
+      "text": "民間人たちが恐怖に駆られて、あなたの脇を駆け抜けていく。その後ろから、ゾンビのうめき声が大合唱のように聞こえてくる。すぐに動かなければ。",
+      "source": "e59a4773c419e24c"
+    },
+    "LootEvent_RunningCivilians_Start_2": {
+      "text": "隠れるか、戦うか？",
+      "source": "a4f3ac8b472ea584"
+    },
+    "LootEvent_RunningCivilians_Start_3": {
+      "text": "逃げていた生存者の一人が、怯えて立ちすくんでしまった。開けた場所に突っ立ったまま、恐ろしさのあまり安全な場所へ動けずにいる。隠れるか、助けるか？",
+      "source": "953e9a1bbabaa40e"
+    },
+    "LootEvent_Scavenger_Attack": {
+      "text": "攻撃する",
+      "source": "4cd548f3cc29cf9c"
+    },
+    "LootEvent_Scavenger_Bribe": {
+      "text": "賄賂を渡す",
+      "source": "4fc7dd96d2ec9e0d"
+    },
+    "LootEvent_Scavenger_Bribe_Choice_1": {
+      "text": "25ドルの賄賂を渡す（成功率50%）",
+      "source": "82df4dab5526c484"
+    },
+    "LootEvent_Scavenger_Bribe_Choice_2": {
+      "text": "50ドルの賄賂を渡す（成功率80%）",
+      "source": "2c4ced70de842553"
+    },
+    "LootEvent_Scavenger_Bribe_Choice_3": {
+      "text": "100ドルの賄賂を渡す（成功率100%）",
+      "source": "caff8f34b267b48a"
+    },
+    "LootEvent_Scavenger_Bribe_Fail": {
+      "text": "有り金全部よこせって言ったはずだがな！\u3000野郎ども、間抜けがどんな目にあうか、このバカどもに教えてやれ！",
+      "source": "0f827710b17eb439"
+    },
+    "LootEvent_Scavenger_Bribe_NoResource": {
+      "text": "てめえ、バカか？\u3000そんな金、持ってもいねえじゃねえか。野郎ども、やっちまえ！\u3000身ぐるみはいじまえ！",
+      "source": "3b2b4f309e02ad22"
+    },
+    "LootEvent_Scavenger_Bribe_Success": {
+      "text": "そうこなくっちゃな。もう行っていいぜ。",
+      "source": "4ce1ebde70a3b8f8"
+    },
+    "LootEvent_Scavenger_Start_1": {
+      "text": "血に飢えた略奪者たちに出くわした。彼らは待ち伏せし、金品を奪おうとしている。所持金は[Inventory_Resource_0]ドルだ。",
+      "source": "73c5fc2129c8c43d"
+    },
+    "LootEvent_Scavenger_Start_2": {
+      "text": "金をよこせ！\u3000今すぐだ！",
+      "source": "3ec3c2b7feb31f55"
+    },
+    "LootEvent_Scavenger_Threaten": {
+      "text": "脅す",
+      "source": "e8a9b22dfa169b91"
+    },
+    "LootEvent_Scavenger_Threaten_Char_1": {
+      "text": "[Party_0_Name]: 筋力 [Party_0_Attribute(Strength)] - HP [Party_0_Hp]",
+      "source": "2b0ef6e26f0f2769"
+    },
+    "LootEvent_Scavenger_Threaten_Char_2": {
+      "text": "[Party_1_Name]: 筋力 [Party_1_Attribute(Strength)] - HP [Party_1_Hp]",
+      "source": "77d674cb2c740695"
+    },
+    "LootEvent_Scavenger_Threaten_Char_3": {
+      "text": "[Party_2_Name]: 筋力 [Party_2_Attribute(Strength)] - HP [Party_2_Hp]",
+      "source": "265da4b7fc299066"
+    },
+    "LootEvent_Scavenger_Threaten_Fail": {
+      "text": "ハハハ！\u3000このやせっぽちの半端者が、俺をビビらせようってのか？\u3000野郎ども、このマヌケどもにお前らの力を見せてやれ！",
+      "source": "5b09bc7dcd937d8b"
+    },
+    "LootEvent_Scavenger_Threaten_Success": {
+      "text": "わかった、わかった。言いたいことはよくわかったよ。さっさと行きな。",
+      "source": "47179ea5acb66ae8"
+    },
+    "LootEvent_ShadyPerson2_Accept": {
+      "text": "複雑な鍵を開ける（手持ちのロックピック: [Inventory_MiscKey_1]）",
+      "source": "b0122a0051563738"
+    },
+    "LootEvent_ShadyPerson2_Attack": {
+      "text": "攻撃する",
+      "source": "4cd548f3cc29cf9c"
+    },
+    "LootEvent_ShadyPerson2_Attack_Result_1": {
+      "text": "やめて！\u3000か弱い女を襲うなんて、この卑怯者！\u3000助けて！\u3000誰か助けて！",
+      "source": "75bc410c862fa528"
+    },
+    "LootEvent_ShadyPerson2_Char_1": {
+      "text": "[Party_0_Name]: 警戒 [Party_0_LockPick(1)] - HP [Party_0_Hp]",
+      "source": "1178a9d3a0f8069c"
+    },
+    "LootEvent_ShadyPerson2_Char_2": {
+      "text": "[Party_1_Name]: 警戒 [Party_1_LockPick(1)] - HP [Party_1_Hp]",
+      "source": "5f139d1e4e35d06d"
+    },
+    "LootEvent_ShadyPerson2_Char_3": {
+      "text": "[Party_2_Name]: 警戒 [Party_2_LockPick(1)] - HP [Party_2_Hp]",
+      "source": "19352d5002d8fc80"
+    },
+    "LootEvent_ShadyPerson2_Choice_1": {
+      "text": "戦いに加わる",
+      "source": "f0ac12d014f6992e"
+    },
+    "LootEvent_ShadyPerson2_Choice_2": {
+      "text": "鍵をこじ開ける",
+      "source": "50ac36c89008f586"
+    },
+    "LootEvent_ShadyPerson2_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_ShadyPerson2_Decline_Result_1": {
+      "text": "砂漠で困ってるかわいそうな女を見捨てるっていうなら、せいぜい砂ぼこりでも味わってなさい！",
+      "source": "bc36f9aa6d5f8cd8"
+    },
+    "LootEvent_ShadyPerson2_Fail_1": {
+      "text": "[Event]は鍵を開けられなかった。",
+      "source": "d31cb1018bfe1360"
+    },
+    "LootEvent_ShadyPerson2_Fail_2": {
+      "text": "ゾンビたちが忍び寄り、襲いかかってきた。",
+      "source": "ad33058b7eadffdc"
+    },
+    "LootEvent_ShadyPerson2_Fail_3": {
+      "text": "[Event]は戦いに加わるか？\u3000それとも、力ずくで鍵を壊すか？",
+      "source": "31a1bf022b39b286"
+    },
+    "LootEvent_ShadyPerson2_NoKey": {
+      "text": "ロックピックを持っていない。",
+      "source": "60d69abed4f5c6af"
+    },
+    "LootEvent_ShadyPerson2_Result_1": {
+      "text": "お見事！\u3000はい、約束のお金よ。",
+      "source": "135097155f69eab9"
+    },
+    "LootEvent_ShadyPerson2_Start_1": {
+      "text": "真剣な顔つきの民間人の女を見つけた。彼女は興奮気味にこちらへうなずいてみせる……",
+      "source": "c056e22ee7483ca2"
+    },
+    "LootEvent_ShadyPerson2_Start_2": {
+      "text": "ねえ、手っ取り早く50ドル稼ぎたくない？\u3000この軍の収納箱を開けたいんだけど、ロックピックを切らしてるの。できるなら開けてちょうだい。",
+      "source": "b63f13e0c1a24ec7"
+    },
+    "LootEvent_ShadyPerson2_Start_3": {
+      "text": "収納箱を開けてみるか？\u3000発見・襲撃の危険: [T@LootEventThread]。",
+      "source": "9870b2d6d0f9f3e5"
+    },
+    "LootEvent_ShadyPerson_Accept": {
+      "text": "ピッキングする（手持ちのロックピック: [Inventory_MiscKey_1]）",
+      "source": "3ea6e425d6d5073d"
+    },
+    "LootEvent_ShadyPerson_Attack": {
+      "text": "攻撃する（友好度-5）",
+      "source": "5897b1a1cbbf9bb8"
+    },
+    "LootEvent_ShadyPerson_Attack_Result_1": {
+      "text": "このクソ野郎ども！\u3000一人旅の男を襲うなんて、この卑怯者め！\u3000このことは密輸業者の耳に入るからな！",
+      "source": "6dd0d652344bc10d"
+    },
+    "LootEvent_ShadyPerson_Attack_Result_2": {
+      "text": "このクソ野郎ども！\u3000一人旅の男を襲うなんて、この卑怯者め！\u3000だがな、俺は見た目ほど一人じゃないんだよ！\u3000やっちまえ！",
+      "source": "505d958f034e9324"
+    },
+    "LootEvent_ShadyPerson_Char_1": {
+      "text": "[Party_0_Name]: 警戒 [Party_0_LockPick(0)] - HP [Party_0_Hp]",
+      "source": "7202fba1e2debc22"
+    },
+    "LootEvent_ShadyPerson_Char_2": {
+      "text": "[Party_1_Name]: 警戒 [Party_1_LockPick(0)] - HP [Party_1_Hp]",
+      "source": "af1cdf9771e0565e"
+    },
+    "LootEvent_ShadyPerson_Char_3": {
+      "text": "[Party_2_Name]: 警戒 [Party_2_LockPick(0)] - HP [Party_2_Hp]",
+      "source": "c548fe5d4065cdef"
+    },
+    "LootEvent_ShadyPerson_Choice_1": {
+      "text": "戦いに加わる",
+      "source": "f0ac12d014f6992e"
+    },
+    "LootEvent_ShadyPerson_Choice_2": {
+      "text": "錠をこじ開ける",
+      "source": "50ac36c89008f586"
+    },
+    "LootEvent_ShadyPerson_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_ShadyPerson_Decline_Result_1": {
+      "text": "そうだ！\u3000身のためを思うなら、さっさと逃げるんだな。",
+      "source": "5426bc2e5c54f92e"
+    },
+    "LootEvent_ShadyPerson_Decline_Result_2": {
+      "text": "そう簡単に逃がすかよ！\u3000近くに手下がいてな、新しい装備を欲しがってるんだ。よく言うだろ？\u3000「終末の世じゃ、悲鳴を上げても誰にも聞こえない」ってな。ハハハ！",
+      "source": "b72e7e982c78509f"
+    },
+    "LootEvent_ShadyPerson_Fail_1": {
+      "text": "[Event]は鍵を開けられなかった。",
+      "source": "d31cb1018bfe1360"
+    },
+    "LootEvent_ShadyPerson_Fail_2": {
+      "text": "いつの間にかゾンビが忍び寄り、襲いかかってきた。",
+      "source": "ad33058b7eadffdc"
+    },
+    "LootEvent_ShadyPerson_Fail_3": {
+      "text": "[Event]は戦いに加わるか、それとも力ずくで錠を壊すか？",
+      "source": "31a1bf022b39b286"
+    },
+    "LootEvent_ShadyPerson_NoKey": {
+      "text": "ロックピックを持っていない。",
+      "source": "60d69abed4f5c6af"
+    },
+    "LootEvent_ShadyPerson_Result_1": {
+      "text": "上出来だ。ほら、約束の金だ。こいつは民間人からかっぱらったもんだから、言ってみりゃ全部俺の丸もうけってわけさ。ハハハ。",
+      "source": "e6dee91849496e4d"
+    },
+    "LootEvent_ShadyPerson_Start_1": {
+      "text": "密輸業者の男を見つけた。一人旅のようだ。男はわざとらしいほど愛想よく会釈してきた。",
+      "source": "a07015fc61938978"
+    },
+    "LootEvent_ShadyPerson_Start_2": {
+      "text": "よう、手っ取り早く20ドル稼がないか？\u3000この収納箱を開けたいんだが、ロックピックを切らしちまってな。できるもんなら、開けてみてくれよ。",
+      "source": "6cf94dd4a4c6acc7"
+    },
+    "LootEvent_ShadyPerson_Start_3": {
+      "text": "収納箱を開けてみるか？\u3000発見・襲撃の危険: [T@LootEventThread]。",
+      "source": "9870b2d6d0f9f3e5"
+    },
+    "LootEvent_SleepCamp_Choice_1": {
+      "text": "1時間休む（HPを20%回復）危険度: 最小",
+      "source": "7d4d20234d1ca8f6"
+    },
+    "LootEvent_SleepCamp_Choice_2": {
+      "text": "2時間休む（HPを30%回復）危険度: 中",
+      "source": "8e48dbc626690442"
+    },
+    "LootEvent_SleepCamp_Choice_3": {
+      "text": "3時間休む（HPを50%回復）危険度: 高",
+      "source": "4a4d1c7452f326d6"
+    },
+    "LootEvent_SleepCamp_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_SleepCamp_Fail": {
+      "text": "眠っているところを襲われ、飛び起きた。一行はHPを[@EventHeal]%しか回復できなかった。",
+      "source": "db54f772b1234af0"
+    },
+    "LootEvent_SleepCamp_Start": {
+      "text": "放棄されたキャンプを見つけた。ここで休息をとることもできるが、長く休みすぎると襲われる危険がある。",
+      "source": "a737908bafe673e7"
+    },
+    "LootEvent_SleepCamp_Success": {
+      "text": "一行はHPを[@EventHeal]%回復した。",
+      "source": "3bc5567e09bd3bcb"
+    },
+    "LootEvent_SleepingCampSteal_Attack": {
+      "text": "攻撃する",
+      "source": "4cd548f3cc29cf9c"
+    },
+    "LootEvent_SleepingCampSteal_Char_1": {
+      "text": "[Party_0_Name]: サバイバル [Party_0_Talent(Survival)] - HP [Party_0_Hp]",
+      "source": "ee3e1723497d8bd9"
+    },
+    "LootEvent_SleepingCampSteal_Char_2": {
+      "text": "[Party_1_Name]: サバイバル [Party_1_Talent(Survival)] - HP [Party_1_Hp]",
+      "source": "d5db1d8f4aefcbe1"
+    },
+    "LootEvent_SleepingCampSteal_Char_3": {
+      "text": "[Party_2_Name]: サバイバル [Party_2_Talent(Survival)] - HP [Party_2_Hp]",
+      "source": "fb4fe4fdf499eddc"
+    },
+    "LootEvent_SleepingCampSteal_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_SleepingCampSteal_Dialogue_1": {
+      "text": "俺たちを出し抜けると思うなんて、よっぽどの大バカだな！\u3000拠点には連絡を入れておいた。お前らがここで何をしたか、向こうはもう知ってるぜ。",
+      "source": "6f306bd52c548e7c"
+    },
+    "LootEvent_SleepingCampSteal_Fail": {
+      "text": "[Event]は見つかってしまった。[T@LootEventFactionPos2]兵士たちが襲いかかってくる。",
+      "source": "cacc34bd3f3027d2"
+    },
+    "LootEvent_SleepingCampSteal_Info_0": {
+      "text": "誰が忍び込む？",
+      "source": "551e9c0d75589d58"
+    },
+    "LootEvent_SleepingCampSteal_Info_1": {
+      "text": "[Event]は収納箱へと忍び寄る。",
+      "source": "befd57d676263338"
+    },
+    "LootEvent_SleepingCampSteal_Sneak": {
+      "text": "収納箱に忍び寄る",
+      "source": "359a85e652ea1998"
+    },
+    "LootEvent_SleepingCampSteal_Start_1": {
+      "text": "[T@LootEventFactionPos]のキャンプを見つけた。見張りは眠っているようだ。戦利品をかすめ取る絶好の機会だ。",
+      "source": "f51565582bb02064"
+    },
+    "LootEvent_SleepingPunks_Attack": {
+      "text": "攻撃する",
+      "source": "4cd548f3cc29cf9c"
+    },
+    "LootEvent_SleepingPunks_Char_1": {
+      "text": "[Party_0_Name]: サバイバル [Party_0_Talent(Survival)] - HP [Party_0_Hp]",
+      "source": "ee3e1723497d8bd9"
+    },
+    "LootEvent_SleepingPunks_Char_2": {
+      "text": "[Party_1_Name]: サバイバル [Party_1_Talent(Survival)] - HP [Party_1_Hp]",
+      "source": "d5db1d8f4aefcbe1"
+    },
+    "LootEvent_SleepingPunks_Char_3": {
+      "text": "[Party_2_Name]: サバイバル [Party_2_Talent(Survival)] - HP [Party_2_Hp]",
+      "source": "fb4fe4fdf499eddc"
+    },
+    "LootEvent_SleepingPunks_Fail": {
+      "text": "[Event]は気配を消しきれなかった。パンクスに見つかってしまった。",
+      "source": "0f62a6c85fa3d512"
+    },
+    "LootEvent_SleepingPunks_Info_1": {
+      "text": "誰が先頭に立つ？",
+      "source": "b7d385af2e6f1666"
+    },
+    "LootEvent_SleepingPunks_Sneak": {
+      "text": "こっそり立ち去る",
+      "source": "376453811042f536"
+    },
+    "LootEvent_SleepingPunks_Start_1": {
+      "text": "パンクスのキャンプを見つけた。まだこちらには気づいていない。こっそり立ち去ることも、攻撃を仕掛けることもできる。",
+      "source": "33091c55400a41f9"
+    },
+    "LootEvent_SleepingScavenger_Attack": {
+      "text": "攻撃する",
+      "source": "4cd548f3cc29cf9c"
+    },
+    "LootEvent_SleepingScavenger_Char_1": {
+      "text": "[Party_0_Name]: サバイバル [Party_0_Talent(Survival)] - HP [Party_0_Hp]",
+      "source": "ee3e1723497d8bd9"
+    },
+    "LootEvent_SleepingScavenger_Char_2": {
+      "text": "[Party_1_Name]: サバイバル [Party_1_Talent(Survival)] - HP [Party_1_Hp]",
+      "source": "d5db1d8f4aefcbe1"
+    },
+    "LootEvent_SleepingScavenger_Char_3": {
+      "text": "[Party_2_Name]: サバイバル [Party_2_Talent(Survival)] - HP [Party_2_Hp]",
+      "source": "fb4fe4fdf499eddc"
+    },
+    "LootEvent_SleepingScavenger_Fail": {
+      "text": "[Event]は気配を消しきれなかった。略奪者たちに見つかってしまった。",
+      "source": "c948a3d23a0b7e20"
+    },
+    "LootEvent_SleepingScavenger_Info_1": {
+      "text": "誰が先頭に立つ？",
+      "source": "b7d385af2e6f1666"
+    },
+    "LootEvent_SleepingScavenger_Sneak": {
+      "text": "こっそり立ち去る",
+      "source": "376453811042f536"
+    },
+    "LootEvent_SleepingScavenger_Start_1": {
+      "text": "略奪者のキャンプを見つけた。まだこちらには気づいていない。こっそり立ち去ることも、攻撃を仕掛けることもできる。",
+      "source": "da3c5b7e15d7f5bc"
+    },
+    "LootEvent_Smuggler_Challange_Accept": {
+      "text": "引き受ける（所持金: [Inventory_Resource_0]ドル）",
+      "source": "cd67c4fb7bdc52f7"
+    },
+    "LootEvent_Smuggler_Challange_Accept_1": {
+      "text": "いいね！\u3000さあ皆の衆、張った張った！\u3000こちらの皆さんは勝負の準備万端だ！",
+      "source": "ef1b62b17546abc3"
+    },
+    "LootEvent_Smuggler_Challange_Accept_2": {
+      "text": "この角を曲がった先に、紳士の一団がいる。そいつらを片付けてくれ。ただし、銃の使用は禁止だ。勝てば参加費を倍にして返そう。幸運を祈る！",
+      "source": "85c0cccc740d8073"
+    },
+    "LootEvent_Smuggler_Challange_Accept_Simple": {
+      "text": "引き受ける",
+      "source": "89713b9c9c1b8f65"
+    },
+    "LootEvent_Smuggler_Challange_Bonus": {
+      "text": "ボーナスラウンドだ、諸君！\u3000観客はあんたらの戦いぶりに大喜びで、アンコールをご所望だ！\u3000もう一組の旅人たちともうひと勝負して、賞金をさらに50ドル増やしてみないか？",
+      "source": "0476c937cbc8adb7"
+    },
+    "LootEvent_Smuggler_Challange_Bonus_Accept": {
+      "text": "おっと、言い忘れるところだった。今度の紳士方も、俺たちが出演料を払って雇った手強いチンピラどもだ。存分に楽しんでくれ！",
+      "source": "99ce3c599bfc2360"
+    },
+    "LootEvent_Smuggler_Challange_Bonus_Decline": {
+      "text": "残念！\u3000まあ、また次の機会にな。とはいえ、報酬分の働きはしてくれた。",
+      "source": "5f3ababa59249ce8"
+    },
+    "LootEvent_Smuggler_Challange_Decline": {
+      "text": "断る",
+      "source": "2631349bff4daf19"
+    },
+    "LootEvent_Smuggler_Challange_Decline_1": {
+      "text": "そいつは残念。またどこかで会うこともあるだろう。そのときは、ちょっとした賭けに乗ってくれるかもな。",
+      "source": "cc80093f0a49bb1c"
+    },
+    "LootEvent_Smuggler_Challange_Fail": {
+      "text": "今のは何だ？\u3000銃声が聞こえたぞ。残念だが、あんたらは失格だ。",
+      "source": "31428f140c56636b"
+    },
+    "LootEvent_Smuggler_Challange_NoMoney": {
+      "text": "どうやら必要な小銭も持ち合わせてないようだな。残念だ。まあ、また今度な。",
+      "source": "b8c34d959f937ac7"
+    },
+    "LootEvent_Smuggler_Challange_Result_1": {
+      "text": "なんて見事な見せ物だ！\u3000客はみんな大満足だ。さあ、賞金だ！",
+      "source": "1e5cb96fc9fe3953"
+    },
+    "LootEvent_Smuggler_Challange_Result_2": {
+      "text": "見事な見せ物だった！\u3000さあ、稼ぎを受け取ってくれ。頼むから死なないでくれよ。またいつか、こういうのをやりたいからな。",
+      "source": "8e0a58aa0b8f2255"
+    },
+    "LootEvent_Smuggler_Challange_Start_1": {
+      "text": "密輸業者の闘技場の主に出くわした。男はこちらを見るなりにやりと笑い、手下たちに手を振った。すると手下たちが拍手を始めた。",
+      "source": "2f6229c83e8543a9"
+    },
+    "LootEvent_Smuggler_Challange_Start_2": {
+      "text": "こんなところで会えるとは運がいい。闘技場の主として、俺は剣闘士の戦いこそが生きがいでね。ちょうど、あんたらにちょっとした挑戦を用意してあるんだ。50ドル払えば内容を教えよう。心配いらない、楽に稼げる話さ！",
+      "source": "eafa8b2f74063c53"
+    },
+    "LootEvent_SurpriseZombies_Exit": {
+      "text": "洞窟の物音に、ゾンビたちが引き寄せられてきた。もう引き返せない。幸い、外へと続く狭いトンネルがもう一本見つかった。",
+      "source": "9d857397dcb6defb"
+    },
+    "LootEvent_SurpriseZombies_Start_1": {
+      "text": "ひときわおぞましいゾンビに出くわした。身構える間もなく、襲いかかってくる。",
+      "source": "5d66b2adb8f6c743"
+    },
+    "LootEvent_SurpriseZombies_Start_2": {
+      "text": "危険なミュータントに出くわした。身構える間もなく、飛びかかってくる。",
+      "source": "33ddf0303aabcd07"
+    },
+    "LootEvent_TrapChest_Accept": {
+      "text": "罠を解除する",
+      "source": "0449aa195af99b14"
+    },
+    "LootEvent_TrapChest_Char_1": {
+      "text": "[Party_0_Name]: サバイバル [Party_0_Talent(Survival)] - HP [Party_0_Hp]",
+      "source": "ee3e1723497d8bd9"
+    },
+    "LootEvent_TrapChest_Char_2": {
+      "text": "[Party_1_Name]: サバイバル [Party_1_Talent(Survival)] - HP [Party_1_Hp]",
+      "source": "d5db1d8f4aefcbe1"
+    },
+    "LootEvent_TrapChest_Char_3": {
+      "text": "[Party_2_Name]: サバイバル [Party_2_Talent(Survival)] - HP [Party_2_Hp]",
+      "source": "fb4fe4fdf499eddc"
+    },
+    "LootEvent_TrapChest_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_TrapChest_Start": {
+      "text": "危険な罠が仕掛けられた軍用トランクを見つけた。中には貴重な装備が入っているかもしれない。ただし、開けるにはまず罠を解除しなければならない。",
+      "source": "67e4c1862e41730d"
+    },
+    "LootEvent_TrapChest_Success": {
+      "text": "[Event]は罠の解除に成功し、経験値を50獲得した。",
+      "source": "4e052fc1c0d6cf4c"
+    },
+    "LootEvent_Trap_Char_1": {
+      "text": "[Party_0_Name]: サバイバル [Party_0_Talent(Survival)] - HP [Party_0_Hp]",
+      "source": "ee3e1723497d8bd9"
+    },
+    "LootEvent_Trap_Char_2": {
+      "text": "[Party_1_Name]: サバイバル [Party_1_Talent(Survival)] - HP [Party_1_Hp]",
+      "source": "d5db1d8f4aefcbe1"
+    },
+    "LootEvent_Trap_Char_3": {
+      "text": "[Party_2_Name]: サバイバル [Party_2_Talent(Survival)] - HP [Party_2_Hp]",
+      "source": "fb4fe4fdf499eddc"
+    },
+    "LootEvent_Trap_Start": {
+      "text": "危うく罠にかかるところだった。先へ進むには、罠を解除しなければならない。",
+      "source": "b7dafb64fc2b7463"
+    },
+    "LootEvent_Trap_Success": {
+      "text": "[Event]は罠の解除に成功し、経験値を50獲得した。",
+      "source": "4e052fc1c0d6cf4c"
+    },
+    "LootEvent_TrashContainer_Accept": {
+      "text": "調べる",
+      "source": "49c266baaaa70981"
+    },
+    "LootEvent_TrashContainer_Char_1": {
+      "text": "[Party_0_Name]: HP [Party_0_Hp]",
+      "source": "308dc91af8cd6cf1"
+    },
+    "LootEvent_TrashContainer_Char_2": {
+      "text": "[Party_1_Name]: HP [Party_1_Hp]",
+      "source": "96e4a0693fad20f6"
+    },
+    "LootEvent_TrashContainer_Char_3": {
+      "text": "[Party_2_Name]: HP [Party_2_Hp]",
+      "source": "8bc04728cdee732e"
+    },
+    "LootEvent_TrashContainer_Choice_1": {
+      "text": "戦いに加わる",
+      "source": "f0ac12d014f6992e"
+    },
+    "LootEvent_TrashContainer_Choice_2": {
+      "text": "調べ続ける",
+      "source": "49c266baaaa70981"
+    },
+    "LootEvent_TrashContainer_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_TrashContainer_Fail_1": {
+      "text": "[Event]がゴミ箱を調べている間に、敵に不意を突かれた。",
+      "source": "43c18eb1d9021192"
+    },
+    "LootEvent_TrashContainer_Fail_2": {
+      "text": "[Event]は戦いに加わるか、それとも調べ続けるか？",
+      "source": "85b09110e898a2fa"
+    },
+    "LootEvent_TrashContainer_Result_1": {
+      "text": "[Event]はその間にゴミをくまなく漁った。",
+      "source": "8f1f89f244eac3ef"
+    },
+    "LootEvent_TrashContainer_Start": {
+      "text": "大きなゴミ箱を見つけた。資材や弾薬素材、武器パーツ、布地が見つかるかもしれない。発見・襲撃の確率: [T@LootEventThread]。",
+      "source": "148d5f4e71825e89"
+    },
+    "LootEvent_Van_Locked_Accept": {
+      "text": "ピッキングする（手持ちのロックピック: [Inventory_MiscKey_1]）",
+      "source": "3ea6e425d6d5073d"
+    },
+    "LootEvent_Van_Locked_Char_1": {
+      "text": "[Party_0_Name]: 警戒 [Party_0_LockPick(0)] - HP [Party_0_Hp]",
+      "source": "7202fba1e2debc22"
+    },
+    "LootEvent_Van_Locked_Char_2": {
+      "text": "[Party_1_Name]: 警戒 [Party_1_LockPick(0)] - HP [Party_1_Hp]",
+      "source": "af1cdf9771e0565e"
+    },
+    "LootEvent_Van_Locked_Char_3": {
+      "text": "[Party_2_Name]: 警戒 [Party_2_LockPick(0)] - HP [Party_2_Hp]",
+      "source": "c548fe5d4065cdef"
+    },
+    "LootEvent_Van_Locked_Choice_1": {
+      "text": "戦いに加わる",
+      "source": "f0ac12d014f6992e"
+    },
+    "LootEvent_Van_Locked_Choice_2": {
+      "text": "錠前を壊す",
+      "source": "6d6f5d6871d367d2"
+    },
+    "LootEvent_Van_Locked_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_Van_Locked_Fail_1": {
+      "text": "[Event]には複雑な錠を開けられなかった。",
+      "source": "dcad1abc3eeddaf1"
+    },
+    "LootEvent_Van_Locked_Fail_2": {
+      "text": "いつの間にかゾンビが忍び寄り、襲いかかってきた。",
+      "source": "ad33058b7eadffdc"
+    },
+    "LootEvent_Van_Locked_Fail_3": {
+      "text": "[Event]は戦いに加わるか、それとも力ずくで錠を壊すか？",
+      "source": "31a1bf022b39b286"
+    },
+    "LootEvent_Van_Locked_NoKeys": {
+      "text": "ロックピックを持っていない。",
+      "source": "60d69abed4f5c6af"
+    },
+    "LootEvent_Van_Locked_Result_1": {
+      "text": "[Event]はその間に、バンの中をくまなく調べた。",
+      "source": "eeb1078247a581a2"
+    },
+    "LootEvent_Van_Locked_Start": {
+      "text": "鍵のかかった大型の配送バンを見つけた。中には大量のスクラップや資材があるかもしれないが、複雑な錠を開けるには時間がかかりそうだ。発見・襲撃の確率: [T@LootEventThread]。",
+      "source": "086cf59f411a7e42"
+    },
+    "LootEvent_WealthyCivilian_Decline": {
+      "text": "先へ進む",
+      "source": "d11c1208457c2213"
+    },
+    "LootEvent_WealthyCivilian_Information": {
+      "text": "取引する",
+      "source": "9709653fc80ceb83"
+    },
+    "LootEvent_WealthyCivilian_Information_Accept": {
+      "text": "応じる（所持金: [Inventory_Resource_0]ドル）",
+      "source": "cd67c4fb7bdc52f7"
+    },
+    "LootEvent_WealthyCivilian_Information_Decline": {
+      "text": "断る",
+      "source": "2631349bff4daf19"
+    },
+    "LootEvent_WealthyCivilian_Information_Fail_1": {
+      "text": "悪いけど、お金が足りないみたいね。これじゃ取引にならないわ。",
+      "source": "8832d38e6794c44e"
+    },
+    "LootEvent_WealthyCivilian_Information_Fail_2": {
+      "text": "悪いけど、この辺りについて役に立つ情報は持ってないの。",
+      "source": "151cd78cc34a7736"
+    },
+    "LootEvent_WealthyCivilian_Information_Give": {
+      "text": "ここがおすすめの漁り場よ。楽しんでね！",
+      "source": "39bbe88a54d72d9b"
+    },
+    "LootEvent_WealthyCivilian_Information_Normal": {
+      "text": "情報料は25ドルよ。",
+      "source": "0be2a45f5092fbe0"
+    },
+    "LootEvent_WealthyCivilian_Information_Persuaded": {
+      "text": "20ドルで売ってあげる。これ以上はまけられないわよ。",
+      "source": "e272319cb1d753b8"
+    },
+    "LootEvent_WealthyCivilian_Information_Threatened": {
+      "text": "わかったわよ。情報は教えてあげる。だから、もう行かせて。",
+      "source": "130009b54702c983"
+    },
+    "LootEvent_WealthyCivilian_Persuade": {
+      "text": "値切る",
+      "source": "92491b89894f6461"
+    },
+    "LootEvent_WealthyCivilian_Persuade_Char_1": {
+      "text": "[Party_0_Name]: パワー [Party_0_Attribute(Intelligence)] - HP [Party_0_Hp]",
+      "source": "cb84a127ce52f476"
+    },
+    "LootEvent_WealthyCivilian_Persuade_Char_2": {
+      "text": "[Party_1_Name]: パワー [Party_1_Attribute(Intelligence)] - HP [Party_1_Hp]",
+      "source": "e885ca50b1fff60d"
+    },
+    "LootEvent_WealthyCivilian_Persuade_Char_3": {
+      "text": "[Party_2_Name]: パワー [Party_2_Attribute(Intelligence)] - HP [Party_2_Hp]",
+      "source": "4f4c22e36158f6e5"
+    },
+    "LootEvent_WealthyCivilian_Persuade_Fail": {
+      "text": "[Event]は値引き交渉に失敗した",
+      "source": "991ee2ed26c0aebc"
+    },
+    "LootEvent_WealthyCivilian_Persuade_Success": {
+      "text": "[Event]の説得で、情報を値引きして売ってもらえることになった。",
+      "source": "42f2ed9a9d170bda"
+    },
+    "LootEvent_WealthyCivilian_Start": {
+      "text": "裕福な民間人に出会った。彼女は物資を漁るのにいい場所の情報を売っているそうだ。",
+      "source": "e96fb08018f31254"
+    },
+    "LootEvent_WealthyCivilian_Threaten": {
+      "text": "脅す",
+      "source": "e8a9b22dfa169b91"
+    },
+    "LootEvent_WealthyCivilian_Threaten_Char_1": {
+      "text": "[Party_0_Name]: 筋力 [Party_0_Attribute(Strength)] - HP [Party_0_Hp]",
+      "source": "2b0ef6e26f0f2769"
+    },
+    "LootEvent_WealthyCivilian_Threaten_Char_2": {
+      "text": "[Party_1_Name]: 筋力 [Party_1_Attribute(Strength)] - HP [Party_1_Hp]",
+      "source": "77d674cb2c740695"
+    },
+    "LootEvent_WealthyCivilian_Threaten_Char_3": {
+      "text": "[Party_2_Name]: 筋力 [Party_2_Attribute(Strength)] - HP [Party_2_Hp]",
+      "source": "265da4b7fc299066"
+    },
+    "LootEvent_WealthyCivilian_Threaten_Fail": {
+      "text": "冗談のつもり？\u3000やっておしまい！",
+      "source": "5f5c67b9b7c97baa"
+    },
+    "LootEvent_WealthyCivilian_Threaten_Success": {
+      "text": "わかったわ。何がお望み？",
+      "source": "4976e49ab111b9b9"
+    },
+    "LootEvent_Weapon_Test_Accept": {
+      "text": "引き受ける",
+      "source": "89713b9c9c1b8f65"
+    },
+    "LootEvent_Weapon_Test_Accept_1": {
+      "text": "協力に感謝する。この武器でパンクスを何人か仕留めてくれ。どう痛めつけようと構わんが、とどめは必ずこれで刺すこと。健闘を祈る！",
+      "source": "a0ac31a47f8e1374"
+    },
+    "LootEvent_Weapon_Test_Decline": {
+      "text": "断る",
+      "source": "2631349bff4daf19"
+    },
+    "LootEvent_Weapon_Test_Decline_1": {
+      "text": "ならば、自分たちで試すまでだ。とっとと失せろ！",
+      "source": "8673d3aa7d39d4d0"
+    },
+    "LootEvent_Weapon_Test_Fail": {
+      "text": "約束と違うではないか。お前たちのような者は使えん。武器を返してもらおう。",
+      "source": "165dc2e6e3cbf522"
+    },
+    "LootEvent_Weapon_Test_Result": {
+      "text": "上出来だ！\u3000約束は守る。その武器は持っていって、有効に使ってくれ。上官にもお前たちのことはよく伝えておこう。",
+      "source": "487edf45ef2dad6b"
+    },
+    "LootEvent_Weapon_Test_Start_1": {
+      "text": "野営の準備をしている兵士の一団を見つけた。そのうちの一人がこちらに気づいた。",
+      "source": "15e2e38799e4a9f6"
+    },
+    "LootEvent_Weapon_Test_Start_2": {
+      "text": "待て、旅の者！\u3000力を貸してもらえないか。我々の部隊に、軍の野営地から新しい武器が届いた。だが、いつもの武器より本当に優れているのか、どうも疑わしくてな。この[T@LootEventItem]を試してほしい。満足のいく結果なら、その武器はくれてやるし、お前たちの働きを上官にも報告しよう（友好度+3）。",
+      "source": "edc0c4145570a13e"
+    },
+    "LootEvent_ZombieFight_Civilian_Dialogue": {
+      "text": "助けに来てくれたのか？\u3000ありがたい！",
+      "source": "376def1a41ead81b"
+    },
+    "LootEvent_ZombieFight_Civilian_Help": {
+      "text": "加勢する",
+      "source": "b79cac926e0b2e34"
+    },
+    "LootEvent_ZombieFight_Civilian_Result_1": {
+      "text": "助かった！\u3000あんたたちのおかげだ。ほら、お礼にこの[T@LootEventItem]を受け取ってくれ。",
+      "source": "9b8b42da747d629b"
+    },
+    "LootEvent_ZombieFight_Civilian_Result_2": {
+      "text": "民間人たちはゾンビに殺された。残ったゾンビを片付ければ、全員の死体を漁れる。",
+      "source": "9ad7c1f54ecd7477"
+    },
+    "LootEvent_ZombieFight_Civilian_Result_3": {
+      "text": "民間人たちがゾンビを倒した。今度は彼らを突破しなければならない。",
+      "source": "4f21c5cd0f1674cb"
+    },
+    "LootEvent_ZombieFight_Civilian_Result_4": {
+      "text": "民間人たちの死体から[T@LootEventItem]を見つけた。",
+      "source": "f3a44b5ca50f1769"
+    },
+    "LootEvent_ZombieFight_Civilian_Start": {
+      "text": "戦闘の音が聞こえる。遠くで民間人が数人、ゾンビと戦っている。加勢することも、決着がつくまで様子を見ることもできる。",
+      "source": "110b16f7f677c431"
+    },
+    "LootEvent_ZombieFight_Civilian_Wait": {
+      "text": "様子を見る",
+      "source": "26b83994dca8b4b4"
+    },
+    "LootEvent_ZombieFight_Punks_Dialogue": {
+      "text": "俺たちを助けに来ただと？\u3000笑わせるな！",
+      "source": "965b1451f92cb722"
+    },
+    "LootEvent_ZombieFight_Punks_Help": {
+      "text": "加勢する",
+      "source": "b79cac926e0b2e34"
+    },
+    "LootEvent_ZombieFight_Punks_Result_1": {
+      "text": "わかったよ、いいか。お前らのおかげで命拾いしたのかもしれねえ。だから、ちょっとした礼だ。この[T@LootEventItem]を持ってけ。",
+      "source": "4a55eaf8b5f9104b"
+    },
+    "LootEvent_ZombieFight_Punks_Result_2": {
+      "text": "パンクスはゾンビに殺された。残ったゾンビを片付ければ、全員の死体を漁れる。",
+      "source": "54ef3e56bd4b9902"
+    },
+    "LootEvent_ZombieFight_Punks_Result_3": {
+      "text": "パンクスがゾンビを倒した。今度はあいつらを突破しなければならない。",
+      "source": "dc1421c302436e07"
+    },
+    "LootEvent_ZombieFight_Punks_Result_4": {
+      "text": "パンクスの死体から[T@LootEventItem]を見つけた。",
+      "source": "715d619f6ff8e157"
+    },
+    "LootEvent_ZombieFight_Punks_Start": {
+      "text": "ゾンビと戦っているパンクスの一団を見つけた。パンクスに加勢することも、決着がつくまで様子を見ることもできる。",
+      "source": "bf3cf661a6a7c1ec"
+    },
+    "LootEvent_ZombieFight_Punks_Wait": {
+      "text": "様子を見る",
+      "source": "26b83994dca8b4b4"
+    },
+    "LootEvent_ZombieFight_Scavenger_Dialogue": {
+      "text": "お前ら、いったいどこから湧いて出やがった？",
+      "source": "d95917051beaa34f"
+    },
+    "LootEvent_ZombieFight_Scavenger_Help": {
+      "text": "加勢する",
+      "source": "b79cac926e0b2e34"
+    },
+    "LootEvent_ZombieFight_Scavenger_Result_1": {
+      "text": "まあ、もらえるもんにケチをつける主義じゃねえ。つまり、今日のお前らはついてるってことだ！\u3000ほら、礼にこの[T@LootEventItem]をやるよ。",
+      "source": "63fd3f22234599da"
+    },
+    "LootEvent_ZombieFight_Scavenger_Result_2": {
+      "text": "略奪者たちはゾンビに殺された。残ったゾンビを片付ければ、全員の死体を漁れる。",
+      "source": "9f0492239e0f1a96"
+    },
+    "LootEvent_ZombieFight_Scavenger_Result_3": {
+      "text": "略奪者たちがゾンビを倒した。今度はあいつらを突破しなければならない。",
+      "source": "09faecdc961d6ef2"
+    },
+    "LootEvent_ZombieFight_Scavenger_Result_4": {
+      "text": "略奪者の死体から[T@LootEventItem]を見つけた。",
+      "source": "f3a44b5ca50f1769"
+    },
+    "LootEvent_ZombieFight_Scavenger_Start": {
+      "text": "戦闘の音が聞こえる。遠くで略奪者が数人、ゾンビと戦っている。略奪者に加勢することも、決着がつくまで様子を見ることもできる。",
+      "source": "859a9b7682ef083d"
+    },
+    "LootEvent_ZombieFight_Scavenger_Wait": {
+      "text": "様子を見る",
+      "source": "26b83994dca8b4b4"
+    },
+    "Subway_Arrival_1": {
+      "text": "[T@SubwayTarget]に着き、地下鉄を降りた。",
+      "source": "20c9c2b17880f835"
+    },
+    "Subway_Attack_Attack": {
+      "text": "攻撃する",
+      "source": "4cd548f3cc29cf9c"
+    },
+    "Subway_Attack_Bribe": {
+      "text": "賄賂を渡す（所持金: [Inventory_Resource_0]ドル）",
+      "source": "e0391b30c3a43aa8"
+    },
+    "Subway_Attack_Bribe_Choice_1": {
+      "text": "25ドルの賄賂を渡す（成功率50%）",
+      "source": "4e2bac89790646a7"
+    },
+    "Subway_Attack_Bribe_Choice_2": {
+      "text": "50ドルの賄賂を渡す（成功率80%）",
+      "source": "5669e597d4095bce"
+    },
+    "Subway_Attack_Bribe_Choice_3": {
+      "text": "100ドルの賄賂を渡す（成功率100%）",
+      "source": "ce9a897d8db50dbf"
+    },
+    "Subway_Attack_Bribe_Fail": {
+      "text": "話を聞いてなかったらしいな。こっちは全部よこせって言ってんだ。一部じゃねえ。",
+      "source": "316677ddd8991ca2"
+    },
+    "Subway_Attack_Bribe_NoResource": {
+      "text": "俺がバカに見えるか？\u3000そんな金、持ってもいねえくせに！\u3000やっちまえ、野郎ども。全部いただけ！",
+      "source": "d768cfe3b8f712e9"
+    },
+    "Subway_Attack_Bribe_Success": {
+      "text": "へえ、こいつは驚いた。ちゃんと礼儀をわきまえてるじゃねえか。それなら、行かせてやるよ。",
+      "source": "9e14731e9976fbe2"
+    },
+    "Subway_Attack_Start_1": {
+      "text": "おいおい、見ろよ。俺たちの車両に、ご一行様がお揃いだぜ。ポケットの中身を全部出しな、皆さん。そうすりゃ、歯は残しといてやる。",
+      "source": "1da3756feaa43fc4"
+    },
+    "Subway_Attack_Threaten": {
+      "text": "脅す",
+      "source": "e8a9b22dfa169b91"
+    },
+    "Subway_Attack_Threaten_Char_1": {
+      "text": "[Party_0_Name]: 筋力 [Party_0_Attribute(Strength)] - HP [Party_0_Hp]",
+      "source": "2b0ef6e26f0f2769"
+    },
+    "Subway_Attack_Threaten_Char_2": {
+      "text": "[Party_1_Name]: 筋力 [Party_1_Attribute(Strength)] - HP [Party_1_Hp]",
+      "source": "77d674cb2c740695"
+    },
+    "Subway_Attack_Threaten_Char_3": {
+      "text": "[Party_2_Name]: 筋力 [Party_2_Attribute(Strength)] - HP [Party_2_Hp]",
+      "source": "265da4b7fc299066"
+    },
+    "Subway_Attack_Threaten_Fail": {
+      "text": "ハハハ、何だ、俺をビビらせようってのか？\u3000野郎ども、このマヌケどもに俺たちの力を見せてやれ！",
+      "source": "577bd0f007484202"
+    },
+    "Subway_Attack_Threaten_Success": {
+      "text": "わかった、わかった、あんたらの勝ちだ。俺たちは引き上げるよ。",
+      "source": "e0e3c48ba8960a00"
+    },
+    "Subway_Enter_Accept": {
+      "text": "[@SubwayCost]ドルで切符を買う（所持金: [Inventory_Resource_0]ドル）",
+      "source": "081715146e8d6f68"
+    },
+    "Subway_Enter_Decline": {
+      "text": "地下鉄を出る",
+      "source": "7780cfea882a31ab"
+    },
+    "Subway_Enter_Dialogue_1": {
+      "text": "どの駅まで行く？",
+      "source": "974050749070a8a6"
+    },
+    "Subway_Enter_NoMoney": {
+      "text": "切符を買う金が足りない。",
+      "source": "fd93ef3f9fd2f07b"
+    },
+    "Subway_Enter_Start_1": {
+      "text": "ほう、地下鉄に乗りたいって？\u3000タダじゃないぜ。",
+      "source": "f40b6e492685f3b7"
+    },
+    "Subway_QuickAttack_1": {
+      "text": "装備を狙う略奪者の一団と遭遇した。交渉にはいっさい耳を貸さず、襲いかかってくる。",
+      "source": "9be55f302cc011f9"
+    },
+    "TravelEvent_Bunker_Locked_Accept": {
+      "text": "カードキーを使う（手持ちのカードキー: [Inventory_MiscKey_2]）",
+      "source": "fe1d070543f2e5f1"
+    },
+    "TravelEvent_Bunker_Locked_Decline": {
+      "text": "先へ進む",
+      "source": "31fbef162594de01"
+    },
+    "TravelEvent_Bunker_Locked_NoKeys": {
+      "text": "カードキーを持っていない。",
+      "source": "0286ec729f39a38b"
+    },
+    "TravelEvent_Bunker_Locked_Result_1": {
+      "text": "電子ロックの上のランプが緑に変わり、扉が開いた。あなたはバンカーの中へ足を踏み入れる。",
+      "source": "209ba9c6d506107d"
+    },
+    "TravelEvent_Bunker_Locked_Start": {
+      "text": "電子ロックで閉ざされた古いバンカーを見つけた。扉を開けるにはカードキーが必要だ。",
+      "source": "16ffc3d85126992d"
+    },
+    "TravelEvent_CaveEntrance_Accept": {
+      "text": "入口のがれきをどける（手持ちのつるはし: [Inventory_MiscKey_3]）",
+      "source": "42e231f56d9d98f4"
+    },
+    "TravelEvent_CaveEntrance_Char_1": {
+      "text": "[Party_0_Name]: サバイバル [Party_0_Talent(Survival)] - HP [Party_0_Hp]",
+      "source": "ee3e1723497d8bd9"
+    },
+    "TravelEvent_CaveEntrance_Char_2": {
+      "text": "[Party_1_Name]: サバイバル [Party_1_Talent(Survival)] - HP [Party_1_Hp]",
+      "source": "d5db1d8f4aefcbe1"
+    },
+    "TravelEvent_CaveEntrance_Char_3": {
+      "text": "[Party_2_Name]: サバイバル [Party_2_Talent(Survival)] - HP [Party_2_Hp]",
+      "source": "fb4fe4fdf499eddc"
+    },
+    "TravelEvent_CaveEntrance_Decline": {
+      "text": "先へ進む",
+      "source": "31fbef162594de01"
+    },
+    "TravelEvent_CaveEntrance_Fail": {
+      "text": "[Event]は入口のがれきをどけられなかった。つるはしは壊れてしまった。",
+      "source": "bc3364a8b93f3eee"
+    },
+    "TravelEvent_CaveEntrance_NoKeys": {
+      "text": "入口を掘り起こすためのつるはしを持っていない。",
+      "source": "cea1f3173b51deab"
+    },
+    "TravelEvent_CaveEntrance_Result": {
+      "text": "[Event]が洞窟の入口からがれきを取り除いた。",
+      "source": "4b7ccd47263a5b71"
+    },
+    "TravelEvent_CaveEntrance_Start": {
+      "text": "崩れた洞窟の入口を見つけた。がれきをどけるには、つるはしが必要だ。",
+      "source": "8857a063f3477ebd"
+    },
+    "TravelEvent_Mansion_Locked_Accept": {
+      "text": "カードキーを使う（手持ちのカードキー: [Inventory_MiscKey_2]）",
+      "source": "fe1d070543f2e5f1"
+    },
+    "TravelEvent_Mansion_Locked_Decline": {
+      "text": "先へ進む",
+      "source": "31fbef162594de01"
+    },
+    "TravelEvent_Mansion_Locked_NoKeys": {
+      "text": "カードキーを持っていない。",
+      "source": "0286ec729f39a38b"
+    },
+    "TravelEvent_Mansion_Locked_Result_1": {
+      "text": "電子錠の上のランプが緑に変わり、扉が開いた。",
+      "source": "0f15fa5314bd6528"
+    },
+    "TravelEvent_Mansion_Locked_Start": {
+      "text": "電子錠で守られた古い邸宅を見つけた。扉を開けるにはカードキーが必要だ。",
+      "source": "666f829cabf58cc9"
+    },
+    "TravelEvent_Shed_Locked_Accept": {
+      "text": "複雑な錠前を開ける（手持ちのロックピック: [Inventory_MiscKey_1]）",
+      "source": "b0122a0051563738"
+    },
+    "TravelEvent_Shed_Locked_Char1": {
+      "text": "[Party_0_Name]: 警戒 [Party_0_LockPick(1)] - HP [Party_0_Hp]",
+      "source": "1178a9d3a0f8069c"
+    },
+    "TravelEvent_Shed_Locked_Char2": {
+      "text": "[Party_1_Name]: 警戒 [Party_1_LockPick(1)] - HP [Party_1_Hp]",
+      "source": "5f139d1e4e35d06d"
+    },
+    "TravelEvent_Shed_Locked_Char3": {
+      "text": "[Party_2_Name]: 警戒 [Party_2_LockPick(1)] - HP [Party_2_Hp]",
+      "source": "19352d5002d8fc80"
+    },
+    "TravelEvent_Shed_Locked_Decline": {
+      "text": "先へ進む",
+      "source": "31fbef162594de01"
+    },
+    "TravelEvent_Shed_Locked_Fail_1": {
+      "text": "[Event]は複雑な錠前を開けられなかった。",
+      "source": "e62ab7050f90e19f"
+    },
+    "TravelEvent_Shed_Locked_NoKeys": {
+      "text": "ロックピックを持っていない。",
+      "source": "60d69abed4f5c6af"
+    },
+    "TravelEvent_Shed_Locked_Result_1": {
+      "text": "[Event]が錠前を開け、一行は小屋に入った。中には、地下室へと続く階段があった。",
+      "source": "deb78ee8ef97fc87"
+    },
+    "TravelEvent_Shed_Locked_Start": {
+      "text": "複雑な錠前のかかった小屋を見つけた。周囲に危険はなさそうだ。然るべき道具があれば、誰かが錠前を開けられるだろう。",
+      "source": "8bf4ec73a7c25dc5"
+    },
+    "Travelevent_Rescue_Charlotte": {
+      "text": "お仲間が亡くなったと聞きました。お悔やみ申し上げます。ジャックのキャンプでお待ちしていますね。",
+      "source": "c8a6f96d8961a622"
+    },
+    "Travelevent_Rescue_Jamie": {
+      "text": "ちょうど空きができたって聞いてね。まともな屋根の下で暮らせるチャンスなら大歓迎だ。きっと役に立ってみせるよ。向こうで会おう！",
+      "source": "2fb59e998cce99d5"
+    },
+    "Travelevent_Rescue_Tina": {
+      "text": "仲間が一人亡くなったんでしょう？\u3000よかったら、私もあなたたちの仲間に入れてもらえないかな。この辺りじゃ、そういう話はすぐに広まるのよ。あなたたちのキャンプなら、私の小さな小屋よりずっと安全そうだし。向こうで待ってるね！",
+      "source": "7728a6255801038b"
+    },
+    "Travelevent_Rescue_Tom": {
+      "text": "仲間を亡くしたそうだな。本当に気の毒に。この辺りじゃ、噂はすぐに広まるんだ。俺が役に立てそうなら、喜んで穴埋めをさせてもらうよ。ジャックのキャンプで会おう。",
+      "source": "0ccc35125cd24af3"
+    },
+    "Ubahn_1stTime": {
+      "text": "おっ！\u3000客か。よく来たな。で、あんたは誰だ？",
+      "source": "019848688aad331b"
+    },
+    "Ubahn_1stTime_1": {
+      "text": "俺は[Player]。ジャックのキャンプから来た。うちは、最近のゾンビの襲撃で逃げてきた難民たちの安全な避難所になってるんだ。軍から弾薬を少し買いたいだけなんだよ。",
+      "source": "9a69ef3ba569ce51"
+    },
+    "Ubahn_1stTime_2": {
+      "text": "ジャックのキャンプだって？\u3000いやあ、あいつは昔、大したタマだったぜ。俺もあいつの昔のキャンプにいたんだ。まだただの商人だった頃にな。",
+      "source": "2ec9160eb7f963c9"
+    },
+    "Ubahn_1stTime_Auswahl1": {
+      "text": "交渉する",
+      "source": "60f367aa399b48ea"
+    },
+    "Ubahn_1stTime_Auswahl1_1": {
+      "text": "へえ、ジャックを知ってるのか？\u3000それなら、ちょっと値引きしてもらえたり……はしないよな。",
+      "source": "72c2bac5a9e5005b"
+    },
+    "Ubahn_1stTime_Auswahl1_2": {
+      "text": "はっ！\u3000冗談じゃねえ。そんなことしたら、ボスのジミーに半殺しにされちまう。さっさと金を出しな。",
+      "source": "19dd92365418567b"
+    },
+    "Ubahn_1stTime_Auswahl2": {
+      "text": "同情を誘う",
+      "source": "c831578aec5635b6"
+    },
+    "Ubahn_1stTime_Auswahl2_1": {
+      "text": "参ったな、思ってたより高い。ジャックから預かった金じゃ足りないんだ。",
+      "source": "c8ba958529e8ea13"
+    },
+    "Ubahn_1stTime_Auswahl2_2": {
+      "text": "おやおや、パパにお小遣いを増やしてもらわなきゃってか？\u3000どれ、あんたの身の上を哀れんで、涙の一滴でも絞り出してやるか……だめだ、何も出ねえ。本当に気の毒な話なんだろうが、どうにも心が動かねえんだよな。これっぽっちもな。とっとと失せて、払えるようになったら出直してきな。",
+      "source": "1fe181cc7ce499bc"
+    },
+    "Ubahn_1stTime_Auswahl3": {
+      "text": "商談を持ちかける",
+      "source": "5e7461474e870ab9"
+    },
+    "Ubahn_1stTime_Auswahl3_1": {
+      "text": "うちのキャンプは、これから地下鉄をかなり頻繁に使おうと考えてるんだ。今ちょっと値引きしてくれれば、商売繁盛は保証するよ。",
+      "source": "8c39aac743b8c058"
+    },
+    "Ubahn_1stTime_Auswahl3_2": {
+      "text": "ほう、なかなかいい理屈だ。よし、10%引きにしてやる。嫌なら帰りな。",
+      "source": "6ea939d3f25630b6"
+    },
+    "Yacht_1stTime": {
+      "text": "こいつは珍しいお客さんだ！\u3000さあさあ、どうぞ乗って！\u3000会えてうれしいよ！",
+      "source": "55c85d1bc33cfc62"
+    },
+    "Yacht_1stTime_1": {
+      "text": "すぐ出られるか？\u3000密輸業者本部まで行きたいんだ。",
+      "source": "1e368ad025feadfd"
+    },
+    "Yacht_1stTime_2": {
+      "text": "運がいいね！\u3000このヨットは絶対に安全だ。海の上にはゾンビなんていないし、略奪者の心配もいらないよ。",
+      "source": "036bfc338e2fd119"
+    },
+    "Yacht_1stTime_3": {
+      "text": "悪くないな！\u3000もっと遠くまで行こうと考えたことは？\u3000ほかの国が終末をどう乗り切ったのか、見に行くとか。",
+      "source": "7566546a3d231b9d"
+    },
+    "Yacht_1stTime_4": {
+      "text": "成り行き次第だね。ヨーロッパから届いた初期の通信は、かつてここから流れてたのとそっくりだった。でもまあ、密輸業者に「絶対」はないのさ！",
+      "source": "9fa354f9792b79b3"
+    },
+    "Yacht_1stTime_5": {
+      "text": "乗船券を買う",
+      "source": "439cda61c021b092"
+    },
+    "Yacht_1stTime_Auswahl1": {
+      "text": "交渉する",
+      "source": "60f367aa399b48ea"
+    },
+    "Yacht_1stTime_Auswahl1_1": {
+      "text": "少しまけてくれないか？\u3000あんたみたいなベテランの密輸業者なら、俺みたいな駆け出しに手を貸すくらい、どうってことないだろ？",
+      "source": "701b7f5d37886dc5"
+    },
+    "Yacht_1stTime_Auswahl1_2": {
+      "text": "おだてたって無駄だ！\u3000ジミーに首を飛ばされたくなきゃ、さっさと現金を見せな！",
+      "source": "18810458b3b2bfa1"
+    },
+    "Yacht_1stTime_Auswahl2": {
+      "text": "船乗り",
+      "source": "fb99f31dcb117af0"
+    },
+    "Yacht_1stTime_Auswahl2_1": {
+      "text": "昔、船に乗ってたころ、周りに水しかない海の上がどれだけ孤独か、身にしみたもんだ。わかるだろ？\u3000話し相手もいなくて、ラムも残りはほんの一滴だけ。",
+      "source": "9ad50483e81b0952"
+    },
+    "Yacht_1stTime_Auswahl2_2": {
+      "text": "わかった、わかったよ。あんたが安っぽい海の思い出話に浸りきる前に、さっさと本題に入ろう。20%引きにしてやる。その代わり、もっとボスのところに顔を出しに来な。",
+      "source": "eef8c88161190860"
+    },
+    "Yacht_1stTime_Auswahl3": {
+      "text": "船酔い",
+      "source": "44336df024c1b4f8"
+    },
+    "Yacht_1stTime_Auswahl3_1": {
+      "text": "正直、あの船はどうも安定してるように見えない。あれに乗ったら、きっと船酔いするぞ。割引してもらって当然だと思うがな。",
+      "source": "379e121c1b0d48ed"
+    },
+    "Yacht_1stTime_Auswahl3_2": {
+      "text": "お前ら負け犬どもが甲板じゅうにぶちまけたゲロの掃除代は、誰かが払わなきゃならねえんだよ！",
+      "source": "b64f153029906e13"
+    }
+  }
+}

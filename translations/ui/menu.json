@@ -1,0 +1,1157 @@
+{
+  "table": "ui",
+  "entries": {
+    "Button_Accept": {
+      "text": "決定",
+      "source": "89713b9c9c1b8f65"
+    },
+    "Button_Attack": {
+      "text": "攻撃",
+      "source": "4cd548f3cc29cf9c"
+    },
+    "Button_Back": {
+      "text": "戻る",
+      "source": "76900f1bfd16c8d4"
+    },
+    "Button_BackToCharSel": {
+      "text": "撤退（新しい周回）",
+      "source": "3b8c5bfe2adb5074"
+    },
+    "Button_BackToMenu": {
+      "text": "メインメニュー",
+      "source": "35f9896e9461c34e"
+    },
+    "Button_Backpack": {
+      "text": "バックパック",
+      "source": "5118f76d9067edc5"
+    },
+    "Button_Buy": {
+      "text": "買う",
+      "source": "64e3cb0e4960ba69"
+    },
+    "Button_Camp": {
+      "text": "キャンプ",
+      "source": "3016539813b70937"
+    },
+    "Button_Cancel": {
+      "text": "キャンセル",
+      "source": "19766ed6ccb2f4a3"
+    },
+    "Button_CenterMap": {
+      "text": "マップを中央に戻す",
+      "source": "97373acb46ce865d"
+    },
+    "Button_ClearController": {
+      "text": "コントローラーリストをリセット",
+      "source": "dac1d8d73c2ff798"
+    },
+    "Button_Close": {
+      "text": "閉じる",
+      "source": "7d9eb7acb13e2462"
+    },
+    "Button_CombatAmmo": {
+      "text": "弾薬",
+      "source": "f5ba1f5823a37525"
+    },
+    "Button_CombatInv": {
+      "text": "インベントリ",
+      "source": "758f487fe8e9fcc5"
+    },
+    "Button_CombatMedical": {
+      "text": "医薬品",
+      "source": "c4d3d42ed3a4f2ba"
+    },
+    "Button_CombatMove": {
+      "text": "列を移動",
+      "source": "aca4d30cd858c346"
+    },
+    "Button_Confirm": {
+      "text": "確定",
+      "source": "eebdd24a77d9ad32"
+    },
+    "Button_Craft": {
+      "text": "クラフト",
+      "source": "57f64bf9715866ab"
+    },
+    "Button_Credits": {
+      "text": "クレジット",
+      "source": "2a6b24ad28722034"
+    },
+    "Button_Decline": {
+      "text": "断る",
+      "source": "a2d285b352873457"
+    },
+    "Button_Delete_Save": {
+      "text": "セーブデータを削除",
+      "source": "91a6c1cbd52af42f"
+    },
+    "Button_Details": {
+      "text": "詳細",
+      "source": "45989de49fb7f66d"
+    },
+    "Button_Discard": {
+      "text": "捨てる",
+      "source": "eb1a70e39274bb76"
+    },
+    "Button_DungeonRetreat": {
+      "text": "マップに戻る",
+      "source": "4dcef8e270a7e035"
+    },
+    "Button_EndTurn": {
+      "text": "ターン終了",
+      "source": "dacb1c83f36c986b"
+    },
+    "Button_Equip": {
+      "text": "装備する",
+      "source": "885fd3041d12884b"
+    },
+    "Button_Execute": {
+      "text": "実行",
+      "source": "e3a67d9540e9a204"
+    },
+    "Button_Execute_Cont": {
+      "text": "連続実行",
+      "source": "90203948e365dbaa"
+    },
+    "Button_Inventory": {
+      "text": "インベントリ",
+      "source": "758f487fe8e9fcc5"
+    },
+    "Button_Leave": {
+      "text": "立ち去る",
+      "source": "fc6e4a408d56be96"
+    },
+    "Button_Leave_Camp": {
+      "text": "拠点を出る",
+      "source": "55a3dcdfb580d12f"
+    },
+    "Button_Map": {
+      "text": "マップ",
+      "source": "be176b0015c424b7"
+    },
+    "Button_MapRetreat": {
+      "text": "拠点に戻る",
+      "source": "3e5c93ce12a90982"
+    },
+    "Button_MoreGames": {
+      "text": "その他のゲーム",
+      "source": "873649392051a9ab"
+    },
+    "Button_NewGame": {
+      "text": "スロット",
+      "source": "79689782061dec13"
+    },
+    "Button_No": {
+      "text": "いいえ",
+      "source": "1ea442a134b2a184"
+    },
+    "Button_OK": {
+      "text": "OK",
+      "source": "843ac01149cced78"
+    },
+    "Button_OpenFolder": {
+      "text": "フォルダを開く",
+      "source": "6a9084025c4bf3e1"
+    },
+    "Button_OtherOptions": {
+      "text": "（その他……）",
+      "source": "dba86563806bd69e"
+    },
+    "Button_PartyAdd": {
+      "text": "パーティに加える",
+      "source": "4aa8c0fa519c9f4b"
+    },
+    "Button_PartyRemove": {
+      "text": "パーティから外す",
+      "source": "2f5e2036975e2c94"
+    },
+    "Button_PinQuest": {
+      "text": "クエストを追跡",
+      "source": "a4523911cb06de1d"
+    },
+    "Button_Proceed": {
+      "text": "進む",
+      "source": "f01847dfc9412642"
+    },
+    "Button_Quests": {
+      "text": "友好度 / クエスト",
+      "source": "563f622586c7010e"
+    },
+    "Button_QuitGame": {
+      "text": "ゲーム終了",
+      "source": "35b5cf54cb3fdcae"
+    },
+    "Button_Reset": {
+      "text": "リセット",
+      "source": "daee7606b339f3c3"
+    },
+    "Button_RoomUpgrade": {
+      "text": "施設を強化",
+      "source": "c261032e3a49ccfe"
+    },
+    "Button_SaveSlot": {
+      "text": "{0} - レベル {1}\n {2}日目 - {3}",
+      "source": "45bad19395475d1a"
+    },
+    "Button_SaveSlot_Dead": {
+      "text": "{0} - 死亡\n 新しい周回",
+      "source": "209a1d65e2297531"
+    },
+    "Button_Scout": {
+      "text": "偵察",
+      "source": "8a1db462be753774"
+    },
+    "Button_Select": {
+      "text": "選択",
+      "source": "2a78025de6aae5e7"
+    },
+    "Button_SelfHeal": {
+      "text": "自分を治療",
+      "source": "601f92c976ab9224"
+    },
+    "Button_Sell": {
+      "text": "売る",
+      "source": "2ec1e28159466f2a"
+    },
+    "Button_SellStack": {
+      "text": "まとめて売却",
+      "source": "c9fc446519025805"
+    },
+    "Button_Settings": {
+      "text": "設定",
+      "source": "74a883a037bc227f"
+    },
+    "Button_Skills": {
+      "text": "スキル",
+      "source": "66d0f523a379b2de"
+    },
+    "Button_SkipDay": {
+      "text": "待機",
+      "source": "26b83994dca8b4b4"
+    },
+    "Button_SkipDay_desc": {
+      "text": "キャンプにいる間は、時間を半日進めることができる。",
+      "source": "329a3f149c15644e"
+    },
+    "Button_SkipIntro": {
+      "text": "イントロをスキップ",
+      "source": "5ee6bb693d759719"
+    },
+    "Button_SkipIntro_desc": {
+      "text": "チュートリアルなしで、すぐにゲームを始める。初めてのプレイにはおすすめしない。",
+      "source": "ba326db4bc662214"
+    },
+    "Button_SkipSession": {
+      "text": "待機",
+      "source": "26b83994dca8b4b4"
+    },
+    "Button_Start": {
+      "text": "スタート",
+      "source": "e4bb9f1ece9af926"
+    },
+    "Button_StartGame": {
+      "text": "ゲーム開始",
+      "source": "62e0df134d7e80ab"
+    },
+    "Button_Stats": {
+      "text": "統計",
+      "source": "b4a7365740ef880b"
+    },
+    "Button_Support": {
+      "text": "サポート",
+      "source": "be91940b79f46910"
+    },
+    "Button_SurvivalOptions": {
+      "text": "サバイバルオプション",
+      "source": "6742029e7e475e7c"
+    },
+    "Button_System": {
+      "text": "システム",
+      "source": "6725e7bbcd28f3a8"
+    },
+    "Button_Take": {
+      "text": "取る",
+      "source": "8b862ba45dceddf7"
+    },
+    "Button_TakeAll": {
+      "text": "すべて取る",
+      "source": "680ff55706a1ab03"
+    },
+    "Button_TakeAllEquip": {
+      "text": "すべて取って<nobr>インベントリ</nobr>へ",
+      "source": "d3e5674061ded35c"
+    },
+    "Button_Talk": {
+      "text": "話す",
+      "source": "449f5a775762cdc5"
+    },
+    "Button_Travel": {
+      "text": "移動",
+      "source": "d2b98fb53714f23c"
+    },
+    "Button_Unequip": {
+      "text": "外す",
+      "source": "4543c883301ab0ca"
+    },
+    "Button_UpgradeTalent": {
+      "text": "ヒント",
+      "source": "a7b4cf9f7e429771"
+    },
+    "Button_Upgrades": {
+      "text": "アップグレード",
+      "source": "e02a5941602a57c3"
+    },
+    "Button_Upgrades_desc": {
+      "text": "ゲーム中に獲得したメダルを使って、キャラクターをアップグレードする。",
+      "source": "7e7df2b40a226eec"
+    },
+    "Button_Use": {
+      "text": "使う",
+      "source": "c36d819e7bc6d2b7"
+    },
+    "Button_ViewOnMap": {
+      "text": "マップで見る",
+      "source": "e0850168c4dfc4f0"
+    },
+    "Button_Yes": {
+      "text": "はい",
+      "source": "85a39ab345d672ff"
+    },
+    "Filter_Ammo": {
+      "text": "弾薬",
+      "source": "f5ba1f5823a37525"
+    },
+    "Filter_Consumable": {
+      "text": "治療",
+      "source": "44bc3799892c50fa"
+    },
+    "Filter_CraftingMaterial": {
+      "text": "クラフト素材",
+      "source": "8cfa41a055ad330d"
+    },
+    "Filter_GearChest": {
+      "text": "胴防具",
+      "source": "e9a258e08f4ba495"
+    },
+    "Filter_GearFeet": {
+      "text": "靴",
+      "source": "b5efa9ec3f5f8d45"
+    },
+    "Filter_GearHands": {
+      "text": "手袋",
+      "source": "5c4a86a81eca111d"
+    },
+    "Filter_GearHead": {
+      "text": "頭防具",
+      "source": "cf8ad3c63fbdf3f2"
+    },
+    "Filter_GearLegs": {
+      "text": "ズボン",
+      "source": "a1dd93fd5b3726c7"
+    },
+    "Filter_GearWeaponMelee": {
+      "text": "近接武器",
+      "source": "74a19b3a0d9d5835"
+    },
+    "Filter_GearWeaponRanged": {
+      "text": "遠距離武器",
+      "source": "63f330345dfa255b"
+    },
+    "Filter_General": {
+      "text": "インベントリ",
+      "source": "758f487fe8e9fcc5"
+    },
+    "Filter_MiscKey": {
+      "text": "鍵・道具",
+      "source": "48e7a6c20d4005ec"
+    },
+    "Filter_MiscMail": {
+      "text": "手紙",
+      "source": "0b438c8abb4dba92"
+    },
+    "Filter_MiscValuables": {
+      "text": "貴重品",
+      "source": "252abc95d19bca37"
+    },
+    "Filter_Upgrade": {
+      "text": "強化キット",
+      "source": "e02a5941602a57c3"
+    },
+    "Label_AchievementUnlocked": {
+      "text": "チャレンジ達成",
+      "source": "f2676335ca0377c3"
+    },
+    "Label_Achievement_1_Combat": {
+      "text": "戦闘チャレンジ",
+      "source": "15c4a4fd277e6ae3"
+    },
+    "Label_Achievement_1_Combat_desc1": {
+      "text": "戦闘でメダルを獲得できる。メダルは新しい周回のアップグレード解放に使える。",
+      "source": "459a300ac32ca656"
+    },
+    "Label_Achievement_2_Story": {
+      "text": "ストーリーチャレンジ",
+      "source": "bcda4cf8f073b6a6"
+    },
+    "Label_Achievement_2_Story_desc2": {
+      "text": "ストーリーを進めるとメダルを獲得できる。メダルは新しい周回のアップグレード解放に使える。",
+      "source": "666985e833721cca"
+    },
+    "Label_Achievement_3_Achieved": {
+      "text": "実績",
+      "source": "74cf2bc63fe12220"
+    },
+    "Label_Achievement_3_Achieved_desc3": {
+      "text": "獲得したメダルは、新しい周回のアップグレード解放に使える。",
+      "source": "94fd775d2a804a9f"
+    },
+    "Label_Achievement_Belohung": {
+      "text": "報酬",
+      "source": "59afe47d9d377267"
+    },
+    "Label_Achievement_Hinweise": {
+      "text": "ヒント",
+      "source": "6f3951c42d1eee16"
+    },
+    "Label_Achievement_Medaillen": {
+      "text": "メダル",
+      "source": "5c9aea07c6aa7d8c"
+    },
+    "Label_Achievement_Selection": {
+      "text": "選択",
+      "source": "ca4067071fcf6185"
+    },
+    "Label_Achievement_Stats": {
+      "text": "今回の周回",
+      "source": "a9cdf79943694e49"
+    },
+    "Label_Achievement_unlocked": {
+      "text": "チャレンジ達成",
+      "source": "f2676335ca0377c3"
+    },
+    "Label_Achievements": {
+      "text": "チャレンジ",
+      "source": "40b9c8f444870eff"
+    },
+    "Label_Adrenaline": {
+      "text": "{0} / {1} アドレナリン",
+      "source": "1184b94382d946b1"
+    },
+    "Label_AdrenalineHit": {
+      "text": "アドレナリン",
+      "source": "2608729251008c96"
+    },
+    "Label_AlreadyBuild": {
+      "text": "建設済み",
+      "source": "9c8ff8fce6b781d3"
+    },
+    "Label_Ambush": {
+      "text": "待ち伏せ",
+      "source": "a29c74269a8c224d"
+    },
+    "Label_Ap": {
+      "text": "{0} / {1} AP",
+      "source": "3a805f92cec1a54b"
+    },
+    "Label_Area": {
+      "text": "地域:",
+      "source": "ad1f378ebb28a466"
+    },
+    "Label_ArmorBroken": {
+      "text": "装甲破壊",
+      "source": "cc40b8e110c52a4f"
+    },
+    "Label_ArmorHit": {
+      "text": "防御力で吸収",
+      "source": "084f9de3c87ed0af"
+    },
+    "Label_AtEvening": {
+      "text": "夕方に",
+      "source": "72446d6b8fb40070"
+    },
+    "Label_AtMorning": {
+      "text": "朝に",
+      "source": "8cfe776d60764acb"
+    },
+    "Label_AvailableAttributePoints": {
+      "text": "使用可能な能力値ポイント",
+      "source": "150d8d74ae32885b"
+    },
+    "Label_AvailableAttributePoints_desc": {
+      "text": "レベルアップのたびに能力値ポイントを獲得し、キャラクターの強化に使える。",
+      "source": "8957630762385260"
+    },
+    "Label_Base": {
+      "text": "拠点に入る",
+      "source": "4c34078d36cf9804"
+    },
+    "Label_BlockHit": {
+      "text": "ブロック",
+      "source": "18f2a0947f9d6523"
+    },
+    "Label_BorderlessWindow": {
+      "text": "ボーダーレスウィンドウ",
+      "source": "955b76f1f7e5d151"
+    },
+    "Label_BuffDuration": {
+      "text": "効果時間: {0}ラウンド",
+      "source": "9ca86ad9692d52e8"
+    },
+    "Label_BuffDuration1": {
+      "text": "効果時間: 1ラウンド",
+      "source": "8233333033082978"
+    },
+    "Label_CampDefence": {
+      "text": "キャンプ防衛",
+      "source": "0dc7414ce644b946"
+    },
+    "Label_CharacterCreation": {
+      "text": "キャラクター作成",
+      "source": "b7d7c41a3cea84bb"
+    },
+    "Label_CharacterCreation_desc": {
+      "text": "キャラクターの過去を選んでください",
+      "source": "7696987d1d59db3c"
+    },
+    "Label_CharacterDesign": {
+      "text": "外見",
+      "source": "3907fa7f80722a6f"
+    },
+    "Label_CharacterInfo": {
+      "text": "キャラクター",
+      "source": "1405a63e8a78b85c"
+    },
+    "Label_Completion": {
+      "text": "完成予定:",
+      "source": "819c15f77c3040af"
+    },
+    "Label_Cooldown": {
+      "text": "クールダウン",
+      "source": "0924a671165fef5a"
+    },
+    "Label_Costs": {
+      "text": "コスト:",
+      "source": "4fe6aa9f708bd3a6"
+    },
+    "Label_CraftingChooseMod": {
+      "text": "改造を選択",
+      "source": "a6e74b868c9b579c"
+    },
+    "Label_CraftingLowTier": {
+      "text": "より高い品質が必要",
+      "source": "3e04f7c4e3d92484"
+    },
+    "Label_CraftingModification": {
+      "text": "改造",
+      "source": "46889b43bcb45d68"
+    },
+    "Label_CritHit": {
+      "text": "クリティカル",
+      "source": "2d4ee7dde1564a54"
+    },
+    "Label_DA_EarlyAccess": {
+      "text": "Dead Age 2",
+      "source": "8a4f38ebed00f734"
+    },
+    "Label_Day": {
+      "text": "昼",
+      "source": "8f2364e11b8be3ff"
+    },
+    "Label_DaySingle": {
+      "text": "1日",
+      "source": "fa665d95d29e83bc"
+    },
+    "Label_Days": {
+      "text": "{0}日",
+      "source": "af78beb0f18b8974"
+    },
+    "Label_DaysLeft_1": {
+      "text": "残り{0}日",
+      "source": "07c29541c6414ea0"
+    },
+    "Label_DaysLeft_2": {
+      "text": "{0}日後",
+      "source": "331efcd23443ce49"
+    },
+    "Label_Difficulty": {
+      "text": "難易度:",
+      "source": "0554e44e82a9708d"
+    },
+    "Label_Difficulty_0": {
+      "text": "ノーマル",
+      "source": "a7248eeb45eb1ce2"
+    },
+    "Label_Difficulty_1": {
+      "text": "ハードコア",
+      "source": "e913447f262a636b"
+    },
+    "Label_Difficulty_2": {
+      "text": "カジュアル",
+      "source": "f32445a73e56fb69"
+    },
+    "Label_EffectVolume": {
+      "text": "効果音の音量",
+      "source": "ccc5c6641208c47c"
+    },
+    "Label_EnterDungeon": {
+      "text": "ダンジョンに入る",
+      "source": "8c225cb9e17987bf"
+    },
+    "Label_Equipped": {
+      "text": "装備中",
+      "source": "c4dc8a3877a429eb"
+    },
+    "Label_Evening": {
+      "text": "夕方",
+      "source": "458c1fed57435404"
+    },
+    "Label_Experience": {
+      "text": "経験値",
+      "source": "1d1d1cdfc15f599b"
+    },
+    "Label_Experience_Tooltip": {
+      "text": "レベルアップには経験値が必要で、レベルが上がるとキャラクターの能力値が上昇する。やる気のあるキャラクターは、レベルアップ時に能力値ポイントを1つ追加で得る。",
+      "source": "8c4a7752e3055296"
+    },
+    "Label_Face": {
+      "text": "顔",
+      "source": "304afc32b7ff2e23"
+    },
+    "Label_Faction": {
+      "text": "勢力: {0}",
+      "source": "851fb071eb91d94a"
+    },
+    "Label_Factions": {
+      "text": "勢力",
+      "source": "aeaeee06ac36a10d"
+    },
+    "Label_Fee": {
+      "text": "料金:",
+      "source": "81a5eda21d8f9d0b"
+    },
+    "Label_Fight": {
+      "text": "戦闘",
+      "source": "1ef142c8213e887d"
+    },
+    "Label_Filter": {
+      "text": "フィルター",
+      "source": "638e249f4a15ebb8"
+    },
+    "Label_FinCharCreation": {
+      "text": "作成を完了しますか？",
+      "source": "a5151bf9d4bb0a48"
+    },
+    "Label_FullScreen": {
+      "text": "フルスクリーン",
+      "source": "e2108eb7fd2063ae"
+    },
+    "Label_GameOver_Headline": {
+      "text": "ゲームオーバー",
+      "source": "71f10eb014cbdf8b"
+    },
+    "Label_Gesicht_0": {
+      "text": "アメリカ人",
+      "source": "0baaf6f25d1c5da8"
+    },
+    "Label_Gesicht_1": {
+      "text": "ヨーロッパ人",
+      "source": "dc011743d9f36fb1"
+    },
+    "Label_Gesicht_2": {
+      "text": "アフリカ系アメリカ人",
+      "source": "5449673456401dd0"
+    },
+    "Label_Gesicht_3": {
+      "text": "アジア人",
+      "source": "bc7432b82a5025b0"
+    },
+    "Label_GrazeHit": {
+      "text": "かすり",
+      "source": "06c3ab1488b6421d"
+    },
+    "Label_Haare_0": {
+      "text": "モダンヘア",
+      "source": "fe079bdb3335f53e"
+    },
+    "Label_Haare_1": {
+      "text": "ロングヘア",
+      "source": "6d9643018a1b75b4"
+    },
+    "Label_Haare_2": {
+      "text": "スタイリッシュヘア",
+      "source": "bed84baef292183a"
+    },
+    "Label_Haare_3": {
+      "text": "ショートヘア",
+      "source": "f0812ac21e5bcb6b"
+    },
+    "Label_Haare_4": {
+      "text": "ショートヘア2",
+      "source": "e990b907eca41630"
+    },
+    "Label_Haare_5": {
+      "text": "パンクヘア",
+      "source": "9735b64a390c5244"
+    },
+    "Label_Haarfarbe_0": {
+      "text": "黒髪",
+      "source": "b3e8506bf067577c"
+    },
+    "Label_Haarfarbe_1": {
+      "text": "金髪",
+      "source": "f9c075f15b2d07f6"
+    },
+    "Label_Haarfarbe_2": {
+      "text": "茶髪",
+      "source": "886c4eba8c8b2ff1"
+    },
+    "Label_Hair": {
+      "text": "髪型",
+      "source": "ababed4823ab79d2"
+    },
+    "Label_HairColor": {
+      "text": "髪の色",
+      "source": "0ba3cb56c968fca6"
+    },
+    "Label_HeavyArmorHit": {
+      "text": "装甲で吸収",
+      "source": "abf5df0e0aad6b28"
+    },
+    "Label_High": {
+      "text": "高",
+      "source": "6ef7c9b15ecdd690"
+    },
+    "Label_Immune": {
+      "text": "免疫",
+      "source": "384f60847292748d"
+    },
+    "Label_ItemUsage": {
+      "text": "使用先:",
+      "source": "4359d85d1db359ec"
+    },
+    "Label_JobLevel": {
+      "text": "職ランク: {0}",
+      "source": "d6a3b5e65fbe9157"
+    },
+    "Label_JobOccupation": {
+      "text": "使用中の仕事枠: {0} / {1}",
+      "source": "f1ed891920bc4ad2"
+    },
+    "Label_Language": {
+      "text": "言語",
+      "source": "a4fe65264ef7dbb3"
+    },
+    "Label_Learned": {
+      "text": "習得済み:",
+      "source": "d5ace289dedf0e69"
+    },
+    "Label_LeaveDungeon": {
+      "text": "ダンジョンを出る",
+      "source": "8cdeb436d7107a94"
+    },
+    "Label_Level": {
+      "text": "レベル: {0}",
+      "source": "cf6d4fe7fb495393"
+    },
+    "Label_LevelUp": {
+      "text": "レベルアップ",
+      "source": "46cc8f367eea8e88"
+    },
+    "Label_Loot": {
+      "text": "戦利品:",
+      "source": "d7decc3222b10f06"
+    },
+    "Label_LootFound": {
+      "text": "戦利品",
+      "source": "839e7c03533466b1"
+    },
+    "Label_LootLocations": {
+      "text": "資源地点:",
+      "source": "5bdfeb2ff2fe8ab3"
+    },
+    "Label_Low": {
+      "text": "低",
+      "source": "6c1ff09db3a73dc4"
+    },
+    "Label_MedalUpgradesAvailable": {
+      "text": "アップグレードに使えるメダルが{0}個あります。",
+      "source": "d81acb8fbebaac6d"
+    },
+    "Label_Medium": {
+      "text": "中",
+      "source": "c082456a7766e23a"
+    },
+    "Label_Monitor": {
+      "text": "ディスプレイ",
+      "source": "34e108c0896d0158"
+    },
+    "Label_Morning": {
+      "text": "朝",
+      "source": "e9376a281aac57bb"
+    },
+    "Label_MusicVolume": {
+      "text": "音楽の音量",
+      "source": "d8773f37c57e87ea"
+    },
+    "Label_Night": {
+      "text": "夜",
+      "source": "4e9f8db8242b57e7"
+    },
+    "Label_NoFreeSlot": {
+      "text": "仕事枠に空きなし",
+      "source": "b3ffe54100b73b61"
+    },
+    "Label_NoQuest": {
+      "text": "クエスト未選択",
+      "source": "805c54a6ef18d610"
+    },
+    "Label_NoWeapon": {
+      "text": "武器なし",
+      "source": "b8eabb60c8a0b374"
+    },
+    "Label_None": {
+      "text": "なし",
+      "source": "dc937b59892604f5"
+    },
+    "Label_NotAvailable": {
+      "text": "利用不可",
+      "source": "67a926f7008e2b0e"
+    },
+    "Label_OutOfReach": {
+      "text": "到達不可",
+      "source": "602105be12865d02"
+    },
+    "Label_Owner": {
+      "text": "支配勢力:",
+      "source": "9a638cfefd8792e3"
+    },
+    "Label_Quality": {
+      "text": "画質",
+      "source": "1b2c08a8733d7ff1"
+    },
+    "Label_QuestFailed": {
+      "text": "クエスト失敗",
+      "source": "8bbcf06b9c1a6777"
+    },
+    "Label_QuestLog": {
+      "text": "ログ",
+      "source": "21e49eb2b299c9f7"
+    },
+    "Label_QuestLog_ActiveSideQuests": {
+      "text": "進行中のサイドジョブ",
+      "source": "1f130fe4cfd7eecf"
+    },
+    "Label_QuestLog_AvailableSideQuests": {
+      "text": "受注可能なサイドジョブ",
+      "source": "e91b6896a8119113"
+    },
+    "Label_QuestLog_CampQuests": {
+      "text": "キャンプクエスト",
+      "source": "2d57ea6dc4f0f442"
+    },
+    "Label_QuestLog_Failed": {
+      "text": "失敗したクエスト",
+      "source": "a1bfdf86c0ad0e0a"
+    },
+    "Label_QuestLog_MainQuests": {
+      "text": "ストーリークエスト",
+      "source": "19707f1c1f706561"
+    },
+    "Label_QuestLog_SideQuests": {
+      "text": "サイドジョブ",
+      "source": "4964874a7a202cc9"
+    },
+    "Label_QuestLog_Successfull": {
+      "text": "達成したクエスト",
+      "source": "4157a8803f53df13"
+    },
+    "Label_QuestStarted": {
+      "text": "クエスト開始",
+      "source": "6c3452e93c3624ed"
+    },
+    "Label_QuestSucceed": {
+      "text": "クエスト達成",
+      "source": "398655d76398ef11"
+    },
+    "Label_QuestUpdated": {
+      "text": "クエスト更新",
+      "source": "b5904a5388a2a922"
+    },
+    "Label_Reputation": {
+      "text": "友好度",
+      "source": "e4b35726fbafe7f9"
+    },
+    "Label_Reputation_Tooltip": {
+      "text": "世界の各勢力との友好度に応じて、新たな人脈や実入りのいいサイドジョブ、各勢力のリーダーとの謁見の機会が開ける。注意: 友好度がマイナスになると、その勢力から犯罪者と見なされる。",
+      "source": "6d20141c2f0caa3e"
+    },
+    "Label_Resolution": {
+      "text": "解像度",
+      "source": "d4055fafa3794fa8"
+    },
+    "Label_ResourcesMissing": {
+      "text": "資源不足",
+      "source": "5b0bce463a0aa737"
+    },
+    "Label_ResourcesRequired": {
+      "text": "必要な資源:",
+      "source": "ffa4dab66f858bc2"
+    },
+    "Label_RoomLevel": {
+      "text": "施設ランク: {0}",
+      "source": "4c537795e152ea39"
+    },
+    "Label_RoomLevelNone": {
+      "text": "未建設",
+      "source": "d22e9e7b8580619e"
+    },
+    "Label_RoomMissing": {
+      "text": "施設ランク不足",
+      "source": "39d9631943ad7dae"
+    },
+    "Label_ScoutAreaSelection": {
+      "text": "発見可能な資源地点: {0}か所",
+      "source": "a4a9a146c9ca873a"
+    },
+    "Label_Settings_Fantastic": {
+      "text": "最高",
+      "source": "1d27a658474aa89a"
+    },
+    "Label_Settings_Medium": {
+      "text": "中",
+      "source": "8e588cd187741f1c"
+    },
+    "Label_Settings_Simple": {
+      "text": "低",
+      "source": "3fee95da5ab69ebf"
+    },
+    "Label_SkillMissing": {
+      "text": "技能レベル不足",
+      "source": "03a8bc1cd60f7259"
+    },
+    "Label_Skills_Auswahl": {
+      "text": "選択",
+      "source": "ca4067071fcf6185"
+    },
+    "Label_Skills_Fernkampf": {
+      "text": "遠距離戦闘",
+      "source": "4826a2bb3610f109"
+    },
+    "Label_Skills_Jobs": {
+      "text": "仕事",
+      "source": "2f17a0f8d518e491"
+    },
+    "Label_Skills_NahkampfSupport": {
+      "text": "近接 / 支援",
+      "source": "9232da662a70e705"
+    },
+    "Label_Skills_Punkte": {
+      "text": "使用可能なスキルポイント:",
+      "source": "6cf4a4a4ed9a3d4b"
+    },
+    "Label_Stats_Menschen": {
+      "text": "倒した人間:",
+      "source": "e742300b8b604d3d"
+    },
+    "Label_Stats_Mutationen": {
+      "text": "倒したミュータント:",
+      "source": "b998b5453e042b39"
+    },
+    "Label_Stats_Quests": {
+      "text": "達成したクエスト:",
+      "source": "8934b3b682656718"
+    },
+    "Label_Stats_Ruf": {
+      "text": "最高友好度:",
+      "source": "57cb2e2db4048838"
+    },
+    "Label_Stats_Run": {
+      "text": "今回の周回",
+      "source": "a9cdf79943694e49"
+    },
+    "Label_Stats_Tage": {
+      "text": "生存日数:",
+      "source": "0c825b0dcace905e"
+    },
+    "Label_Stats_Tiere": {
+      "text": "倒した獣:",
+      "source": "e994c79343198200"
+    },
+    "Label_Stats_Ueberlebende": {
+      "text": "発見した生存者:",
+      "source": "c8ffc08bee53150a"
+    },
+    "Label_Stats_Versuch": {
+      "text": "最高の周回",
+      "source": "052125587f4b1dc4"
+    },
+    "Label_Stats_Zombies": {
+      "text": "倒したゾンビ:",
+      "source": "96b1520cd84f43dc"
+    },
+    "Label_StyleChoice": {
+      "text": "スタイル{0}",
+      "source": "50d9384a44d69eaa"
+    },
+    "Label_SurpriseAttack": {
+      "text": "奇襲",
+      "source": "56c3b77d89d85fc4"
+    },
+    "Label_TalentAuswahl": {
+      "text": "技能の選択",
+      "source": "ec82f550369d83d0"
+    },
+    "Label_Thread": {
+      "text": "危険度:",
+      "source": "2f2ca109569c9c96"
+    },
+    "Label_ThreatInfo": {
+      "text": "危険度メーター",
+      "source": "aeffa7be85f9b025"
+    },
+    "Label_TimeDisplay_Base": {
+      "text": "{0}日目 - {1}",
+      "source": "c7cea8d851acf690"
+    },
+    "Label_TimeDisplay_Map": {
+      "text": "{0}日目 - 残り{1}",
+      "source": "6abf5ebffd973763"
+    },
+    "Label_TimeLimit": {
+      "text": "期限:",
+      "source": "a0447166be423d1a"
+    },
+    "Label_TimePassed": {
+      "text": "{0}分後",
+      "source": "ca9b7e262a69d9f6"
+    },
+    "Label_TimePassed_Several": {
+      "text": "数分後",
+      "source": "f3738963251f6ca4"
+    },
+    "Label_Today": {
+      "text": "今日",
+      "source": "2b065c7c9ce466e5"
+    },
+    "Label_Today_0": {
+      "text": "今日の朝",
+      "source": "debad3036bc119e0"
+    },
+    "Label_Today_1": {
+      "text": "今日の夕方",
+      "source": "db7dd4660c80520a"
+    },
+    "Label_Tomorrow_0": {
+      "text": "明日の朝",
+      "source": "ea64c9f1aa4e0c25"
+    },
+    "Label_Tomorrow_1": {
+      "text": "明日の夕方",
+      "source": "f54a7a9e2d492143"
+    },
+    "Label_TravelCost": {
+      "text": "移動コスト: {0}分、水×{1}",
+      "source": "ca38d926f5ea5526"
+    },
+    "Label_Unexplored": {
+      "text": "未探索",
+      "source": "5e08429e411ab5c5"
+    },
+    "Label_UpgradeCondition_All_No": {
+      "text": "3勢力すべてとの友好度60以上（未達成）",
+      "source": "9bac09e65eb9cedc"
+    },
+    "Label_UpgradeCondition_All_Yes": {
+      "text": "3勢力すべてとの友好度60以上（達成）",
+      "source": "c375f0d71a49eb4a"
+    },
+    "Label_UpgradeCondition_One_No": {
+      "text": "{0}との友好度60以上（未達成）",
+      "source": "f9a97b4027761bf2"
+    },
+    "Label_UpgradeCondition_One_Yes": {
+      "text": "{0}との友好度60以上（達成）",
+      "source": "df9fa453abb52875"
+    },
+    "Label_Upgrades_Medaillen": {
+      "text": "メダル",
+      "source": "5c9aea07c6aa7d8c"
+    },
+    "Label_Upgrades_desc": {
+      "text": "メダルを獲得すると、次のニューゲームで使えるアップグレードを解放できる。",
+      "source": "0b9eea6fb721e465"
+    },
+    "Label_Upgrades_gestorben": {
+      "text": "死亡回数: {0}回",
+      "source": "4b80acb2ff076003"
+    },
+    "Label_Upgrades_hast_Medaillen": {
+      "text": "所持メダル: {0}個",
+      "source": "cc0e66989d61c0a7"
+    },
+    "Label_UsableOnlyOnce": {
+      "text": "1回のみ使用可能",
+      "source": "8f50ebec07fb2122"
+    },
+    "Label_VSync": {
+      "text": "垂直同期",
+      "source": "834ecfe84ed27c24"
+    },
+    "Label_Victory": {
+      "text": "勝利",
+      "source": "2e9b5a0c4e6aeb08"
+    },
+    "Label_Visited": {
+      "text": "訪問済み",
+      "source": "ec1e62325e1c2397"
+    },
+    "Label_WaitTurn": {
+      "text": "集中",
+      "source": "9d3cab2b5efed4ea"
+    },
+    "Label_Xp": {
+      "text": "XP",
+      "source": "168aad3e9812dfb6"
+    },
+    "Language_Chinese_Simplified": {
+      "text": "中国語 - 簡体字（ZH）",
+      "source": "d7ab5646310748c3"
+    },
+    "Language_English": {
+      "text": "英語（EN）",
+      "source": "3cc21ef11f2472d1"
+    },
+    "Language_French": {
+      "text": "フランス語（FR）",
+      "source": "b8eb20e154df42dc"
+    },
+    "Language_German": {
+      "text": "ドイツ語（DE）",
+      "source": "bd795fd6d5f891ea"
+    },
+    "Language_Italian": {
+      "text": "イタリア語（IT）",
+      "source": "6740ab33c2522ffc"
+    },
+    "Language_Polish": {
+      "text": "ポーランド語（PL）",
+      "source": "cfb1e70ec2a3aec7"
+    },
+    "Language_Portuguese_Brazil": {
+      "text": "ポルトガル語 - ブラジル（PT）",
+      "source": "8ba56a811cfa94c9"
+    },
+    "Language_Russian": {
+      "text": "ロシア語（RU）",
+      "source": "3025d1baded1d245"
+    },
+    "Language_Spanish_Latin": {
+      "text": "スペイン語 - 中南米（ES）",
+      "source": "797a777c7020581b"
+    },
+    "Language_Spanish_Spain": {
+      "text": "スペイン語 - スペイン（ES-ES）",
+      "source": "d1c5a48e67ad20c3"
+    }
+  }
+}

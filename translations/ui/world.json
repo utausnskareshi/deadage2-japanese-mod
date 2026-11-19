@@ -1,0 +1,1893 @@
+{
+  "table": "ui",
+  "entries": {
+    "BaseState_Happy": {
+      "text": "やる気",
+      "source": "e05146f140bd7702"
+    },
+    "BaseState_Happy_desc": {
+      "text": "やる気状態のキャラクターは、レベルアップ時に能力ボーナスを得る。",
+      "source": "7a7da74ec7f1c0c9"
+    },
+    "BaseState_Hungry": {
+      "text": "空腹",
+      "source": "4f82f7041ae65e99"
+    },
+    "BaseState_Hungry_desc": {
+      "text": "空腹状態のキャラクターは夜明けと夕暮れごとにHPを20%失い、5日後（{0}）に死亡する。それでも寝床で休めば少しは回復する。",
+      "source": "afd1dffdd4c7d3d4"
+    },
+    "BaseState_Infected": {
+      "text": "感染",
+      "source": "1bd853d8b3b8037c"
+    },
+    "BaseState_Infected_desc": {
+      "text": "感染したキャラクターは夜明けと夕暮れごとにHPを65%失い、3日後（{0}）に死亡する。寝床で休めば少しは回復するが、外出も仕事もできない。",
+      "source": "38de6333213f4e85"
+    },
+    "BaseState_Moody": {
+      "text": "落ち込み",
+      "source": "10f6a0661c5cac01"
+    },
+    "BaseState_Moody_desc": {
+      "text": "落ち込み状態のキャラクターは丸1日誰とも関わろうとせず、仕事もしない。",
+      "source": "2606f5a776ad5d16"
+    },
+    "BaseState_Thirsty": {
+      "text": "渇き",
+      "source": "fb299ac3982a572d"
+    },
+    "BaseState_Thirsty_desc": {
+      "text": "渇き状態のキャラクターは夜明けと夕暮れごとにHPを20%失い、3日後（{0}）に死亡する。それでも寝床で休めば少しは回復する。",
+      "source": "bc9a6467d024fb5e"
+    },
+    "Character_Aerztin": {
+      "text": "医師",
+      "source": "24669ff48290c187"
+    },
+    "Character_Aerztin_Nathalie": {
+      "text": "ナタリー",
+      "source": "a2be475368d91806"
+    },
+    "Character_AlphaWolf": {
+      "text": "アルファウルフ",
+      "source": "9836b867c0892a6e"
+    },
+    "Character_AlphaWolf_Mutation": {
+      "text": "アルファウルフ",
+      "source": "9836b867c0892a6e"
+    },
+    "Character_AlphaWolf_Undead": {
+      "text": "アルファウルフ",
+      "source": "9836b867c0892a6e"
+    },
+    "Character_Anfuehrer_Andrew": {
+      "text": "アンドリュー",
+      "source": "c10873196eb1124e"
+    },
+    "Character_Anfuehrer_Joseph": {
+      "text": "ジョセフ",
+      "source": "78a1a1dae4e56fb0"
+    },
+    "Character_Anfuehrer_Schmuggler_Jimmy": {
+      "text": "ジミー",
+      "source": "79af7871433de925"
+    },
+    "Character_Anfuehrer_Sheriff": {
+      "text": "保安官",
+      "source": "4243fe0b9776609c"
+    },
+    "Character_Anfuehrer_USArmy_Charles": {
+      "text": "チャールズ",
+      "source": "c43139196d576427"
+    },
+    "Character_Anfuehrerin_Denise": {
+      "text": "デニース",
+      "source": "aa3c24ad43dc9fae"
+    },
+    "Character_Anfuehrerin_Denise_Boss": {
+      "text": "デニース",
+      "source": "aa3c24ad43dc9fae"
+    },
+    "Character_Anfuehrerin_Liz_Boss": {
+      "text": "リズ",
+      "source": "447874807f60801d"
+    },
+    "Character_Anfuehrerin_Schmuggler_Kira": {
+      "text": "キラ",
+      "source": "3c566d34284a6a3b"
+    },
+    "Character_Anfuehrerin_Schmuggler_Sharon": {
+      "text": "シャロン",
+      "source": "553e7cf02d99f242"
+    },
+    "Character_Anfuehrerin_USArmy_April": {
+      "text": "エイプリル",
+      "source": "4afe6ea150d532c1"
+    },
+    "Character_Anfuehrerin_USArmy_Liz": {
+      "text": "リズ",
+      "source": "447874807f60801d"
+    },
+    "Character_Arenameister": {
+      "text": "闘技場の主",
+      "source": "f8ffa246bb1b6e8d"
+    },
+    "Character_Arzt": {
+      "text": "医師",
+      "source": "24669ff48290c187"
+    },
+    "Character_Arzt_Ethan": {
+      "text": "イーサン",
+      "source": "13ae3ed6fe76d459"
+    },
+    "Character_Barkeeper_Dean": {
+      "text": "ディーン",
+      "source": "c3ef22502fa5dd6a"
+    },
+    "Character_Barkeeper_Military": {
+      "text": "バーテンダー",
+      "source": "6f5f32741edacf87"
+    },
+    "Character_Barkeeper_Terence": {
+      "text": "テレンス",
+      "source": "10ff985cae895047"
+    },
+    "Character_Barkeeperin_Lana": {
+      "text": "ラナ",
+      "source": "6d43984578928e87"
+    },
+    "Character_Barkeeperin_Schmuggler": {
+      "text": "女バーテンダー",
+      "source": "f72cfd68aedab59a"
+    },
+    "Character_Barkeeperin_Trixy": {
+      "text": "トリクシー",
+      "source": "8131fcc7e14d5215"
+    },
+    "Character_Barricade_Camp": {
+      "text": "バリケード",
+      "source": "3a5364b82c10fd33"
+    },
+    "Character_Barricade_Enemy": {
+      "text": "バリケード",
+      "source": "3a5364b82c10fd33"
+    },
+    "Character_Barricade_Player": {
+      "text": "バリケード",
+      "source": "3a5364b82c10fd33"
+    },
+    "Character_BigAl": {
+      "text": "ビッグ・アル",
+      "source": "24060c71c72c3ba3"
+    },
+    "Character_Bill": {
+      "text": "ビル",
+      "source": "e51783b4d7688ffb"
+    },
+    "Character_Bodyguard_Nahkaempfer": {
+      "text": "格闘家のボディガード",
+      "source": "b608992bcc8700c3"
+    },
+    "Character_Bodyguard_Schuetze": {
+      "text": "銃使いのボディガード",
+      "source": "3d77615ce211a0ea"
+    },
+    "Character_Bodyguard_Vollstrecker": {
+      "text": "処刑人のボディガード",
+      "source": "59a8723aef2b0129"
+    },
+    "Character_Charlotte": {
+      "text": "シャーロット",
+      "source": "2e7041b7d708dfe8"
+    },
+    "Character_Crawler": {
+      "text": "這いずるゾンビ",
+      "source": "aa5c1baa237ad1f1"
+    },
+    "Character_Crawler2": {
+      "text": "凶悪な這いずるゾンビ",
+      "source": "561781357369fc2c"
+    },
+    "Character_Dexter": {
+      "text": "首領デクスター",
+      "source": "7e5d53abd6a71256"
+    },
+    "Character_Dobermann": {
+      "text": "ドーベルマン",
+      "source": "b4e8761d8e48e36b"
+    },
+    "Character_Dunkelwolf": {
+      "text": "ダークウルフ",
+      "source": "05df29bb777700f1"
+    },
+    "Character_Dunkelwolf_Mutation": {
+      "text": "ダークウルフ",
+      "source": "05df29bb777700f1"
+    },
+    "Character_Dunkelwolf_Undead": {
+      "text": "ダークウルフ",
+      "source": "05df29bb777700f1"
+    },
+    "Character_Fernando": {
+      "text": "フェルナンド",
+      "source": "75b51718f6c2e874"
+    },
+    "Character_Fernkampf_Aerztin": {
+      "text": "医師",
+      "source": "24669ff48290c187"
+    },
+    "Character_Fernkampf_Cheerleader": {
+      "text": "チアリーダー",
+      "source": "e3141472a93bd926"
+    },
+    "Character_Fernkampf_Cheerleader_Leader": {
+      "text": "チアリーダー隊長",
+      "source": "7a9f40847d5918e8"
+    },
+    "Character_Fernkampf_Huntress": {
+      "text": "女狩人",
+      "source": "8ecbaadf90b71f4d"
+    },
+    "Character_Fernkampf_Krankenschwester": {
+      "text": "看護師",
+      "source": "41e96c33cee3543f"
+    },
+    "Character_Fernkampf_OberCheerleader": {
+      "text": "チアキャプテン",
+      "source": "fb8059cf7cf07f67"
+    },
+    "Character_Fernkampf_Oberschwester": {
+      "text": "看護師長",
+      "source": "1c334ceecbfff08c"
+    },
+    "Character_Fernkampf_Sirene": {
+      "text": "セイレーン",
+      "source": "248f1ca4059ee2a7"
+    },
+    "Character_Fernkampf_Zombie_Pluenderin_Jaegerin": {
+      "text": "略奪者の女狩人",
+      "source": "ac99b209dbd15fa9"
+    },
+    "Character_Fernkampf_Zombie_Punk_Hexe": {
+      "text": "パンクスの魔女",
+      "source": "e0c91b83b9d356f2"
+    },
+    "Character_Fernkampf_Zombie_Schmugglerin": {
+      "text": "密輸業者",
+      "source": "c70a9bdb1081b210"
+    },
+    "Character_Fernkampf_Zombie_Schmugglerin_Anfuehrerin": {
+      "text": "密輸業者のボス",
+      "source": "e1e46d31a975bab9"
+    },
+    "Character_Fernkampf_Zombie_Voodoohexe": {
+      "text": "ブードゥーの魔女",
+      "source": "ce92b0ca0fd70ad1"
+    },
+    "Character_Fernkampf_Zombie_Waldhexe": {
+      "text": "鬼婆",
+      "source": "49bf9aacc85c56ad"
+    },
+    "Character_Grenadier_BigTurret": {
+      "text": "重タレット",
+      "source": "0dc8129fff14209b"
+    },
+    "Character_Grenadier_Turret": {
+      "text": "タレット",
+      "source": "53cca3d0a1b73d27"
+    },
+    "Character_Haendler_Aussenposten": {
+      "text": "商人",
+      "source": "1da9a04272250842"
+    },
+    "Character_Hank": {
+      "text": "ハンク",
+      "source": "f759561678c78b8e"
+    },
+    "Character_Hunting_KleinerJagdhund": {
+      "text": "小型の猟犬",
+      "source": "1148a250175bbda3"
+    },
+    "Character_Hunting_Tiger": {
+      "text": "トラ",
+      "source": "410f76d01d8a9981"
+    },
+    "Character_Isa": {
+      "text": "イサ",
+      "source": "90a9b7f3f645aaf4"
+    },
+    "Character_Jack": {
+      "text": "ジャック",
+      "source": "b5fd03dd91df1cfb"
+    },
+    "Character_Jagdhund": {
+      "text": "ブラッドハウンド",
+      "source": "9f5f6a4d35b384a2"
+    },
+    "Character_Jamal": {
+      "text": "ジャマール",
+      "source": "4e1a25b1aab102e0"
+    },
+    "Character_James": {
+      "text": "ジェームズ",
+      "source": "9345a35a6fdf174d"
+    },
+    "Character_Jamie": {
+      "text": "ジェイミー",
+      "source": "eaea2ab37288945d"
+    },
+    "Character_Jane": {
+      "text": "ジェーン",
+      "source": "4f23798d92708359"
+    },
+    "Character_Jason": {
+      "text": "ジェイソン",
+      "source": "7fa8a6e9fde2f4e1"
+    },
+    "Character_Jennifer": {
+      "text": "ジェニファー",
+      "source": "bda0a01c76aae97e"
+    },
+    "Character_Lance": {
+      "text": "ランス",
+      "source": "cb115a7ab849366a"
+    },
+    "Character_Larissa": {
+      "text": "ラリッサ",
+      "source": "5789dcb2534dc5a4"
+    },
+    "Character_Mary": {
+      "text": "メアリー",
+      "source": "aebac53c46bbeff1"
+    },
+    "Character_Mason": {
+      "text": "メイソン",
+      "source": "9e00106e1ab0502f"
+    },
+    "Character_Merchant": {
+      "text": "商人",
+      "source": "1da9a04272250842"
+    },
+    "Character_Merchant_Abraham": {
+      "text": "エイブラハム",
+      "source": "78a8ebdcc101b021"
+    },
+    "Character_Merchant_Allied": {
+      "text": "商人",
+      "source": "1da9a04272250842"
+    },
+    "Character_Merchant_Joe": {
+      "text": "ジョー",
+      "source": "6dd8b7d7d3c5c468"
+    },
+    "Character_Merchant_Lydia": {
+      "text": "リディア",
+      "source": "5a28fa1fccb69b98"
+    },
+    "Character_Merchant_Tracy": {
+      "text": "トレイシー",
+      "source": "8a8ae63ee3a6ea5a"
+    },
+    "Character_Merchant_Trevor": {
+      "text": "トレバー",
+      "source": "81ed14995c022b89"
+    },
+    "Character_Mutant_Butcher": {
+      "text": "料理人",
+      "source": "7f4a1e5bff2d56e5"
+    },
+    "Character_Mutant_Butcher_Black": {
+      "text": "ブッチャー",
+      "source": "d85eb74fd75da1bc"
+    },
+    "Character_Mutant_Cannibal": {
+      "text": "チェーンソーブッチャー",
+      "source": "4601982281b3ea11"
+    },
+    "Character_Mutant_Crazy": {
+      "text": "狂人",
+      "source": "3aa9017c5772126c"
+    },
+    "Character_Mutant_Crazy_aufgeladen": {
+      "text": "力を溜めた狂人",
+      "source": "5c6c039ed0c62dfb"
+    },
+    "Character_Mutant_Evolution": {
+      "text": "進化したミュータント",
+      "source": "ebcbe1dfa1e0777b"
+    },
+    "Character_Mutant_Fat_Colossus": {
+      "text": "コロッサス",
+      "source": "9a80d98232f94f64"
+    },
+    "Character_Mutant_Fatty": {
+      "text": "肥満体",
+      "source": "8c9f2b32b87461d2"
+    },
+    "Character_Mutant_Mechanic": {
+      "text": "整備士",
+      "source": "57d04c6969ddd750"
+    },
+    "Character_Mutant_Prisoner": {
+      "text": "囚人",
+      "source": "7dd128d096eebc85"
+    },
+    "Character_Mutant_Prisoner_Acid": {
+      "text": "酸性の囚人",
+      "source": "4720cee92900893d"
+    },
+    "Character_Mutant_Scheusal": {
+      "text": "怪物",
+      "source": "0a03f210b26689a9"
+    },
+    "Character_Pluenderer_Anfuehrer": {
+      "text": "略奪者のボス",
+      "source": "0a5da803afb98a9c"
+    },
+    "Character_Pluenderer_Frontkaempfer": {
+      "text": "歩兵",
+      "source": "ad96986dec9ca2dd"
+    },
+    "Character_Pluenderer_Vagabund": {
+      "text": "放浪者",
+      "source": "d6706d23ff3550dc"
+    },
+    "Character_Pluenderer_Vollstrecker": {
+      "text": "処刑人",
+      "source": "596ec3a1b24dd938"
+    },
+    "Character_Pluendererin_Attentaeterin": {
+      "text": "暗殺者",
+      "source": "c2d31bc82e366f1f"
+    },
+    "Character_Pluendererin_Jaegerin": {
+      "text": "女狩人",
+      "source": "8ecbaadf90b71f4d"
+    },
+    "Character_Pluendererin_Schuetzin": {
+      "text": "女ライフル兵",
+      "source": "f7847a3c9bc367b5"
+    },
+    "Character_Punk_Anfuehrer": {
+      "text": "リーダー",
+      "source": "3f53871b0838bdf3"
+    },
+    "Character_Punk_Fallenstellerin": {
+      "text": "罠師",
+      "source": "85145bde4dda7165"
+    },
+    "Character_Punk_Frontschlaechter": {
+      "text": "歩兵長",
+      "source": "1087083e36951e2c"
+    },
+    "Character_Punk_Hexe": {
+      "text": "魔女",
+      "source": "f28854498a03ea2c"
+    },
+    "Character_Punk_Nahkaempferin": {
+      "text": "格闘家",
+      "source": "cb7bccf5df7750f7"
+    },
+    "Character_Punk_Schlaeger": {
+      "text": "チンピラ",
+      "source": "04b6809ed19ed426"
+    },
+    "Character_Punk_Schuetzin": {
+      "text": "女ライフル兵",
+      "source": "f7847a3c9bc367b5"
+    },
+    "Character_Punk_Techniker": {
+      "text": "エンジニア",
+      "source": "d93352a70395db3d"
+    },
+    "Character_Punk_Vagabund": {
+      "text": "放浪者",
+      "source": "d6706d23ff3550dc"
+    },
+    "Character_Punk_Vollstrecker": {
+      "text": "処刑人",
+      "source": "596ec3a1b24dd938"
+    },
+    "Character_Rick": {
+      "text": "リック",
+      "source": "8d2f3db7b78917df"
+    },
+    "Character_Sarah": {
+      "text": "サラ",
+      "source": "7e8c729e4e4ecc32"
+    },
+    "Character_Schmuggler_Anfuehrer_Arena": {
+      "text": "リーダー",
+      "source": "3f53871b0838bdf3"
+    },
+    "Character_Schmuggler_Attentaeterin": {
+      "text": "暗殺者",
+      "source": "c2d31bc82e366f1f"
+    },
+    "Character_Schmuggler_Frontkaempfer": {
+      "text": "歩兵",
+      "source": "ad96986dec9ca2dd"
+    },
+    "Character_Schmuggler_Jaegerin": {
+      "text": "女狩人",
+      "source": "8ecbaadf90b71f4d"
+    },
+    "Character_Schmuggler_Nahkaempfer": {
+      "text": "格闘家",
+      "source": "cb7bccf5df7750f7"
+    },
+    "Character_Schmuggler_Schuetzin": {
+      "text": "ガンスリンガー",
+      "source": "223b23a5360318c7"
+    },
+    "Character_Schmuggler_Soldat": {
+      "text": "兵士",
+      "source": "f826baa05bef6921"
+    },
+    "Character_Schmuggler_Soldatx": {
+      "text": "一兵卒",
+      "source": "c65a4c6998ffbcf8"
+    },
+    "Character_Smuggler_Harbour": {
+      "text": "密輸業者",
+      "source": "c70a9bdb1081b210"
+    },
+    "Character_Smuggler_Subway": {
+      "text": "密輸業者",
+      "source": "c70a9bdb1081b210"
+    },
+    "Character_Steven": {
+      "text": "スティーブン",
+      "source": "8360721f93d2e7e2"
+    },
+    "Character_Tessa": {
+      "text": "テッサ",
+      "source": "0fe9877170f58a0b"
+    },
+    "Character_Tiger": {
+      "text": "トラ",
+      "source": "410f76d01d8a9981"
+    },
+    "Character_Tiger_weiss": {
+      "text": "ホワイトタイガー",
+      "source": "a10855cfb2721dbe"
+    },
+    "Character_Tina": {
+      "text": "ティナ",
+      "source": "0fd1eb2e0012f222"
+    },
+    "Character_Tom": {
+      "text": "トム",
+      "source": "81f3bf42a93cf18d"
+    },
+    "Character_Trish": {
+      "text": "トリッシュ",
+      "source": "aedfe0906ef1a263"
+    },
+    "Character_USArmy_Aerztin": {
+      "text": "医師",
+      "source": "24669ff48290c187"
+    },
+    "Character_USArmy_Anfuehrer": {
+      "text": "リーダー",
+      "source": "3f53871b0838bdf3"
+    },
+    "Character_USArmy_Fallensteller": {
+      "text": "罠師",
+      "source": "85145bde4dda7165"
+    },
+    "Character_USArmy_Kommandantin": {
+      "text": "司令官",
+      "source": "16af7be312e1840b"
+    },
+    "Character_USArmy_Nahkaempferin": {
+      "text": "格闘家",
+      "source": "cb7bccf5df7750f7"
+    },
+    "Character_USArmy_Soldat": {
+      "text": "兵士",
+      "source": "f826baa05bef6921"
+    },
+    "Character_USArmy_Soldatx": {
+      "text": "一兵卒",
+      "source": "c65a4c6998ffbcf8"
+    },
+    "Character_USArmy_Technikerin": {
+      "text": "エンジニア",
+      "source": "d93352a70395db3d"
+    },
+    "Character_Unabhaengige_Aerztin": {
+      "text": "医師",
+      "source": "24669ff48290c187"
+    },
+    "Character_Unabhaengige_Anfuehrer": {
+      "text": "リーダー",
+      "source": "3f53871b0838bdf3"
+    },
+    "Character_Unabhaengige_Bodyguard": {
+      "text": "ボディガード",
+      "source": "998e41b432f4d199"
+    },
+    "Character_Unabhaengige_Grenadier": {
+      "text": "擲弾兵",
+      "source": "e3d24b1b3350d758"
+    },
+    "Character_Unabhaengige_Kommandantin": {
+      "text": "司令官",
+      "source": "16af7be312e1840b"
+    },
+    "Character_Unabhaengige_Leutnant": {
+      "text": "中尉",
+      "source": "dc13911305c8dc33"
+    },
+    "Character_Unabhaengige_Polizist": {
+      "text": "警官",
+      "source": "2efeeeb01318ac94"
+    },
+    "Character_Unabhaengige_Soldat": {
+      "text": "兵士",
+      "source": "f826baa05bef6921"
+    },
+    "Character_Unabhaengige_Soldatx": {
+      "text": "一兵卒",
+      "source": "c65a4c6998ffbcf8"
+    },
+    "Character_Wachhund": {
+      "text": "番犬",
+      "source": "da0ccfeab090c58a"
+    },
+    "Character_Wachhund_Punks": {
+      "text": "番犬",
+      "source": "da0ccfeab090c58a"
+    },
+    "Character_Wachhund_Punks_Undead": {
+      "text": "番犬",
+      "source": "da0ccfeab090c58a"
+    },
+    "Character_Wachhund_Undead": {
+      "text": "番犬",
+      "source": "da0ccfeab090c58a"
+    },
+    "Character_Wolf": {
+      "text": "オオカミ",
+      "source": "ea858afbf837aae7"
+    },
+    "Character_Wolf_Mutation": {
+      "text": "オオカミ",
+      "source": "ea858afbf837aae7"
+    },
+    "Character_Wolf_Undead": {
+      "text": "オオカミ",
+      "source": "ea858afbf837aae7"
+    },
+    "Character_Zivilist": {
+      "text": "男性",
+      "source": "20fe1bd201cd900b"
+    },
+    "Character_Zivilist_Grenadier": {
+      "text": "放浪者",
+      "source": "d6706d23ff3550dc"
+    },
+    "Character_Zivilist_Jaegerin": {
+      "text": "女狩人",
+      "source": "8ecbaadf90b71f4d"
+    },
+    "Character_Zivilist_Nahkaempfer": {
+      "text": "格闘家",
+      "source": "cb7bccf5df7750f7"
+    },
+    "Character_Zivilist_Pistolero": {
+      "text": "ガンスリンガー",
+      "source": "223b23a5360318c7"
+    },
+    "Character_Zivilist_Unbewaffnet": {
+      "text": "男性",
+      "source": "20fe1bd201cd900b"
+    },
+    "Character_Zivilist_Unbewaffnet2": {
+      "text": "男性",
+      "source": "20fe1bd201cd900b"
+    },
+    "Character_Zivilist_Unbewaffnet3": {
+      "text": "男性",
+      "source": "20fe1bd201cd900b"
+    },
+    "Character_Zivilist_Vollstrecker": {
+      "text": "処刑人",
+      "source": "596ec3a1b24dd938"
+    },
+    "Character_Zivilistin": {
+      "text": "女性",
+      "source": "5c3967e73c04beef"
+    },
+    "Character_Zivilistin_Frontkaempferin": {
+      "text": "歩兵",
+      "source": "ad96986dec9ca2dd"
+    },
+    "Character_Zivilistin_Injured": {
+      "text": "女性",
+      "source": "5c3967e73c04beef"
+    },
+    "Character_Zivilistin_Schuetzin": {
+      "text": "銃使い",
+      "source": "d0c0045cf10f3b6b"
+    },
+    "Character_Zivilistin_Unbewaffnet": {
+      "text": "女性",
+      "source": "5c3967e73c04beef"
+    },
+    "Character_Zivilistin_Unbewaffnet2": {
+      "text": "女性",
+      "source": "5c3967e73c04beef"
+    },
+    "Character_Zivilistin_Unbewaffnet3": {
+      "text": "女性",
+      "source": "5c3967e73c04beef"
+    },
+    "Character_Zombie_Arzt": {
+      "text": "噛まれた院長",
+      "source": "3d54c7e2818343dd"
+    },
+    "Character_Zombie_Brawler": {
+      "text": "格闘家",
+      "source": "cb7bccf5df7750f7"
+    },
+    "Character_Zombie_Brawler_zaeh": {
+      "text": "タフな格闘家",
+      "source": "841f6bebd8af7756"
+    },
+    "Character_Zombie_Butcher": {
+      "text": "ブッチャー",
+      "source": "d85eb74fd75da1bc"
+    },
+    "Character_Zombie_ButcherKettensaege": {
+      "text": "チェーンソーブッチャー",
+      "source": "4601982281b3ea11"
+    },
+    "Character_Zombie_Clown": {
+      "text": "ピエロ",
+      "source": "192da864477003fc"
+    },
+    "Character_Zombie_Cowboy": {
+      "text": "カウボーイ",
+      "source": "c44914a54b7edf34"
+    },
+    "Character_Zombie_Cowgirl": {
+      "text": "カウガール",
+      "source": "9d107ef65da63cb8"
+    },
+    "Character_Zombie_Farmarbeiter": {
+      "text": "噛まれた農場労働者",
+      "source": "9753da3a8bd90c88"
+    },
+    "Character_Zombie_Farmarbeiter_aggro": {
+      "text": "怒れる世捨て人",
+      "source": "8f7d0656ffcb84e1"
+    },
+    "Character_Zombie_Farmarbeiter_krank": {
+      "text": "病気の農場労働者",
+      "source": "12f7cac0cd05026a"
+    },
+    "Character_Zombie_Farmer": {
+      "text": "噛まれた農夫",
+      "source": "355276c0b494d82d"
+    },
+    "Character_Zombie_Farmer_RagingRedneck": {
+      "text": "荒れ狂うレッドネック",
+      "source": "b403a438a4e4ca7a"
+    },
+    "Character_Zombie_Farmer_Redneck": {
+      "text": "臆病なレッドネック",
+      "source": "27536a611e908df3"
+    },
+    "Character_Zombie_Flammende_Furie_aggro": {
+      "text": "炎と怒り",
+      "source": "2d31365f20e289cc"
+    },
+    "Character_Zombie_Gefangener_Krank": {
+      "text": "病気の受刑者",
+      "source": "a89229964bac4beb"
+    },
+    "Character_Zombie_Gefangener_Wild": {
+      "text": "荒れ狂う受刑者",
+      "source": "bb4ffeb97f14ec01"
+    },
+    "Character_Zombie_Gefangener_aggro": {
+      "text": "目覚めた囚人",
+      "source": "de99c56e6921364d"
+    },
+    "Character_Zombie_Gefangener_infiziert": {
+      "text": "感染した受刑者",
+      "source": "73e3c2d71bd08d5e"
+    },
+    "Character_Zombie_Jaeger": {
+      "text": "狩人",
+      "source": "680ce38047bf1f29"
+    },
+    "Character_Zombie_Landstreicher": {
+      "text": "噛まれた浮浪者",
+      "source": "142ee9df71c038c4"
+    },
+    "Character_Zombie_Nonne": {
+      "text": "感染した修道女",
+      "source": "6d49c86a45e75028"
+    },
+    "Character_Zombie_Patient": {
+      "text": "感染した患者",
+      "source": "367d039a15490654"
+    },
+    "Character_Zombie_Pluenderin": {
+      "text": "略奪者",
+      "source": "903b0e53a609d62b"
+    },
+    "Character_Zombie_Polizist": {
+      "text": "噛まれた警官",
+      "source": "2a9d757723898770"
+    },
+    "Character_Zombie_Polizistin": {
+      "text": "噛まれた女性警官",
+      "source": "a17db6098597909a"
+    },
+    "Character_Zombie_Punk_Attentaeter": {
+      "text": "パンクスの破壊工作員",
+      "source": "1c52a03919c5dd5c"
+    },
+    "Character_Zombie_Punk_Frontkaempfer": {
+      "text": "パンクスの下っ端",
+      "source": "a6de671ad9f25481"
+    },
+    "Character_Zombie_Punk_Hexe": {
+      "text": "パンクスの魔女",
+      "source": "e0c91b83b9d356f2"
+    },
+    "Character_Zombie_Punk_Wueter": {
+      "text": "パンクスの暴れ者",
+      "source": "de27e5bb5d021efa"
+    },
+    "Character_Zombie_Schlaeger": {
+      "text": "噛まれたごろつき",
+      "source": "1231aa6580921196"
+    },
+    "Character_Zombie_Schlaeger_infiziert": {
+      "text": "感染した乱暴者",
+      "source": "9586df5249481ae3"
+    },
+    "Character_Zombie_Schlipstraeger": {
+      "text": "悪意あるスーツ男",
+      "source": "7b3aa059ff2b3151"
+    },
+    "Character_Zombie_Schlipstraeger_aggro": {
+      "text": "荒れ狂うスーツ男",
+      "source": "f7438110a9afea15"
+    },
+    "Character_Zombie_Schoenheit": {
+      "text": "噛まれた田舎娘",
+      "source": "fe842f16b8fc5fdf"
+    },
+    "Character_Zombie_Schoenheit_aggro": {
+      "text": "美しき狂女",
+      "source": "b049c0c9f5784c64"
+    },
+    "Character_Zombie_Soldat_Grenadier": {
+      "text": "擲弾兵",
+      "source": "e3d24b1b3350d758"
+    },
+    "Character_Zombie_Soldat_Major": {
+      "text": "少佐",
+      "source": "2bc58fcc412bdf84"
+    },
+    "Character_Zombie_Soldat_Weste": {
+      "text": "兵士",
+      "source": "f826baa05bef6921"
+    },
+    "Character_Zombie_Trucker": {
+      "text": "トラック運転手",
+      "source": "dad93b1f281145ba"
+    },
+    "Character_Zombie_USArmy_Soldat": {
+      "text": "アメリカ軍の兵士",
+      "source": "9af83811782e7e65"
+    },
+    "Character_Zombie_USArmy_Soldat_Schlaeger": {
+      "text": "アメリカ軍の荒くれ者",
+      "source": "01f171f3ec7dc17b"
+    },
+    "Character_Zombie_USNahkaempferin": {
+      "text": "アメリカ軍の格闘家",
+      "source": "46080d0832621062"
+    },
+    "Character_Zombie_Unabhaengige_Kommandant": {
+      "text": "独立派の司令官",
+      "source": "713aa70123cfd93e"
+    },
+    "Character_Zombie_Unabhaengige_Soldat": {
+      "text": "独立派の兵士",
+      "source": "b304dba684c266d7"
+    },
+    "Character_Zombie_Vorarbeiter": {
+      "text": "現場監督",
+      "source": "b195aeaf93b7ffdf"
+    },
+    "Character_Zombie_Vorarbeiter_aggro": {
+      "text": "激昂した現場監督",
+      "source": "e04dcefb49e3664f"
+    },
+    "Character_Zombie_Wueter": {
+      "text": "暴れ者",
+      "source": "5abdf3e8ab4db7ab"
+    },
+    "Character_Zombie_WueterBrennend": {
+      "text": "燃える暴れ者",
+      "source": "bea805c894b5d96e"
+    },
+    "Character_Zombie_Zivilist": {
+      "text": "噛まれた民間人",
+      "source": "e08ad994e9bcb5d9"
+    },
+    "Character_Zombie_Zivilist_aggro": {
+      "text": "激昂した民間人",
+      "source": "094deee318c7a39e"
+    },
+    "FactionAccusative_0": {
+      "text": "あなたたち",
+      "source": "35115d3bac19883a"
+    },
+    "FactionAccusative_1": {
+      "text": "アンデッド",
+      "source": "689c1a7b12c33768"
+    },
+    "FactionAccusative_2": {
+      "text": "ミュータント",
+      "source": "1dee3fe005e143ce"
+    },
+    "FactionAccusative_3": {
+      "text": "独立派",
+      "source": "a0dbf127649e0f16"
+    },
+    "FactionAccusative_4": {
+      "text": "アメリカ軍",
+      "source": "17775be64a0cccf9"
+    },
+    "FactionAccusative_5": {
+      "text": "密輸業者",
+      "source": "c634c973b413dc6b"
+    },
+    "FactionAccusative_6": {
+      "text": "パンクス",
+      "source": "f478ff2b204ec3f3"
+    },
+    "FactionAccusative_7": {
+      "text": "略奪者",
+      "source": "eb21ef8c87ed4b73"
+    },
+    "FactionAccusative_8": {
+      "text": "獣",
+      "source": "7af215a9cc5881a6"
+    },
+    "FactionAccusative_9": {
+      "text": "民間人",
+      "source": "d66afe1903e20272"
+    },
+    "FactionDescription_0": {
+      "text": "勢力の友好度ボーナスなしで始める",
+      "source": "0964f6fd729e56d2"
+    },
+    "FactionName_-1": {
+      "text": "全員",
+      "source": "da2e5dc515b188dc"
+    },
+    "FactionName_-2": {
+      "text": "なし",
+      "source": "2fa477d764942243"
+    },
+    "FactionName_0": {
+      "text": "ジャックのキャンプ",
+      "source": "86bbe4d9b9116786"
+    },
+    "FactionName_1": {
+      "text": "アンデッド",
+      "source": "a5bb6066391197b9"
+    },
+    "FactionName_2": {
+      "text": "ミュータント",
+      "source": "2f8c259c7a4196e2"
+    },
+    "FactionName_3": {
+      "text": "独立派",
+      "source": "75abe986086f8dba"
+    },
+    "FactionName_4": {
+      "text": "アメリカ軍",
+      "source": "c93d8fd63b291c67"
+    },
+    "FactionName_5": {
+      "text": "密輸業者",
+      "source": "e76b999b8efdffee"
+    },
+    "FactionName_6": {
+      "text": "パンクス",
+      "source": "a0a3aeebccba2991"
+    },
+    "FactionName_7": {
+      "text": "略奪者",
+      "source": "5b167467a85654ad"
+    },
+    "FactionName_8": {
+      "text": "野生動物",
+      "source": "5992efb65bfbfba5"
+    },
+    "FactionName_9": {
+      "text": "民間人",
+      "source": "49a0f9eb0224e7d6"
+    },
+    "FactionPossessive2_0": {
+      "text": "あなたたちの",
+      "source": "d13f674761f4859e"
+    },
+    "FactionPossessive2_1": {
+      "text": "アンデッドの",
+      "source": "99c10dc600168d6d"
+    },
+    "FactionPossessive2_2": {
+      "text": "ミュータントの",
+      "source": "cbfc1600a66cb5d3"
+    },
+    "FactionPossessive2_3": {
+      "text": "独立派の",
+      "source": "243c72d427f2dccb"
+    },
+    "FactionPossessive2_4": {
+      "text": "アメリカ軍の",
+      "source": "aa69fed5e5f426f4"
+    },
+    "FactionPossessive2_5": {
+      "text": "密輸業者の",
+      "source": "bfd0967b99effd17"
+    },
+    "FactionPossessive2_6": {
+      "text": "パンクスの",
+      "source": "e2425897aea7b1dc"
+    },
+    "FactionPossessive2_7": {
+      "text": "略奪者の",
+      "source": "99d71ee7cea353b0"
+    },
+    "FactionPossessive2_8": {
+      "text": "獣の",
+      "source": "51146e71cf6f3fbf"
+    },
+    "FactionPossessive2_9": {
+      "text": "民間人の",
+      "source": "bbfeb6ecff2d3b15"
+    },
+    "FactionPossessive_0": {
+      "text": "あなたたち",
+      "source": "484ed8d7ca758acd"
+    },
+    "FactionPossessive_1": {
+      "text": "アンデッド",
+      "source": "4dcf735be9574bb9"
+    },
+    "FactionPossessive_2": {
+      "text": "ミュータント",
+      "source": "17a63dd57246a092"
+    },
+    "FactionPossessive_3": {
+      "text": "独立派",
+      "source": "1a229eb04adc71af"
+    },
+    "FactionPossessive_4": {
+      "text": "アメリカ軍",
+      "source": "64187ae32da21cfc"
+    },
+    "FactionPossessive_5": {
+      "text": "密輸業者",
+      "source": "9342101bdae8f45b"
+    },
+    "FactionPossessive_6": {
+      "text": "パンクス",
+      "source": "f35e93599055cbac"
+    },
+    "FactionPossessive_7": {
+      "text": "略奪者",
+      "source": "40a81feaf60621bc"
+    },
+    "FactionPossessive_8": {
+      "text": "獣",
+      "source": "df656596c5622fa5"
+    },
+    "FactionPossessive_9": {
+      "text": "民間人",
+      "source": "3b3de93529bf2c09"
+    },
+    "FactionReference_0": {
+      "text": "あなたたち",
+      "source": "9fcb95761c3eb65c"
+    },
+    "FactionReference_1": {
+      "text": "アンデッド",
+      "source": "689c1a7b12c33768"
+    },
+    "FactionReference_2": {
+      "text": "ミュータント",
+      "source": "1dee3fe005e143ce"
+    },
+    "FactionReference_3": {
+      "text": "独立派",
+      "source": "a0dbf127649e0f16"
+    },
+    "FactionReference_4": {
+      "text": "アメリカ軍",
+      "source": "17775be64a0cccf9"
+    },
+    "FactionReference_5": {
+      "text": "密輸業者",
+      "source": "c634c973b413dc6b"
+    },
+    "FactionReference_6": {
+      "text": "パンクス",
+      "source": "f478ff2b204ec3f3"
+    },
+    "FactionReference_7": {
+      "text": "略奪者",
+      "source": "eb21ef8c87ed4b73"
+    },
+    "FactionReference_8": {
+      "text": "獣",
+      "source": "7af215a9cc5881a6"
+    },
+    "FactionReference_9": {
+      "text": "民間人",
+      "source": "d66afe1903e20272"
+    },
+    "Faction_0_DescriptionUnlock": {
+      "text": "簡素な服装で、ボーナスなしで始める。最上位のアップグレードを解放すると、勢力ボーナスを選べるようになる。",
+      "source": "c88ff8fbbdf7c247"
+    },
+    "Faction_3_DescriptionUnlock": {
+      "text": "独立派の軽装アーマーを身に着け、勢力の友好度{0}で始める。独立派の<nobr>ジョセフ知事</nobr>との交流が早く進む。",
+      "source": "60d9cd2dff9f1cd0"
+    },
+    "Faction_4_DescriptionUnlock": {
+      "text": "軍用軽装アーマーを身に着け、勢力の友好度{0}で始める。アメリカ軍の<nobr>チャールズ将軍</nobr>との交流が早く進む。",
+      "source": "163e06cdc917da35"
+    },
+    "Faction_5_DescriptionUnlock": {
+      "text": "密輸業者の軽装アーマーを身に着け、勢力の友好度{0}で始める。密輸業者の<nobr>キラ</nobr>との交流が早く進む。",
+      "source": "dd5b9d58b32f70e1"
+    },
+    "JobCat_Gardener": {
+      "text": "菜園係",
+      "source": "494ee23c96b623b7"
+    },
+    "JobCat_Gardener1": {
+      "text": "ランク1の菜園係は、水を4〜5、食料を2〜3生産する。食料・水・種を1ずつ消費する。",
+      "source": "e9e0ceca3a98c424"
+    },
+    "JobCat_Gardener2": {
+      "text": "ランク2の菜園係は、水を6〜7、食料を2〜3生産する。食料・水・種を1ずつ消費する。",
+      "source": "32c8360d518f6256"
+    },
+    "JobCat_Gardener3": {
+      "text": "ランク3の菜園係は、水を8〜9、食料を3〜4生産する。食料・水・種を2ずつ消費する。",
+      "source": "b6ff6e33abb58f14"
+    },
+    "JobCat_Guard": {
+      "text": "見張り",
+      "source": "c8d3fc567bbcbf38"
+    },
+    "JobCat_Guard1": {
+      "text": "ランク1の見張りは、アンデッドからキャンプを守り、略奪者やパンクスに盗みに入られる可能性を下げる。",
+      "source": "84474eecda642731"
+    },
+    "JobCat_Guard2": {
+      "text": "ランク2の見張りは、アンデッドからキャンプを守り、略奪者の盗みを防ぎ、パンクスに盗みに入られる可能性を下げる。",
+      "source": "5e8dde580d69a3ee"
+    },
+    "JobCat_Guard3": {
+      "text": "ランク3の見張りは、アンデッドからキャンプを守り、略奪者やパンクスの盗みを防ぐ。",
+      "source": "a5dc022a25acf659"
+    },
+    "JobCat_Heal": {
+      "text": "治療",
+      "source": "44bc3799892c50fa"
+    },
+    "JobCat_Hunter": {
+      "text": "狩人",
+      "source": "680ce38047bf1f29"
+    },
+    "JobCat_Hunter1": {
+      "text": "ランク1の狩人は、食料を4〜5持ち帰る。食料1と水1を消費する。",
+      "source": "abe08535cf9a76e5"
+    },
+    "JobCat_Hunter2": {
+      "text": "ランク2の狩人は、食料を5〜6持ち帰る。食料1と水1を消費する。",
+      "source": "0394679267d8f02b"
+    },
+    "JobCat_Hunter3": {
+      "text": "ランク3の狩人は、食料を6〜7持ち帰る。食料1と水2を消費する。",
+      "source": "a31c03604abe34f0"
+    },
+    "JobCat_Resting": {
+      "text": "休息",
+      "source": "b95006948ace61cd"
+    },
+    "JobCat_Resting1": {
+      "text": "寝床で休むと、キャラクターのHPが全回復する。",
+      "source": "af7ef36be03c0852"
+    },
+    "JobCat_RoomUpgrade": {
+      "text": "建設",
+      "source": "9dc7e90e56b2f263"
+    },
+    "JobCat_Scout": {
+      "text": "偵察役",
+      "source": "8a1db462be753774"
+    },
+    "JobCat_Scout1": {
+      "text": "ランク1の偵察役は、特定の資源を2種類見つけられる。さらに、新しい場所を1か所発見する。",
+      "source": "36ea2092bf88e5e9"
+    },
+    "JobCat_Scout2": {
+      "text": "ランク2の偵察役は、特定の資源を3種類見つけられる。さらに、新しい場所を1か所発見する。",
+      "source": "c757dd7304aff8f3"
+    },
+    "JobCat_Scout3": {
+      "text": "ランク3の偵察役は、特定の資源を3種類見つけられる。さらに、新しい場所を3か所発見する。",
+      "source": "55097365574a2442"
+    },
+    "LootCategoryChoice_Ammunition": {
+      "text": "弾薬（資源地点 [MapScoutable_4] か所）",
+      "source": "51898cf2967bcb0b"
+    },
+    "LootCategoryChoice_Clothes": {
+      "text": "防具（資源地点 [MapScoutable_9] か所）",
+      "source": "214501254ca69a17"
+    },
+    "LootCategoryChoice_Food": {
+      "text": "食料（資源地点 [MapScoutable_2] か所）",
+      "source": "024b66ebe5ccb62d"
+    },
+    "LootCategoryChoice_Materials": {
+      "text": "資材（資源地点 [MapScoutable_5] か所）",
+      "source": "dee96cd9e91bd241"
+    },
+    "LootCategoryChoice_Medical": {
+      "text": "医薬品（資源地点 [MapScoutable_1] か所）",
+      "source": "6988b5d593023392"
+    },
+    "LootCategoryChoice_Snacks": {
+      "text": "軽食（資源地点 [MapScoutable_7] か所）",
+      "source": "7857829a4a2bae39"
+    },
+    "LootCategoryChoice_Tools": {
+      "text": "スクラップ（資源地点 [MapScoutable_6] か所）",
+      "source": "3e94b7814432f595"
+    },
+    "LootCategoryChoice_Valuables": {
+      "text": "貴重品（資源地点 [MapScoutable_8] か所）",
+      "source": "3625fdf1dc403781"
+    },
+    "LootCategoryChoice_Water": {
+      "text": "水（資源地点 [MapScoutable_3] か所）",
+      "source": "fa6855a8222df5b6"
+    },
+    "LootCategoryChoice_Weapons": {
+      "text": "武器（資源地点 [MapScoutable_10] か所）",
+      "source": "f5131f6a11371caf"
+    },
+    "LootCategory_Ammunition": {
+      "text": "弾薬",
+      "source": "f5ba1f5823a37525"
+    },
+    "LootCategory_Clothes": {
+      "text": "防具",
+      "source": "a592855d0508d161"
+    },
+    "LootCategory_Food": {
+      "text": "食料",
+      "source": "e4eb18069d65aaa9"
+    },
+    "LootCategory_Materials": {
+      "text": "資材",
+      "source": "fd10a146e9625bfd"
+    },
+    "LootCategory_Medical": {
+      "text": "医薬品",
+      "source": "c4d3d42ed3a4f2ba"
+    },
+    "LootCategory_Snacks": {
+      "text": "軽食",
+      "source": "cae5addaab3eae7d"
+    },
+    "LootCategory_Tools": {
+      "text": "スクラップ",
+      "source": "c47d5f269809f5f6"
+    },
+    "LootCategory_Valuables": {
+      "text": "貴重品",
+      "source": "252abc95d19bca37"
+    },
+    "LootCategory_Water": {
+      "text": "水",
+      "source": "7ca7dea906800f87"
+    },
+    "LootCategory_Weapons": {
+      "text": "武器",
+      "source": "aafc7b0e9b9e48bd"
+    },
+    "MapArea_Desert": {
+      "text": "スネーク砂漠",
+      "source": "04790592b25eab9e"
+    },
+    "MapArea_ForestNorth_Smuggler": {
+      "text": "スクリーチウッドの森",
+      "source": "b6f5ca28116584a4"
+    },
+    "MapArea_ForestSouth_Military": {
+      "text": "南部の森",
+      "source": "faa0d843fc20204a"
+    },
+    "MapArea_Highway_Independent": {
+      "text": "ファームウィンド街道",
+      "source": "78218fbc8a043f94"
+    },
+    "MapArea_HillsNorth": {
+      "text": "北部山地",
+      "source": "4a336395af8b4bae"
+    },
+    "MapArea_HillsNorth_East": {
+      "text": "グラヴェンカナ山地",
+      "source": "f1f4b17a08d0319d"
+    },
+    "MapArea_HomeBase": {
+      "text": "ジャックのキャンプ",
+      "source": "86bbe4d9b9116786"
+    },
+    "MapArea_HomeForest": {
+      "text": "フォレストグレイブ",
+      "source": "0e3acc61d90c09d3"
+    },
+    "MapArea_Mine": {
+      "text": "鉱山",
+      "source": "f57afb7d275a26df"
+    },
+    "MapArea_Office": {
+      "text": "オフィス",
+      "source": "9e380d9991e6b742"
+    },
+    "MapArea_PlainsSouthWest_Smuggler": {
+      "text": "ウィスパーウィンド街道",
+      "source": "2ca6e47fc32dc5e9"
+    },
+    "MapArea_WestCity_East": {
+      "text": "フリーダムシティ東部",
+      "source": "ac658dbafb8178a8"
+    },
+    "MapArea_WestCity_West": {
+      "text": "フリーダムシティ西部",
+      "source": "b3930991c02629b0"
+    },
+    "MapArea_WestDesert": {
+      "text": "グランドウィンド峡谷",
+      "source": "8c19e51f9fd4a688"
+    },
+    "MapLocation_AbandonedCamp": {
+      "text": "放棄されたキャンプ",
+      "source": "a71a5e208a6c432c"
+    },
+    "MapLocation_Berge_Berghaus": {
+      "text": "山小屋",
+      "source": "3aff330b75422f7a"
+    },
+    "MapLocation_Berge_Bruecke": {
+      "text": "朽ちた木の橋",
+      "source": "31490db0e16c5ed7"
+    },
+    "MapLocation_Berge_Flugzeug": {
+      "text": "墜落した飛行機",
+      "source": "2e662a9907d89590"
+    },
+    "MapLocation_Berge_Fluss": {
+      "text": "川辺の休憩所",
+      "source": "88307bcc4c61c787"
+    },
+    "MapLocation_Berge_Quelle": {
+      "text": "山の泉",
+      "source": "3068f23be041e45c"
+    },
+    "MapLocation_Berge_Waldweg": {
+      "text": "森の小道",
+      "source": "db6cbf1786cfc817"
+    },
+    "MapLocation_Bridge": {
+      "text": "橋",
+      "source": "3892e10346fd2012"
+    },
+    "MapLocation_Bridge_Blocked": {
+      "text": "壊れた橋",
+      "source": "a4203b5648fa3233"
+    },
+    "MapLocation_Bunker": {
+      "text": "バンカー",
+      "source": "4cb562ff4f5ea16e"
+    },
+    "MapLocation_CampingSite": {
+      "text": "放棄された野営地",
+      "source": "87c46f94291f21ac"
+    },
+    "MapLocation_Cave": {
+      "text": "洞窟",
+      "source": "9530bfe0e8d8b573"
+    },
+    "MapLocation_Combat": {
+      "text": "戦闘",
+      "source": "1ef142c8213e887d"
+    },
+    "MapLocation_Dungeon_Cave": {
+      "text": "洞窟（ダンジョン）",
+      "source": "295ef5cbfae8ab83"
+    },
+    "MapLocation_Dungeon_Mines": {
+      "text": "鉱山（ダンジョン）",
+      "source": "f649ab33f9fce01b"
+    },
+    "MapLocation_Dungeon_Office": {
+      "text": "廃オフィス（ダンジョン）",
+      "source": "02914105edca31e5"
+    },
+    "MapLocation_Dungeon_Ubahn": {
+      "text": "地下鉄トンネル（ダンジョン）",
+      "source": "fcfe023999977554"
+    },
+    "MapLocation_Encounter": {
+      "text": "遭遇",
+      "source": "71fd53f4a18f3d01"
+    },
+    "MapLocation_HQ_Independent": {
+      "text": "本部",
+      "source": "a688d83ae8586526"
+    },
+    "MapLocation_HQ_Smuggler": {
+      "text": "本部",
+      "source": "a688d83ae8586526"
+    },
+    "MapLocation_HQ_USArmy": {
+      "text": "本部",
+      "source": "a688d83ae8586526"
+    },
+    "MapLocation_Harbour_Camp": {
+      "text": "ジャックのキャンプの船着き場",
+      "source": "6b1077e1f03cd574"
+    },
+    "MapLocation_Harbour_Desertbase": {
+      "text": "スネーク砂漠の船着き場",
+      "source": "07116e67e2d2bff4"
+    },
+    "MapLocation_Harbour_Forest": {
+      "text": "フォレストグレイブの船着き場",
+      "source": "16a57b836345f2a1"
+    },
+    "MapLocation_Harbour_Smugglerbase": {
+      "text": "密輸業者本部の船着き場",
+      "source": "22bdb1f8c1d928b2"
+    },
+    "MapLocation_Highway": {
+      "text": "田舎道",
+      "source": "40b34fa1b4d45170"
+    },
+    "MapLocation_HomeCamp": {
+      "text": "ジャックのキャンプ",
+      "source": "86bbe4d9b9116786"
+    },
+    "MapLocation_Hospital": {
+      "text": "病院",
+      "source": "97e9623661f2970a"
+    },
+    "MapLocation_HuntingArea": {
+      "text": "狩り場",
+      "source": "1c07398fb5409eb3"
+    },
+    "MapLocation_Landstrasse_Farm": {
+      "text": "農場",
+      "source": "3457b1617fe56912"
+    },
+    "MapLocation_Landstrasse_Friedhof": {
+      "text": "田舎の墓地",
+      "source": "312caa1d313208aa"
+    },
+    "MapLocation_Landstrasse_Gefaengnis": {
+      "text": "刑務所",
+      "source": "31928208ce519bf0"
+    },
+    "MapLocation_Landstrasse_Keller": {
+      "text": "地下室",
+      "source": "3cbc78eb591fda67"
+    },
+    "MapLocation_Landstrasse_Landarzt": {
+      "text": "田舎の診療所",
+      "source": "f91de2e4fb7d0082"
+    },
+    "MapLocation_Landstrasse_Rastplatz": {
+      "text": "休憩所",
+      "source": "2d67fb643d4cab3d"
+    },
+    "MapLocation_Landstrasse_Schrottplatz": {
+      "text": "廃品置き場",
+      "source": "2f4001b9b05a89e4"
+    },
+    "MapLocation_Landstrasse_Supermarkt": {
+      "text": "スーパーマーケット",
+      "source": "8b0016cfbdec3083"
+    },
+    "MapLocation_Landstrasse_Wasserturm": {
+      "text": "給水塔",
+      "source": "b38931174e192d48"
+    },
+    "MapLocation_LockedDoor": {
+      "text": "鍵のかかった扉",
+      "source": "96671a67980ecb74"
+    },
+    "MapLocation_Mansion": {
+      "text": "邸宅",
+      "source": "afad4c579e50189c"
+    },
+    "MapLocation_Mine": {
+      "text": "鉱山の坑道",
+      "source": "8a96fe8b50d15d9e"
+    },
+    "MapLocation_Mine_Lagerplatz": {
+      "text": "鉱山の野営地",
+      "source": "921ef9761df7aef4"
+    },
+    "MapLocation_Mine_Schienen": {
+      "text": "鉱山の線路",
+      "source": "7e5471c6cf068902"
+    },
+    "MapLocation_Mine_lager": {
+      "text": "鉱山の独立派",
+      "source": "69ffedb47d04f36f"
+    },
+    "MapLocation_MutationHorde": {
+      "text": "ミュータントの群れ",
+      "source": "31ca2db3554d31e4"
+    },
+    "MapLocation_OP2_Independent": {
+      "text": "スネーク砂漠",
+      "source": "04790592b25eab9e"
+    },
+    "MapLocation_OP2_Smuggler": {
+      "text": "南部の森",
+      "source": "faa0d843fc20204a"
+    },
+    "MapLocation_OP2_USArmy": {
+      "text": "南部の森",
+      "source": "faa0d843fc20204a"
+    },
+    "MapLocation_OP_Independent": {
+      "text": "フリーダムシティ東部",
+      "source": "ac658dbafb8178a8"
+    },
+    "MapLocation_OP_Smuggler": {
+      "text": "フォレストグレイブ",
+      "source": "0e3acc61d90c09d3"
+    },
+    "MapLocation_OP_USArmy": {
+      "text": "フリーダムシティ西部",
+      "source": "b3930991c02629b0"
+    },
+    "MapLocation_OfficeBase": {
+      "text": "デニースの拠点",
+      "source": "f1d28902e4cf82b5"
+    },
+    "MapLocation_OfficeDach": {
+      "text": "屋上",
+      "source": "c2f6a4d9ec7682e6"
+    },
+    "MapLocation_OfficeRoom": {
+      "text": "オフィスの一室",
+      "source": "5addc51d546cdc6f"
+    },
+    "MapLocation_Patrol": {
+      "text": "パトロール",
+      "source": "cc4cadd502f772e5"
+    },
+    "MapLocation_PunkCamp": {
+      "text": "パンクスの野営地",
+      "source": "082c06cb10cfe0cc"
+    },
+    "MapLocation_ScavengerCamp": {
+      "text": "略奪者の野営地",
+      "source": "bfbdd16f35db0647"
+    },
+    "MapLocation_SchmugglerArena": {
+      "text": "闘技場",
+      "source": "77d7cd99073bd654"
+    },
+    "MapLocation_Shed": {
+      "text": "小屋",
+      "source": "f095d4fe0dab22c7"
+    },
+    "MapLocation_Signal": {
+      "text": "無線信号",
+      "source": "60df2381b87ca873"
+    },
+    "MapLocation_Stadt_Baumarkt": {
+      "text": "ホームセンター",
+      "source": "e144be22903fe5db"
+    },
+    "MapLocation_Stadt_Diner": {
+      "text": "ダイナー",
+      "source": "8cc8917576192984"
+    },
+    "MapLocation_Stadt_Einkaufszentrum": {
+      "text": "ショッピングモール",
+      "source": "4749b0651c56d763"
+    },
+    "MapLocation_Stadt_Friedhof": {
+      "text": "市営墓地",
+      "source": "8686d5fa02869d14"
+    },
+    "MapLocation_Stadt_Gueterwagen": {
+      "text": "貨車",
+      "source": "40e02218c5b65170"
+    },
+    "MapLocation_Stadt_Krankenhaus": {
+      "text": "病院",
+      "source": "97e9623661f2970a"
+    },
+    "MapLocation_Stadt_Munitionsfabrik": {
+      "text": "弾薬工場",
+      "source": "f8aa63497b5c02e4"
+    },
+    "MapLocation_Stadt_Park": {
+      "text": "公園",
+      "source": "6565cb0e22d5ba9e"
+    },
+    "MapLocation_Stadt_Parkplatz": {
+      "text": "駐車場",
+      "source": "d840fedf2a52b3d9"
+    },
+    "MapLocation_Stadt_Polizeistation": {
+      "text": "警察署",
+      "source": "e0cc86d123eb4754"
+    },
+    "MapLocation_Stadt_Schule": {
+      "text": "学校",
+      "source": "6cd2e331855da821"
+    },
+    "MapLocation_Stadt_Tankstelle": {
+      "text": "ガソリンスタンド",
+      "source": "d7b416f6cacc28f8"
+    },
+    "MapLocation_Stadt_Waffenshop": {
+      "text": "銃砲店",
+      "source": "160b5e300e183a22"
+    },
+    "MapLocation_Stadt_Wasserturm": {
+      "text": "給水塔",
+      "source": "b38931174e192d48"
+    },
+    "MapLocation_Stadt_Wohnung": {
+      "text": "アパート",
+      "source": "3fc028ffbb163293"
+    },
+    "MapLocation_Subway_Camp": {
+      "text": "ジャックのキャンプ駅",
+      "source": "59b8b85b685aab5a"
+    },
+    "MapLocation_Subway_FreedomCityEast": {
+      "text": "フリーダムシティ東部駅",
+      "source": "272eb413d9a7bdf3"
+    },
+    "MapLocation_Subway_FreedomCityWest": {
+      "text": "フリーダムシティ西部駅",
+      "source": "f0d60c113862ea21"
+    },
+    "MapLocation_Subway_Independents_HQ": {
+      "text": "独立派駅",
+      "source": "56a20e4ab39b93e0"
+    },
+    "MapLocation_Subway_NWBridge": {
+      "text": "アメリカ軍本部駅",
+      "source": "462d8639fb204162"
+    },
+    "MapLocation_Subway_SWForest": {
+      "text": "南部の森駅",
+      "source": "41add8280f1a6724"
+    },
+    "MapLocation_Tunnel_Verschuettet": {
+      "text": "崩れたトンネル",
+      "source": "c2222a577a744336"
+    },
+    "MapLocation_Ubahn": {
+      "text": "地下鉄トンネル",
+      "source": "b3075343f41a3eee"
+    },
+    "MapLocation_Wald_Grab": {
+      "text": "墓",
+      "source": "72fddc2b9230f61b"
+    },
+    "MapLocation_Wald_Holzlager": {
+      "text": "材木置き場",
+      "source": "ac1edde7f6ffa14b"
+    },
+    "MapLocation_Wald_Jagdgebiet": {
+      "text": "狩り場",
+      "source": "1c07398fb5409eb3"
+    },
+    "MapLocation_Wald_KleineHoehle": {
+      "text": "小さな洞窟",
+      "source": "68ba568d1b5202a0"
+    },
+    "MapLocation_Wald_Rastplatz": {
+      "text": "休憩所",
+      "source": "2d67fb643d4cab3d"
+    },
+    "MapLocation_Wald_See": {
+      "text": "湖",
+      "source": "52082793941524be"
+    },
+    "MapLocation_Wald_Verlassenes Camp": {
+      "text": "放棄されたキャンプ",
+      "source": "a71a5e208a6c432c"
+    },
+    "MapLocation_Wald_Versteck": {
+      "text": "隠れ家",
+      "source": "5499a25f83e73c51"
+    },
+    "MapLocation_Wueste_Canjon": {
+      "text": "峡谷",
+      "source": "5ab895c8cc30de98"
+    },
+    "MapLocation_Wueste_Highway": {
+      "text": "ハイウェイ",
+      "source": "68d84fdcc2835c40"
+    },
+    "MapLocation_Wueste_Militaercamp": {
+      "text": "軍の野営地",
+      "source": "f747aa8587b49b20"
+    },
+    "MapLocation_Wueste_Rastplatz": {
+      "text": "休憩所",
+      "source": "2d67fb643d4cab3d"
+    },
+    "MapLocation_Wueste_StillgelegtIndustrie": {
+      "text": "工業用地",
+      "source": "ec9b4a08c82311e0"
+    },
+    "MapLocation_Wueste_Tankstelle": {
+      "text": "ガソリンスタンド",
+      "source": "d7b416f6cacc28f8"
+    },
+    "MapLocation_Wueste_VertrockneterSee": {
+      "text": "干上がった湖",
+      "source": "15e85d09d12ccf87"
+    },
+    "MapLocation_Wueste_Wasserturm": {
+      "text": "給水塔",
+      "source": "b38931174e192d48"
+    },
+    "MapLocation_Wueste_Wuestenlager": {
+      "text": "砂漠の野営地",
+      "source": "f8758128e5804a64"
+    },
+    "MapLocation_ZombieHorde": {
+      "text": "ゾンビの群れ",
+      "source": "acc54f9e4e880e5a"
+    },
+    "RankDescription_0": {
+      "text": "クズの烙印を押された。結果: 戦争になる。",
+      "source": "ae3a4b346d04e94b"
+    },
+    "RankDescription_1": {
+      "text": "敵を作ってしまった。結果: 見張りや巡回するパトロールに警戒すること",
+      "source": "4d01d14f682b2e07"
+    },
+    "RankDescription_2": {
+      "text": "良くも悪くも、誰も気にかけていない",
+      "source": "c9acd0f5a2cf9763"
+    },
+    "RankDescription_3": {
+      "text": "おおむね受け入れられている。結果: 酒場でより実入りのいい仕事を受けられる",
+      "source": "d353e8e0e4b08323"
+    },
+    "RankDescription_4": {
+      "text": "高く評価されている。結果: {0}から軽装アーマーを購入でき、{1}にいるとき、ときどきパトロールの支援を受けられる。",
+      "source": "7c9a04df6e815295"
+    },
+    "RankDescription_5": {
+      "text": "称賛されている。結果: {0}から重装アーマーを購入でき、{1}にいるときはパトロールの支援を受けられる。",
+      "source": "82ad594157ac9bf1"
+    },
+    "RankName_0": {
+      "text": "犯罪者",
+      "source": "d6d47b9af96fe9d5"
+    },
+    "RankName_1": {
+      "text": "お尋ね者",
+      "source": "c2968326561c6aad"
+    },
+    "RankName_2": {
+      "text": "中立",
+      "source": "1c6ac69f1e5db9c3"
+    },
+    "RankName_3": {
+      "text": "支持者",
+      "source": "b669eeb055e045ad"
+    },
+    "RankName_4": {
+      "text": "同盟者",
+      "source": "4685f71881ded1a8"
+    },
+    "RankName_5": {
+      "text": "英雄",
+      "source": "72a9345fb29494a4"
+    },
+    "Room_Arena": {
+      "text": "闘技場",
+      "source": "77d7cd99073bd654"
+    },
+    "Room_ArmorSmith": {
+      "text": "防具工房",
+      "source": "6e754feab6685c71"
+    },
+    "Room_Bar": {
+      "text": "酒場",
+      "source": "cb641b44b356222f"
+    },
+    "Room_BedRoom": {
+      "text": "寝床",
+      "source": "ec94894599f5d004"
+    },
+    "Room_Defense": {
+      "text": "防衛設備",
+      "source": "20686beeb2ebed48"
+    },
+    "Room_Farm": {
+      "text": "菜園",
+      "source": "e462ccce40514da7"
+    },
+    "Room_Floor": {
+      "text": "通路",
+      "source": "6f4a0dc571bffed1"
+    },
+    "Room_Graveyard": {
+      "text": "墓地",
+      "source": "9d2c71072ee3c848"
+    },
+    "Room_Hunter": {
+      "text": "狩猟小屋",
+      "source": "9d67a8460c7f398f"
+    },
+    "Room_Leader": {
+      "text": "リーダー",
+      "source": "3f53871b0838bdf3"
+    },
+    "Room_Medical": {
+      "text": "医務室",
+      "source": "7e859cf2827f7b7e"
+    },
+    "Room_Merchant": {
+      "text": "商人",
+      "source": "1da9a04272250842"
+    },
+    "Room_Prison": {
+      "text": "牢屋",
+      "source": "564ce883a22afdae"
+    },
+    "Room_RadioStation": {
+      "text": "通信所",
+      "source": "bef488ca9ca410ff"
+    },
+    "Room_Smith": {
+      "text": "鍛冶場",
+      "source": "9f542590100424c9"
+    },
+    "Room_WeaponSmith": {
+      "text": "武器工房",
+      "source": "8899ecd1626db63d"
+    }
+  }
+}

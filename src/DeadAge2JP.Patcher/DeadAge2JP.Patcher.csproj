@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    日本語化パッチャー本体（WPF）。
+    配布時は build/build-release.ps1 で .NET ランタイム同梱の単一 exe として発行する。
+  -->
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>DeadAge2JPPatcher</AssemblyName>
+    <RootNamespace>DeadAge2JP.Patcher</RootNamespace>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <AssemblyTitle>Dead Age 2 日本語化パッチ</AssemblyTitle>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DeadAge2JP.Core\DeadAge2JP.Core.csproj" />
+  </ItemGroup>
+
+  <!--
+    配布データ（翻訳・日本語フォント・型情報DB）とライセンス文を、exe の隣の data\ / licenses\ へ配置する。
+    単一 exe には埋め込まず別ファイルにする（翻訳だけの更新や、ライセンス文の確認をしやすくするため）。
+  -->
+  <ItemGroup>
+    <Content Include="..\..\translations\**\*" LinkBase="data\translations" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
+    <Content Include="..\..\assets\fonts\*.ttf" LinkBase="data\fonts" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
+    <Content Include="..\..\assets\typetree\classdata.tpk" LinkBase="data\typetree" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
+    <Content Include="..\..\assets\fonts\OFL.txt" Link="licenses\BIZ-UDPGothic-OFL.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
+    <Content Include="..\..\assets\typetree\LICENSE.txt" Link="licenses\AssetRipper-Tpk-LICENSE.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
+    <Content Include="..\..\assets\licenses\*.txt" LinkBase="licenses" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
+  </ItemGroup>
+
+</Project>
